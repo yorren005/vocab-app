@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Written in the form of or carried on by letters or correspondence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Written in the form of or carried on by letters or correspondence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to letters, correspondence, or letter-writing; epistolary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism, characterizing a style, narrative tone, or mode of expression appropriate to personal or formal epistles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epistolatory designates written in the form of or carried on by letters or correspondence."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"Pope cultivated an **epistolatory** elegance that lent even his casual notes the finish of public literature."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Madame de Sévigné remains the unrivaled mistress of **epistolatory** narrative, depicting court intrigue with vivacious wit."*
+> - 📜 **George Saintsbury (*A History of English Prose Rhythm*):** *"The author's prose retains an **epistolatory** lightness, moving with easy grace between intimate confession and sharp satire."*

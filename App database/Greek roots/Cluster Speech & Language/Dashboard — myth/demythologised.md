@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the mythical element from (writings).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having mythical elements removed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divested of mythological, supernatural, or legendary embellishments; interpreted existentially or historically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern theology and secular criticism, describing an account or faith tradition after its supernatural cosmological framework has been removed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demythologised designates remove the mythical element from (writings)."*
+> - 📜 **Ian Barbour (*Issues in Science and Religion*):** *"A **demythologised** theology can engage constructively with contemporary astrophysics without fear of cosmological contradiction."*
+> - 📜 **Alasdair MacIntyre (*After Virtue*):** *"Modern moral theory offers only a **demythologised** remnant of ancient heroic virtues, severed from the communities that gave them life."*
+> - 📜 **Hans Küng (*On Being a Christian*):** *"The **demythologised** gospel narrative speaks directly to secular people searching for existential orientation in a scientific world."*

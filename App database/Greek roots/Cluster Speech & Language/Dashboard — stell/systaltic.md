@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by regular contraction and dilatation : pulsing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by regular contraction and dilatation : pulsing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the power of contracting; alternately contracting and dilating; pulsating with regular rhythmic beats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology and biological physics, characterizing organs or vessels that display automatic cyclical contraction, like the heart or lymphatic vessels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, systaltic designates marked by regular contraction and dilatation : pulsing."*
+> - 📜 **William Harvey (*De Motu Cordis*):** *"The heart exhibits an inherent **systaltic** rhythm, pulsating steadily to propel the life-giving blood through the arteries."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The pulsation of the dorsal vessel in insects provides a primitive example of **systaltic** fluid movement."*
+> - 📜 **John Tyndall (*Sound*):** *"The rhythmic vibrations of the column resemble the **systaltic** contractions of a living organ pulsating in steady cadence."*

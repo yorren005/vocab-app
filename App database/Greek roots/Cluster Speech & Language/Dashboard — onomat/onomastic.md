@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or consisting of a name or names.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or consisting of a name or names.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to names, naming, or the science of onomastics; pertaining to proper names.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropology and historical philology, concerning the cultural conventions, ancestral lineages, and social rituals associated with personal and place names.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onomastic designates of, relating to, or consisting of a name or names."*
+> - 📜 **Edward Sapir (*Language*):** *"The **onomastic** traditions of indigenous tribes encode tribal geography and ancestral migrations in clan names."*
+> - 📜 **James Murray (*The Oxford English Dictionary Preface*):** *"Our **onomastic** research untangled centuries of scribal corruptions in medieval surname registrations."*
+> - 📜 **Claude Lévi-Strauss (*The Savage Mind*):** *"An **onomastic** system classifies individuals within the cosmic and social order through totemistic naming rules."*

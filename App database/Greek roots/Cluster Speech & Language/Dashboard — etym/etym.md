@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek etym.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Speech & Language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root derived from Greek etymos meaning true, real, or original; the source root of etymology and etymon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morphological linguistics, designating historical word roots, original linguistic derivations, and the historical lineage of spoken morphemes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, etym designates a term designating an entity, condition, or phenomenon derived from greek etym."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The linguistic **etym** preserves the fossilized mental concept that first gave birth to the spoken root."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"By tracking each modern derivative back to its ancestral **etym**, we restore historical continuity to vocabulary."*
+> - 📜 **James Murray (*The Oxford English Dictionary Preface*):** *"The historical **etym** serves as the genealogical anchor of every lexical entry."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of loriinae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of loriinae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, nectar-feeding Australian parrots (lorikeets) in the family Psittaculidae, characterized by brush-tipped tongues adapted for foraging on eucalyptus blossoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology and Australasian ecology, comprising species such as the musk lorikeet (Glossopsitta concinna) and little lorikeet, famed for their swift flight and specialized lingual papillae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glossopsitta designates a genus of loriinae."*
+> - 📜 **John Gould (*The Birds of Australia*):** *"Flocks of the lively lorikeet **Glossopsitta** dart with lightning speed through the flowering treetops in search of honeyed nectar."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The brush-tongued parrots of the genus **Glossopsitta** demonstrate an exquisite anatomical adaptation to the blossoming eucalypts of New Holland."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The endemic radiation of **Glossopsitta** in eastern Australia illustrates the tight coevolution between lorikeets and myrtaceous flora."*

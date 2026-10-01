@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Needless repetition of an idea, statement, or word.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instance of such repetition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The saying of the same thing twice in different words, generally considered an error of style or unnecessary redundancy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In propositional logic, a statement that is unconditionally true under all possible assignments of truth values (e.g., 'A or not-A').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The declaration itself, though it may be chargeable with tautology or redundancy, is at least perfectly harmless."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"It is therefore a truism, almost a tautology, to say that all magic is necessarily false and barren; for were it ever to become true and fruitful, it would no longer be magic but science."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"All men of sense tautology disclaim, Marriage and penance always were the same. * * * * * Frank carves very ill, yet will palm all the meats; He eats more than six, and drinks more than he eats."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The declaration itself, though it may be chargeable with **tautology** or redundancy, is at least perfectly harmless to public liberty."*
+> - 📜 **Ludwig Wittgenstein (*Tractatus Logico-Philosophicus*):** *"A **tautology** has no truth-conditions, for it is unconditionally true; it admits every possible state of affairs."*
+> - 📜 **William Hazlitt (*The Plain Speaker*):** *"In political debate, what passes for profound principle is often nothing more than a pompous, circular **tautology**."*

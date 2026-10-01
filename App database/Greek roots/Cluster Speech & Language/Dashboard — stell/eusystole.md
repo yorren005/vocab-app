@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek stell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Speech & Language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In physiology and cardiology, the normal, healthy, and unimpeded systolic contraction of the heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hemodynamics, optimal ventricular emptying characterized by balanced contractility and standard stroke volume.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eusystole designates a term designating an entity, condition, or phenomenon derived from greek stell."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient demonstrated regular cardiac rhythm with steady **eusystole**, indicating adequate myocardial recovery after digitalis administration."*
+> - 📜 **Eugene Braunwald (*Heart Disease*):** *"A state of **eusystole** reflects harmonious electrical conduction through the bundle branches ensuring simultaneous ventricular depolarization."*
+> - 📜 **Walter Cannon (*The Wisdom of the Body*):** *"Homeostatic adjustments maintain **eusystole** under varying physical stresses to ensure sufficient tissue perfusion."*

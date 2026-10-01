@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being anonymous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being anonymous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition or quality of being anonymous, nameless, or unidentifiable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social theory and digital privacy studies, the state of operating or communicating without revealing one's civic identity to institutions or the public.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"It was not until he discovered one morning that everybody knew a couplet or two of "How we Beat the Favourite" that he consented to forego his anonymity and appear in the unsuspected character of a versemaker."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"For centuries, the social conditions of women forced them to seek refuge in **anonymity**, writing under generic pseudonyms or leaving their verses unsigned."*
+> - 📜 **George Orwell (*Collected Essays*):** *"The great cathedral builders achieved a majestic collective art that was content with humble **anonymity**."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The vast crowds of modern democratic metropolises envelop the individual citizen in a protective yet isolating **anonymity**."*

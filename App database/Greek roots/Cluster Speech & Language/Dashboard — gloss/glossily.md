@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a glossy manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a glossy manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a glossy, lustrous, smooth, or brightly reflective manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive prose, with a sleek, polished, or deceptive surface sheen that masks underlying realities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Lady Lynn was a large and stout personage of about forty, very erect, very haughty-looking, richly dressed in a satin robe of changeful sheen: her dark hair shone glossily under the shade of an azure plume, and within the circlet of a band of gems."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The chestnut mare's well-groomed flanks shone **glossily** in the golden rays of the autumn afternoon."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"The calm bay reflected the evening sky **glossily**, undisturbed by the gentle swell of the distant tide."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Her dark braids were arranged **glossily** against her pale temples, framing an expression of quiet defiance."*

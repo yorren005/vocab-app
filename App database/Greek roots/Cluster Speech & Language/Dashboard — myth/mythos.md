@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: myth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: mythology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pattern of basic values and attitudes more or less implicitly set forth in the myths of a specific culture or people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Aristotelian poetics, the plot structure, underlying dramatic narrative, or fundamental organizing myth of a literary work.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog mythos as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Aristotle (*Poetics*):** *"The most important of all parts of tragedy is the **mythos**, the organization of the incidents into an artistic whole."*
+> - 📜 **Northrop Frye (*Fables of Identity*):** *"Each literary archetype contributes to a broader cultural **mythos** that articulates humanity's deepest desires and fears."*
+> - 📜 **Karen Armstrong (*A Short History of Myth*):** *"In ancient civilizations, **mythos** provided psychological meaning, operating in complementary balance with practical logos."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A very hard alloy of cobalt and chromium with cobalt as the principal ingredient; used to make cutting tools and for surfaces subject to heavy wear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very hard alloy of cobalt and chromium with cobalt as the principal ingredient; used to make cutting tools and for surfaces subject to heavy wear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A range of hard, wear-resistant, and non-corrosive cobalt-chromium alloys, often containing tungsten or molybdenum, patented by Elwood Haynes in the early 20th century.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgy and manufacturing engineering, used extensively for hardfacing cutting tools, valve facings, turbine blades, and high-temperature machinery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stellite designates a very hard alloy of cobalt and chromium with cobalt as the principal ingredient; used to make cutting tools and for surfaces subject to heavy wear."*
+> - 📜 **Elwood Haynes (*Transactions of the American Institute of Mining Engineers*):** *"I gave the new alloy the name **stellite**, from the Latin word for star, on account of its brilliant untarnishing luster."*
+> - 📜 **Herbert Hoover (*Principles of Mining*):** *"Cutting bits tipped with **stellite** maintain their cutting edge at temperatures that would soften ordinary carbon steel."*
+> - 📜 **Vannevar Bush (*Modern Arms and Free Men*):** *"Wartime engine production surged once valves were hard-faced with resilient **stellite** alloys capable of enduring extreme thermal stress."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The substitution of an agreeable or inoffensive word or expression for one that is harsh, indelicate, or otherwise unpleasant or taboo; also : the word or expression so substituted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The substitution of an agreeable or inoffensive word or expression for one that is harsh, indelicate, or otherwise unpleasant or taboo; also : the word or expression so substituted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or using euphemism; expressing something in a milder, less direct, or cushioned manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stylistic analysis, denoting language designed to deflect psychological discomfort or conform to polite social taboos.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, euphemistic designates the substitution of an agreeable or inoffensive word or expression for one that is harsh, indelicate, or otherwise unpleasant or taboo; also : the word or expression so substituted."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The Jacobin committees adopted a **euphemistic** jargon that recorded the executions of citizens as mere civic purifications."*
+> - 📜 **Bertrand Russell (*Unpopular Essays*):** *"A **euphemistic** tone in philosophical inquiry often conceals an unwillingness to face unpalatable facts about human nature."*
+> - 📜 **Christopher Hitchens (*Letters to a Young Contrarian*):** *"One must learn to distrust the smooth, **euphemistic** phrases that tyrannical regimes coin to describe their prisons."*

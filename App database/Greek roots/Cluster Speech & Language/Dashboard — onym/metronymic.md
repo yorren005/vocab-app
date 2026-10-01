@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of name.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of name.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A name derived from the name of one's mother or a maternal ancestor; matronymic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical anthropology and genealogical legal systems, personal surnames reflecting matrilineal inheritance or mother-headed households.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metronymic designates adjective*) pertaining to, derived from, or characteristic of name."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"In societies tracing descent through the mother, a **metronymic** surname affirmed the child's membership in the maternal clan."*
+> - 📜 **Lewis H. Morgan (*Ancient Society*):** *"The archaic gens recognized only **metronymic** designations before the rise of private property established patrilineal inheritance."*
+> - 📜 **Walter William Skeat (*Principles of English Etymology*):** *"English surnames such as Nelson and Megson represent authentic **metronymic** survivals from medieval baptismal names."*

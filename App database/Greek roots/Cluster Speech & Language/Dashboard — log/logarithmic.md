@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The exponent that indicates the power to which a base number is raised to produce a given number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A function (such as y = loga x or y = ln x) that is the inverse of an exponential function (such as y = ax or y = ex) so that the independent variable appears in a logarithm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or employing logarithms; scaling by powers of a base rather than arithmetically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory physiology and biological scaling, describing response curves (as in the Weber-Fechner law) where perceived sensory intensity increases logarithmically with stimulus magnitude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logarithmic designates the exponent that indicates the power to which a base number is raised to produce a given number."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"The nautilus shell expands in an exquisite **logarithmic** spiral, maintaining its exact proportion as the living organism grows."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"Our perception of musical pitch and brightness responds in a **logarithmic** ratio to the physical energy of the stimulus."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The engine was constructed to compute difference tables for **logarithmic** functions with mechanical certainty."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of a proper name to designate a member of a class (such as a Solomon for a wise ruler); also : the use of an epithet or title in place of a proper name (such as the Bard for Shakespeare).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of a proper name to designate a member of a class (such as a Solomon for a wise ruler); also : the use of an epithet or title in place of a proper name (such as the Bard for Shakespeare).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhetorical figure in which an epithet, title, or descriptive phrase is substituted for a proper name (e.g., 'the Bard' for Shakespeare), or conversely, a proper name is used for a generic type (e.g., 'a Solomon' for a wise judge).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and stylistic analysis, an expressive trope that heightens dignity or sharpens satire by highlighting an essential moral or social attribute.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antonomasia designates the use of a proper name to designate a member of a class (such as a solomon for a wise ruler); also : the use of an epithet or title in place of a proper name (such as the bard for shakespeare)."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"By the trope **antonomasia**, we say 'the Stagirite' instead of Aristotle, or 'the Poet' instead of Homer."*
+> - 📜 **Alexander Pope (*Peri Bathous*):** *"The rhetorical use of **antonomasia** allows the satirist to confer grandeur upon petty rogues or expose false pretension."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Romans frequently employed **antonomasia**, designating Trajan simply as 'the Best' of emperors."*

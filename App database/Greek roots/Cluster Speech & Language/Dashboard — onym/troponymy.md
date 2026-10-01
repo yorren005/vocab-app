@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek onym.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Speech & Language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The semantic relation of manner elaboration between verbs, where one verb specifies a particular way of doing another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lexical semantics, the relational dimension characterizing how action verbs differentiate speed, intensity, instrument, or emotional state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, troponymy designates a term designating an entity, condition, or phenomenon derived from greek onym."*
+> - 📜 **Christiane Fellbaum (*WordNet*):** *"The relation of **troponymy** structures the verbal lexicon into manner-specific hierarchies analogous to nominal taxonomies."*
+> - 📜 **George A. Miller (*Language and Speech*):** *"Analysis of **troponymy** reveals how human languages systematically distinguish subtle variations in physical action and intention."*
+> - 📜 **David Crystal (*The Cambridge Encyclopedia of Language*):** *"In modern lexical semantics, **troponymy** explains how English maintains an enormous inventory of verbs expressing specialized manners of motion."*

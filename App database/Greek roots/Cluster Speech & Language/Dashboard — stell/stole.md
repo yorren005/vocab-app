@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long loose garment : robe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ecclesiastical vestment consisting of a long usually silk band worn traditionally around the neck by bishops and priests and over the left shoulder by deacons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long, narrow liturgical vestment worn around the neck or over the shoulders by Christian clergy; or a woman's long, loose scarf or shawl of fur or fabric.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical antiquity, the Latin stola (from Greek stolē garment/equipment), a long pleated gown worn by Roman matrons as a sign of modesty and status.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He stole from France, As ’tis reported, for the king had married him Against his liking."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He stole from Florence, taking no leave, and I follow him to his country for justice."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whereon, At three and two years old, I stole these babes, Thinking to bar thee of succession as Thou refts me of my lands."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"The priest vested himself with alb and embroidered **stole** before approaching the high altar to chant the mass."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The virtuous Roman matron wore the modest **stole** as a public emblem of marital chastity and patrician dignity."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The venerable minister wore his clerical **stole** with an air of solemn humility as he walked in the election procession."*

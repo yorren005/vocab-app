@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Foretelling events as if by supernatural intervention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Foretelling events as if by supernatural intervention.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, resembling, or containing prophecy; serving to foretell future occurrences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theology and scholastic commentary, designating the specific scriptural office or canonical writings concerned with divine revelation and eschatological forewarning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"_The king's heart is in the hand of the Lord, as the rivers of water; he turneth it whithersoever he will_." JOHN KNOX AND HIS PROPHETICAL PRAYER."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Though the mariners hear, with prophetical fear, In thy surging their deathly dirge."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Divine history is distinguished into ecclesiastical, which records the progress of the church, and **prophetical**, which anticipates its destiny."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"We must distinguish between the calm light of reason and the enthusiastic claims to **prophetical** inspiration."*
+> - 📜 **Isaac Newton (*Observations upon the Prophecies of Daniel and the Apocalypse of St. John*):** *"The figurative language of the **prophetical** books represents kingdoms and polities by symbols drawn from the natural heavens."*

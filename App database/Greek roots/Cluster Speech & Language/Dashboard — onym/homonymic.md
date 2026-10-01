@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to or being homonyms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to or being homonyms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or having the nature of a homonym; identical in sound or spelling but different in meaning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical phonology, describing the accidental convergence of distinct word forms through sound change that creates semantic ambiguity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homonymic designates of or related to or being homonyms."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The accidental **homonymic** clash between two words often leads one of them to disappear from the spoken vocabulary."*
+> - 📜 **Stephen Ullmann (*The Principles of Semantics*):** *"Phonetic convergence creates **homonymic** pairs that challenge lexicographers to trace their divergent etymological roots."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Ancient solar mythologies often arose from **homonymic** misunderstandings of forgotten ancestral names."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Talk to oneself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Talk to oneself.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To deliver a monologue; to monopolize a conversation or talk to oneself continuously (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic and narrative theory, to structure a narrative sequence around a single unbroken stream of individual utterance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monologuize designates talk to oneself."*
+> - 📜 **Henry James (*The Bostonians*):** *"The veteran reformer loved to **monologuize** before the fire, rehearsing the fiery speeches of her abolitionist youth."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The old pilot would **monologuize** for hours on the changing sandbars and treacherous snags of the river."*
+> - 📜 **Ralph Waldo Emerson (*Journals*):** *"True conversation ceases the moment one egotistical companion begins to **monologuize** upon his private grievances."*

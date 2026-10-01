@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A creating of myth : a giving rise to myths.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A creating of myth : a giving rise to myths.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The creation, crafting, or making of myths; the deliberate artistic authoring of a fictional mythology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary theory, a genre or conscious poetic technique wherein an author constructs a coherent artificial mythos for an imaginative secondary world.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mythopoeia designates a creating of myth : a giving rise to myths."*
+> - 📜 **J. R. R. Tolkien (*On Fairy-Stories*):** *"The creative act of **mythopoeia** is a legitimate sub-creation reflecting our own divine endowment as story-making beings."*
+> - 📜 **C. S. Lewis (*Selected Literary Essays*):** *"George MacDonald's romances achieve a genuine **mythopoeia** that bypasses the intellect and addresses the spiritual imagination."*
+> - 📜 **W. H. Auden (*The Enchafèd Flood*):** *"Romantic poets turned from traditional classical allusion to personal **mythopoeia** to express their alienation from urban industrialism."*

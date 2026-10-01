@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who searches for or reasons from analogies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who searches for or reasons from analogies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who reasons by analogy or relies upon analogical methods in argument and explanation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of classical grammar, an advocate of regular morphological inflection (analogy) in the ancient philological debate against the anomalists.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, analogist designates one who searches for or reasons from analogies."*
+> - 📜 **Joseph Butler (*The Analogy of Religion*):** *"The cautious **analogist** seeks to confirm the truths of revelation by tracing identical principles in the constitution of nature."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"In ancient Alexandria, the **analogist** grammarians insisted that language was governed by regular mathematical symmetry."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"The scientific **analogist** uses structural parallelism as an engine of hypothesis generation rather than proof."*

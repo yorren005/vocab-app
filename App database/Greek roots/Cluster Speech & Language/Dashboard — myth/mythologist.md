@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert on mythology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert on mythology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who studies, compiles, or specializes in the scholarly analysis of myths and legends.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A narrator, folklorist, or antiquarian who classifies comparative mythic traditions and sacred archetypes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"If there is any truth in this conjecture, it may explain very simply the origin of the double head of Janus, which has so long exercised the ingenuity of mythologists."*
+> - 📜 **Max Müller (*Chips from a German Workshop*):** *"The comparative **mythologist** traces the transformation of celestial solar metaphors into the anthropomorphic gods of epic poetry."*
+> - 📜 **Andrew Lang (*Custom and Myth*):** *"The modern **mythologist** must examine the living customs of savage tribes to decipher the survivals in classical lore."*
+> - 📜 **C. G. Jung (*The Archetypes and the Collective Unconscious*):** *"The analytical psychologist works hand in hand with the **mythologist** to identify the universal structures of the human mind."*

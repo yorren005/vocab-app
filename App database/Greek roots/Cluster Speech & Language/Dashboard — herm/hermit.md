@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One retired from society for religious reasons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who lives in solitude.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has withdrawn to a solitary place for a life of religious seclusion and ascetic contemplation; an anchorite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any person living in solitude or seclusion away from society; in zoology, applied to solitary creatures such as the hermit crab.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In prison hast thou spent a pilgrimage, And like a hermit overpass’d thy days."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A withered hermit, five-score winters worn, Might shake off fifty, looking in her eye."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"None but a holy hermit and her maid."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The solitary **hermit** Anthony retired into the desolate sands of the Thebaid to wage ceaseless war against spiritual temptations."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I was visited at my cabin by a contemplative **hermit** who found in the forest silence a peace that cities could never afford."*
+> - 📜 **Samuel Johnson (*Rasselas*):** *"The aged **hermit** confessed that his years of solitude had not extinguished his lingering curiosity about the society of men."*

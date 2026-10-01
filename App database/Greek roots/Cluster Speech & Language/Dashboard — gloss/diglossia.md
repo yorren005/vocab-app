@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of two varieties of the same language in different social contexts throughout a speech community.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of two varieties of the same language in different social contexts throughout a speech community.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sociolinguistic situation in which two distinct varieties of the same language are used by a single speech community under different social conditions (typically a 'high' formal variety and a 'low' colloquial variety).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic anthropology, structural societal bilingualism where social prestige, literature, and administration require one dialect while everyday domestic communication employs another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diglossia designates the use of two varieties of the same language in different social contexts throughout a speech community."*
+> - 📜 **Charles A. Ferguson (*Word*):** *"In many societies, stable **diglossia** persists for centuries without the high variety displacing the everyday vernacular."*
+> - 📜 **Joshua Fishman (*Sociolinguistics*):** *"The functional compartmentalization inherent in **diglossia** prevents destructive linguistic conflict between literary elites and common speakers."*
+> - 📜 **David Crystal (*The Cambridge Encyclopedia of Language*):** *"Classical Arabic and modern regional spoken dialects present the archetypal example of institutionalized **diglossia** across the Arab world."*

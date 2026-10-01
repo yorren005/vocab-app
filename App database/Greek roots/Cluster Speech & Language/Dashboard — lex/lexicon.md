@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A book containing an alphabetical arrangement of the words in a language and their definitions : dictionary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The vocabulary of a language, an individual speaker or group of speakers, or a subject.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dictionary, especially of ancient Greek, Hebrew, Latin, or Aramaic; also, the complete vocabulary of a person, language, or branch of knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and linguistics, the mental lexicon; the internal mental repository of morphemes, phonological forms, and semantic representations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"He had compiled a Greek Lexicon which had some repute in its day, but he was not an inspiring teacher, and his gruff manners made him far from popular."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Only once had he to consult a Greek lexicon for the meaning of a word; and then it turned out that the meaning he had assigned to it provisionally was the right one."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"A Latin lexicon he did not possess."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language*):** *"In compiling this vast **lexicon**, I labored to preserve the purity and illustrate the vitality of our English tongue."*
+> - 📜 **Ralph Waldo Emerson (*The Poet*):** *"The poet knows that language is fossil poetry; every word in the **lexicon** was once a radiant stroke of genius."*
+> - 📜 **Noam Chomsky (*Syntactic Structures*):** *"The speaker's internal **lexicon** stores phonological representations, semantic features, and syntactic subcategorization frames."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hermeneu.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Speech & Language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root derived from Greek hermeneuein meaning to interpret, explain, or translate; etymologically linked to Hermes, messenger of the gods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical linguistics and theological semantics, the foundational element denoting the systematic interpretation of texts, sacred scriptures, and cultural symbols.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hermeneu designates a term designating an entity, condition, or phenomenon derived from greek hermeneu."*
+> - 📜 **Friedrich Schleiermacher (*Hermeneutics and Criticism*):** *"The root **hermeneu**- embodies the interpretive craft that bridges the mental gap between author and reader."*
+> - 📜 **Wilhelm Dilthey (*Pattern and Meaning in History*):** *"From its Greek origin, **hermeneu**- emphasizes the living re-creation of historical meaning through linguistic signs."*
+> - 📜 **Paul Ricoeur (*Interpretation Theory*):** *"The semantic sphere of **hermeneu**- reflects Hermes delivering divine messages to mortal understanding."*

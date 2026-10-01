@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek stell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Speech & Language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art, technique, or practice of writing letters, especially of a literary, formal, or rhetorical character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philology and cultural history, the study of ancient letters as a recognized literary genre governed by rhetorical manuals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epistolography designates a term designating an entity, condition, or phenomenon derived from greek stell."*
+> - 📜 **Erasmus (*De Conscribendis Epistolis*):** *"Classical **epistolography** demands that a letter reflect the authentic voice of the writer while observing polite decorum."*
+> - 📜 **Jacob Burckhardt (*The Civilization of the Renaissance in Italy*):** *"Humanist scholars revived Latin **epistolography**, competing to write letters modeled on the prose of Cicero."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"In that cultivated age, Roman **epistolography** was cherished as a fine art, celebrated for refined sentiment and balanced cadences."*

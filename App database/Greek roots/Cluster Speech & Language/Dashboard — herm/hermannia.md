@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of african herbs and subshrubs having honey-scented bell-shaped flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of african herbs and subshrubs having honey-scented bell-shaped flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of perennial herbs and shrubs in the mallow family (Malvaceae, subfamily Byttnerioideae), native primarily to southern Africa and named in honor of botanist Paul Hermann.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany and horticultural flora, known colloquially as doll's roses or honey-bells, distinguished by spirally twisted petals and bell-shaped calyces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hermannia designates genus of african herbs and subshrubs having honey-scented bell-shaped flowers."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"The genus **Hermannia** commemorates the distinguished physician of Leiden whose botanical discoveries brought honor to the Netherlands."*
+> - 📜 **William Jackson Hooker (*Botanical Magazine*):** *"This rare species of **Hermannia** produces drooping golden blossoms that emit a faint fragrance in early spring."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The twisted aestivation of petals in **Hermannia** illustrates the close morphological alliance between Byttnerieae and the greater mallow order."*

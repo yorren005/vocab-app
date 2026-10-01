@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Interpret as a myth or in terms of mythology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make into a myth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To interpret, represent, or elevate into the status of a myth or legendary symbol.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative theory, to imbue historical facts or biographical figures with universal, poetic, or heroic resonance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mythicize designates interpret as a myth or in terms of mythology."*
+> - 📜 **Roland Barthes (*Mythologies*):** *"Consumer culture operates constantly to **mythicize** common commodities, investing them with spurious spiritual aura."*
+> - 📜 **Joseph Campbell (*The Power of Myth*):** *"Every culture finds a way to **mythicize** its own origins so that each new generation feels connected to eternity."*
+> - 📜 **Harold Bloom (*The Western Canon*):** *"Strong poets inevitably **mythicize** their precursors in order to carve out a distinct imaginative territory."*

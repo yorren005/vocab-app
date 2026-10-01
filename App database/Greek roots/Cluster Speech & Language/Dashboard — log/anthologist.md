@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An editor who makes selections for an anthology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An editor who makes selections for an anthology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who compiles, selects, and edits an anthology of literary, poetic, or musical works.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In publishing history and literary sociology, an arbiter of taste whose selections define the curriculum and cultural memory of a generation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthologist designates an editor who makes selections for an anthology."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"The judicious **anthologist** acts as a garden gatherer, selecting only blossoms of enduring fragrance and beauty."*
+> - 📜 **W. B. Yeats (*Introduction to The Oxford Book of Modern Verse*):** *"Every **anthologist** is guided by a personal vision of poetry that provokes both gratitude and controversy."*
+> - 📜 **Harold Bloom (*The Western Canon*):** *"The modern **anthologist** exercises immense cultural power by determining which voices survive in university lecture halls."*

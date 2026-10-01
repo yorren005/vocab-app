@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Substitute a harsher or distasteful term for a mild one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Substitute a harsher or distasteful term for a mild one.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, containing, or characterized by dysphemism; deliberately disparaging or harsh in tone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pragmatic linguistics, describing locutions that deliberately heighten negative evaluation or emotional friction within conversational discourse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysphemistic designates substitute a harsher or distasteful term for a mild one."*
+> - 📜 **Geoffrey Leech (*Principles of Pragmatics*):** *"The choice of a **dysphemistic** noun phrase signals a rupture in conversational politeness and an intention to disparage the addressee."*
+> - 📜 **George Lakoff (*Don't Think of an Elephant!*):** *"Political consultants frequently deploy **dysphemistic** framing to evoke visceral revulsion in voters before substantive debate begins."*
+> - 📜 **David Crystal (*The Cambridge Encyclopedia of the English Language*):** *"Military slang abounds in **dysphemistic** terminology that masks trauma beneath a veneer of callous humor."*

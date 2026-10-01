@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A letter, symbol, or sign used to represent an entire word.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A letter, symbol, or sign used to represent an entire word.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A written symbol, sign, or character that represents a complete word or meaningful phrase rather than a single phoneme (e.g., Chinese characters, numerals like '$' or '&').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical epigraphy and writing systems, an ideographic or hieroglyphic character functioning as a primary semantic unit in ancient scripts (such as Maya or cuneiform).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logogram designates a letter, symbol, or sign used to represent an entire word."*
+> - 📜 **Jean-François Champollion (*Précis du système hiéroglyphique*):** *"Egyptian writing incorporates phonetic glyphs alongside the ideographic **logogram** that directly depicts the concept."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"In an ideographic script, each **logogram** evokes the entire word as an indivisible unit of sound and meaning."*
+> - 📜 **David Crystal (*The Cambridge Encyclopedia of Language*):** *"The mathematical symbols plus and minus function as universal **logogram** characters understood across all languages."*

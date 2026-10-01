@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A student of synonyms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A student of synonyms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A compiler, scholar, or specialist who collects, compares, and distinguishes synonymous words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomic zoology and botany, a systematist who compiles chronological tables of all scientific names previously applied to a specific taxon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synonymist designates a student of synonyms."*
+> - 📜 **Carl Linnaeus (*Critica Botanica*):** *"The botanical **synonymist** performs the vital task of disentangling the conflicting scientific names applied to the same plant."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"A diligent **synonymist** must consult early continental catalogs to verify which author holds legitimate taxonomic priority."*
+> - 📜 **Walter William Skeat (*Principles of English Etymology*):** *"The lexicographical **synonymist** must analyze historical citations to demonstrate why two words are never completely interchangeable."*

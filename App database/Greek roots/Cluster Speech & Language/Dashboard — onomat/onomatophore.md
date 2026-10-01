@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek onomat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Speech & Language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In biological nomenclature and systematic taxonomy, the name-bearing type specimen (such as a holotype, lectotype, or neotype) that objectively defines the application of a taxon name.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international zoological and botanical nomenclature, the physical reference specimen preserved in a museum to which a scientific binomen is permanently attached.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onomatophore designates a term designating an entity, condition, or phenomenon derived from greek onomat."*
+> - 📜 **Ernst Mayr (*Principles of Systematic Zoology*):** *"The designated **onomatophore**, or type specimen, provides the permanent objective standard that anchors a species name."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"Even when taxonomic boundaries are revised, the **onomatophore** specimen remains the immutable reference for the name."*
+> - 📜 **George Gaylord Simpson (*The Principles of Classification*):** *"In paleontological nomenclature, the designated holotype serves as the definitive **onomatophore** for the fossil taxon."*

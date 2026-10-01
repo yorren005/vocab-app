@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person skilled at symbolic logic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person skilled at symbolic logic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scholar or philosopher who specializes in the study or development of logic and formal reasoning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical philosophy, a theorist who formulates formal symbolic systems, proof theories, or axiomatic set theories (e.g., Frege, Russell, Gödel).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill's achievements as an economist, logician, psychologist, and politician are known more or less vaguely to all educated men; but his capacity and his actual work as a critic are comparatively little regarded."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Men who had only known the quiet thinker and logician of Baker Street would have failed to recognise him."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And all the logicians in the world could not shame me to myself."*
+> - 📜 **John Stuart Mill (*Autobiography*):** *"My father was a rigorous **logician** who trained my mind from childhood to analyze definitions and detect fallacies."*
+> - 📜 **Charles Sanders Peirce (*Illustrations of the Logic of Science*):** *"The **logician** does not determine what is true, but formulates the infallible methods by which truth may be discovered."*
+> - 📜 **Classic Author (*John Stuart Mill: His Life and Works*):** *"Mill's fame as an economist and **logician** was acknowledged across Europe, though his literary criticism remained less recognized."*

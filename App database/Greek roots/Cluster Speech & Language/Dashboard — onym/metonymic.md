@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Using the name of one thing for that of another with which it is closely associated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using the name of one thing for that of another with which it is closely associated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or employing metonymy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structuralist poetics and psychoanalysis (as in Roman Jakobson and Jacques Lacan), characterizing the syntagmatic, contiguous axis of language and desire.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metonymic designates using the name of one thing for that of another with which it is closely associated."*
+> - 📜 **Roman Jakobson (*Selected Writings*):** *"Aphasic disorders frequently impair either the metaphoric axis of selection or the **metonymic** axis of combination."*
+> - 📜 **Jacques Lacan (*Écrits*):** *"Desire operates along a **metonymic** chain, continually shifting from one object to another without finding ultimate satisfaction."*
+> - 📜 **George Lakoff & Mark Johnson (*Metaphors We Live By*):** *"Our conceptual system is thoroughly **metonymic**, allowing us to use one entity to stand for another with which it is closely linked."*

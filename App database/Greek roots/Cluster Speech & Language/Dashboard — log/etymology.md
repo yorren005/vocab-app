@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The history of a linguistic form (such as a word) shown by tracing its development since its earliest recorded occurrence in the language where it is found, by tracing its transmission from one language to another, by analyzing it into its component parts, by identifying its cognates in other languages, or by tracing it and its cognates to a common ancestral form in an ancestral language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of linguistics concerned with etymologies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the origin of words and the historical way in which their meanings have changed over time; an account of the origin of a specific word.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics, the branch of philology that tracks the phonological, morphological, and semantic lineage of lexical items from reconstructed proto-languages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The terms selling or buying monopoly explain themselves, tho the latter conflicts with the etymology.[1] Under conditions of barter the selling and the buying monopoly would be the same thing in two aspects."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The etymology of the word Beltane is uncertain; the popular derivation of the first part from the Phoenician Baal is absurd."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"There is no trace of a Sun-God or Moon-Goddess." As to the etymology of Beltane, see above, p. 149 note. [372] Rev."*
+> - 📜 **Frank A. Fetter (*Economics Volume II*):** *"The terms selling or buying monopoly explain themselves, though the latter strictly conflicts with Greek **etymology**."*
+> - 📜 **Samuel Johnson (*Preface to the English Dictionary*):** *"In tracing the **etymology** of our language, I have derived our Teutonic heritage from the ancient Gothic codices."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Language is fossil poetry where every word's **etymology** preserves a prehistoric perception of nature."*

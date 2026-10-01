@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of true.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of true.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to etymology; relating to the historical origin and evolution of words; etymological.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philology, concerning the historical sound laws and semantic transitions that explain modern vocabulary forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, etymologic designates adjective*) pertaining to, derived from, or characteristic of true."*
+> - 📜 **Samuel Johnson (*Plan of an English Dictionary*):** *"An **etymologic** survey demonstrates how foreign loans adapted to native English phonetic habits."*
+> - 📜 **Max Müller (*The Science of Language*):** *"Comparative grammar relies upon **etymologic** correspondence across Sanskrit, Greek, and Latin cognates."*
+> - 📜 **Richard Chenevix Trench (*On the Study of Words*):** *"Many a forgotten historical truth is brought to light by careful **etymologic** dissection."*

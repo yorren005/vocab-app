@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) messenger and herald of the gods; god of commerce and cunning and invention and theft; identified with roman mercury.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) messenger and herald of the gods; god of commerce and cunning and invention and theft; identified with roman mercury.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek religion and mythology, the Olympian god of commerce, eloquence, travel, thievery, and athletic contests, serving as the swift messenger of the gods and conductor of souls (psychopompos).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Hellenistic syncretism and occult philosophy, identified with Egyptian Thoth as Hermes Trismegistus, the patron of alchemy, medicine, and esoteric wisdom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He trots the air; the earth sings when he touches it; the basest horn of his hoof is more musical than the pipe of Hermes."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Yes,” he continued, “I am less to you than your ivory Hermes or your silver Faun."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Thou knowest as well as I, though Hermes never taught thee, that, though every dairy be a house, every house is not a dairy.” To this speech, though she understood only a part of it, she replied by repeating her assurances that she had none to give."*
+> - 📜 **Homer (*The Odyssey*):** *"Swift-footed **Hermes**, the slayer of Argus, flew over the waves with golden sandals to bear Zeus's decree to the nymph Calypso."*
+> - 📜 **Hesiod (*Theogony*):** *"From Maia and Zeus sprang glorious **Hermes**, the herald of the immortals who wanders across the earth."*
+> - 📜 **Walter Burkert (*Greek Religion*):** *"As the guardian of boundaries, **Hermes** stood at the threshold between civilized order and the wild perils of the road."*

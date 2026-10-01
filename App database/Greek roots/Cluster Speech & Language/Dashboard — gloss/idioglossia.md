@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gloss.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Speech & Language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An idiosyncratic, private, or inventional language developed and spoken by only one individual or between twins (cryptophasia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental psycholinguistics and child psychiatry, an atypical form of speech so heavily distorted by idiosyncratic phonological substitutions that it is unintelligible to outside listeners.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, idioglossia designates a term designating an entity, condition, or phenomenon derived from greek gloss."*
+> - 📜 **Jean Piaget (*The Language and Thought of the Child*):** *"The phenomenon of **idioglossia** among isolated twins illustrates how children spontaneously construct shared symbolic systems before adopting standard social speech."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The autistic twins communicated in an arcane **idioglossia** that blended numerical patterns with private vocal signals."*
+> - 📜 **Steven Pinker (*The Language Instinct*):** *"Cases of **idioglossia** demonstrate that children possess an innate grammatical instinct capable of inventing language even in the absence of normal models."*

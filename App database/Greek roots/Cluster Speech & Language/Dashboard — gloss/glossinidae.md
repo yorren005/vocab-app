@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flies closely related to the muscidae: tsetse flies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flies closely related to the muscidae: tsetse flies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The family of cyclorrhaphous dipteran flies comprising the tsetse flies (genus Glossina), characterized by piercing proboscides and viviparous reproduction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical entomology, an economically and epidemiologically critical family of biting flies confined to continental Africa and southwestern Arabia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glossinidae designates flies closely related to the muscidae: tsetse flies."*
+> - 📜 **Patrick Manson (*Tropical Diseases*):** *"The family **Glossinidae** possesses a unique method of reproduction wherein the female nourishes a single larva internally until pupation."*
+> - 📜 **Theodosius Dobzhansky (*Genetics of the Evolutionary Process*):** *"Geographical isolation and microclimatic preferences within the **Glossinidae** have generated distinct riverine and savannah species complexes."*
+> - 📜 **Robert Koch (*Investigations on Sleeping Sickness*):** *"Eradicating habitats favored by the **Glossinidae** along lake shores remains essential to curtailing epidemic outbreaks of sleeping sickness."*

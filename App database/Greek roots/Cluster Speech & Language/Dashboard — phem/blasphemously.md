@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a blasphemous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a blasphemous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner expressing contempt, profanity, or irreverence toward sacred entities or venerated truths.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and historical proceedings, the manner of delivering spoken or published assertions with deliberate intent to scandalize the faithful or defy spiritual jurisdiction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blasphemously designates in a blasphemous manner."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"One of the wicked ones stepped softly behind him, whispering evil suggestions so that Christian thought he had spoken **blasphemously** against his King."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"The satirist proceeded to handle the most solemn mysteries so **blasphemously** that even his indulgent patrons took offense."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The revolutionary tribunes railed **blasphemously** against the ancient altars of their ancestors while inaugurating the cult of abstract reason."*

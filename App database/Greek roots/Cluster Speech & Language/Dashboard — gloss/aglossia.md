@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gloss.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Speech & Language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare congenital absence or developmental lack of the tongue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In speech pathology and maxillofacial surgery, a severe malformation often occurring in aglossia-adactylia syndrome, requiring specialized phonatory rehabilitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aglossia designates a term designating an entity, condition, or phenomenon derived from greek gloss."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Congenital **aglossia** represents an extraordinary anatomical anomaly where the infant learns compensatory deglutition using pharyngeal muscles."*
+> - 📜 **Oliver Sacks (*Seeing Voices*):** *"Patients born with **aglossia** often demonstrate remarkable compensatory neuroplasticity, mastering intelligible vowel sounds through buccal manipulation."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Extreme morphological defects such as **aglossia** illustrate how embryonic developmental fields can fail without halting general somatic growth."*

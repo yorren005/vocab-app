@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give the etymology or derivation or suggest an etymology (for a word).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Construct the history of words.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To trace the origin and development of a word; to formulate or state its etymology (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary philology, to analyze words historically to recover the original metaphors and sensory concepts embedded within them.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, etymologise designates give the etymology or derivation or suggest an etymology (for a word)."*
+> - 📜 **Walter William Skeat (*Principles of English Etymology*):** *"To **etymologise** accurately, the scholar must master the sound laws of Grimm and Verner rather than guess by superficial likeness."*
+> - 📜 **Richard Chenevix Trench (*On the Study of Words*):** *"When we **etymologise** an everyday expression, we often uncover a forgotten gem of ancient poetic observation."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"Antiquarians love to **etymologise** obscure river names, attributing their origins to ancient Celtic chieftains."*

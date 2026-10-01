@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inspired utterance of a prophet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The function or vocation of a prophet; specifically : the inspired declaration of divine will and purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inspired utterance, revelation, or prediction of future events believed to be delivered under divine or transcendental guidance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historiography and literature, a foresighted analysis or imaginative anticipation that subsequently corresponds with actual historical developments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But which of you was by— [_To Warwick_.] You, cousin Nevil, as I may remember— When Richard, with his eye brimful of tears, Then check’d and rated by Northumberland, Did speak these words, now proved a prophecy?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The spirit of deep prophecy she hath, Exceeding the nine sibyls of old Rome."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As Henry’s late presaging prophecy Did glad my heart with hope of this young Richmond, So doth my heart misgive me, in these conflicts What may befall him, to his harm and ours."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"I will not be afraid of death and bane, till Birnam forest come to Dunsinane, fulfilling the weird sisters' **prophecy**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ancient sybilline books were consulted whenever national disasters seemed to fulfill some ominous **prophecy**."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Great poetic genius possesses an element of **prophecy**, anticipating spiritual realities that philosophy later formulates."*

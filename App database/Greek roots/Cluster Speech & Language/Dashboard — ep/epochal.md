@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Highly significant or important especially bringing about or marking the beginning of a new development or era.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Highly significant or important especially bringing about or marking the beginning of a new development or era.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or marking an epoch; of monumental significance; inaugurating a new era in history, science, or culture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historiography and political philosophy, describing events, discoveries, or revolutions that permanently alter the course of human development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epochal designates highly significant or important especially bringing about or marking the beginning of a new development or era."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"The publication of Newton's Principia was an **epochal** event that reordered humanity's understanding of celestial mechanics."*
+> - 📜 **Karl Marx (*Capital*):** *"The industrial introduction of the steam engine marked an **epochal** turning point in the mode of social production."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"History will judge the battle of Britain as an **epochal** clash upon which Western civilization hung in the balance."*

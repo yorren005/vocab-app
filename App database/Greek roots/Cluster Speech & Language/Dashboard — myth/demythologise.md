@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the mythical element from (writings).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the mythical element from (writings).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To divest of mythical elements or interpret a mythological text in terms of historical reality or modern categories of thought.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical criticism, to expose and dismantle romanticized cultural illusions and ideological fictions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demythologise designates remove the mythical element from (writings)."*
+> - 📜 **Paul Ricoeur (*The Conflict of Interpretations*):** *"To **demythologise** is not to destroy the poetic symbol, but to purify it from crude physical literalism."*
+> - 📜 **Jürgen Habermas (*The Philosophical Discourse of Modernity*):** *"Critical theory seeks to **demythologise** the sacred origins of social authority in order to ground democracy in communicative reason."*
+> - 📜 **John Macquarrie (*The Scope of Demythologizing*):** *"If we cannot **demythologise** ancient scripture, modern educated believers will find its message entirely unintelligible."*

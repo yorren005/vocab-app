@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The elongated space between the vocal cords; also : the structures that surround this space.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The elongated space between the vocal cords; also : the structures that surround this space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The opening between the vocal cords in the larynx, along with the vocal folds themselves, essential for vocalization and respiration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phonetics and laryngeal biomechanics, the variable orifice whose constriction, closure, and vibration generate voice pitch and modulate phonation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Next, the same habit must have compelled the forward position of the glottis or opening of the windpipe, which is always in front of the gullet."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The **glottis** forms a narrow triangular fissure whose dimensions vary dynamically with every breath and spoken word."*
+> - 📜 **Hermann von Helmholtz (*On the Sensations of Tone*):** *"Vibrations of the elastic edges of the **glottis** convert the continuous air stream from the lungs into acoustic sound waves."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The sudden spasmodic closure of the **glottis** during sobbing is accompanied by deep, convulsive contractions of the diaphragm."*

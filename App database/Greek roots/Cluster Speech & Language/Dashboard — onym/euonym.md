@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek onym.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Speech & Language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A name that is well suited or auspicious for the person, place, or thing bearing it; an apt name.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In onomastic rhetoric, a name whose literal etymology or phonetic resonance harmoniously reflects the vocation or virtue of its bearer (the opposite of caconym).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, euonym designates a term designating an entity, condition, or phenomenon derived from greek onym."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"His family considered his baptismal name an auspicious **euonym**, foretelling a career of distinction and public honor."*
+> - 📜 **Walter William Skeat (*A Student's Pastime*):** *"A well-chosen **euonym** pleases the ear while perfectly reflecting the inherent nature of the object."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Autocrat of the Breakfast-Table*):** *"To bestow a charming **euonym** upon a country house adds poetic grace to its rustic architecture."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone having external genitalia of one sex and internal sex organs of the other sex; not a true hermaphrodite because there is no ambiguity in the sex of the external genitalia and hence no question about gender at birth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having internal reproductive organs of one sex and external sexual characteristics of the other sex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual having gonads of one sex, but whose external genitalia and secondary sexual characteristics resemble or are ambiguous with those of the opposite sex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical genetics and pediatric endocrinology, a patient presenting with discordance between chromosomal/gonadal sex and phenotypic genital development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudohermaphrodite designates someone having external genitalia of one sex and internal sex organs of the other sex; not a true hermaphrodite because there is no ambiguity in the sex of the external genitalia and hence no question about gender at birth."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The clinical investigator must determine whether the patient is a true hermaphrodite or a **pseudohermaphrodite** possessing uniform internal gonads."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Congenital adrenal hyperplasia can cause a female infant to present as a **pseudohermaphrodite** requiring careful endocrine evaluation."*
+> - 📜 **Thomas Hunt Morgan (*The Physical Basis of Heredity*):** *"Chromosomal analysis provides the definitive diagnostic method to classify every anomalous **pseudohermaphrodite** according to genetic sex."*

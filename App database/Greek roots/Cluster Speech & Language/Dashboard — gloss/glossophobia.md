@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fear of public speaking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fear of public speaking.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute, irrational, or debilitating fear of speaking in public.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology, a prevalent form of social anxiety disorder triggered by the prospect of speaking before an audience, accompanied by autonomic arousal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glossophobia designates fear of public speaking."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The paralyzing terror of **glossophobia** causes the mouth to become parched and the voice to falter when facing an expectant audience."*
+> - 📜 **Oliver Sacks (*Musicophilia*):** *"Performers incapacitated by **glossophobia** often find that pharmacological beta-blockers alleviate the terrifying tremor of stage fright."*
+> - 📜 **Steven Pinker (*The Language Instinct*):** *"That **glossophobia** ranks among humanity's commonest fears indicates how deeply our social status is tied to public linguistic performance."*

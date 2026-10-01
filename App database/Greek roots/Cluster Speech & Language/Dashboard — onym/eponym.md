@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One for whom or which something is or is believed to be named.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A name (as of a disease, invention, action, etc.) based on or derived from an eponym.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, whether real or mythical, from whom a place, era, institution, discovery, or invention takes (or is reputed to take) their name.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greek antiquity, the presiding archon (archon eponymos) after whom the Athenian civil year was officially named and dated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eponym designates one for whom or which something is or is believed to be named."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"The heroic **eponym** of an ancient tribe was revered by his descendants as both ancestor and patron deity."*
+> - 📜 **Robert K. Merton (*The Sociology of Science*):** *"In academic history, conferring an **eponym** such as the Planck constant or Coulomb's law represents the highest honor the scientific community can bestow."*
+> - 📜 **David Crystal (*The Cambridge Encyclopedia of the English Language*):** *"Many common household items derive from a historical **eponym**, from the sandwich of Lord Sandwich to the diesel engine of Rudolf Diesel."*

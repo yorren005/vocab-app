@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to monoclinous plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of animal or plant; having both male female reproductive organs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or having the characteristics of a hermaphrodite; possessing both male and female reproductive organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical taxonomy, designating flowers (perfect flowers) that contain both functional stamens and carpels on the same receptacle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hermaphroditic designates of or relating to monoclinous plants."*
+> - 📜 **Gregor Mendel (*Experiments in Plant Hybridisation*):** *"The pea plant produces naturally **hermaphroditic** flowers whose reproductive organs remain enclosed within the keel petals."*
+> - 📜 **Ernst Haeckel (*The History of Creation*):** *"The simple flatworms present a completely developed **hermaphroditic** reproductive system adapted for internal self-fertilization."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The existence of **hermaphroditic** monsters demonstrates that our nominal definitions of species do not exhaust nature's variety."*

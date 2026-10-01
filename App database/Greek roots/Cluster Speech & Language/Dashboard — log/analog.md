@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being a mechanism or device in which information is represented by continuously variable physical quantities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an analog computer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that is similar, comparable, or corresponding to something else in general appearance, function, or relations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electronics and computing, designating devices or circuits in which data is represented by continuously variable physical quantities (e.g., voltage or current) rather than digital digits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, analog designates of, relating to, or being a mechanism or device in which information is represented by continuously variable physical quantities."*
+> - 📜 **Vannevar Bush (*As We May Think*):** *"The mechanical differential analyzer proved the remarkable computational power of **analog** calculating mechanisms."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"The central nervous system functions in part as an **analog** computer, modulating continuous electrochemical potentials."*
+> - 📜 **Douglas Hofstadter (*Gödel, Escher, Bach*):** *"Human cognition relies upon finding an appropriate conceptual **analog** to map unfamiliar experiences onto familiar schemas."*

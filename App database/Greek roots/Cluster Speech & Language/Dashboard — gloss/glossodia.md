@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of australian orchids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of australian orchids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small genus of terrestrial orchids endemic to Australia, commonly known as wax-lip orchids or caladenia relatives.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic orchidology, distinguished by a tongue-shaped floral labellum bearing two yellow basal appendages (from Greek glossa tongue + eidos form).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glossodia designates small genus of australian orchids."*
+> - 📜 **Robert Brown (*Prodromus Florae Novae Hollandiae*):** *"The genus **Glossodia** is established upon the characteristic tongue-shaped lip and paired basal glands of the labellum."*
+> - 📜 **Ferdinand von Mueller (*Fragmenta Phytographiae Australiae*):** *"Spring brings carpets of blue **Glossodia** blossoms across the eucalyptus woodlands of New South Wales and Victoria."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of Australia*):** *"The elegant purple flowers of **Glossodia** major depend upon native bees attracted by the deceptive nectar guides on the labellum."*

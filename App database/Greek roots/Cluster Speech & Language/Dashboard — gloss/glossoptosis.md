@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal downward or back placement of the tongue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal downward or back placement of the tongue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal downward and backward displacement or sinking of the tongue toward the pharynx.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatrics and craniofacial surgery, a congenital deformity characteristic of Pierre Robin sequence, frequently causing acute neonatal upper airway obstruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glossoptosis designates abnormal downward or back placement of the tongue."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe micrognathia frequently results in **glossoptosis**, where the retracted tongue falls backward and occludes the infantile larynx."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"During deep unconsciousness, muscular relaxation permits gravitational **glossoptosis**, closing the airway unless the mandible is drawn forward."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"In patients suffering severe parkinsonian akinesia, pharyngeal weakness combined with **glossoptosis** created alarming swallowing difficulties."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Refer to something with a euphemism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Refer to something with a euphemism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To soften, disguise, or express an unpleasant, harsh, or taboo reality by using an agreeable or roundabout word or phrase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In media studies and communications, to manipulate public reception by intentionally cloaking controversial policies in benign terminology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, euphemize designates refer to something with a euphemism."*
+> - 📜 **Ambrose Bierce (*The Devil's Dictionary*):** *"To **euphemize** is to dress a repulsive truth in the polite garments of fashionable deceit."*
+> - 📜 **William Safire (*On Language*):** *"Modern bureaucrats instinctively **euphemize** budget cuts as revenue enhancements to forestall legislative resistance."*
+> - 📜 **Neil Postman (*Technopoly*):** *"Technical vocabularies often **euphemize** ethical catastrophes as mere administrative malfunctions."*

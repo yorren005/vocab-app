@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to the weather.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to the weather.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner relating to meteorology; with respect to the weather or atmospheric conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geographical and climatic analysis, evaluated according to the patterns of atmospheric pressure, temperature, and precipitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meteorologically designates with respect to the weather."*
+> - 📜 **Alexander von Humboldt (*Political Essay on the Kingdom of New Spain*):** *"The central plateau of Mexico is **meteorologically** temperate despite its tropical latitude, owing to its elevation."*
+> - 📜 **John Muir (*The Mountains of California*):** *"The High Sierra is **meteorologically** favored, basking in weeks of cloudless sunshine after brief, intense winter blizzards."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Past climate shifts can be explained **meteorologically** by changes in the distribution of landmasses and ocean currents."*

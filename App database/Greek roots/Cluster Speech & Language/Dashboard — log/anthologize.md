@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compile an anthology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compile an anthology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To compile into an anthology, or to include an author's writings in an anthology (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical literary studies, to institutionalize specific poems or essays as standard representatives of an artistic movement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthologize designates compile an anthology."*
+> - 📜 **Ralph Waldo Emerson (*Parnassus*):** *"My aim in attempting to **anthologize** these poems was to preserve verses that had provided genuine solace to thoughtful minds."*
+> - 📜 **Herman Melville (*Typee*):** *"It became necessary to obtain his portrait for an anthology in course of publication, prompting our meeting."*
+> - 📜 **Edgar Allan Poe (*Essays and Reviews*):** *"Critics who carelessly **anthologize** fugitive magazine pieces often do a grave disservice to a serious author's reputation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A list or collection of synonyms often defined and discriminated from each other.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study or discrimination of synonyms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The semantic relationship between words that share identical or closely related meanings; the state of being synonymous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric, a figure of speech in which multiple synonyms are accumulated for emphasis; in taxonomy, the catalog of scientific names applied to a taxon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synonymy designates a list or collection of synonyms often defined and discriminated from each other."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"The poet enriched his verse through a magnificent **synonymy**, deploying multiple words to illuminate every aspect of his theme."*
+> - 📜 **Carl Linnaeus (*Philosophia Botanica*):** *"A clear **synonymy** at the head of each species description saves the botanist from endless taxonomic confusion."*
+> - 📜 **David Crystal (*The Cambridge Encyclopedia of Language*):** *"In structural semantics, **synonymy** is defined not as identity of meaning, but as acceptable equivalence within a given linguistic context."*

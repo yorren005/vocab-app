@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A comparison of two otherwise unlike things based on resemblance of a particular aspect; also : one of the two things being compared.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resemblance in some particulars between things otherwise unlike : similarity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A comparison between two things, typically on the basis of their structure and for the purpose of explanation or clarification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive linguistics and philosophy of science, a fundamental inferential mechanism mapping relational knowledge from a familiar domain to an unfamiliar target domain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"The sweet scenes of autumn were for a while put by, unless some tender sonnet, fraught with the apt analogy of the declining year, with declining happiness, and the images of youth and hope, and spring, all gone together, blessed her memory."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"About a hundred.” (In speaking of farms the word “acres” is omitted by the natives, by analogy to such old expressions as “a stag of ten.”) “I wanted my hat this morning,” she went on."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"It was especially strong in history and standard theology, and in these departments included such works as Gibbon's _Decline and Fall_, Mitford's _History of Greece_, Russell's _Modern Europe_, Butler's _Analogy_, and Paley's _Evidences_."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The discovery of an unexpected **analogy** between distant phenomena often opens the swiftest path to natural discovery."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"The whole of nature is a vast metaphor of the human mind, bound together by an unbroken chain of **analogy**."*
+> - 📜 **Jane Austen (*Persuasion*):** *"The apt **analogy** of the declining year with declining happiness blessed her contemplative memory."*

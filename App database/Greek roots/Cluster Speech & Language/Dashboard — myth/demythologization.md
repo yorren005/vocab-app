@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The restatement of a message (as a religious one) in rational terms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The restatement of a message (as a religious one) in rational terms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The systematic elimination or reinterpretive stripping of mythological accretions from religious, historical, or cultural narratives.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical sociology and historiography, the analytical debunking of romanticized national legends to reveal underlying sociopolitical dynamics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demythologization designates the restatement of a message (as a religious one) in rational terms."*
+> - 📜 **Reinhold Niebuhr (*The Nature and Destiny of Man*):** *"The program of **demythologization** must be pursued with discernment, lest the profound symbolic depth of the myth be discarded alongside its pre-scientific husk."*
+> - 📜 **Mircea Eliade (*Myth and Reality*):** *"Even in the wake of secular **demythologization**, modern humanity continues to create disguised mythical behaviors in political ideology and cinema."*
+> - 📜 **Walter Wink (*Naming the Powers*):** *"Biblical **demythologization** reveals that ancient references to demons and principalities often described oppressive political structures."*

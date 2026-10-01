@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word used in metonymy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word used in metonymy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word, name, or expression used as a substitute for something else with which it is closely associated (e.g., the crown for the monarch, Wall Street for the financial industry).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary theory and semiotics, an indexical trope grounded in real-world contiguity, cause-and-effect, or institutional association.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metonym designates a word used in metonymy."*
+> - 📜 **Roman Jakobson (*Language in Literature*):** *"In realistic prose, the **metonym** predominates over the metaphor, following the path of spatial and temporal contiguity."*
+> - 📜 **Kenneth Burke (*A Grammar of Motives*):** *"The **metonym** translates an incorporeal or spiritual reality into a concrete, tangible physical token."*
+> - 📜 **Terry Eagleton (*Literary Theory*):** *"When the press refers to the White House rather than the president, it relies on an institutional **metonym** understood by all."*

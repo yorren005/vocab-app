@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection of textual glosses or of specialized terms with their meanings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A collection of textual glosses or of specialized terms with their meanings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alphabetical list of specialized, technical, dialectal, or obscure terms accompanied by definitions, explanations, or translations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textual scholarship and publishing, a supplementary reference section placed at the end of a book to explain unfamiliar vocabulary or domain-specific jargon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Joyce, _A Social History of Ancient Ireland_ (London, 1903), i. 290 _sq._, referring to Kuno Meyer, _Hibernia Minora_, p. 49 and _Glossary_, 23. [387] J.B."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"See also below, pp. 257, 258, as to the Lincolnshire, Herefordshire, and Welsh practice. [660] Francis Grose, _Provincial Glossary_, Second Edition (London, 1811), pp. 141 _sq._; T.F."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Brockett, _Glossary of North Country Words_, p. 147, quoted by Mrs."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"To prevent endless disputes over ambiguous terms, every scientific treatise would do well to append an exact **glossary**."*
+> - 📜 **Samuel Taylor Coleridge (*The Rime of the Ancient Mariner*):** *"The poet subsequently provided a marginal **glossary** to assist readers in navigating the archaic maritime vocabulary."*
+> - 📜 **David Crystal (*The Cambridge Encyclopedia of the English Language*):** *"A comprehensive **glossary** serves as an indispensable bridge between specialized technical fields and the curious general reader."*

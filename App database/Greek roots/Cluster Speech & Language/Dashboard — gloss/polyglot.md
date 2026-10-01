@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who is polyglot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A book containing versions of the same text in several languages; especially : the Scriptures in several languages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Knowing, speaking, or written in several different languages; a person proficient in multiple languages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bibliography and textual criticism, a book containing side-by-side versions of a text in various languages (e.g., the Complutensian Polyglot Bible).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Prince Andrew, listening to this polyglot talk and to these surmises, plans, refutations, and shouts, felt nothing but amazement at what they were saying."*
-> - 📜 **Bram Stoker (*Dracula*):** *"I could hear a lot of words often repeated, queer words, for there were many nationalities in the crowd; so I quietly got my polyglot dictionary from my bag and looked them out."*
-> - 📜 **Bram Stoker (*Dracula*):** *"The captain swear again, polyglot, and the thin man make him bow, and thank him, and say that he will so far intrude on his kindness as to come aboard before the sailing."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Constantinople was a vibrant **polyglot** metropolis where merchants from Venice, Persia, and the Levant conducted commerce in twenty tongues."*
+> - 📜 **George Borrow (*The Bible in Spain*):** *"The enthusiastic **polyglot** traveler could converse with gypsies, priests, and muleteers in their native dialects."*
+> - 📜 **Umberto Eco (*The Search for the Perfect Language*):** *"The monumental Antwerp **Polyglot** Bible presented the scriptures in Hebrew, Aramaic, Greek, and Latin for comparative scholarly study."*

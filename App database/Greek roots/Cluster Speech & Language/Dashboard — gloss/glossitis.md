@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the tongue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the tongue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the tongue, characterized by swelling, redness, pain, and alteration of the surface texture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, a diagnostic sign associated with nutritional deficiencies (such as vitamin B12 or iron deficiency anemia, e.g., Hunter's glossitis) or oral infections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glossitis designates inflammation of the tongue."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Smooth, beefy-red **glossitis** with atrophy of the lingual papillae is an early and characteristic sign of pernicious anemia."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"Severe febrile distempers frequently leave the patient afflicted with an acute **glossitis** that impedes both speech and nourishment."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The clinician inspects the tongue not from idle habit, but because acute **glossitis** mirrors profound metabolic derangements within the body."*

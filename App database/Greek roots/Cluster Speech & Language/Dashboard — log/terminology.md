@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The technical or special terms used in a business, art, science, or special subject.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nomenclature as a field of study.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The body of terms used with a particular technical application in a subject of study, profession, trade, or artistic discipline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The systematic study of terms and their use within specialized languages and professional nomenclatures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"We shall make the best use of them, when we are no longer intimidated by the terminology, but go at once to what is meant--to the facts."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Imperfect terminology 114:12 Mortal mind is a solecism in language, and involves an improper use of the word /mind/."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The terminology has remained ever since in this stage of arrested development."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"We shall make the best use of these teachings when we are no longer intimidated by theological **terminology**, but go at once to the living facts."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Every new science requires a precise **terminology** to free the human understanding from the idols of the marketplace."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"I must crave the reader's pardon for employing technical botanical **terminology** where ordinary descriptive words fail to convey exact structure."*

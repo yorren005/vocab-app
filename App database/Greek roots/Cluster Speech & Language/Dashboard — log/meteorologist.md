@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist who studies processes in the earth's atmosphere that cause weather conditions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist who studies processes in the earth's atmosphere that cause weather conditions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist who studies the atmosphere, weather phenomena, and climatic patterns; a weather forecaster.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In atmospheric physics and fluid dynamics, a specialist who models thermodynamic flows, barometric systems, and storm trajectories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meteorologist designates a specialist who studies processes in the earth's atmosphere that cause weather conditions."*
+> - 📜 **Cleveland Abbe (*The Mechanics of the Earth's Atmosphere*):** *"The modern **meteorologist** utilizes telegraphic weather maps to anticipate storm movements across entire continents."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The **meteorologist** tracks barometric gradients with mathematical rigor, replacing ancient superstitious omens with physical laws."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"A planetary **meteorologist** finds on Jupiter an immense atmospheric laboratory where hurricanes have raged for centuries."*

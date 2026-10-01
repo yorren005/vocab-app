@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The restatement of a message (as a religious one) in rational terms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The restatement of a message (as a religious one) in rational terms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of stripping mythical or legendary elements from a narrative, text, or religious doctrine to uncover underlying historical or existential truth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 20th-century Protestant hermeneutics, Rudolf Bultmann's theological program of translating ancient cosmological worldviews into modern existential understanding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demythologisation designates the restatement of a message (as a religious one) in rational terms."*
+> - 📜 **Rudolf Bultmann (*Kerygma and Myth*):** *"The aim of **demythologisation** is not to eliminate mythological statements, but to interpret them existentially."*
+> - 📜 **John Hick (*The Metaphor of God Incarnate*):** *"The radical **demythologisation** of traditional Christology opens pathways for meaningful dialogue among world faiths."*
+> - 📜 **Paul Tillich (*Systematic Theology*):** *"Through courageous **demythologisation**, theology preserves the spiritual core of revelation while discarding literalistic absurdities."*

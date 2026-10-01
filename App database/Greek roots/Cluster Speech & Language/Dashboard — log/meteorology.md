@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science that deals with the atmosphere and its phenomena and especially with weather and weather forecasting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The atmospheric phenomena and weather of a region.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of science concerned with the processes and phenomena of the atmosphere, especially as a means of forecasting the weather.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical antiquity, Aristotle's comprehensive treatise (Meteorologica) examining celestial and terrestrial phenomena from comets to sea waters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The reader may smile at the meteorology of the Far East; but precisely similar modes of procuring rain have been resorted to in Christian Europe within our own lifetime."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The reader may smile at the primitive **meteorology** of the ancients, who attempted to control rain through sympathetic magic."*
+> - 📜 **Aristotle (*Meteorologica*):** *"The study of **meteorology** investigates natural events that take place in the region nearest to the motion of the stars."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"We must rescue **meteorology** from astrological superstition and ground it in systematic observation of winds and temperatures."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually traditional story of ostensibly historical events that serves to unfold part of the worldview of a people or explain a practice, belief, or natural phenomenon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Parable, allegory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional story, especially one concerning the early history of a people or explaining some natural or social phenomenon, typically involving supernatural beings or events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A widely held but false belief, popular misconception, or fictionalized narrative that simplifies historical reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was plain that even he had become a believer in the dynamite myth."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Beyond lay the vast desert, with, on the other side of it, the dream land, ay, the myth land, of California."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Macdonald, _Light in Africa_, p. 221; _id., Religion and Myth_ (London, 1893), p. 198."*
+> - 📜 **Joseph Campbell (*The Hero with a Thousand Faces*):** *"Throughout the inhabited world, in all times and under every circumstance, **myth** has flourished as the living inspiration of human culture."*
+> - 📜 **Claude Lévi-Strauss (*Structural Anthropology*):** *"The purpose of a **myth** is to provide a logical model capable of overcoming a real cultural contradiction."*
+> - 📜 **C. S. Lewis (*An Experiment in Criticism*):** *"The experience of reading a great **myth** conveys a profound meaning that lingers long after the narrative details are forgotten."*

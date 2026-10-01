@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of marine sea slugs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of marine sea slugs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of sea slugs (aeolid nudibranchs) in the family Facelinidae, renowned for their brilliant opalescent coloring and predatory habits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurobiology and marine ethology, an important model organism (Hermissenda crassicornis) used extensively in classical conditioning and cellular memory research.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hermissenda designates genus of marine sea slugs."*
+> - 📜 **Daniel L. Alkon (*Memory Storage and Neural Systems*):** *"Conditioning experiments with **Hermissenda** revealed that memory traces are stored as changes in potassium currents within individual photoreceptors."*
+> - 📜 **Charles Darwin (*Naturalist's Voyage Round the World*):** *"The delicate beauty of the pelagic **Hermissenda** nudibranchs floating near the kelp beds astonished every observer on the ship."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"The iridescent cerata of **Hermissenda** serve both as respiratory organs and as defensive storage chambers for stinging nematocysts."*

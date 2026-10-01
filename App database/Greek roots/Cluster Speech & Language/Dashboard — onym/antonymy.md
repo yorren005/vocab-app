@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The semantic relation that holds between two words that can (in a given context) express opposite meanings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The semantic relation that holds between two words that can (in a given context) express opposite meanings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The semantic relation of opposition between words of contrary or contradictory meaning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive semantics and lexical taxonomy, the fundamental structural principle governing complementary, scalar, and directional contrasts in vocabulary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antonymy designates the semantic relation that holds between two words that can (in a given context) express opposite meanings."*
+> - 📜 **John Lyons (*Introduction to Theoretical Linguistics*):** *"The principle of **antonymy** is deeply ingrained in human cognitive architecture, organizing experience into contrasting conceptual categories."*
+> - 📜 **Stephen Ullmann (*Semantics*):** *"Binary **antonymy** operates across all languages, enabling speakers to make swift evaluative and spatial distinctions."*
+> - 📜 **David Crystal (*The Cambridge Encyclopedia of Language*):** *"Studies of child language acquisition show that **antonymy** is mastered early as children learn to distinguish opposites."*

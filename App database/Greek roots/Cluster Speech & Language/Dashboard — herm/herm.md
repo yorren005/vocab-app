@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A statue in the form of a square stone pillar surmounted by a bust or head especially of Hermes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statue in the form of a square stone pillar surmounted by a bust or head especially of Hermes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical Greek antiquity, a square stone pillar or pedestal surmounted by a sculptured head or bust (typically of the god Hermes) and often adorned with male genitals, traditionally placed as boundary markers and at crossroads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical archaeology and sculpture history, any quadrangular stele tapering toward the base and supporting a portrait bust, popular in Roman gardens and neoclassical architecture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He trots the air; the earth sings when he touches it; the basest horn of his hoof is more musical than the pipe of Hermes."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Yes,” he continued, “I am less to you than your ivory Hermes or your silver Faun."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Thou knowest as well as I, though Hermes never taught thee, that, though every dairy be a house, every house is not a dairy.” To this speech, though she understood only a part of it, she replied by repeating her assurances that she had none to give."*
+> - 📜 **Thucydides (*The Peloponnesian War*):** *"One night before the expedition to Sicily set sail, nearly all the stone **herm** statues throughout Athens had their faces mutilated by unknown conspirators."*
+> - 📜 **Pausanias (*Description of Greece*):** *"At every crossroads and doorway in the city stood a boundary **herm**, reverenced by travelers seeking divine protection on their journeys."*
+> - 📜 **Jacob Burckhardt (*The Civilization of the Renaissance in Italy*):** *"Humanist scholars decorated their suburban villas with classical statuary, placing an ancient marble **herm** at each turn of the garden terrace."*

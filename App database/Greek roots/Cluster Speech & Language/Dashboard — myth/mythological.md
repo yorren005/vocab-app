@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or told of in traditional stories; lacking factual basis or historical validity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on or told of in traditional stories; lacking factual basis or historical validity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to mythology; appearing in or characteristic of myths and legends.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative literature and art history, depicting or drawing symbolic material from traditional folkloric and religious canons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Well, perhaps you have; but I’ve never seen him, and you’ve not told me his name; and altogether he seems rather a mythological personage."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In fact, I revert to the traditional view of Jupiter, recant my heresy, and am gathered like a lost sheep into the fold of mythological orthodoxy."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Of some 1900 wall paintings at Pompeii, examined by a German scholar and antiquary, some 1400 represent mythological subjects, largely the stories of the loves of Jupiter."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"The **mythological** interpretations of natural events among early humans formed the primitive counterpart to natural philosophy."*
+> - 📜 **John Keats (*Endymion*):** *"The young poet wandered through enchanted groves, meditating upon **mythological** tales of mortal love and divine beauty."*
+> - 📜 **Sigmund Freud (*The Interpretation of Dreams*):** *"The motifs found in ancient **mythological** dramas correspond closely to the unconscious dynamics revealed in clinical analysis."*

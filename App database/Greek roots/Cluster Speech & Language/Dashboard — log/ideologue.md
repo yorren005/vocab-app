@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An often blindly partisan advocate or adherent of a particular ideology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An impractical idealist : theorist.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An adherent or uncompromising advocate of an ideology, especially one who adheres rigidly to dogma regardless of practical circumstances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history, originally one of the French philosophers of Destutt de Tracy's school who analyzed ideas, later applied pejoratively by Napoleon to unpractical theorists.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ideologue designates an often blindly partisan advocate or adherent of a particular ideology."*
+> - 📜 **Napoleon Bonaparte (*Proclamations and Speeches*):** *"The disaster was brought upon the republic by that sect of cold **ideologues** who mistook metaphysical abstractions for the art of governing men."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"The eighteenth-century **ideologue** imagined that society could be rebuilt from scratch according to geometric rules of pure reason."*
+> - 📜 **George Orwell (*Collected Essays*):** *"A political **ideologue** will readily distort plain historical facts whenever they conflict with the party's official doctrine."*

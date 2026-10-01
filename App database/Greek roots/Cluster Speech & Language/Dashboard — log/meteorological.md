@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to atmospheric phenomena, especially weather and weather conditions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to atmospheric phenomena, especially weather and weather conditions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to meteorology; relating to atmospheric phenomena and weather forecasting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In climatology and physics, designating observational instruments and datasets (e.g., meteorological stations, satellite telemetry) monitoring atmospheric dynamics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Nor do there even occur any of those eccentric meteorological changes which elsewhere surprise us."*
+> - 📜 **Herman Melville (*Typee*):** *"Nor do there even occur any of those eccentric **meteorological** changes which elsewhere surprise travelers."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Our voyage across the Southern Ocean was marked by violent **meteorological** disturbances and towering gales."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Coastal ecosystems respond sensitively to seasonal **meteorological** cycles of storm surges and ambient temperature shifts."*

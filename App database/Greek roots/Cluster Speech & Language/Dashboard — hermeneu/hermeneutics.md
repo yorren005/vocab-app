@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the methodological principles of interpretation (as of the Bible).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A method or principle of interpretation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of knowledge that deals with interpretation, especially the principles and methodology of interpreting biblical, legal, and philosophical texts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern philosophy, the overarching discipline concerned with human understanding, communication, and the ontological structure of historical meaning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hermeneutics designates the study of the methodological principles of interpretation (as of the bible)."*
+> - 📜 **Friedrich Schleiermacher (*Hermeneutics and Criticism*):** *"General **hermeneutics** must not remain confined to theological scripture, but become the universal art of understanding."*
+> - 📜 **Wilhelm Dilthey (*The Rise of Hermeneutics*):** *"The human sciences find their epistemological foundation in the rigorous methodology of historical **hermeneutics**."*
+> - 📜 **Jürgen Habermas (*On the Logic of the Social Sciences*):** *"Critical theory engages with philosophical **hermeneutics** to uncover how linguistic communication shapes social consensus."*

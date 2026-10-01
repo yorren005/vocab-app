@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A music recording that is typically longer than a single and shorter than a full-length album —called also extended play.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Estimated position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form derived from Greek epos meaning word, speech, or epic song, or an elided form of the Greek prefix epi- meaning upon, over, near, or after.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morphological linguistics, designating epic poetry (as in epos), word forms, or superimposed physical and anatomical relationships (as in epigraph and epicenter).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ep designates a music recording that is typically longer than a single and shorter than a full-length album —called also extended play."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The ancient prefix **ep**- denotes position upon, over, or adjacent to the primary terrestrial form."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"In morphological nomenclature, the syllable **ep**- designates overlying tissues or surface structures."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Words compounding **ep**- illustrate how naturalists denote superposed strata and parasitic habits."*

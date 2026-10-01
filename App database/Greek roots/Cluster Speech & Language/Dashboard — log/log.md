@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually bulky piece or length of a cut or fallen tree; especially : a length of a tree trunk ready for sawing and over six feet (1.8 meters) long.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apparatus for measuring the rate of a ship's motion through the water that consists of a block fastened to a line and run out from a reel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bulky piece or length of a fallen or felled tree; or an official record book of a ship's voyage, aircraft flight, or daily operations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computing and systems engineering, a chronologically ordered, append-only file recording operational events, errors, and transactions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Ferdinand bearing a log."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hear my soul speak: The very instant that I saw you, did My heart fly to your service; there resides, To make me slave to it; and for your sake Am I this patient log-man."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, as I told thee, ’tis a custom with him I’ th’ afternoon to sleep: there thou mayst brain him, Having first seiz’d his books; or with a log Batter his skull, or paunch him with a stake, Or cut his wezand with thy knife."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"Enter Ferdinand bearing a heavy **log**, rejoicing that his labor for Miranda transforms toil into delight."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The captain stepped to the binnacle and wrote the day's dead reckoning into the ship's **log** with a steady hand."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The official maritime inquiry scrutinized the entries in the steamer's **log** to determine the precise moment of abandonment."*

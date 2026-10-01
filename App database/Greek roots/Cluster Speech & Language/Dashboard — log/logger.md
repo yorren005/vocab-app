@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who fells trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who fells trees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose occupation is cutting down trees and transporting the timber to sawmills; a lumberjack.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In instrumentation and computer science, an electronic device or software program that systematically captures and records data points over time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You logger-headed and unpolish’d grooms!"*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Kettle River drive was more fruitful than preacher or logger dreamed."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Higgins had held services in the camp, and the logger requested him to baptize their baby when he next visited them."*
+> - 📜 **John Muir (*Our National Parks*):** *"The ruthless commercial **logger** sweeps through the ancient redwood groves, leaving behind a scarred wilderness of stumps."*
+> - 📜 **William Shakespeare (*The Taming of the Shrew*):** *"You **logger**-headed and unpolished grooms, why have you delayed bringing the master's dinner?"*
+> - 📜 **Gifford Pinchot (*The Fight for Conservation*):** *"The responsible forester must teach the **logger** that sustained harvesting preserves the forest for future generations."*

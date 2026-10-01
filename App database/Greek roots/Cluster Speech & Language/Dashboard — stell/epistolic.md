@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of send.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of send.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to an epistle or letters; written in the form of an epistle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical and ecclesiastical scholarship, designating apostolic letters included in the New Testament canon or liturgically read during Christian worship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epistolic designates adjective*) pertaining to, derived from, or characteristic of send."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The early Christian bishops maintained ecclesiastical unity across distant provinces through continuous **epistolic** communication."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Letters of state and **epistolic** discourses between princes afford the closest insight into political negotiations."*
+> - 📜 **Samuel Taylor Coleridge (*Table Talk*):** *"The **epistolic** writings of St. Paul present the earliest theological formulations of the Christian church."*

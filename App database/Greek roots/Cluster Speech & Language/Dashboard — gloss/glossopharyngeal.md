@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the tongue and throat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the tongue and throat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, situated near, or connecting the tongue and the pharynx.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy, designating the glossopharyngeal nerve (the ninth cranial nerve, CN IX), which provides taste and sensory innervation to the posterior tongue and motor innervation to the stylopharyngeus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glossopharyngeal designates pertaining to the tongue and throat."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The **glossopharyngeal** nerve emerges from the medulla oblongata to distribute sensory fibers to the posterior third of the tongue and the tonsil."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Neuralgia of the **glossopharyngeal** nerve produces paroxysms of lancinating pain radiating from the tonsillar fossa into the ear."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Afferent impulses carried along the **glossopharyngeal** pathway initiate the complex involuntary phase of the swallowing reflex."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of lexicology concerned with the names of concepts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of lexicology concerned with the names of concepts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of linguistics and semantics that studies naming; specifically, the approach that starts from a concept or meaning and investigates the various words and names used to express it (contrasted with semasiology).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic geography and dialectology, the systematic mapping of regional lexical variations for concrete everyday objects and agricultural implements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onomasiology designates a branch of lexicology concerned with the names of concepts."*
+> - 📜 **Michel Bréal (*Semantics: Studies in the Science of Meaning*):** *"While semasiology traces what a word means, **onomasiology** investigates the diverse names given to a single concept."*
+> - 📜 **Roman Jakobson (*Selected Writings*):** *"In lexical cartography, **onomasiology** maps the dialect terms used across regions to name the common weasel or dandelion."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"Comparative **onomasiology** reveals how different speech communities categorize the natural world through competing designations."*

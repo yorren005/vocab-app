@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek log.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Speech & Language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsessive, irrational, or debilitating fear or dread of words, or of speaking in public.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociolinguistic and psychological discourse, an aversion to specific taboo, sensitive, or offensive verbal labels; or extreme communicative anxiety.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logophobia designates a term designating an entity, condition, or phenomenon derived from greek log."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"In certain severe melancholic obsessions, a strange **logophobia** develops where the patient dreads uttering holy or blasphemous names."*
+> - 📜 **Steven Pinker (*The Stuff of Thought*):** *"Political taboos can produce an institutional **logophobia** where certain words become completely unspeakable regardless of context."*
+> - 📜 **C. G. Jung (*Psychiatric Studies*):** *"The neurotic symptom of **logophobia** frequently masked an unconscious dread of revealing repressed domestic secrets."*

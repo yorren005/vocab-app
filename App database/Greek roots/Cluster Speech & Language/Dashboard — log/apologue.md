@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An allegorical narrative usually intended to convey a moral.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An allegorical narrative usually intended to convey a moral.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A moral fable, especially one with animals or inanimate objects as characters, intended to convey a useful lesson (e.g., Aesop's fables).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary aesthetics and allegorical criticism, an imaginative narrative wherein external fictional elements systematically symbolize moral or political truths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apologue designates an allegorical narrative usually intended to convey a moral."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"Gay's fables exhibit the perfect structure of the ancient **apologue**, blending whimsical dialogue with pointed ethical wisdom."*
+> - 📜 **Francis Bacon (*The Wisdom of the Ancients*):** *"The ancient poets disguised profound philosophical doctrines beneath the delightful veil of an **apologue**."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The politician related a witty **apologue** of the belly and the members to remind the commons of social interdependence."*

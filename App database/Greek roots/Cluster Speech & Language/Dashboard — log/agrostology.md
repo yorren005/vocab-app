@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek log.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Speech & Language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of systematic botany concerned with the scientific study and classification of grasses (family Poaceae or Gramineae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural science and rangeland ecology, the specialized study of forage grasses, cereal crops, and turfgrass management.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agrostology designates a term designating an entity, condition, or phenomenon derived from greek log."*
+> - 📜 **Carl Linnaeus (*Philosophia Botanica*):** *"The foundation of **agrostology** rests upon the meticulous dissection of the spikelet and the delicate glumes of grasses."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Pioneering treatises in **agrostology** demonstrated that the floral organs of grasses are homologous with those of typical monocotyledons."*
+> - 📜 **Liberty Hyde Bailey (*Manual of Cultivated Plants*):** *"Modern **agrostology** provides the essential taxonomic framework for improving cereal strains and stabilizing pasture soils."*

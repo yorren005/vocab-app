@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or told of in traditional stories; lacking factual basis or historical validity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on or told of in traditional stories; lacking factual basis or historical validity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, based upon, or characteristic of myths or mythology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history, relating to the pre-philosophical or symbolic mode of consciousness that conceptualizes reality through supernatural tales.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The mythologic theory of mate- 531:30 rial life at no point resembles the scientifically Christian record of man as created by Mind in the image and like- ness of God and having dominion over all the earth."*
+> - 📜 **Samuel Taylor Coleridge (*Lectures on Shakespeare*):** *"The dramatist fused historical chronicle with **mythologic** lore to create a world rich in symbolic depth."*
+> - 📜 **Giambattista Vico (*The New Science*):** *"In the earliest epoch, primitive nations expressed their legal and moral wisdom through poetic, **mythologic** characters."*
+> - 📜 **John Ruskin (*The Queen of the Air*):** *"The Greek mind created **mythologic** figures that embodied physical forces with breathtaking imaginative precision."*

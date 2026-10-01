@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek onomat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Speech & Language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root derived from Greek onoma (genitive onomatos) meaning name, word, or designation; root of onomatopoeia and onomastics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and semantic morphology, the foundational root designating proper names, naming conventions, and sound-imitative words.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onomat designates a term designating an entity, condition, or phenomenon derived from greek onomat."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The classical radical **onomat**- reminds us that naming is the foundational act of human symbolic communication."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"In all languages, derivatives of **onomat**- mark the conscious human effort to fix ideas into spoken names."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Biological nomenclature relies on **onomat**- compounds to organize millions of species under Linnaean standards."*

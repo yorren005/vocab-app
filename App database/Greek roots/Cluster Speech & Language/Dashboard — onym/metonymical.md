@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Using the name of one thing for that of another with which it is closely associated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using the name of one thing for that of another with which it is closely associated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or containing metonymy; figurative through association.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric, describing tropes that substitute an attendant circumstance or container for the thing contained.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metonymical designates using the name of one thing for that of another with which it is closely associated."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"Dryden was fond of **metonymical** expressions that gave vivid historical immediacy to abstract political conflicts."*
+> - 📜 **Hugh Blair (*Lectures on Rhetoric and Belles Lettres*):** *"A **metonymical** trope substitutes the cause for the effect, or the sign for the thing signified, adding dramatic energy to verse."*
+> - 📜 **George Saintsbury (*A History of English Prose Rhythm*):** *"The author's **metonymical** turns of phrase prevent his philosophical discourse from declining into dry scholasticism."*

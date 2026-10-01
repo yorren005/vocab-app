@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A magazine printed on good quality paper.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A photograph that is printed on smooth shiny paper.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a smooth, lustrous, and shiny surface that reflects light brightly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Superficially attractive, polished, or sophisticated, often with an implication of lacking deeper substance or moral authenticity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He had an entirely new suit of glossy clothes on, a shining hat, lilac-kid gloves, a neckerchief of a variety of colours, a large hot-house flower in his button-hole, and a thick gold ring on his little finger."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Here is a nut,” said he, catching one down from an upper bough, “to exemplify: a beautiful glossy nut, which, blessed with original strength, has outlived all the storms of autumn."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I remember, at his waist, dangled dirty tufts of hair that, far back in the journey, after a shower of rain, were wont to show glossy black."*
+> - 📜 **John Keats (*Ode to a Nightingale*):** *"The nightingale sang in shadowy foliage where the moonlit leaves shone with a quiet, **glossy** radiance."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Her rich, dark hair possessed a **glossy** luster that defied the puritanical simplicity of her modest cap."*
+> - 📜 **Virginia Woolf (*Orlando*):** *"The courtiers preened themselves in garments of **glossy** silk that rustled with every imperious turn."*

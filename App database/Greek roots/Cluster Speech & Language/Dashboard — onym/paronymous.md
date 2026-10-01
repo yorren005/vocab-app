@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of name.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of name.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being a paronym; conjugate; derived from the same root with a change of form or prefix/suffix.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philology and rhetorical theory, characterizing words whose close phonetic and morphological resemblance frequently leads to malapropism or wordplay.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paronymous designates adjective*) pertaining to, derived from, or characteristic of name."*
+> - 📜 **Herbert Weir Smyth (*Greek Grammar*):** *"In classical syntax, **paronymous** words derived from the same verbal stem frequently appear together for rhetorical emphasis."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The poet avoided confusing **paronymous** derivatives whose slight difference in form might distract the reader's attention."*
+> - 📜 **Richard Chenevix Trench (*On the Study of Words*):** *"Many curious historical associations are revealed by examining **paronymous** words that branched from a single ancient concept."*

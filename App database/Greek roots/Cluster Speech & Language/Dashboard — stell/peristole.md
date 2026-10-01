@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek stell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Speech & Language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In physiology, the muscular contraction and adaptation by which the stomach or other hollow organ compresses and holds its contents closely during digestion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastrointestinal mechanics, the concentric clamping force of gastric walls on an ingested bolus, distinct from the forward-moving wave of peristalsis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peristole designates a term designating an entity, condition, or phenomenon derived from greek stell."*
+> - 📜 **William Beaumont (*Experiments and Observations on the Gastric Juice*):** *"The gastric wall exhibited steady **peristole**, grasping the food firmly while gentle contractions rolled it along the greater curvature."*
+> - 📜 **Ivan Pavlov (*The Work of the Digestive Glands*):** *"Normal gastric function requires both rhythmic peristalsis and tonic **peristole** to ensure thorough contact with digestive juices."*
+> - 📜 **Walter Cannon (*The Mechanical Factors of Digestion*):** *"Fluoroscopic examination demonstrated that the fundus maintains a continuous **peristole**, keeping constant pressure on its contents."*

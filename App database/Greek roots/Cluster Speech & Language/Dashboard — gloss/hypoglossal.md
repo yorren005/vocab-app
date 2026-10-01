@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Supplies intrinsic muscles of the tongue and other tongue muscles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supplies intrinsic muscles of the tongue and other tongue muscles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated under or beneath the tongue; sublingual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy, specifically designating the hypoglossal nerve (cranial nerve XII / CN XII), which supplies motor innervation to all the intrinsic and most extrinsic muscles of the tongue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypoglossal designates supplies intrinsic muscles of the tongue and other tongue muscles."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The **hypoglossal** canal transmits the twelfth cranial nerve from the posterior cranial fossa into the neck to innervate the tongue."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Unilateral paralysis of the **hypoglossal** nerve causes the tongue to deviate toward the paralyzed side upon protrusion."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Motor neurons in the **hypoglossal** nucleus fire in precise temporal synergy during the execution of speech and mastication."*

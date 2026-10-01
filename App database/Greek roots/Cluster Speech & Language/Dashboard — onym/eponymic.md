@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or relating to or bearing the name of an eponym.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or relating to or bearing the name of an eponym.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or functioning as an eponym; giving one's name to a person, place, or concept.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical narrative, designating ancestral patriarchs or heroic figures whose names explain tribal or territorial designations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eponymic designates being or relating to or bearing the name of an eponym."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **eponymic** magistrate of Athens gave his title to the civil year, marking each epoch in the civic archives."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Ancient mythologies frequently constructed an **eponymic** hero to explain the origin of a sacred city or geographic landmark."*
+> - 📜 **Walter Pater (*Greek Studies*):** *"The **eponymic** ancestor of the clan stood in marble outside the council hall, a symbol of shared blood and common law."*

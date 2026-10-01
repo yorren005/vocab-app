@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to toxicology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to toxicology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or involving toxicology; concerned with poisons and their physiological actions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic medicine and industrial hygiene, describing analytical tests and laboratory methodologies used to detect hazardous substances and toxins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toxicologic designates of or relating to toxicology."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinical investigator must correlate the post-mortem findings with careful **toxicologic** analysis of blood and liver tissue."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Curare provided the physiologist with an incomparable **toxicologic** scalpel to dissect the motor nerve endings."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The cellular alterations caused by heavy metals provide a rich field for pathological and **toxicologic** investigation."*

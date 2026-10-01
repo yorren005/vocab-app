@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Name : word.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Name : word.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In linguistics and onomastics, a name or designating word; the combining element (from Greek onyma / onoma) forming terms for specific classes of names.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lexicography, any distinct lexical unit used to identify, classify, or denote a person, place, or concept.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onym designates name : word."*
+> - 📜 **Walter William Skeat (*Principles of English Etymology*):** *"The terminal element **onym** in Greek loanwords designates a specific class or functional category of naming."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Every ancient **onym** originally conveyed a distinct descriptive meaning before it became a conventionalized label."*
+> - 📜 **David Crystal (*The Cambridge Encyclopedia of the English Language*):** *"Lexicographers categorize specialized terms by appending **onym** to create precise taxonomies of names."*

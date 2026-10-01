@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or based on analogy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing or implying analogy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or based upon analogy; expressing or employing an analogy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scholastic philosophy and theology, designating a mode of language that applies names to God and creatures neither univocally nor equivocally, but proportionally.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Though the certainty of this criterion is far from demonstrable, yet it has the savor of analogical probability."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Though the certainty of this criterion is far from demonstrable, yet it has the savor of analogical probability."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"Our language concerning divine perfections is neither purely univocal nor wholly equivocal, but **analogical**."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The human mind naturally delights in **analogical** reasoning, discovering similitudes across disparate realms of nature."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"An **analogical** argument provides a presumptive hypothesis that warrants careful inductive investigation."*

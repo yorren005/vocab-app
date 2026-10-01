@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having glossy hair.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having glossy hair.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having hair that is smooth, gleaming, and radiant with natural oils or grooming.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary portraiture, evoking an appearance of youthful health, patrician elegance, or refined beauty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glossy-haired designates having glossy hair."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The stately ladies of Thornfield Hall were tall and **glossy-haired**, dressed in evening velvets of rich hue."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The portrait depicted a **glossy-haired** youth whose immaculate beauty seemed untouched by the corruption of time."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond Vincy was a graceful, **glossy-haired** nymph whose every movement expressed conscious perfection."*

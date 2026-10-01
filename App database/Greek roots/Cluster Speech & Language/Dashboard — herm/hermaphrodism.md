@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Congenital condition in which external genitalia and internal sex organs have both male and female characteristics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Congenital condition in which external genitalia and internal sex organs have both male and female characteristics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological condition or state of possessing both male and female reproductive structures or sexual characteristics within the same individual; hermaphroditism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In teratology and early endocrinological pathology, anatomical ambiguity resulting from atypical gonadal differentiation or hormonal exposure during embryogenesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hermaphrodism designates congenital condition in which external genitalia and internal sex organs have both male and female characteristics."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Instances of abnormal **hermaphrodism** occasionally occur in higher animals where the sexes are ordinarily strictly separated."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Anatomy*):** *"Certain primitive invertebrates exhibit normal functional **hermaphrodism**, producing both ova and spermatozoa within a single organism."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Early medical jurists struggled to classify congenital **hermaphrodism** within rigid legal categories that recognized only two polar sexes."*

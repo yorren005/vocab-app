@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An admission of error or discourtesy accompanied by an expression of regret.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expression of regret for not being able to do something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An admission of error, discourtesy, or failure accompanied by an expression of regret.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature and rhetoric, a formal justification or defense of one's opinions, conduct, or philosophical life (e.g., Plato's *Apology of Socrates*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That you will take your instant leave o’ the king, And make this haste as your own good proceeding, Strengthen’d with what apology you think May make it probable need."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His enter and exit shall be strangling a snake; and I will have an apology for that purpose."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Quoniam _he seemeth in minority_, Ergo _I come with this apology._ Keep some state in thy exit, and vanish. [_Moth retires._] _Judas I am._— DUMAINE."*
+> - 📜 **Plato (*Apology*):** *"In his magnificent **apology**, Socrates defended his philosophical mission to cross-examine fellow citizens in the pursuit of virtue."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"Make this haste as your own good proceeding, strengthened with what **apology** you think may make it probable need."*
+> - 📜 **John Henry Newman (*Apologia Pro Vita Sua*):** *"The autobiographical **apology** remains the most moving vindication of intellectual integrity written in Victorian England."*

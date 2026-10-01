@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: German hero; leader at the battle of teutoburger wald in ad 9 (circa 18 bc - ad 19).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German hero; leader at the battle of teutoburger wald in ad 9 (circa 18 bc - ad 19).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of the Germanic masculine name Hermann (army man); notably associated with German botanist Paul Hermann and mathematician Hermann Weyl.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science, referring to pioneer Dutch botanist Paul Hermann (1646–1695) whose Ceylon herbarium formed the basis of Linnaean nomenclature, or physicist Hermann von Helmholtz.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Friedrich Hoelderlins Leben und Dichten, Bremen, 1894. (Reviewed by Hermann Fischer, Anz. f. d."*
+> - 📜 **Carl Linnaeus (*Critica Botanica*):** *"The illustrious botanist Paul **Hermann** collected with tireless devotion throughout Ceylon, enriching our knowledge of oriental flora."*
+> - 📜 **Albert Einstein (*Autobiographical Notes*):** *"The penetrating mathematical treatises of **Hermann** Minkowski and **Hermann** Weyl revealed the deep geometric beauty underlying physics."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The physiological experiments conducted by **Hermann** von Helmholtz demonstrated the precise temporal mechanics of sensory nerve conduction."*

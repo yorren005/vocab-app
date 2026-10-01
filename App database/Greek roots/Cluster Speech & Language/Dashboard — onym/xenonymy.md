@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek onym.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Speech & Language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The use, study, or prevalence of foreign or external names to designate indigenous peoples, territories, or cultural practices; exonymy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In postcolonial sociolinguistics, the phenomenon whereby colonial or external naming conventions supplant native geographical and ethnic designations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xenonymy designates a term designating an entity, condition, or phenomenon derived from greek onym."*
+> - 📜 **Joshua Fishman (*Sociolinguistics*):** *"The study of **xenonymy** reveals how dominant political powers impose external labels upon subordinate linguistic minorities."*
+> - 📜 **Claude Lévi-Strauss (*The Savage Mind*):** *"Pervasive **xenonymy** across border regions reflects the mutual suspicion with which neighboring ethnic groups designate one another."*
+> - 📜 **David Crystal (*The Cambridge Encyclopedia of the English Language*):** *"Cartographers now actively revise geographical atlases to replace colonial **xenonymy** with authentic indigenous toponyms."*

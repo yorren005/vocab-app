@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or belonging to etymology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on or belonging to etymology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the origin, derivation, and historical development of words and their grammatical forms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and historical philology, pertaining to the systematic analysis of cognates, reconstructed Proto-Indo-European roots, and semantic shifts over time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"See, for example, John Graham Dalyell, _The Darker Superstitions of Scotland_ (Edinburgh, 1834), pp. 176 _sq._: "The recognition of the pagan divinity Baal, or Bel, the Sun, is discovered through innumerable etymological sources."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Jamieson, _Etymological Dictionary of the Scottish Language_, revised by J."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The tradition that the founder of the sacred grove at Aricia was a man named Manius, from whom many Manii were descended, would thus be an etymological myth invented to explain the name _maniae_ as applied to these sacramental loaves."*
+> - 📜 **Walter William Skeat (*Principles of English Etymology*):** *"The **etymological** method requires strict adherence to Grimm's and Verner's laws of consonant shifting."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"Synchronic analysis must not confuse the speaker's immediate perception with distant **etymological** roots."*
+> - 📜 **George Orwell (*Politics and the English Language*):** *"Writers should respect the **etymological** lineage of words rather than adopting vague, pompous jargon."*

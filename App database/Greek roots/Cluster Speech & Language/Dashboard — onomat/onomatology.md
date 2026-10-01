@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Onomastics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Onomastics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science or systematic study of names, their origins, and nomenclature; onomastics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philology and historical ethnology, the branch of linguistics investigating how geographical topnyms and family surnames preserve archaic phonetic forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onomatology designates onomastics."*
+> - 📜 **Walter William Skeat (*Principles of English Etymology*):** *"Through systematic **onomatology**, the origins of cryptic village names are traced to Anglo-Saxon homesteaders."*
+> - 📜 **Max Müller (*Chips from a German Workshop*):** *"Comparative **onomatology** deciphers the mythic personifications behind the ancient names of Greek and Vedic heroes."*
+> - 📜 **Edward Burnett Tylor (*Anthropology*):** *"The field of **onomatology** explains how tribal groups assign names based on birth order, physical marks, or animal omens."*

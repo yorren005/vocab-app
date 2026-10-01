@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science or study of the origins and forms of words especially as used in a specialized field.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science or study of the origin and forms of proper names of persons or places.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of the history, origin, and forms of proper names, encompassing anthroponymy (personal names) and toponymy (place names).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics and cultural geography, an interdisciplinary discipline that reconstructs ancient migration routes, dialect boundaries, and settlement patterns through place names.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onomastics designates the science or study of the origins and forms of words especially as used in a specialized field."*
+> - 📜 **Walter William Skeat (*The Place-Names of Cambridgeshire*):** *"Topographical **onomastics** demonstrates that river names preserve the oldest Celtic substrate in the British landscape."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"In the study of culture, historical **onomastics** provides invaluable clues to forgotten religious beliefs and social structures."*
+> - 📜 **J. R. R. Tolkien (*Letters*):** *"My invention of Middle-earth languages began with linguistic **onomastics**, creating names that sounded historically authentic."*

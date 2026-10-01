@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having glossy hair.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having glossy hair.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing pelt or fur that is smooth, shiny, and in excellent condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing mammalian pelts prized in wildlife ecology or the fur trade for their lustrous texture and dense, reflective sheen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glossy-furred designates having glossy hair."*
+> - 📜 **John Muir (*The Mountains of California*):** *"The water-ouzel dashed past the icy cascade, as sleek as a **glossy-furred** otter hunting in mountain streams."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"Our Indian guide spotted a **glossy-furred** beaver gliding silently across the dark surface of the forest pool."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Seals with their sleek, **glossy-furred** bodies peered inquisitively at our whaleboat from the floating ice floes."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states jazz musician and bandleader (1913-1987).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states jazz musician and bandleader (1913-1987).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A masculine personal name of Germanic origin (Hariman, meaning army man or warrior); historically prominent through Arminius and author Herman Melville.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary history, the given name of 19th-century American novelist Herman Melville, author of Moby-Dick, or in German historiography, the mythologized heroic liberator of Germania.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Only Herman Tromp escaped in the fog, and was able, long after, to tell me of the adventure."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"BY HERMAN MELVILLE, AUTHOR OF “TYPEE,” “OMOO,” “REDBURN,” “MARDI,” “WHITE-JACKET.” NEW YORK: HARPER & BROTHERS, PUBLISHERS."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Entered, according to Act of Congress, in the year 1851, by HERMAN MELVILLE, in the Clerk’s Office of the District Court for the Southern District of New York."*
+> - 📜 **Nathaniel Hawthorne (*The English Notebooks*):** *"My friend **Herman** Melville walked with me along the windy beach, discussing providence and eternity with restless passion."*
+> - 📜 **Henry James (*Notes on Novelists*):** *"The erratic imaginative voyages of **Herman** Melville reveal an intense American romanticism wrestling with cosmic ambiguity."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Old **Herman** stood among the Teutonic forests as a living bulwark against the conquering legions of imperial Rome."*

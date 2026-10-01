@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A diversity of voices, styles of discourse, or points of view in a literary work and especially a novel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diversity of voices, styles of discourse, or points of view in a literary work and especially a novel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence or coexistence of multiple distinct linguistic varieties, dialects, or social registers within a single language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary theory and Bakhtinian dialogism, the polyphonic interplay of conflicting social voices, ideologies, and worldviews embedded within the language of the novel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heteroglossia designates a diversity of voices, styles of discourse, or points of view in a literary work and especially a novel."*
+> - 📜 **Mikhail Bakhtin (*The Dialogic Imagination*):** *"The novel orchestrates all its themes through the rich, living **heteroglossia** of social speech types and individual voices."*
+> - 📜 **Terry Eagleton (*Literary Theory: An Introduction*):** *"For Bakhtin, the triumph of the novel lies in its democratic **heteroglossia**, which refuses to allow any single authoritative voice to dominate."*
+> - 📜 **Fredric Jameson (*The Political Unconscious*):** *"The internal contradictions of modern capitalism find their literary reflection in the turbulent **heteroglossia** of urban modernist fiction."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek odyn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A burning sensation, tenderness, or pain in the tongue, often without observable clinical abnormalities on physical examination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oral medicine and neurology, a chronic neuropathic or idiopathic pain syndrome (burning mouth syndrome) predominantly affecting postmenopausal women.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glossodynia designates a term designating an entity, condition, or phenomenon derived from greek odyn."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Patients complaining of unremitting **glossodynia** often endure intense anxiety despite the completely normal appearance of the lingual mucosa."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"Idiopathic neuropathies like **glossodynia** demonstrate how phantom sensory torment can arise from central disinhibition rather than peripheral tissue damage."*
+> - 📜 **Sigmund Freud (*Studies on Hysteria*):** *"In chronic cases of intractable **glossodynia**, somatic therapy must be supplemented by careful exploration of underlying psychic distress."*

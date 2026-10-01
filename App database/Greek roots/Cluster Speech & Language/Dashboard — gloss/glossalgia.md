@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain in the tongue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pain in the tongue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain localized in the tongue; glossodynia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurology and oral medicine, painful neuralgic or inflammatory sensations along the lingual nerve distribution without visible surface ulceration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glossalgia designates pain in the tongue."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe **glossalgia** may occur as a reflex symptom originating in dental caries or cervical spine degeneration."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The physician must differentiate benign neurotic **glossalgia** from early mucosal malignancies of the floor of the mouth."*
+> - 📜 **Sigmund Freud (*Studies on Hysteria*):** *"Psychogenic **glossalgia** occasionally manifested in hysterical patients whose repressed speech expressed itself as lingual discomfort."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek onym.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Speech & Language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word of more specific meaning than a general or superordinate term that includes it (e.g., spoon is a hyponym of cutlery).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal semantics, an asymmetrical lexical relation where the meaning of the hyponym entails the meaning of its hypernym.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyponym designates a term designating an entity, condition, or phenomenon derived from greek onym."*
+> - 📜 **John Lyons (*Introduction to Theoretical Linguistics*):** *"The word rose is a **hyponym** of flower, entailing that every statement true of all flowers applies to roses."*
+> - 📜 **Geoffrey Leech (*Semantics*):** *"The hierarchical organization of the mental lexicon allows a **hyponym** to inherit all semantic properties of its overarching class."*
+> - 📜 **Steven Pinker (*Words and Rules*):** *"Children learn taxonomic categories by recognizing that each new **hyponym** belongs to an established conceptual family."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A paronymous word.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A paronymous word.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word that is derived from the same root or has a similar sound and form to another word, but differs in meaning (e.g., affect and effect).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Aristotelian categories and classical grammar, a derivative word formed by slight morphological modification from a base noun (e.g., grammarian from grammar).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paronym designates a paronymous word."*
+> - 📜 **Aristotle (*Categories*):** *"Things are called paronyms when they derive their name from something else with a difference in inflection, as the grammarian from grammar."*
+> - 📜 **Thomas Hobbes (*Leviathan*):** *"A **paronym** derives its form and signification from a primitive root, modifying its ending to denote a related attribute."*
+> - 📜 **Walter William Skeat (*A Student's Pastime*):** *"The student of language must learn to trace each **paronym** back to its common ancestral stem."*

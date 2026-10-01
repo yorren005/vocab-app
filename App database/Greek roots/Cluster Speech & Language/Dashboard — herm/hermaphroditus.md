@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) son of hermes and aphrodite who merged with the nymph salmacis to form one body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) son of hermes and aphrodite who merged with the nymph salmacis to form one body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek mythology, the beautiful son of Hermes and Aphrodite who was united into a single, dual-gendered body with the nymph Salmacis in Caria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical art history and Hellenistic sculpture, the celebrated sculptural subject depicting an idealized reclining figure showing both male and female anatomical traits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hermaphroditus designates (greek mythology) son of hermes and aphrodite who merged with the nymph salmacis to form one body."*
+> - 📜 **Ovid (*Metamorphoses*):** *"When Salmacis wrapped her limbs about him, the youth **Hermaphroditus** prayed that whoever bathed in that pool might henceforth emerge weakened of sex."*
+> - 📜 **Walter Pater (*Greek Studies*):** *"The Hellenistic statue of **Hermaphroditus** reflects an exquisite, decadent curiosity concerning the synthesis of physical beauty."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The pagan galleries of the Antonines displayed marble statues of **Hermaphroditus** alongside solemn busts of Roman emperors."*

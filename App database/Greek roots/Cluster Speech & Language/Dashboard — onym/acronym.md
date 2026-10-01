@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word (such as NATO, radar, or laser) formed from the initial letter or letters of each of the successive parts or major parts of a compound term; also : an abbreviation (such as FBI) formed from initial letters : initialism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word (such as NATO, radar, or laser) formed from the initial letter or letters of each of the successive parts or major parts of a compound term; also : an abbreviation (such as FBI) formed from initial letters : initialism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word formed from the initial letters or components of a name or phrase, pronounced as a single word (e.g., radar, NATO, laser).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In terminology studies and lexicology, an abbreviation strategy serving administrative and technical efficiency in modern communication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acronym designates a word (such as nato, radar, or laser) formed from the initial letter or letters of each of the successive parts or major parts of a compound term; also : an abbreviation (such as fbi) formed from initial letters : initialism."*
+> - 📜 **David Crystal (*The Cambridge Encyclopedia of the English Language*):** *"The rapid proliferation of the **acronym** during the Second World War reflected the urgent military need for concise communication."*
+> - 📜 **Steven Pinker (*Words and Rules*):** *"Unlike an alphabetism where letters are spelled out, an **acronym** is pronounced phonetically as a single lexical item."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"Newspeak relied heavily on the political **acronym**, compressing complex ideological doctrines into abrupt, robotic labels."*

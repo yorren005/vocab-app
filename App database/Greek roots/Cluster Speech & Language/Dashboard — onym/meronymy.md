@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek onym.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Speech & Language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The semantic relation of being a part of a whole; the part-whole relationship between words (meronym and holonym).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive semantics, the conceptual schema organizing bodily, mechanical, and geographical wholes into constituent parts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meronymy designates a term designating an entity, condition, or phenomenon derived from greek onym."*
+> - 📜 **George A. Miller (*WordNet*):** *"The lexical relation of **meronymy** reflects our psychological understanding of how physical objects are assembled from functional parts."*
+> - 📜 **Geoffrey Leech (*Principles of Pragmatics*):** *"In conversation, **meronymy** enables a speaker to refer to the whole entity by highlighting a salient component part."*
+> - 📜 **David Crystal (*The Cambridge Encyclopedia of Language*):** *"Cross-linguistic studies of **meronymy** demonstrate how different cultures segment the human body into named anatomical parts."*

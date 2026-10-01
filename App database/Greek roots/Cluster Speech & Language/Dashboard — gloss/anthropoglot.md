@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gloss.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Speech & Language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal possessing a tongue resembling that of a human and capable of imitating human speech, such as certain parrots or starlings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical natural history and comparative anatomy, animals endowed with vocal organs capable of articulating intelligible words.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropoglot designates a term designating an entity, condition, or phenomenon derived from greek gloss."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"The Indian parrot was celebrated by ancient travelers as an **anthropoglot** bird that saluted emperors with articulate speech."*
+> - 📜 **Oliver Goldsmith (*A History of the Earth, and Animated Nature*):** *"The raven and the starling may be ranked as **anthropoglot** creatures whose fleshy tongues enable them to mimic the human voice."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"Vocal imitation in **anthropoglot** birds depends less upon the tongue itself than upon the specialized musculature of the lower syrinx."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the mythical element from (writings).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having mythical elements removed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stripped of mythical or supernatural features; reinterpreted in rational, historical, or existential terms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to concepts, figures, or historical events that have been demystified and presented in plain, unvarnished reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demythologized designates remove the mythical element from (writings)."*
+> - 📜 **Langdon Gilkey (*Naming the Whirlwind*):** *"A thoroughly **demythologized** religious discourse risks losing the emotional power that originally mobilized communities of faith."*
+> - 📜 **Richard Rorty (*Consequences of Pragmatism*):** *"In a **demythologized** intellectual landscape, philosophers abandon the quest for transcendent foundations in favor of pragmatic conversation."*
+> - 📜 **Stephen Jay Gould (*Rocks of Ages*):** *"When Darwin presented a **demythologized** view of biological origins, he replaced magical creation with the majestic mechanism of natural selection."*

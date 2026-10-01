@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek onym.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Speech & Language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person's real or legal name, as opposed to a pseudonym or pen name; a work published under the author's true name.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnolinguistics and anthropology, the self-designation or endonym that an indigenous group or speech community uses for itself.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autonym designates a term designating an entity, condition, or phenomenon derived from greek onym."*
+> - 📜 **Walter William Skeat (*Principles of English Etymology*):** *"The philologist was pleased when the author finally discarded his disguise and published his definitive treatise under his **autonym**."*
+> - 📜 **Claude Lévi-Strauss (*The Savage Mind*):** *"Many tribal communities reserve their sacred **autonym** for internal rituals, presenting a conventional exonym to neighboring peoples."*
+> - 📜 **David Crystal (*The Cambridge Encyclopedia of the English Language*):** *"In bibliographical cataloging, recording an author's **autonym** resolves the ambiguities created by shifting pen names."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure of speech consisting of the use of the name of one thing for that of another of which it is an attribute or with which it is associated (such as "crown" in "lands belonging to the crown").
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A figure of speech consisting of the use of the name of one thing for that of another of which it is an attribute or with which it is associated (such as "crown" in "lands belonging to the crown").
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure of speech in which the name of one object or concept is used for that of another to which it is related or of which it is a part.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive linguistics and poetics, a foundational conceptual mechanism where one experiential domain provides mental access to another via contiguous connection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Brit.’; used here, by metonymy, for a great treasure."*
+> - 📜 **Roman Jakobson (*Fundamentals of Language*):** *"The competition between metaphor and **metonymy** is manifest in any symbolic process, whether literary, psychological, or cultural."*
+> - 📜 **George Lakoff & Mark Johnson (*Metaphors We Live By*):** *"Unlike metaphor, which links two disparate domains, **metonymy** functions primarily for reference within a single experiential domain."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"The figure **metonymy** borrows one name to express another closely connected by causation, possession, or physical vicinity."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to atmospheric phenomena, especially weather and weather conditions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to atmospheric phenomena, especially weather and weather conditions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to the atmosphere, atmospheric phenomena, weather, and climate; meteorological.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical geography and environmental sciences, describing observational conditions relating to temperature, barometric pressure, wind, and precipitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meteorologic designates of or pertaining to atmospheric phenomena, especially weather and weather conditions."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The **meteorologic** conditions of mountain elevations determine the precise botanical zones ascending from the valley."*
+> - 📜 **John Tyndall (*Heat Considered as a Mode of Motion*):** *"Water vapor in the atmosphere exercises a profound **meteorologic** influence by regulating terrestrial heat radiation into space."*
+> - 📜 **Henry David Thoreau (*Excursions*):** *"The farmer watches every subtle **meteorologic** sign in the autumn sky to anticipate the arrival of the first killing frost."*

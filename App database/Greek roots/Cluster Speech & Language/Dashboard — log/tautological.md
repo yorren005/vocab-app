@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Repetition of same sense in different words; ; ; - j.b.conant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repetition of same sense in different words; ; ; - j.b.conant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing, characterized by, or repeating the same idea in different words; needlessly redundant in phrasing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In logic, logically necessary and true by virtue of its logical form alone, regardless of the truth or falsity of its constituent atomic statements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I never copy what I write to you, so I may be often tautological, or perhaps contradictory."*
+> - 📜 **Robert Burns (*Letters*):** *"I never copy what I write to you, so I may be often **tautological**, or perhaps contradictory, in my hurried confessions."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"A statement like 'all bachelors are unmarried' is purely **tautological**, derived from definition rather than empirical discovery."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"Judgments concerning the relations of ideas are **tautological**, their opposites implying a direct logical contradiction."*

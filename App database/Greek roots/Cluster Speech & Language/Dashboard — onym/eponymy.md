@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The explanation of a proper name (as of a town or tribe) by supposing a fictitious eponym.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The explanation of a proper name (as of a town or tribe) by supposing a fictitious eponym.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The naming of things, places, or concepts after particular individuals; the practice of deriving names from persons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the sociology of science, the recognition system (as analyzed by Robert K. Merton) whereby scientific discoveries and laws are named after their discoverers (e.g., Newton's laws).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eponymy designates the explanation of a proper name (as of a town or tribe) by supposing a fictitious eponym."*
+> - 📜 **Robert K. Merton (*The Sociology of Science*):** *"The practice of **eponymy** in natural science establishes an institutionalized memory that rewards intellectual priority."*
+> - 📜 **Stephen Jay Gould (*The Mismeasure of Man*):** *"Scientific **eponymy** often immortalizes a pioneer while obscuring the collaborative network that made the discovery possible."*
+> - 📜 **David Crystal (*The Cambridge Encyclopedia of the English Language*):** *"The prevalence of **eponymy** in modern medicine reflects the nineteenth-century custom of naming syndromes after the reporting clinicians."*

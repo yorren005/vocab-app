@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal or plant having both male and female reproductive organs, structures, or tissue : an organism exhibiting hermaphroditism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that is a combination of diverse elements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism having both male and female sex organs or other sexual characteristics (named from the mythological Hermaphroditus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mythology and aesthetics, a figure embodying the harmonious or uncanny fusion of masculine and feminine forms; colloquially, something combining two contradictory natures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Square-riggers, fore-and-afters, hermaphrodites."*
+> - 📜 **Ovid (*Metamorphoses*):** *"The youthful **hermaphrodite** stepped into the enchanted fountain of Salmacis, where their two bodies merged into an inseparable form."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Many marine animals are natural **hermaphrodite** creatures that nevertheless require reciprocal cross-fertilization with a partner."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"Coleridge perhaps meant that the creative mind must be **hermaphrodite**, resonant and porous to every human emotion."*

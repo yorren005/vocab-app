@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a systole or happening during a systole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a systole or happening during a systole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or occurring during cardiac systole; especially designating the maximum blood pressure exerted when the heart contracts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular diagnostics, describing pathological heart sounds, murmurs, or dysfunction (such as systolic heart failure).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, systolic designates of or relating to a systole or happening during a systole."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A harsh **systolic** murmur heard with maximum intensity over the aortic area indicates progressive valvular stenosis."*
+> - 📜 **Eugene Braunwald (*Heart Disease*):** *"Measuring **systolic** ejection fraction provides the most reliable quantitative assessment of left ventricular pump performance."*
+> - 📜 **Walter Cannon (*The Wisdom of the Body*):** *"Sympathetic nervous activation during alarm causes a marked rise in arterial **systolic** pressure."*

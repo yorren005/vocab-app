@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or based on geology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or based on geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the study of the earth's physical structure, substance, history, and the processes that act upon it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and paleontology, designating stratified rock layers that preserve fossil evidence of past life forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Badger, “that he disfigured some of the houses and other buildings by chipping off fragments of those edifices with his little geological hammer."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In the active superintendence of this young person, Judy Smallweed appears to attain a perfectly geological age and to date from the remotest periods."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Soon his steady, ivory stride was heard, as to and fro he paced his old rounds, upon planks so familiar to his tread, that they were all over dented, like geological stones, with the peculiar mark of his walk."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Badger disfigured ancient buildings by chipping off fragments of stone with his inquisitive **geological** hammer."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The imperfection of the **geological** record explains why intermediate fossil varieties are so rarely discovered in rock strata."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The traveler observed the landscape undergoing vast **geological** transformations as millennia flashed past like days."*

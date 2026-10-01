@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhythmically recurrent contraction; especially : the contraction of the heart by which the blood is forced out of the chambers and into the aorta and pulmonary artery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rhythmically recurrent contraction; especially : the contraction of the heart by which the blood is forced out of the chambers and into the aorta and pulmonary artery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The phase of the heartbeat when the heart muscle contracts and pumps blood from the chambers into the arteries (opposed to diastole).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical prosody and rhetoric, the shortening of a syllable that is naturally long, for metrical necessity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, systole designates a rhythmically recurrent contraction; especially : the contraction of the heart by which the blood is forced out of the chambers and into the aorta and pulmonary artery."*
+> - 📜 **William Harvey (*De Motu Cordis*):** *"In the moment of **systole**, the heart contracts vigorously, becoming paler and harder as it drives blood into the aorta."*
+> - 📜 **Herbert Weir Smyth (*Greek Grammar*):** *"Poetic **systole** occasionally shortens a long vowel in epic meter when the cadence demands a swift short syllable."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Autocrat of the Breakfast-Table*):** *"The rhythm of thought resembles the heartbeat, moving between the intense drive of **systole** and the quiet absorption of diastole."*

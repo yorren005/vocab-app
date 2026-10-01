@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a synonymous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a synonymous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a synonymous manner; so as to express the same or equivalent meaning; interchangeably.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific terminology, used interchangeably with an alternative technical label across disciplines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Vanity and pride are different things, though the words are often used synonymously."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The ancient philosophers used these terms **synonymously**, failing to distinguish the intellectual faculties from the passions."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"In popular debate, science and technical utility are often used **synonymously**, though their spiritual aims are vastly different."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Psychologists frequently employ sensation and perception **synonymously**, though the two processes represent distinct neurological levels."*

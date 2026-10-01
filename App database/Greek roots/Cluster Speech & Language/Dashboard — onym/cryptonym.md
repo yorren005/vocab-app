@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A secret name.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A secret name.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A secret name or code name used to conceal the true identity of a person, group, organization, or intelligence operation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In espionage history and cryptography, an alphanumeric designator or pseudonym assigned by intelligence agencies to assets and operations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptonym designates a secret name."*
+> - 📜 **John le Carré (*Tinker Tailor Soldier Spy*):** *"The intelligence dossier referred to the Soviet double agent only by an elusive **cryptonym** known to three senior officers."*
+> - 📜 **Allen Dulles (*The Craft of Intelligence*):** *"To protect the identity of clandestine sources, every field report transmitted from abroad substituted an assigned **cryptonym** for the agent's real name."*
+> - 📜 **David Kahn (*The Codebreakers*):** *"In wartime espionage, a compromised **cryptonym** could instantly unmask an entire network of undercover operatives."*

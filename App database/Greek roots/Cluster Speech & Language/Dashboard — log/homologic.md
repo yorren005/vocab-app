@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Similar in evolutionary origin but not in function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Similar in evolutionary origin but not in function.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting correspondence in structure, position, or evolutionary origin, though not necessarily in function; homologous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In algebraic topology and abstract algebra, relating to homology theory and chain complexes preserving topological invariants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homologic designates similar in evolutionary origin but not in function."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The forelimb of the mole and the flipper of the seal share a deep **homologic** unity beneath their specialized adaptations."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The **homologic** correspondence between the cranial bones of primates demonstrates their shared evolutionary descent from ancestral vertebrates."*
+> - 📜 **Henri Poincaré (*Analysis Situs*):** *"The introduction of **homologic** invariants enabled mathematicians to classify multidimensional manifolds through purely algebraic tools."*

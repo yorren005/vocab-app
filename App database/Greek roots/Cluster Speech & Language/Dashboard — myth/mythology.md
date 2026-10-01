@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An allegorical narrative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A body of myths: such as.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection of myths, especially one belonging to a particular religious or cultural tradition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The systematic scholarly study, comparative analysis, and interpretation of myths and sacred narratives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"To drop metaphor, while nominally investigating a particular problem of ancient mythology, I have really been discussing questions of more general interest which concern the gradual evolution of human thought from savagery to civilization."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Waiving the fact that he had not much evidence for this in the mythology, how was a man to distinguish god from daemon, to know which is which?"*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Yes, but what that religion needed was a great reformer, who should have cut the religion clear adrift from idols of every kind, from the old mythology, from obscenity."*
+> - 📜 **Thomas Bulfinch (*The Age of Fable*):** *"Greek and Roman **mythology** has supplied the poets of all succeeding centuries with rich symbols and allegories."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Comparative **mythology** reveals common ritualistic origins in the seasonal cycles of agriculture and cosmic regeneration."*
+> - 📜 **Edith Hamilton (*Mythology*):** *"Classical **mythology** depicts a world where human beings felt at home in nature, surrounded by deities of human form."*

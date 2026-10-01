@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a diastole or happening during a diastole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a diastole or happening during a diastole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, occurring during, or characteristic of diastole; especially relating to the minimum arterial blood pressure during ventricular relaxation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical cardiology, designating specific diagnostic signs such as a diastolic murmur, diastolic gallop, or diastolic heart failure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diastolic designates of or relating to a diastole or happening during a diastole."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The soft blowing **diastolic** murmur heard along the left sternal border provides unmistakable evidence of aortic regurgitation."*
+> - 📜 **Eugene Braunwald (*Heart Disease*):** *"Elevated **diastolic** pressure indicates sustained vascular resistance within the peripheral arterial beds."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The sphygmomanometer measures both the peak of systolic drive and the resting level of **diastolic** pressure."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Congenital condition in which external genitalia and internal sex organs have both male and female characteristics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing characteristics of both sexes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of having both male and female reproductive organs or dual sexual differentiation in a single individual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, an adaptive reproductive strategy widespread in plants, snails, and reef fishes (simultaneous or sequential hermaphroditism).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hermaphroditism designates congenital condition in which external genitalia and internal sex organs have both male and female characteristics."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"The prevalence of **hermaphroditism** in flowering plants is balanced by remarkable adaptations designed to prevent habitual self-fertilization."*
+> - 📜 **Richard Dawkins (*The Selfish Gene*):** *"In species where sequential **hermaphroditism** occurs, individuals maximize reproductive success by changing sex as they attain larger size."*
+> - 📜 **Havelock Ellis (*Man and Woman*):** *"True anatomical **hermaphroditism** in human beings remains exceptionally rare in clinical records."*

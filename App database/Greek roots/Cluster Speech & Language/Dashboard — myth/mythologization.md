@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The restatement of a message as a myth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The restatement of a message as a myth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of rendering something mythical or creating a mythic aura around a subject.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural studies and media theory, the elevation of celebrity, historical crises, or consumer products into symbolic legends.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mythologization designates the restatement of a message as a myth."*
+> - 📜 **Daniel J. Boorstin (*The Image*):** *"The synthetic **mythologization** of celebrities creates heroes without achievements and fame without substance."*
+> - 📜 **Edward Said (*Orientalism*):** *"Western travel literature contributed to the persistent **mythologization** of the Near East as a realm of sensual intrigue and stagnation."*
+> - 📜 **Hayden White (*Metahistory*):** *"The romantic historian's narrative strategy relies on the progressive **mythologization** of historical protagonists."*

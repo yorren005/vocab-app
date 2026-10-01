@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Monolingual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Monolingual.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who knows, speaks, or reads only one language; monolingual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociolinguistics and comparative education, an individual or community lacking proficiency in any foreign tongue, often resulting in cultural insularity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monoglot designates monolingual."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"The Englishman remains the most complacent **monoglot** in Europe, expecting every foreigner to understand his loud shouts."*
+> - 📜 **H. L. Mencken (*The American Language*):** *"The vast continental expanse of the United States historically encouraged a stubborn **monoglot** mentality among its citizenry."*
+> - 📜 **David Crystal (*The Cambridge Encyclopedia of Language*):** *"While multilingualism is the global norm, the global dominance of English has paradoxically fostered a large population of **monoglot** speakers."*

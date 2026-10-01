@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or based on geology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or based on geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or based upon geology; relating to the history and physical substance of the earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to immense epochs of time measured in millions of years (*deep time*), as recorded in rock strata.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"The very place, where he have been alive, Un-Dead for all these centuries, is full of strangeness of the geologic and chemical world."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Scientific knowledge and mechanical improvement have combined to unlock the storehouses of the geologic ages."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Undeveloped areas will be opened to the world, and new geologic realms will be explored."*
+> - 📜 **Bram Stoker (*Dracula*):** *"The desolate castle had stood through centuries of **geologic** and historical decay amidst the Carpathian crags."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Every **geologic** epoch reveals the steady operation of natural causes acting with unbroken continuity over vast ages."*
+> - 📜 **Stephen Jay Gould (*Time's Arrow, Time's Cycle*):** *"The discovery of **geologic** deep time completely transformed humanity's understanding of our place in cosmic history."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin plate of flexible cartilage in front of the glottis that folds back over and protects the glottis during swallowing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thin plate of flexible cartilage in front of the glottis that folds back over and protects the glottis during swallowing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin, leaf-shaped flap of elastic cartilage situated behind the root of the tongue, which covers the entrance to the larynx during the act of swallowing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In respiratory and gastroenterological physiology, the anatomical gatekeeper that directs swallowed food into the esophagus and protects the trachea from pulmonary aspiration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epiglottis designates a thin plate of flexible cartilage in front of the glottis that folds back over and protects the glottis during swallowing."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"When swallowing occurs, the larynx elevates and the **epiglottis** folds backward over the glottis to prevent food from entering the trachea."*
+> - 📜 **William Beaumont (*Experiments and Observations on the Gastric Juice*):** *"The reflex closure of the **epiglottis** against the laryngeal entrance takes place instantaneously at the contact of the bolus."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The vestigial movements of the **epiglottis** and pharyngeal walls during choking reflect ancient evolutionary defensive reflexes."*

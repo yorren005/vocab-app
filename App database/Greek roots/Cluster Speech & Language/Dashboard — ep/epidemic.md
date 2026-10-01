@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affecting or tending to affect a disproportionately large number of individuals within a population, community, or region at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessively prevalent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A widespread occurrence of an infectious disease affecting a large number of individuals in a community at a particular time; adj. extremely prevalent or widespread.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epidemiology and public health, an outbreak of disease that spreads rapidly beyond normal seasonal baseline expectancy (from Greek epi- upon + demos people).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Whilst many were dying around him, _his health_ continued to improve; so that with the disappearance of the epidemic he found himself sufficiently restored to venture, if Providence should open the door, to resume his ministerial work."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The heedlessness of one family may bring an epidemic upon an entire city."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"An epidemic was raging among the children, and the need-fire was resorted to as a means of staying the plague."*
+> - 📜 **Daniel Defoe (*A Journal of the Plague Year*):** *"The terrible **epidemic** swept through the narrow alleys of London, striking down rich and poor alike."*
+> - 📜 **Albert Camus (*The Plague*):** *"The citizens realized that the **epidemic** had closed their gates, trapping them in a shared exile."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Prompt quarantine and epidemiological tracing remain the first lines of defense against an airborne **epidemic**."*

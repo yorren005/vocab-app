@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek onym.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Speech & Language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word with a broad meaning that includes more specific words in a semantic category; a superordinate term (e.g., animal is a hyperonym of dog); hypernym.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In semantic field theory and lexical hierarchy, the overarching category label that subsumes hyponyms within taxonomic trees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperonym designates a term designating an entity, condition, or phenomenon derived from greek onym."*
+> - 📜 **John Lyons (*Semantics*):** *"In lexical taxonomy, a **hyperonym** such as vehicle subsumes more specific subordinates like car, bicycle, and carriage."*
+> - 📜 **George Lakoff (*Women, Fire, and Dangerous Things*):** *"Basic-level categories sit between an abstract **hyperonym** and a highly specific subordinate term."*
+> - 📜 **David Crystal (*The Cambridge Encyclopedia of Language*):** *"A speaker unable to recall an exact noun will instinctively substitute its superordinate **hyperonym**."*

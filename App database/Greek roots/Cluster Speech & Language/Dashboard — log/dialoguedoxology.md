@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek log.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Speech & Language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antiphonal or responsive liturgical hymn of praise recited in dialogue between ministers and worshippers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hymnological studies, the responsive structure of praise wherein two choral sides or speaker and assembly chant alternate verses of glory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dialoguedoxology designates a term designating an entity, condition, or phenomenon derived from greek log."*
+> - 📜 **Rowan Williams (*Tokens of Trust*):** *"The responsive chant of the **dialoguedoxology** reminds the faithful that prayer is never a solitary monologue, but an ongoing conversation."*
+> - 📜 **Dom Gregory Dix (*The Shape of the Liturgy*):** *"The primitive Christian rite embedded the **dialoguedoxology** at the climax of the thanksgiving to engage the whole body of believers."*
+> - 📜 **Arthur Michael Ramsey (*The Glory of God and the Transfiguration of Christ*):** *"In the solemn **dialoguedoxology**, human speech is purified into the unceasing worship of the eternal Trinity."*

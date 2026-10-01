@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without giving a name.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without giving a name.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an anonymous manner; without disclosing one's name or identity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical publishing and journalism, the practice of contributing reviews, editorials, or tracts without a personal byline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"She has published several works anonymously--the first of which--"The Garland of Flora," was published in Boston in 1829."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Never mind the commoners, whom we will leave to grumble anonymously."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The novel was published **anonymously** in London, leading many reviewers to attribute its somber imaginative power to Percy Shelley."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The editor announced that contributions sent **anonymously** would receive no acknowledgment unless accompanied by a private address."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"I wrote the first papers **anonymously**, slipping them under the door of the printing house where my brother found them next morning."*

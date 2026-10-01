@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gloss.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Speech & Language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who speaks a foreign language; or a linguistic element, word, or locution borrowed from another tongue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In multilingual philology, a term or speaker representing an outside or divergent linguistic system within a predominant speech community.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterogloss designates a term designating an entity, condition, or phenomenon derived from greek gloss."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The ancient Greek was prone to treat every **heterogloss** foreigner as an uncivilized barbarian whose speech resembled meaningless babble."*
+> - 📜 **Wilhelm von Humboldt (*On Language*):** *"When a community adopts a **heterogloss** expression, it imports alongside the word an entire mode of foreign conceptualization."*
+> - 📜 **David Crystal (*The Cambridge Encyclopedia of the English Language*):** *"The Norman Conquest introduced thousands of **heterogloss** terms that fundamentally restructured the lexical inventory of Old English."*

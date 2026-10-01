@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having glossy hair.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having glossy hair.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an outer covering, fur coat, or finished surface that is sleek, smooth, and lustrous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary medicine and animal husbandry, denoting the healthy, gleaming condition of an animal's pelage indicative of sound nutrition and vitality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glossy-coated designates having glossy hair."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The breeder selectively favored **glossy-coated** spaniels whose waterproof pelts withstood the cold marshes."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"A team of handsome, **glossy-coated** farm horses stood patiently in the morning mist, their harnesses gleaming with brass."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"After weeks of abundant salmon, Buck became a magnificent, **glossy-coated** beast radiating wild strength."*

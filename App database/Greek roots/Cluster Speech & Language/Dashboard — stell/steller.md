@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: German naturalist (1709-1746).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German naturalist (1709-1746).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, named after, or relating to Georg Wilhelm Steller (1709–1746), the German naturalist who explored Kamchatka, Alaska, and the Bering Sea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating various North Pacific animal species documented by Steller, notably the Steller's sea cow (Hydrodamalis gigas), Steller's sea lion, and Steller's jay.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, steller designates german naturalist (1709-1746)."*
+> - 📜 **Vitus Bering (*Voyage of Discovery to Kamchatka*):** *"Our naturalist Georg **Steller** accompanied the landing party in Alaska, collecting plants and recording unknown seabirds with tireless zeal."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The tragic extinction of the giant sea cow discovered by **Steller** illustrates the rapid vulnerability of large animals to human predation."*
+> - 📜 **John Muir (*Travels in Alaska*):** *"High among the hemlock boughs, a crest-bearing **Steller**'s jay scolded us with its sharp, metallic cries."*

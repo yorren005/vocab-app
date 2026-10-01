@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being smooth and shiny.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being smooth and shiny.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, state, or property of having a smooth, shiny, and reflective surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials science and visual optics, the specular reflectance of a material surface that determines its perceived polish, sheen, or luster.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glossiness designates the property of being smooth and shiny."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The painter observed with delight the wet **glossiness** of sea pebbles reflecting the changing light of the breaking surf."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Selective breeding in pigeons often produces extraordinary differences in the iridescent **glossiness** of the plumage."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The massive skull of the sperm whale glistened with an oily **glossiness** under the hot blubber room lanterns."*

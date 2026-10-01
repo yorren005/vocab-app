@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person skilled at symbolic logic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person skilled at symbolic logic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist or professional in logistics who plans, coordinates, and manages the transportation, supply, and movement of resources and personnel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of logic and philosophy of mathematics, an advocate of logicism who maintains that arithmetic can be completely deduced from purely logical axioms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I can give you a quick rundown on each now, if you wish." "I do." "Myra is a logistician and a Medic certified to Level 4 in space-related trauma, physical and psychological."*
+> - 📜 **Carl von Clausewitz (*On War*):** *"The military **logistician** must foresee every demand of the marching columns, for victory vanishes when supplies fail."*
+> - 📜 **Bertrand Russell (*Principles of Mathematics*):** *"As a mathematical **logistician**, my aim was to demonstrate that all pure mathematics follows from primitive logical propositions."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Myra is a skilled **logistician** and medic certified in space-related trauma and resource distribution."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek onym.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Speech & Language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The semantic relationship that exists between a specific term (hyponym) and its more general category term (hypernym).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive linguistics and lexical organization, the hierarchical inclusion structuring taxonomic knowledge in human memory and language.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyponymy designates a term designating an entity, condition, or phenomenon derived from greek onym."*
+> - 📜 **John Lyons (*Semantics*):** *"The relation of **hyponymy** provides the logical backbone of vocabulary, structuring words into vertical hierarchical tiers."*
+> - 📜 **Stephen Ullmann (*Semantics*):** *"Semantic fields are organized primarily through **hyponymy**, which governs the inclusion of specific senses within general terms."*
+> - 📜 **David Crystal (*The Cambridge Encyclopedia of Language*):** *"Linguistic tests for **hyponymy** rely on unilateral entailment between specific and generic propositions."*

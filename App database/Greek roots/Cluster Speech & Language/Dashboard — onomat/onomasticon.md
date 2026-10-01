@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek onomat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Speech & Language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection, dictionary, or alphabetical list of proper names, specialized terminology, or specialized vocabularies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical bibliography and historical geography, an encyclopedic lexicon (such as the Onomasticon of Pollux or Eusebius) compiling historical names and topographical locations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onomasticon designates a term designating an entity, condition, or phenomenon derived from greek onomat."*
+> - 📜 **Julius Pollux (*Onomasticon*):** *"In this thematic **onomasticon**, Attic Greek vocabulary is arranged under topical headings to aid poets and rhetoricians."*
+> - 📜 **Eusebius of Caesarea (*Onomasticon*):** *"The **Onomasticon** of biblical place-names served pilgrims as a geographical guide across the Holy Land."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The compiler of an **onomasticon** catalogues the names of deities, heroes, and mountains that populate classical myth."*

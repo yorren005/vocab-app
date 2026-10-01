@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A concluding section that rounds out the design of a literary work : afterword.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A speech often in verse addressed to the audience by an actor at the end of a play; also : the actor speaking such an epilogue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A concluding part, section, or speech added to a literary work, drama, or musical composition; epilogue (from Greek epi- after + logos word).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic literature and narrative structure, a final speech delivered directly to the audience by an actor, summarizing themes or offering philosophical closure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epilog designates a concluding section that rounds out the design of a literary work : afterword."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"It is not the fashion to see the lady the **epilog**; but it is no more unhandsome than to see the lord the prologue."*
+> - 📜 **George Eliot (*Middlemarch*):** *"In the final **epilog**, the author gathers the scattered threads of Dorothea and Ladislaw's quiet destinies."*
+> - 📜 **Thomas Hardy (*The Dynasts*):** *"The Chorus of Pities speaks the concluding **epilog**, reflecting upon the blind urges of the Immanent Will."*

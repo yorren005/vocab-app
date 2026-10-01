@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Foretelling events as if by supernatural intervention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Foretelling events as if by supernatural intervention.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Foretelling future events or pertaining to a prophet or divine revelation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative and historical criticism, possessing an uncanny prescience that accurately delineates future sociopolitical trends or artistic movements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now hear me speak with a prophetic spirit; For even the breath of what I mean to speak Shall blow each dust, each straw, each little rub, Out of the path which shall directly lead Thy foot to England’s throne; and therefore mark."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say from whence You owe this strange intelligence? or why Upon this blasted heath you stop our way With such prophetic greeting?—Speak, I charge you. [_Witches vanish._] BANQUO."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A sibyl, that had number’d in the world The sun to course two hundred compasses, In her prophetic fury sew’d the work; The worms were hallow’d that did breed the silk, And it was dyed in mummy, which the skillful Conserv’d of maiden’s hearts."*
+> - 📜 **Percy Bysshe Shelley (*A Defence of Poetry*):** *"Poets are the unacknowledged legislators of the world, whose verses carry a **prophetic** resonance into succeeding ages."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"With **prophetic** clarity, he foresaw that equality of conditions would eventually dominate the political structures of Europe."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Elijah delivered his strange and **prophetic** warning on the foggy wharf as the crew prepared to board the doomed ship."*

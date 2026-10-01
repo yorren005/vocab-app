@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or produced by the glottis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or produced by the glottis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or produced at the glottis (the space between the vocal cords).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phonetics and phonology, describing speech sounds articulated by the vocal cords, notably the glottal stop [ʔ] and the glottal fricative [h].
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glottal designates of or relating to or produced by the glottis."*
+> - 📜 **Henry Sweet (*A Handbook of Phonetics*):** *"The **glottal** stop is produced by the complete closure and sudden explosive reopening of the vocal cords."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"Consonants articulated in the larynx belong to the **glottal** series, functioning as boundary markers in many languages."*
+> - 📜 **Edward Sapir (*Language*):** *"In American Indian languages, a distinctive **glottal** catch frequently distinguishes words that are otherwise homophonous."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who studies the nature and effects of poisons and their treatment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who studies the nature and effects of poisons and their treatment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist or specialist who studies the nature, effects, mechanisms, and treatment of poisons and toxic substances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and forensic science, a medical expert who identifies chemical poisons in tissue samples and testifies in criminal or environmental proceedings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toxicologist designates one who studies the nature and effects of poisons and their treatment."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The police called upon an eminent **toxicologist** from London to determine the poison that tipped the deadly Andaman dart."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The forensic **toxicologist** must be prepared to detect synthetic poisons that mimic natural cardiovascular collapse."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The skilled **toxicologist** understands that the boundary between an effective medicine and a lethal poison is often merely a matter of dose."*

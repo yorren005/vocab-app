@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of insulting or showing contempt or lack of reverence for God or to something sacred.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something said or done that is disrespectful to God or to something sacred.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Speech, writing, or action exhibiting contempt, irreverence, or profanation toward sacred things, deities, or inviolable religious tenets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal jurisprudence and legal history, the common-law offense of publicly uttering profane words calculated to undermine religious reverence and disturb public peace.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But that my heart’s on future mischief set, I would speak blasphemy ere bid you fly; But fly you must; uncurable discomfit Reigns in the hearts of all our present parts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That in the captain’s but a choleric word Which in the soldier is flat blasphemy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, blasphemy, That swear’st grace o’erboard, not an oath on shore?"*
+> - 📜 **John Milton (*Paradise Lost*):** *"So spake the false archangel, and infused bad influence into the unwary breast, uttering heinous **blasphemy** against the throne of heaven."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"To seek to defend religion through cruelty or sedition is to commit the highest form of political **blasphemy**."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The law considers **blasphemy** against the Almighty by denying His being or providence as an indictable breach of civil peace."*

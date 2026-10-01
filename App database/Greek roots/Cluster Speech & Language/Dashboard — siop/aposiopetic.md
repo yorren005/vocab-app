@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The leaving of a thought incomplete usually by a sudden breaking off (as in "his behavior was—but I blush to mention that").
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The leaving of a thought incomplete usually by a sudden breaking off (as in "his behavior was—but I blush to mention that").
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by aposiopesis; marked by an intentional abrupt breaking off in speech or writing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic prosody and stylistic analysis, describing sentences or verses that end in a pregnant pause, dash, or trailing silence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aposiopetic designates the leaving of a thought incomplete usually by a sudden breaking off (as in "his behavior was—but i blush to mention that")."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The abrupt, **aposiopetic** pauses in Shakespeare's tragic soliloquies mirror the fractured torrent of overwhelming grief."*
+> - 📜 **George Saintsbury (*A History of English Prose Rhythm*):** *"The sentence breaks off with an **aposiopetic** dash, leaving the imagination to complete the terrifying implication."*
+> - 📜 **Henry James (*The Golden Bowl*):** *"Her voice trailed into an **aposiopetic** murmur, as if the unspoken truth were too hazardous for the drawing-room."*

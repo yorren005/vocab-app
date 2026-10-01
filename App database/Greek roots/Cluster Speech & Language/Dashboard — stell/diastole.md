@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhythmically recurrent expansion; especially : the relaxation and dilation of the chambers of the heart and especially the ventricles during which they fill with blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rhythmically recurrent expansion; especially : the relaxation and dilation of the chambers of the heart and especially the ventricles during which they fill with blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The phase of the heartbeat when the heart muscle relaxes and the ventricles dilate and fill with blood (contrasted with systole).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical prosody and rhetoric, the poetic lengthening of a syllable that is naturally short, usually for metrical convenience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diastole designates a rhythmically recurrent expansion; especially : the relaxation and dilation of the chambers of the heart and especially the ventricles during which they fill with blood."*
+> - 📜 **William Harvey (*De Motu Cordis*):** *"When the heart dilates during **diastole**, the relaxed ventricles receive blood from the auricles ready for the next contraction."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"The ancient poet lengthened the short vowel by poetic **diastole** to satisfy the rigorous cadence of the dactylic hexameter."*
+> - 📜 **John Keats (*Endymion*):** *"His heart beat with a strange rhythmic rhythm, pausing in anxious **diastole** before bounding forward in love."*

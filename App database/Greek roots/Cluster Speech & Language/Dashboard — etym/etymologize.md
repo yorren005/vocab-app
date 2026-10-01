@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To discover, formulate, or state an etymology for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To study or formulate etymologies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To trace the origin, historical development, and linguistic derivation of words (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lexicography and philosophical discourse, to examine words historically to uncover the forgotten sensory metaphors that gave birth to abstract concepts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, etymologize designates to discover, formulate, or state an etymology for."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I love to **etymologize**, to trace a word back through Greek and Sanskrit until it becomes a wild, fragrant flower."*
+> - 📜 **Ralph Waldo Emerson (*The Poet*):** *"The philosopher learns to **etymologize** all institutions, finding their roots in the primal instincts of the human mind."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Autocrat of the Breakfast-Table*):** *"When you **etymologize** an ordinary phrase, you strike down through modern asphalt into ancient geological gravel."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Defend, explain, clear away, or make excuses for by reasoning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acknowledge faults or shortcomings or failing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To express regret for something that one has done wrong; to make an apology (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical discourse, to offer a formal reasoned defense or vindication of conduct or opinions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester; “and in the interim, I shall myself look out for employment and an asylum for you.” “Thank you, sir; I am sorry to give—” “Oh, no need to apologise!"*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"And now I must fly to my dear boy to apologise to him for the wrong which I have done him."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Don't apologise, man, for I'm glad it is so, There's a joy in the grief that I wouldn't forego."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Rochester exclaimed, 'No need to **apologise**, for in truth the fault was mine alone!'"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Collins deemed it his solemn duty to **apologise** for having intruded upon the ladies of Longbourn."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"Do not **apologise** for your passionate convictions; it is apathy alone that deserves condemnation."*

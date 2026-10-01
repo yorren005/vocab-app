@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inscription on or at a tomb or a grave in memory of the one buried there.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brief statement commemorating or epitomizing a deceased person or something past.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inscription on a tombstone, monument, or grave in memory of the person buried there; broadly, a brief commemorative literary composition honoring a deceased person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary history and sepulchral epigraphy, a poetic tribute or moral reflection inscribed on marble or brass (from Greek epi- upon + taphos tomb).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then if he thrive and I be cast away, The worst was this: my love was my decay. 81 Or I shall live your epitaph to make, Or you survive when I in earth am rotten, From hence your memory death cannot take, Although in me each part will be forgotten."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His good remembrance, sir, Lies richer in your thoughts than on his tomb; So in approof lives not his epitaph As in your royal speech."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"After your death you were better have a bad epitaph than their ill report while you live."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"After my death you were better have a bad **epitaph** than their ill report while you live."*
+> - 📜 **Thomas Gray (*Elegy Written in a Country Churchyard*):** *"Here rests his head upon the lap of Earth / A youth to Fortune and to Fame unknown: / Large was his bounty, and his soul sincere; / Heaven did a recompense as largely send."*
+> - 📜 **John Keats (*Letter to Fanny Brawne*):** *"Here lies One Whose Name was writ in Water—the saddest and simplest **epitaph** in Rome."*

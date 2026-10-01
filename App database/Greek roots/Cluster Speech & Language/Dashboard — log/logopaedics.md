@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek log.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Speech & Language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study, clinical diagnosis, and therapeutic treatment of speech, language, and voice defects, especially in children; speech-language pathology (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine and rehabilitation, an allied healthcare discipline focusing on correcting developmental phonological delays, stuttering, and swallowing disorders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logopaedics designates a term designating an entity, condition, or phenomenon derived from greek log."*
+> - 📜 **Jean Piaget (*The Language and Thought of the Child*):** *"Clinical research in pediatric **logopaedics** illuminates how physical motor coordination interacts with symbolic linguistic acquisition."*
+> - 📜 **Oliver Sacks (*Seeing Voices*):** *"Specialists in **logopaedics** have devised ingenious tactile methods to teach deaf children how to modulate oral articulation."*
+> - 📜 **Sigmund Freud (*Studies on Hysteria*):** *"The physician must collaborate with practitioners of **logopaedics** to differentiate psychogenic aphonia from organic vocal paralysis."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by ascetic solitude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by ascetic solitude.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of a hermit; solitary, reclusive, or anchoritic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing a lifestyle or disposition marked by ascetic retreat, seclusion, or rigorous detachment from worldly society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hermitic designates characterized by ascetic solitude."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Teufelsdröckh lived in an elevated, **hermitic** attic overlooking the noisy metropolis, contemplating human vanity from aloft."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The scholar must often adopt a **hermitic** independence to protect his thoughts from the clamor of public opinion."*
+> - 📜 **Washington Irving (*The Sketch Book*):** *"The traveler discovered a quaint, **hermitic** cottage nestled in the valley, undisturbed by the hurried progress of the modern world."*

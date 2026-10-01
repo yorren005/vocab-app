@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an airtight manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an airtight manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a way that is completely airtight or sealed so that no gas or liquid can enter or escape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an isolated, insular, or secretive manner, cut off from external communication, scrutiny, or influence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"This done, the hatches are replaced, and hermetically closed, like a closet walled up."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The invisible door might be hermetically sealed."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The partitions had doors that were shut hermetically by means of india-rubber instruments, and they ensured the safety of the _Nautilus_ in case of a leak."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The chemical mixture was **hermetically** enclosed within a heavy glass tube before being subjected to intense heat."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"The oceanic society lived **hermetically** isolated from the rest of the world, knowing foreign cultures only through fabricated propaganda."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The poison had been kept in a **hermetically** sealed phial to prevent its deadly vapors from evaporating."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek log.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Speech & Language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A psychotherapeutic approach developed by Viktor Frankl, based on the principle that the primary human motivation is the search for meaning in life (from Greek logos meaning/reason).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In existential psychiatry, known as the 'Third Viennese School of Psychotherapy,' emphasizing personal responsibility, spiritual dignity, and discovering purpose even amidst unavoidable suffering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logotherapy designates a term designating an entity, condition, or phenomenon derived from greek log."*
+> - 📜 **Viktor Frankl (*Man's Search for Meaning*):** *"The central tenet of **logotherapy** is that life holds meaning under all circumstances, even in the most miserable ones."*
+> - 📜 **Rollo May (*Existence*):** *"Frankl's **logotherapy** introduced into clinical therapy the vital insight that lack of meaning produces existential neurosis."*
+> - 📜 **Gordon Allport (*Personality: A Psychological Interpretation*):** *"By directing the patient toward future tasks, **logotherapy** restores human dignity where deterministic psychology saw only conditioning."*

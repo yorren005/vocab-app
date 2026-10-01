@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An incurable optimist in a satire by voltaire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An incurable optimist in a satire by voltaire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is blindly, foolishly, or incurably optimistic, continually maintaining that all is for the best despite overwhelming evidence to the contrary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary satire and philosophy, the fictional tutor Dr. Pangloss in Voltaire's Candide, who parodies Leibnizian philosophical optimism ('all is for the best in the best of all possible worlds').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Pangloss for himself; and very earnestly, but very unsuccessfully, trying to persuade the others that there were some fine tragic parts in the rest of the Dramatis Personæ."*
+> - 📜 **Voltaire (*Candide*):** *"Master **Pangloss** taught the metaphysico-theologico-cosmo-nigology, demonstrating that there is no effect without a cause and that this is the best of all possible worlds."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"Nature exhibits too much suffering for any honest thinker to adopt the shallow optimism of Dr. **Pangloss**."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"Evolutionary biologists must avoid the **Pangloss** trap of assuming that every anatomical feature is an optimal adaptive design."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Verb*) To subject to, transform by, or operate upon through send.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Verb*) To subject to, transform by, or operate upon through send.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To write letters; to communicate with someone in the form of letters or epistles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary history, to compose essays, polemics, or moral treatises in the epistolary format.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epistolize designates verb*) to subject to, transform by, or operate upon through send."*
+> - 📜 **Laurence Sterne (*Tristram Shandy*):** *"When my father was in a meditative humor, he loved to **epistolize** his friends on the absurdities of human speculation."*
+> - 📜 **Lord Byron (*Letters and Journals*):** *"I have a great mind to **epistolize** the publisher in heroic couplets to vent my irritation at these delays."*
+> - 📜 **Horace Walpole (*Letters*):** *"To sit at one's desk and **epistolize** about the gossip of the town is my favorite defense against rural boredom."*

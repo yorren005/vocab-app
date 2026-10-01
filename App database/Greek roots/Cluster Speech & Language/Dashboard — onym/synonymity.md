@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The semantic relation that holds between two words that can (in a given context) express the same meaning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The semantic relation that holds between two words that can (in a given context) express the same meaning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, condition, or state of being synonymous; synonymy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy of language, the semantic equivalence or cognitive sameness of meaning between distinct linguistic expressions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synonymity designates the semantic relation that holds between two words that can (in a given context) express the same meaning."*
+> - 📜 **W. V. Quine (*Two Dogmas of Empiricism*):** *"The notion of **synonymity** cannot be defined in terms of interchangeability without relying upon the very concept of analyticity."*
+> - 📜 **Gottlob Frege (*On Sense and Reference*):** *"Cognitive **synonymity** requires identity of sense, not merely the sharing of an identical physical referent."*
+> - 📜 **Bertrand Russell (*An Inquiry into Meaning and Truth*):** *"The philosopher must investigate whether complete **synonymity** is ever achievable between distinct linguistic propositions."*

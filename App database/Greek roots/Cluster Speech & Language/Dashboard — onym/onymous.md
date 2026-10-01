@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bearing a name.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bearing a name.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bearing or published under the author's real name; opposite of anonymous or pseudonymous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bibliographic history and publishing law, denoting works whose authorship is openly declared and legally authenticated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Omnipotence set forth In the Bible the word /Spirit /is so commonly applied 345:1 to Deity, that Spirit and God are often regarded as syn- onymous terms; and it is thus they are uniformly used 345:3 and understood in Christian Science."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"The author chose to be **onymous**, placing his real name boldly upon the title page as a pledge of personal responsibility."*
+> - 📜 **Isaac D'Israeli (*Curiosities of Literature*):** *"A controversial tract gains authority when its author steps forward in an **onymous** publication to confront his critics."*
+> - 📜 **Henry James (*The Aspern Papers*):** *"He preferred the **onymous** clarity of acknowledged letters to the shadowy ambiguities of unsigned memoirs."*

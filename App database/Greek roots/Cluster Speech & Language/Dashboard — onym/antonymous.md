@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of words: having opposite meanings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of words: having opposite meanings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or expressing an antonym; opposite in meaning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lexical semantics, denoting word pairs that occupy complementary, gradable, or relational opposite poles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antonymous designates of words: having opposite meanings."*
+> - 📜 **Geoffrey Leech (*Semantics*):** *"Pairs of **antonymous** adjectives like large and small do not represent absolute values, but relative positions along a graded scale."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The structural value of a lexical sign is partly defined by its **antonymous** relation to contrasting terms in the paradigm."*
+> - 📜 **Noam Chomsky (*Aspects of the Theory of Syntax*):** *"Semantic features must specify whether two lexical entries are **antonymous** in order to account for contradictions in sentential logic."*

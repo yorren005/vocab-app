@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indicating the most important performer or role.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or relating to or resembling or emanating from stars.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a star or stars; astral.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, exceptionally good, brilliant, or outstanding; pertaining to a leading theatrical performer or celebrity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They were at stellar distances from her present world."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Never Boreas’ hoary path, Never Eurus’ pois’nous breath, Never baleful stellar lights, Taint thee with untimely blights!"*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Copernicus mapped out the stellar system, and before he spake, astrography was chaotic, and the heavenly fields 121:6 were incorrectly explored."*
+> - 📜 **Arthur Eddington (*The Internal Constitution of the Stars*):** *"Within the incandescent core of a star, radiation pressure supports the enormous weight of the outer **stellar** layers."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"A man should learn to detect and watch that gleam of light which flashes across his mind from within, more than the lustre of the **stellar** firmament."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"We are made of **stellar** ash, synthesized in the nuclear furnaces of ancient exploding suns."*

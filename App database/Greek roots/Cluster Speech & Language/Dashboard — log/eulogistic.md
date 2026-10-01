@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formally expressing praise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formally expressing praise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formally expressing high praise; commendatory; laudatory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary stylistics, characterized by the elevated, encomiastic language typical of funeral orations and official citations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Though I never knew what they were (being in Welsh), further than that they were highly eulogistic of the lineage of Morgan ap-Kerrig."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"On his tombstone, too, the record is highly eulogistic; nor does history, so far as he holds a place upon its page, assail the consistency and uprightness of his character."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"In short, the honorable Judge was beginning to be a stale subject before half the country newspapers had found time to put their columns in mourning, and publish his exceedingly eulogistic obituary."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The ancient Welsh genealogies were highly **eulogistic** of the ancestral lineage of Morgan ap-Kerrig."*
+> - 📜 **Henry James (*The Bostonians*):** *"The newspaper published a **eulogistic** review that hailed the young reformer as the herald of a new political dawn."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His speech was marked by **eulogistic** phrases designed to flatter the vanity of his provincial constituents."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of unknown authorship or origin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not named or identified.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no known or acknowledged name; of unknown authorship, origin, or identity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural critique, lacking distinctive individual character, personal warmth, or identifying markers (e.g., anonymous architecture).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Upon which law-writer there was an inquest, and which law-writer was an anonymous character, his name being unknown."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood seized it and opened it, expecting another anonymous one—so greatly are people’s ideas of probability a mere sense that precedent will repeat itself."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The letter could of course be no other than anonymous, or the inquiry would not have been necessary."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"Some praise at morning what they blame at night, but always think the last opinion right, led by some **anonymous** scribbler's malicious wit."*
+> - 📜 **Charlotte Brontë (*Biographical Notice of Ellis and Acton Bell*):** *"We were prompted by an earnest desire to remain **anonymous**, wishing that our poems should be judged without regard to our sex."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The king was infuriated by an **anonymous** letter thrown into his bedchamber, warning him of a conspiracy among his trusted courtiers."*

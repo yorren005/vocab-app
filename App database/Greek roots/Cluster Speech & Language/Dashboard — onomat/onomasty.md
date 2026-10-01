@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek onomat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Speech & Language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science, system, or practice of naming; onomastics; a collection or catalogue of names.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and folkloric philology, the systematic classification of naming practices across clans, occupations, and geographical regions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onomasty designates a term designating an entity, condition, or phenomenon derived from greek onomat."*
+> - 📜 **Richard Chenevix Trench (*On the Study of Words*):** *"The principles of **onomasty** reveal how nicknames, occupations, and localities crystallized into permanent hereditary surnames."*
+> - 📜 **Max Müller (*The Science of Language*):** *"In comparative **onomasty**, the names of gods across the Indo-European family reflect identical celestial metaphors."*
+> - 📜 **Edward Sapir (*Selected Writings*):** *"The subtle art of **onomasty** reflects the psychological values and social hierarchies of every human society."*

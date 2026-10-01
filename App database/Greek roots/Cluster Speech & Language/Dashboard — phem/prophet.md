@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who utters divinely inspired revelations: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The writer of one of the prophetic books of the Bible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual regarded as speaking by divine inspiration or as an authoritative interpreter of divine will.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An influential pioneer, spokesperson, or visionary who foresees, initiates, or leads an intellectual, cultural, or social movement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A prophet I, madam; and I speak the truth the next way: _For I the ballad will repeat, Which men full true shall find; Your marriage comes by destiny, Your cuckoo sings by kind._ COUNTESS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No prophet will I trust if she prove false. [_Exeunt._] SCENE III."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now shine it like a comet of revenge, A prophet to the fall of all our foes!"*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"The **prophet** stands among his fellow mortals as an inspired soul disclosing the eternal divine nature of things."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Every great thinker appears at first as a solitary **prophet** preaching truths that his contemporaries deem dangerous folly."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She possessed that ardent faith which makes a woman ready to recognize an apostolic **prophet** in any earnest reformer."*

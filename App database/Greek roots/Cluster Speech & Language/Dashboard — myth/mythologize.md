@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Construct a myth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make into a myth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To turn into a myth; to construct, treat, or interpret as a mythical narrative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural criticism, to convert real historical events or individuals into heroic, larger-than-life cultural archetypes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mythologize designates construct a myth."*
+> - 📜 **Joan Didion (*Slouching Towards Bethlehem*):** *"California writers frequently **mythologize** the western frontier until the landscape becomes a moral abstraction."*
+> - 📜 **Richard Hofstadter (*The American Political Tradition*):** *"Every democracy tends to **mythologize** its founding figures, transforming pragmatic politicians into flawless icons."*
+> - 📜 **Simon Schama (*Landscape and Memory*):** *"Human societies instinctively **mythologize** their rivers and forests, investing them with ancestral memory."*

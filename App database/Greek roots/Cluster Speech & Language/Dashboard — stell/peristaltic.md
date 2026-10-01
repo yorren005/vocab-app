@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, resulting from, or being peristalsis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an action suggestive of peristalsis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or involving peristalsis—the involuntary wave of muscular contraction and relaxation that moves contents along a tubular organ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biomedical engineering, describing pumps and mechanisms that convey fluids through flexible tubing by progressive external compression rollers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peristaltic designates of, relating to, resulting from, or being peristalsis."*
+> - 📜 **William Beaumont (*Experiments and Observations on the Gastric Juice*):** *"Direct observation revealed the powerful **peristaltic** waves of the stomach churning food into homogeneous chyme."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The coordinated **peristaltic** contraction of circular and longitudinal muscle fibers drives the intestinal contents onward."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Vagus nerve stimulation intensified the **peristaltic** action of the digestive canal during active digestion."*

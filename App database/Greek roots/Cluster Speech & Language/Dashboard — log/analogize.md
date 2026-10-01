@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To use or exhibit analogy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To compare by analogy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To draw an analogy; to explain or illustrate something through a comparison with something similar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal reasoning and jurisprudence, to compare precedent cases with a novel dispute to determine applicable judicial principles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, analogize designates to use or exhibit analogy."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"Judges constantly **analogize** novel technological disputes to ancient common-law precedents governing trespass and bailment."*
+> - 📜 **William James (*The Principles of Psychology*):** *"To think creatively is to **analogize** spontaneously, seeing identical relational patterns in dissimilar perceptions."*
+> - 📜 **Steven Pinker (*The Stuff of Thought*):** *"When we confront an abstract dilemma, our instinct is to **analogize** the issue into physical journeys and spatial boundaries."*

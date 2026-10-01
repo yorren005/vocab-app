@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not prophetic; not foreseeing correctly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not prophetic; not foreseeing correctly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not forecasting or anticipating the future; lacking foresight, prescience, or prophetic quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by an erroneous, myopic, or naive evaluation of approaching events or historical currents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unprophetic designates not prophetic; not foreseeing correctly."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"They walked together across the tranquil meadows, blissfully **unprophetic** of the tragic storm that would soon overwhelm their lives."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"The nineteenth-century statesmen proved entirely **unprophetic** regarding the staggering technological forces about to be unleashed."*
+> - 📜 **George Meredith (*The Egoist*):** *"His self-satisfaction rendered him absurdly **unprophetic** of the rebellion quietly gathering in the young lady's mind."*

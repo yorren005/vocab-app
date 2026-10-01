@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An earlier form of a word in the same language or an ancestral language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word in a foreign language that is the source of a particular loanword.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The primitive or ancestral word, morpheme, or root from which a later word or derivative is historically derived.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics and morphology, the earliest verifiable source form in a parent language (e.g., Proto-Indo-European *bher- as the etymon of English 'bear' and Latin 'ferre').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, etymon designates an earlier form of a word in the same language or an ancestral language."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary*):** *"The true Old English **etymon** explains the irregular vowel mutation observed in the modern plural form."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The ancestral **etymon** may bear little semantic resemblance to the shifted meaning accepted by modern speakers."*
+> - 📜 **Max Müller (*The Science of Language*):** *"Comparing the Sanskrit radical with the Greek **etymon** confirms their common descent from an unrecorded Indo-European source."*

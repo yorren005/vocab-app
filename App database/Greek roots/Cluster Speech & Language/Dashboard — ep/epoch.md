@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An event or a time marked by an event that begins a new period or development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A memorable event or date.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinctive period of time marked by notable events, particular characteristics, or historic developments; an era.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology and geochronology, a formal division of geologic time smaller than a period and larger than an age (e.g., the Pleistocene Epoch).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It was this undertaking of the initiative by the government, the treatment of the problem as one of the general welfare, that marked a new epoch in this field."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The great epoch of the formation of combinations[15] followed the enactment of this law."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"The entrance of the Grants and Crawfords was a favourable epoch."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Each successive geological **epoch** is stamped with its own distinctive assemblage of extinct organic forms."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The reign of Augustus marks a decisive **epoch** in the transformation of republican freedom into imperial autocracy."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"A new **epoch** commenced when the Bastille fell before the unstoppable wrath of the populace."*

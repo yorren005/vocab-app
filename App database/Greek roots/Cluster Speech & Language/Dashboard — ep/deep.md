@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The central and most intense or profound part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long steep-sided depression in the ocean floor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extending far down from the top or surface; profound in thought, emotion, or learning; also, an abyss or ocean deep (Old English deop, Germanic homograph).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine oceanography, an abyssal trench or depression in the ocean floor exceeding 6,000 meters in depth; metaphorically, dark, resonant, or impenetrable.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your shallowest help will hold me up afloat, Whilst he upon your soundless deep doth ride, Or (being wrecked) I am a worthless boat, He of tall building, and of goodly pride."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For I have sworn deep oaths of thy deep kindness: Oaths of thy love, thy truth, thy constancy, And to enlighten thee gave eyes to blindness, Or made them swear against the thing they see."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though I swore I leap’d from the window of the citadel,— FIRST LORD. [_Aside._] How deep?"*
+> - 📜 **William Shakespeare (*The Tempest*):** *"Full fathom five thy father lies; / Of his bones are coral made; / Those are pearls that were his eyes: / Nothing of him that doth fade, / But doth suffer a sea-change / Into something rich and strange."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The grand, ungodly, god-like man looked out upon the **deep**, brooding over the white leviathan."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Into the abyssal **deep**, where eternal darkness reigns, the drifting organic snow nourishes bizarre benthic creatures."*

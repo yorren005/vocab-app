@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in geology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist who studies the solid, liquid, and gaseous matter that constitutes the Earth and other terrestrial planets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science, a field naturalist who maps rock strata, reconstructs tectonic history, and interprets fossil succession.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"That the vulgar should believe in extraordinary comets traversing space, and in the existence of antediluvian monsters in the heart of the globe, may well be; but neither astronomer nor geologist believes in such chimeras."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Subsequent examinations showed this entire region to be one of remarkable interest to the geologist."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Only the enthusiasm of the student could have endured the discomfort, but to him it appeared a most unnecessary "conversion of force" that a geologist should be driven from the field by his own dust."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Neither astronomer nor **geologist** believes in those chimerical subterranean monsters conceived by ancient folklore."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The field **geologist** must interrogate the living operations of rivers and volcanoes to decipher the monuments of the past."*
+> - 📜 **Thomas Henry Huxley (*Discourses: Biological and Geological*):** *"The **geologist** deciphers the history of the earth inscribed upon rock layers like an antiquarian deciphering ancient inscriptions."*

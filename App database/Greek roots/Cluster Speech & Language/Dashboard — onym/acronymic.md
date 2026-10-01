@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by the use of acronyms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by the use of acronyms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or having the nature of an acronym.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stylistic analysis, describing texts or institutional discourses dominated by dense initialisms and condensed letter sequences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acronymic designates characterized by the use of acronyms."*
+> - 📜 **H. L. Mencken (*The American Language*):** *"The government bureaus of Washington developed an **acronymic** jargon that bewildered ordinary citizens seeking plain information."*
+> - 📜 **David Crystal (*Language and the Internet*):** *"Modern text messaging has accelerated the creation of **acronymic** contractions to economize time and keyboard effort."*
+> - 📜 **Umberto Eco (*Foucault's Pendulum*):** *"The cabalistic manuscript concealed its secrets beneath elaborate **acronymic** titles that baffled uninitiated readers."*

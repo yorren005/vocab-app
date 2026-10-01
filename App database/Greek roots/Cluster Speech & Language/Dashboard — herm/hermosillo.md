@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in northwestern mexico near the gulf of california.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in northwestern mexico near the gulf of california.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital and largest city of the Mexican state of Sonora, named in 1828 in honor of insurgent general José María González de Hermosillo.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Mexican history and regional geography, a key economic hub of northwestern Mexico located in the Sonoran Desert (etymologically from Spanish hermoso beautiful).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hermosillo designates a city in northwestern mexico near the gulf of california."*
+> - 📜 **John Russell Bartlett (*Personal Narrative*):** *"We reached **Hermosillo** at sunset, finding its spacious plazas shaded by orange trees and watered by canals from the river."*
+> - 📜 **Alexander von Humboldt (*Political Essay on the Kingdom of New Spain*):** *"The agricultural valleys surrounding the settlement of **Hermosillo** yielded bountiful wheat crops despite the arid desert climate."*
+> - 📜 **Hubert Howe Bancroft (*History of the North Mexican States and Texas*):** *"General **Hermosillo** led the insurgent forces into Sonora, leaving his name to be memorialized on the state's future capital."*

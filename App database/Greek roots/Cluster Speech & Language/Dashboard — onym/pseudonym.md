@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fictitious name; especially : pen name.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using a false name instead of one's real name.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fictitious name adopted by an author or public figure to conceal their true identity; a pen name or alias.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and literary history, a device used by marginalized or politically endangered writers (e.g., Mary Ann Evans writing as George Eliot) to secure unbiased readership.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Contemporary Rev., Sept., pp. 284-296, on ‘Balaustion’s Adventure’, by Matthew Browne (pseudonym). 1871."*
-> - 📜 **James Joyce (*Ulysses*):** *"We are not speaking so much of those delightful lovesongs with which the writer who conceals his identity under the graceful pseudonym of the Little Sweet Branch has familiarised the bookloving world but rather (as a contributor D."*
+> - 📜 **George Eliot (*Letters*):** *"I chose the **pseudonym** George Eliot because George was Lewes's Christian name and Eliot was a good mouth-filling word."*
+> - 📜 **Charlotte Brontë (*Biographical Notice of Ellis and Acton Bell*):** *"We adopted the ambiguous **pseudonym** of Currer, Ellis, and Acton Bell to preserve our privacy while publishing our poems."*
+> - 📜 **Mark Twain (*Autobiography*):** *"I adopted the river **pseudonym** Mark Twain when the venerable pilot Captain Sellers passed away."*

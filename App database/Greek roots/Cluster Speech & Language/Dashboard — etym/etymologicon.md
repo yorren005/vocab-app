@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek etym.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Speech & Language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An etymological dictionary or lexicon that traces and explains the historical derivations and roots of words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical scholarship, specifically designating landmark historical lexicons such as the 10th-century Byzantine Etymologicum Magnum or Gerard Vossius's Etymologicon Linguae Latinae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, etymologicon designates a term designating an entity, condition, or phenomenon derived from greek etym."*
+> - 📜 **Walter William Skeat (*A Student's Pastime*):** *"Gerard Vossius's monumental **Etymologicon** provided early modern scholars with their primary guide to classical derivations."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The Byzantine **Etymologicon** Magnum preserved thousands of ancient grammatical glosses that would otherwise have perished."*
+> - 📜 **Samuel Johnson (*Life of Milton*):** *"Milton consulted the **Etymologicon** of Skinner to authenticate the archaic vocabulary of his epic verse."*

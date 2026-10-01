@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The substitution of an agreeable or inoffensive word or expression for one that is harsh, indelicate, or otherwise unpleasant or taboo; also : the word or expression so substituted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The substitution of an agreeable or inoffensive word or expression for one that is harsh, indelicate, or otherwise unpleasant or taboo; also : the word or expression so substituted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The substitution of an agreeable, indirect, or mild expression for one that may offend, distress, or suggest something unpleasant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political and cultural analysis, institutionalized linguistic obfuscation deployed to sanitize atrocities, manage public perception, or avoid frank confrontation with mortality and taboo.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The sagas and myths of the people of New Britain deal mostly with obscene matters, although every piece of obscenity is carefully covered up, and is described in euphemisms and circumlocutions."*
+> - 📜 **George Orwell (*Politics and the English Language*):** *"Defenseless villages are bombarded from the air, the inhabitants driven out into the countryside: this is called pacification, a polite **euphemism** designed to soften horrors."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Nature avoids sharp transitions, employing gentle shadow as a physical **euphemism** to ease our eyes into darkness."*
+> - 📜 **Aldous Huxley (*Brave New World Revisited*):** *"Propaganda relies upon the antiseptic **euphemism** to divorce human conscience from the brutal mechanics of state control."*

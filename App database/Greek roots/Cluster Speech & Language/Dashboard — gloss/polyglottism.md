@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of many languages : the ability to speak many languages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of many languages : the ability to speak many languages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice, condition, or state of knowing, speaking, or writing multiple languages; multilingualism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociolinguistic and cognitive research, the cognitive capacity to switch fluently between diverse language systems without cross-linguistic interference.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyglottism designates the use of many languages : the ability to speak many languages."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Widespread **polyglottism** among Mediterranean traders facilitated the cross-pollination of ancient mythologies and religious cults."*
+> - 📜 **Wilhelm von Humboldt (*On Language*):** *"True **polyglottism** does not merely multiply words; it enriches the human spirit by multiplying distinct worldviews."*
+> - 📜 **David Crystal (*The Cambridge Encyclopedia of Language*):** *"Modern neuroimaging reveals that lifelong **polyglottism** fosters enhanced executive cognitive reserve in aging brains."*

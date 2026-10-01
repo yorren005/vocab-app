@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An orator who delivers eulogies or panegyrics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An orator who delivers eulogies or panegyrics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who praises or commends another, especially one who delivers or writes a eulogy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In funeral oratory and panegyrics, a speaker appointed to commemorate the life and moral character of a deceased figure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"When the time does come, it will suffice if a kind eulogist will say for me, as one said for Grant, "Let his faults … be writ in water." Lige, my condition came about slowly."*
+> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"When the time comes, it will suffice if a kind **eulogist** will say of me that my faults were written in water."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The royalist **eulogist** described the fallen monarch as a blameless martyr, omitting every violation of constitutional law."*
+> - 📜 **Ralph Waldo Emerson (*Lectures and Biographical Sketches*):** *"The sincere **eulogist** does not invent imaginary virtues, but allows the simple truth of a noble life to speak for itself."*

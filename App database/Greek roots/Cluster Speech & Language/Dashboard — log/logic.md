@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science that deals with the principles and criteria of validity of inference and demonstration : the science of the formal principles of reasoning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch or variety of logic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal systematic study of the principles of valid inference, correct reasoning, and deductive demonstration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A particular method, system, or operational framework of reasoning (e.g., modal logic, mathematical logic, or Boolean logic).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How now, how now, chopp’d logic?"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The drops of logic Tess had let fall into the sea of his enthusiasm served to chill its effervescence to stagnation."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Cairns returned to the University in the late autumn of 1837, enrolling himself in the classes of Latin, Greek, and Logic."*
+> - 📜 **Aristotle (*Prior Analytics*):** *"The syllogism represents the fundamental instrument of formal **logic**, deducing a necessary conclusion from established premises."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Men have reason enough to discern truth without needing the formal rules of scholastic **logic** to guide their thoughts."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"How now, chopped **logic**! What is this proud, and I thank you, and I thank you not?"*

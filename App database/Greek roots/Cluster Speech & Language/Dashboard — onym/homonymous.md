@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to or being homonyms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to or being homonyms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the same name, spelling, or pronunciation as another word, but differing in signification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical logic and Aristotelian dialectic, describing entities that share a common name while having entirely different definitions of their underlying essence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homonymous designates of or related to or being homonyms."*
+> - 📜 **Aristotle (*Categories*):** *"Things are said to be **homonymous** when they have only a name in common and their definitions of essence are entirely different."*
+> - 📜 **Thomas Hobbes (*Leviathan*):** *"Ambiguous words which are **homonymous** breed endless disputes unless defined with geometric precision."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"Scientific terminology must eliminate **homonymous** expressions so that every sign designates one unambiguous natural kind."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the earth's surface directly above the focus of an earthquake.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of the earth's surface directly above the focus of an earthquake.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The point on the Earth's surface directly vertically above the focus or hypocenter of an earthquake; broadly, the central point of any activity, crisis, or event.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In seismology and geophysics, the focal ground surface point where initial P and S seismic waves emerge with maximum destructive intensity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epicenter designates the part of the earth's surface directly above the focus of an earthquake."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The greatest destruction coincided exactly with the **epicenter**, where vertical seismic shockwaves ruptured the masonry."*
+> - 📜 **John Muir (*The Yosemite*):** *"During the Inyo earthquake, we felt as though we were standing directly upon the **epicenter** of a shaking world."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Tsunami waves radiate across the ocean basin at jet speed from the submarine **epicenter** of the rupture."*

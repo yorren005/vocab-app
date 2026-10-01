@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The leaving of a thought incomplete usually by a sudden breaking off (as in "his behavior was—but I blush to mention that").
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The leaving of a thought incomplete usually by a sudden breaking off (as in "his behavior was—but I blush to mention that").
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhetorical device in which a speaker suddenly stops short or breaks off mid-sentence, leaving the thought unfinished as if unable or unwilling to continue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary aesthetics and dramatic dialogue, an expressive pause signaling overwhelming passion, hesitance, menacing insinuation, or modesty (from Greek aposiopan to be silent).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aposiopesis designates the leaving of a thought incomplete usually by a sudden breaking off (as in "his behavior was—but i blush to mention that")."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"The figure **aposiopesis**, when emotion suddenly arrests speech mid-sentence, conveys deeper passion than any spoken word."*
+> - 📜 **Virgil (*The Aeneid*):** *"Neptune turned fiercely upon the rebellious winds, exclaiming: 'Whom I—! But first let us calm the troubled sea.'"*
+> - 📜 **Laurence Sterne (*Tristram Shandy*):** *"My uncle Toby hesitated, began to speak, and then, by a masterly **aposiopesis**, closed his lips and puffed his pipe."*

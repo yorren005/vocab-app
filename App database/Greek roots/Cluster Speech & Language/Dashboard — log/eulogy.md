@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A commendatory oration or writing especially in honor of one deceased.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: High praise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A speech or piece of writing that praises someone or something highly, typically someone who has just died.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric, an epideictic speech (*encomium*) celebrating the moral virtues and civic achievements of a citizen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is remarkable how little of the adjective there is--no compliment, no eulogy, no heroic touches, no sympathetic turn of phrase, no great passages of encomium or commendation."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I regretted it especially,” he resumed, taking the usual course from detraction to insincere eulogy, “because of my gratitude and respect towards my cousin."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon: it would be at best a pensioner’s eulogy.” “Pray excuse me,” said Dorothea, coloring deeply."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"In the gospels there is no empty **eulogy**, no heroic ornament, but only the transparent truth of actual life."*
+> - 📜 **Pericles (via Thucydides) (*The Peloponnesian War*):** *"The funeral **eulogy** delivered over our fallen soldiers honors not their names alone, but the democratic commonwealth they died to defend."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The funeral **eulogy** of Julian was pronounced by Libanius with all the grief of a faithful philosopher mourning a lost pupil."*

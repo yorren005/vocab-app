@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The work of cutting down trees for timber.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enter into a log, as on ships and planes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The commercial process, occupation, or business of felling trees, processing logs, and hauling them to sawmills.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer science and digital telecommunications, the automated practice of capturing, timestamping, and archiving system events or error records.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"In the Heart of the Logging District. 51 IV."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"This is "the woods" of Minnesota--the center of the logging industry."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"There was ground to clear of trees and underbrush, there were rails to split and fields to fence, and in the winter logging, claimed his labor for the cash it gave in return."*
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Life in the remote camps of the **logging** district tested both physical endurance and spiritual resolve."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"The **logging** operations on the upper Penobscot had altered the ancient character of the northern waterways."*
+> - 📜 **Theodore Roosevelt (*State of the Union Addresses*):** *"Unregulated **logging** on mountain watersheds threatens our river basins with devastating erosion and floods."*

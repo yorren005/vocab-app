@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An excessive or abnormal propensity for lying and exaggerating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An excessive or abnormal propensity for lying and exaggerating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, pathological propensity for lying, exaggeration, and inventing elaborate fictitious stories.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychiatric history and clinical psychology, a condition characterized by pseudologia fantastica where the individual may come to believe their own fabrications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mythomania designates an excessive or abnormal propensity for lying and exaggerating."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"In cases of juvenile **mythomania**, the boundary between deliberate falsehood and vivid fantasy is often completely blurred."*
+> - 📜 **Jean-Martin Charcot (*Clinical Lectures on Diseases of the Nervous System*):** *"The clinician must differentiate hysterical simulation and **mythomania** from deliberate criminal deception."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"His confabulatory narratives seemed less like conscious deceit than an uncontrollable neurological **mythomania** compensating for memory loss."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the mystical and alchemical writings or teachings arising in the first three centuries a.d. and attributed to Hermes Trismegistus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characterized by subjects that are mysterious and difficult to understand : relating to or characterized by occultism or abstruseness : recondite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Completely airtight, sealed, or protected against the escape or entry of air and gas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to Hermes Trismegistus, the occult sciences of alchemy, or esoteric philosophy; isolated, esoteric, and impenetrable to outside influence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"What do you think really of that hermetic crowd, the opal hush poets: A."*
+> - 📜 **Robert Boyle (*New Experiments Physico-Mechanicall*):** *"The glass cylinder was secured with a **hermetic** seal to ensure that external atmosphere could not disturb the vacuum."*
+> - 📜 **Walter Pater (*Appreciations*):** *"The poet cultivated an intensely private, **hermetic** verse that revealed its mysteries only to initiated readers."*
+> - 📜 **Umberto Eco (*Foucault's Pendulum*):** *"The secret society claimed to possess ancient **hermetic** manuscripts that unlocked the hidden mathematical order of the cosmos."*

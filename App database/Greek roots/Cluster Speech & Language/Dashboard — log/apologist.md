@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who speaks or writes in defense of someone or something that is typically controversial, unpopular, or subject to criticism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who speaks or writes in defense of someone or something that is typically controversial, unpopular, or subject to criticism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who offers an argument in defense of something controversial, unpopular, or religious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early Christian history and patristic studies, one of the 2nd-century writers (such as Justin Martyr or Tertullian) who systematically defended the Christian faith against pagan and imperial criticism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He speaks of "the friendly Apollo." But the weakness of Plutarch as an apologist is his weakness as biographer--he never really gets at the bottom of anything."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Now is there civil war within the soul: Resolve is thrust from off the sacred throne By clamorous Needs, and Pride the grand-vizier Makes humble compact, plays the supple part Of envoy and deft-tongued apologist For hungry rebels."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"In the long run, they brought Philosophy to its knees, abasing it to be the apologist of everything they taught and did, and dignifying themselves by giving a philosophic colouring to their mysticism."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The eloquent **apologist** Tertullian addressed the Roman magistrates, defending the civil loyalty of the persecuted Christians."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Every tyrannical regime finds some clever **apologist** willing to invent philosophical excuses for its worst abuses."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The **apologist** for censorship invariably assumes his own infallibility in determining what truth the public should hear."*

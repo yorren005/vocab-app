@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of tongue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of tongue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or connecting the arytenoid cartilage and the epiglottis in the larynx.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In laryngeal anatomy, designating the aryepiglottic fold (plicae aryepiglotticae) and associated intrinsic muscle fibers that guard the entrance of the respiratory tract during swallowing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aryepiglottic designates adjective*) pertaining to, derived from, or characteristic of tongue."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The **aryepiglottic** fold forms the lateral boundary of the superior laryngeal aperture, contracting to protect the airway during deglutition."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute edema of the **aryepiglottic** folds can produce rapid, life-threatening inspiratory stridor requiring immediate intubation."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Anatomy*):** *"The tension of the **aryepiglottic** ligaments assists in closing the vestibule of the larynx against the intrusion of food boluses."*

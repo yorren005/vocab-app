@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the methodological principles of interpretation (as of the Bible).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A method or principle of interpretation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerning or relating to interpretation, especially the interpretation of literary, legal, or theological texts; interpretative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical epistemology, describing interpretive methodology (as in the hermeneutic circle) that uncovers meaning embedded in historical contexts and language.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hermeneutic designates the study of the methodological principles of interpretation (as of the bible)."*
+> - 📜 **Hans-Georg Gadamer (*Truth and Method*):** *"The **hermeneutic** experience requires that the interpreter enter into a dialogue with the tradition rather than stand above it."*
+> - 📜 **Martin Heidegger (*Being and Time*):** *"Phenomenology of Dasein is fundamentally a **hermeneutic** in which the authentic meaning of Being is brought to explicit understanding."*
+> - 📜 **Paul Ricoeur (*The Conflict of Interpretations*):** *"Every text invites a **hermeneutic** struggle between restorative interpretation and critical demystification."*

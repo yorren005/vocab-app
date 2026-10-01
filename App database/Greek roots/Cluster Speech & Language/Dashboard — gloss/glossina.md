@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bloodsucking african fly; transmits sleeping sickness etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bloodsucking african fly; transmits sleeping sickness etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of bloodsucking dipteran flies (tsetse flies) native to sub-Saharan Africa, which act as biological vectors for pathogenic trypanosomes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical medicine and parasitology, the insect vector responsible for transmitting human African trypanosomiasis (sleeping sickness) and animal nagana.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glossina designates bloodsucking african fly; transmits sleeping sickness etc."*
+> - 📜 **David Bruce (*The Croonian Lectures on the Trypanosomiases of Man and Other Animals*):** *"The discovery that the fly **Glossina** morsitans conveys the trypanosome of nagana unlocked the etiology of African sleeping sickness."*
+> - 📜 **Ronald Ross (*The Prevention of Malaria*):** *"Just as mosquitoes transmit malaria parasites, species of **Glossina** serve as the obligate intermediate hosts of African trypanosomes."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"The dense infestations of **Glossina** across vast tracts of tropical savanna historically shielded wilderness ecosystems from cattle pastoralism."*

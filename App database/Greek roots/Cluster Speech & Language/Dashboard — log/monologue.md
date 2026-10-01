@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: soliloquy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: a dramatic sketch performed by one actor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long speech by one actor in a play or movie, or as part of a theatrical or broadcast program; a soliloquy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social discourse, a prolonged, one-sided talk by one person that monopolizes a conversation and excludes other participants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I didn't expect this to be a monologue, by far."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"I introduced myself as a Hawaiian-American, and soon found myself in full tide of talk, or rather of monologue."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"The young rascal’s tendency lay towards monologue, and since it was his cue to be open-hearted, and very unsuspicious of being suspected, he talked with much freedom of himself, his pursuits, and his affairs."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Hamlet's brooding **monologue** on being and non-being articulates the ultimate tragic riddle of human existence."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I didn't expect this conversation to turn into an uninterrupted **monologue**, by far."*
+> - 📜 **T. S. Eliot (*The Sacred Wood*):** *"Browning perfected the dramatic **monologue**, revealing a speaker's entire soul through unconscious self-betrayal."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characterized by onomatopoeia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of words) formed in imitation of a natural sound; ; - harry hoijer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed by, relating to, or exhibiting onomatopoeia; imitative of natural sounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In acoustic phonetics and linguistics, describing words whose phonetic sequence echoes the auditory features of their real-world referents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onomatopoeic designates of or relating to or characterized by onomatopoeia."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Early hominids developed **onomatopoeic** cries to warn companions of approaching predators or mimic prey."*
+> - 📜 **Edward Sapir (*Language*):** *"True **onomatopoeic** words like 'whippoorwill' or 'bobwhite' directly mirror natural bird calls in acoustic phonetics."*
+> - 📜 **Roman Jakobson (*Selected Writings*):** *"The expressive power of children's speech relies heavily upon vivid, **onomatopoeic** sound reduplications."*

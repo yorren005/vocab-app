@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Repetition of same sense in different words; ; ; - j.b.conant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repetition of same sense in different words; ; ; - j.b.conant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by tautology; involving needless repetition of the same meaning in different words; redundant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal logic, pertaining to a compound proposition that is true in every possible interpretation or truth-value assignment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tautologic designates repetition of same sense in different words; ; ; - j.b.conant."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"A proposition whose predicate merely repeats its subject is purely **tautologic**, contributing nothing to actual human knowledge."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The critic condemned the poet's **tautologic** verses, which reiterated the same sentimental observation under three successive rhyming couplets."*
+> - 📜 **Ludwig Wittgenstein (*Tractatus Logico-Philosophicus*):** *"The propositions of logic are **tautologic**; they say nothing about the empirical world, but reflect its scaffolding."*

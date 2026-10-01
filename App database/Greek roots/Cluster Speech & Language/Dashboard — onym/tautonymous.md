@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of name.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of name.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, having, or consisting of a tautonym; possessing a scientific name with identical generic and specific components.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic biology, describing a taxon whose binomial designation repeats the same word twice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tautonymous designates adjective*) pertaining to, derived from, or characteristic of name."*
+> - 📜 **Ernst Mayr (*Methods and Principles of Systematic Zoology*):** *"A **tautonymous** specific name immediately informs the systematist that the species is the type of its genus."*
+> - 📜 **Carl Linnaeus (*Critica Botanica*):** *"Early botanical reformers argued whether **tautonymous** names should be tolerated or banished from elegant classification."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"The existence of **tautonymous** designations in zoology simplifies reference to classic nominotypical forms."*

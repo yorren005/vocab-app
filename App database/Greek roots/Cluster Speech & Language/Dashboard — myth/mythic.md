@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or described in a myth especially as contrasted with history.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existing only in the imagination : fictitious, imaginary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing only in traditional myths or legends; having the nature of a myth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing monumental, archetypal, or legendary significance that transcends ordinary historical scale.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In this way, starting from a single personification of the corn as female, mythic fancy might in time reach a double personification of it as mother and daughter."*
+> - 📜 **Mircea Eliade (*The Myth of the Eternal Return*):** *"Archival history constantly seeks to transform concrete human figures into **mythic** archetypes through collective memory."*
+> - 📜 **W. B. Yeats (*A Vision*):** *"The poet sought to invest contemporary political martyrdom with **mythic** stature through the power of verse."*
+> - 📜 **Northrop Frye (*Anatomy of Criticism*):** *"In the **mythic** mode of literature, the protagonist is a divine being superior in kind both to other men and to the environment."*

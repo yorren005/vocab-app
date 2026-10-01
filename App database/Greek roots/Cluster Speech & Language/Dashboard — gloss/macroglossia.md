@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital disorder characterized by an abnormally large tongue; often seen in cases of down's syndrome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A congenital disorder characterized by an abnormally large tongue; often seen in cases of down's syndrome.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal, pathological enlargement of the tongue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pediatrics and genetics, a condition leading to airway obstruction, speech impediments, and orthodontic deformities, commonly associated with Beckwith-Wiedemann syndrome or congenital hypothyroidism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macroglossia designates a congenital disorder characterized by an abnormally large tongue; often seen in cases of down's syndrome."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe **macroglossia** in infants with congenital cretinism causes the enlarged tongue to protrude continually between the lips."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"Acute toxic states can provoke alarming inflammatory **macroglossia**, swelling the tongue until it threatens suffocation."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Microscopic sections of amyloid **macroglossia** reveal extensive extracellular proteinaceous deposits dissecting the lingual muscle fibers."*

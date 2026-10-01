@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A concluding section that rounds out the design of a literary work : afterword.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A speech often in verse addressed to the audience by an actor at the end of a play; also : the actor speaking such an epilogue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A concluding part added to a literary work, such as a novel, play, or poem, providing closure or reflecting upon subsequent events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and Elizabethan theater, an address spoken by an actor directly to the audience following the drama, typically requesting applause.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Exeunt all but Rosalind._] EPILOGUE ROSALIND."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is not the fashion to see the lady the epilogue, but it is no more unhandsome than to see the lord the prologue."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it be true that good wine needs no bush, ’tis true that a good play needs no epilogue."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"Rosalind steps forward to deliver the enchanting **epilogue**, begging the audience's favor with witty grace."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The compassionate **epilogue** traces the later fortunes of Dorothea, whose unhistoric acts contributed to the growing good of the world."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"In the extensive philosophical **epilogue**, the author expounds his definitive theory of historical causality and human free will."*

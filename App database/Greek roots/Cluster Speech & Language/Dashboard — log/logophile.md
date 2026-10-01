@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lover of words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lover of words.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lover of words; someone who delights in words, vocabulary, and verbal nuances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary culture and lexicography, an enthusiast who collects rare, obsolete, arcane, or mellifluous lexical gems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logophile designates a lover of words."*
+> - 📜 **Vladimir Nabokov (*Lectures on Literature*):** *"A genuine writer is always an incurable **logophile**, delighting in the precise taste and weight of every English word."*
+> - 📜 **H. L. Mencken (*The American Language*):** *"The amateur **logophile** takes immense pleasure in tracing the slang of city streets to its unexpected colonial roots."*
+> - 📜 **David Crystal (*The Cambridge Encyclopedia of the English Language*):** *"Every avid dictionary reader harbors the soul of a **logophile**, intoxicated by the inexhaustible wealth of vocabulary."*

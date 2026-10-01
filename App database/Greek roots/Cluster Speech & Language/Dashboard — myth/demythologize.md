@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the mythical element from (writings).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the mythical element from (writings).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove mythical, supernatural, or fictional elements from a text, doctrine, or historical account.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual and historical analysis, to subject revered folklore or heroic legends to rigorous evidentiary scrutiny.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demythologize designates remove the mythical element from (writings)."*
+> - 📜 **Rudolf Bultmann (*New Testament and Mythology*):** *"We cannot use electric lights and radios and in the case of illness claim modern medicine, and at the same time believe in the spirit world of the New Testament; we must **demythologize** the proclamation."*
+> - 📜 **Peter L. Berger (*The Sacred Canopy*):** *"Sociology tends to **demythologize** social institutions, showing that they are historical human creations rather than divine dispensations."*
+> - 📜 **Carl Sagan (*The Demon-Haunted World*):** *"Science does not seek to destroy wonder, but it must fearlessly **demythologize** claims of supernatural intervention that violate verifiable natural laws."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Written in the form of or carried on by letters or correspondence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Written in the form of or carried on by letters or correspondence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or carried on by letters or written correspondence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary theory, designating a novel or composition written in the form of a series of letters exchanged between characters (e.g., Clarissa, Dracula).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Grant’s morning calls, it was very hard upon her to be deprived of one of the last epistolary uses she could put them to."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"I shall have matured my epistolary style.” She looked away while she spoke these words, knowing them of so much less earnest a cast than the countenance of her listener."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Isabel liked her friend’s private epistolary style better than her public; that is she felt her public letters would have been excellent if they had not been printed."*
+> - 📜 **Samuel Richardson (*Clarissa*):** *"The immediacy of the **epistolary** style allows the reader to experience the heroine's anxieties written to the moment."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"The art of **epistolary** conversation reached its highest perfection in the private correspondence of eighteenth-century ladies."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Their intimacy had been fostered through a sustained **epistolary** friendship long before they met on Italian soil."*

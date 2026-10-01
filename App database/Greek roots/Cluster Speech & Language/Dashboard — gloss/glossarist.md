@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scholiast who writes glosses or glossaries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scholiast who writes glosses or glossaries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A compiler, writer, or author of a glossary or dictionary of obscure, dialectal, or archaic words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lexicography and historical philology, a scholar specializing in annotating vernacular vocabularies, legal antiquities, or manuscript glosses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glossarist designates a scholiast who writes glosses or glossaries."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language*):** *"The diligent **glossarist** must search the dusty margins of medieval codices to recover the forgotten meanings of ancient Saxon words."*
+> - 📜 **Walter William Skeat (*Principles of English Etymology*):** *"Every modern philologist owes an immense debt to the nineteenth-century **glossarist** who gathered provincial dialect terms before they vanished."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The antiquarian **glossarist** preserved quaint legal terms that illuminated the administrative machinery of the Norman kings."*

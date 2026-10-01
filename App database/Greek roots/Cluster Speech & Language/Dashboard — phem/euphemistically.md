@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a euphemistic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a euphemistic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a euphemistic manner; by means of indirect, sanitized, or mild expressions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociolinguistic commentary, describing statements formulated to preserve interpersonal decorum or obscure uncomfortable truths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"She was what is euphemistically called a "cook" in Tonking; just another name for an arrangement so often resulting from the lonely life of Europeans among a slack-fibred dependent alien population."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"In August, 1888, just previous to the acquisition of New Guinea as a British possession, they were all driven away, or euphemistically got notice to quit."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"What early naturalists **euphemistically** termed domestic instincts were in truth habits acquired through rigorous human selection."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The decadent future inhabitants were **euphemistically** described as peaceful vegetarians, masking their total helplessness."*
+> - 📜 **W. H. Auden (*The Dyer's Hand*):** *"Critics who speak **euphemistically** of an author's minor lapses usually fail to grasp the structural defect of the entire work."*

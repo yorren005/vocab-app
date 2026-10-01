@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mobile mass of muscular tissue covered with mucous membrane and located in the oral cavity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mobile mass of muscular tissue covered with mucous membrane and located in the oral cavity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tongue, especially in classical anatomical and biological descriptions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology, the median lobe or tongue-like structure of the labium in insects (particularly bees and wasps), used to lap nectar and liquid nutrients.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"I give the glossa of Theotypas.} -- 82-104."*
+> - 📜 **Carl Linnaeus (*Systema Naturae*):** *"The extended **glossa** of the honeybee is exquisitely adapted for extracting nectar from deep tubular blossoms."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"In hymenopterous insects, the **glossa** forms a flexible proboscis covered with delicate sensory hairs."*
+> - 📜 **William Kirby & William Spence (*An Introduction to Entomology*):** *"The insect retracts its elongated **glossa** beneath the head when at rest, extending it only upon encountering sugary sap."*

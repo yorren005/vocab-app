@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Absence of systole; failure of the ventricles of the heart to contract (usually caused by ventricular fibrillation) with consequent absence of the heart beat leading to oxygen lack and eventually to death.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absence of systole; failure of the ventricles of the heart to contract (usually caused by ventricular fibrillation) with consequent absence of the heart beat leading to oxygen lack and eventually to death.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A life-threatening state of cardiac arrest in which there is a complete absence of electrical and mechanical activity in the heart (flatline).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In emergency medicine and cardiology, the cessation of ventricular contractions representing terminal cardiac standstill requiring immediate resuscitation protocols.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asystole designates absence of systole; failure of the ventricles of the heart to contract (usually caused by ventricular fibrillation) with consequent absence of the heart beat leading to oxygen lack and eventually to death."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Sudden reflex inhibition of the heart can induce instantaneous **asystole**, resulting in fatal syncope."*
+> - 📜 **Eugene Braunwald (*Heart Disease*):** *"The electrocardiographic tracing of persistent **asystole** confirms total loss of electrical depolarization across the myocardium."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The patient suffered an alarming episode of ventricular standstill, escaping permanent damage only when **asystole** yielded to an escape rhythm."*

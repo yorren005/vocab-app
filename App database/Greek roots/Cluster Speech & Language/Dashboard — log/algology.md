@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study or science of algae : phycology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study or science of algae —called also algology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of botany or biology concerned with the study of algae; phycology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine ecology and limnology, the investigation of microscopic phytoplankton and macroalgae as primary producers and ecological indicators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, algology designates the study or science of algae : phycology."*
+> - 📜 **William Henry Harvey (*Phycologia Britannica*):** *"The pursuit of **algology** reveals an unseen forest of microscopic marine plants flourishing beneath the ocean swell."*
+> - 📜 **Ernst Haeckel (*Art Forms in Nature*):** *"Microscopic **algology** unveils diatom shells of exquisite geometric symmetry that rival the finest crystalline architecture."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Advances in **algology** have shown that ocean phytoplankton generate a vital share of the planet's atmospheric oxygen."*

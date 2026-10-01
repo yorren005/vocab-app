@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek onym.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Speech & Language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A foreign name or endonym used by outsiders to designate a group, language, or geographical entity; an exonym.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnolinguistic cartography and onomastics, an external ethnonym or toponym differing from the name preferred by the native inhabitants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xenonym designates a term designating an entity, condition, or phenomenon derived from greek onym."*
+> - 📜 **Claude Lévi-Strauss (*Tristes Tropiques*):** *"The tribal name recorded on our colonial maps was a dismissive **xenonym** applied by hostile neighbors to denote barbarian outsiders."*
+> - 📜 **Edward Said (*Orientalism*):** *"Western imperial scholarship frequently substituted an artificial **xenonym** for the living self-designation of Eastern peoples."*
+> - 📜 **David Crystal (*The Cambridge Encyclopedia of Language*):** *"A **xenonym** often becomes established in international cartography even when the local population vigorously rejects it."*

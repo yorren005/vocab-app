@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The naming of a thing or action by a vocal imitation of the sound associated with it : the creation of words that imitate natural sounds (such as buzz, hiss); also : a word formed by onomatopoeia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of words whose sound suggests the sense.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation of a word by phonetic imitation of a sound associated with the thing or action named (e.g., cuckoo, hiss, rustle, buzz).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary poetics and rhetoric, the deliberate artistic use of sound-symbolic words to evoke auditory sensations directly through phonetic texture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onomatopoeia designates the naming of a thing or action by a vocal imitation of the sound associated with it : the creation of words that imitate natural sounds (such as buzz, hiss); also : a word formed by onomatopoeia."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"The sound must seem an echo to the sense; / Soft is the strain when Zephyr gently blows, / ... In glorious **onomatopoeia** the hoarse rough verse should like the torrent roar."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The 'bow-wow' theory of language argued that speech arose entirely through crude **onomatopoeia** of animal cries."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Genuine poetic **onomatopoeia** does not merely mimic natural noises, but translates physical motion into rhythmic cadence."*

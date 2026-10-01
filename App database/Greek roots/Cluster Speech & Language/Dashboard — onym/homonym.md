@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: homophone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: homograph.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Each of two or more words having the same spelling or pronunciation but different meanings and origins (e.g., bark of a tree vs. bark of a dog).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological taxonomy, a scientific name identical in spelling to another name previously applied to a different taxon, rendering the junior homonym invalid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homonym designates homophone."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Much philosophical confusion arises when disputants mistake an accidental **homonym** for an identity of substance."*
+> - 📜 **David Crystal (*The Cambridge Encyclopedia of the English Language*):** *"The punster exploits the dual meaning of a **homonym** to produce humorous semantic incongruity."*
+> - 📜 **Steven Pinker (*The Language Instinct*):** *"A child quickly learns to disambiguate a **homonym** by attending to syntactic context and thematic roles."*

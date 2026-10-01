@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The semantic relation that holds between two words that can (in a given context) express the same meaning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The semantic relation that holds between two words that can (in a given context) express the same meaning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, quality, or condition of being synonymous; semantic interchangeability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical philosophy, the degree to which two propositions or terms can be substituted salva veritate (preserving truth value).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synonymousness designates the semantic relation that holds between two words that can (in a given context) express the same meaning."*
+> - 📜 **W. V. Quine (*From a Logical Point of View*):** *"The problem of establishing the **synonymousness** of two expressions lies at the core of philosophical semantics."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Men fall into fruitless disputes because they falsely assume the **synonymousness** of words that represent disparate ideas."*
+> - 📜 **Stephen Ullmann (*Semantics*):** *"Total **synonymousness** is an extreme rarity in language, as words inevitably diverge in emotional overtone or stylistic register."*

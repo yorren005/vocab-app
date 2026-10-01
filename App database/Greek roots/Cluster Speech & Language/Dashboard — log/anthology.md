@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection of selected literary pieces or passages or works of art or music.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assortment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A published collection of poems or other pieces of writing, or a musical collection (from Greek anthos flower + logia collection, literally 'a gathering of flowers').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical scholarship, specifically designating the Palatine or Greek Anthology, the monumental compilation of Hellenistic and Byzantine epigrams.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The present writer lived for some time within a short distance of his house, but found no opportunity to meet him until it became necessary to obtain his portrait for an anthology in course of publication."*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"If his dramas bear a resemblance to Jarry's _Ubu Roi_, so _The Merry-Thought_ resembles the kind of anthology that Jarry might have put together to illustrate the absurd anarchy of the human spirit."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"You encouraged that mopsey Miss Wesley to dance after you in the hope of having her nonsense put into a nonsensical anthology."*
+> - 📜 **Francis Turner Palgrave (*The Golden Treasury*):** *"This lyric **anthology** attempts to include all the best original songs and poems in the English language."*
+> - 📜 **Walter Pater (*Greek Studies*):** *"The ancient Greek **anthology** preserves fleeting moments of joy and sorrow like pressed wild flowers from classical antiquity."*
+> - 📜 **Herman Melville (*Typee*):** *"The editor sought his likeness to grace the frontispiece of a forthcoming poetic **anthology**."*

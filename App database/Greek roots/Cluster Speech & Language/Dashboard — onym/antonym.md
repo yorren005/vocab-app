@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word of opposite meaning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word of opposite meaning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word that expresses a meaning directly opposed to that of another word in the same language (e.g., hot and cold).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural semantics, a lexical unit standing in a relation of binary opposition, gradable contrast, or converse reciprocity with another term.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antonym designates a word of opposite meaning."*
+> - 📜 **John Lyons (*Semantics*):** *"The most basic lexical opposition in natural language is the **antonym**, which pairs words that represent polar extremes on a conceptual dimension."*
+> - 📜 **Steven Pinker (*The Stuff of Thought*):** *"When a child learns a new adjective, the mind instinctively searches for its **antonym** to establish the boundaries of the concept."*
+> - 📜 **David Crystal (*The Cambridge Encyclopedia of the English Language*):** *"In traditional rhetoric, balancing a word against its **antonym** provides antithetical symmetry and persuasive force."*

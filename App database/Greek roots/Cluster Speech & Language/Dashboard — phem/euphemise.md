@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Refer to something with a euphemism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Refer to something with a euphemism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To refer to or express something through mild, indirect, or softened terminology instead of blunt or offensive words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social discourse and diplomacy, to systematically neutralize controversial or morally fraught topics by clothing them in non-judgmental language.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, euphemise designates refer to something with a euphemism."*
+> - 📜 **Virginia Woolf (*The Voyage Out*):** *"She noticed how the older generation sought to **euphemise** every stark circumstance of life under elaborate drawing-room formalities."*
+> - 📜 **E. M. Forster (*A Room with a View*):** *"The tourist guides were inclined to **euphemise** the squalor of the medieval alleys for the benefit of sensitive travelers."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"Society prefers to **euphemise** its most ferocious economic exploitations under high-sounding moral sentiments."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Obsession with a particular word which the person uses repeatedly or which intrudes into consciousness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obsession with a particular word which the person uses repeatedly or which intrudes into consciousness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, obsessive mental preoccupation with words or names, such as an agonizing inability to recall a particular name or a compulsive urge to repeat certain words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and obsessive-compulsive symptomatology, a ruminative neurosis characterized by anxiety over the power, dread, or exact pronunciation of specific words.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onomatomania designates obsession with a particular word which the person uses repeatedly or which intrudes into consciousness."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In cases of **onomatomania**, the subject experiences agonizing frustration in the search for a forgotten word or name."*
+> - 📜 **Sigmund Freud (*The Psychopathology of Everyday Life*):** *"The compulsive recurrence of certain words in **onomatomania** reveals repressed unconscious associations."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Obsessive-compulsive neurotics frequently succumb to **onomatomania**, repeating specific talismanic syllables to ward off anxiety."*

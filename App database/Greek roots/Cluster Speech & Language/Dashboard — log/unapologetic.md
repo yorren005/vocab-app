@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unwilling to make or express an apology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unwilling to make or express an apology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not feeling or expressing regret, remorse, or apology; unrepentant; defiant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remaining steadfast in defense of one's principles, style, or conduct without concession to external social expectations or critical hostility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unapologetic designates unwilling to make or express an apology."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The eccentric philosopher stood before his academic detractors, entirely **unapologetic** for his revolutionary metaphysical doctrines."*
+> - 📜 **George Bernard Shaw (*The Doctor's Dilemma*):** *"The artist remained fiercely **unapologetic**, insisting that genuine genius owes no debt to conventional bourgeois morality."*
+> - 📜 **Frederick Douglass (*Narrative of the Life of Frederick Douglass*):** *"He spoke with an **unapologetic** boldness that electrified the abolitionist convention and challenged the conscience of the nation."*

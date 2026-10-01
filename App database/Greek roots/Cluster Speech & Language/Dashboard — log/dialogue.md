@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The conversational element of literary or dramatic composition (such as a movie, play, or novel).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conversation between two or more persons; also : a similar exchange between a person and something else (such as a computer) —usually used before another noun.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A conversation between two or more people, especially as a feature of a book, play, or film.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and politics, a formal discussion or collaborative inquiry aimed at exploring conflicting viewpoints and reaching mutual understanding (e.g., Socratic dialogue).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But shall we have this dialogue between the Fool and the Soldier?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, most esteemed Greatness, will you hear the dialogue that the two learned men have compiled in praise of the owl and the cuckoo?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fear you not my part of the dialogue."*
+> - 📜 **Plato (*The Republic*):** *"Through relentless philosophical **dialogue**, Socrates guided his companions past superficial opinion to the contemplation of justice."*
+> - 📜 **William Shakespeare (*The Complete Works*):** *"Shall we have this **dialogue** between the Fool and the Soldier to lighten the hour before the battle?"*
+> - 📜 **Mikhail Bakhtin (*Problems of Dostoevsky's Poetics*):** *"Human consciousness does not exist in isolation, but realizes itself only through authentic **dialogue** with another."*

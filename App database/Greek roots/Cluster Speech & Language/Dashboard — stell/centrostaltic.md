@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of send.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of send.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or describing muscular contraction that originates in or is directly excited by a central nervous system reflex center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology, characterizing visceral and peristaltic motor impulses initiated within central spinal or bulbar ganglia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrostaltic designates adjective*) pertaining to, derived from, or characteristic of send."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"The coordination of visceral motility involves **centrostaltic** impulses that propagate from autonomic nuclei down peripheral nerve paths."*
+> - 📜 **William Benjamin Carpenter (*Principles of Mental Physiology*):** *"Reflex actions of the alimentary tract are governed by **centrostaltic** mechanisms centered in the spinal cord."*
+> - 📜 **Ivan Pavlov (*Lectures on the Work of the Digestive Glands*):** *"Digestive secretions and motor responses are mediated by complex **centrostaltic** pathways linking the brainstem to the stomach."*

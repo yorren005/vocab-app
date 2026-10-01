@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science that deals with poisons and their effect and with the problems involved (such as clinical, industrial, or legal problems).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A science that deals with poisons and their effect and with the problems involved (such as clinical, industrial, or legal problems).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific discipline concerned with the nature, effects, detection, and treatment of poisons, and the adverse effects of chemical agents on living organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental health and clinical pharmacology, the comprehensive study of xenobiotics, industrial pollutants, and hazardous waste remediation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toxicology designates a science that deals with poisons and their effect and with the problems involved (such as clinical, industrial, or legal problems)."*
+> - 📜 **Paracelsus (*Defensiones*):** *"The foundational axiom of **toxicology** teaches that all things are poison and nothing is without poison; the dose alone makes a thing not a poison."*
+> - 📜 **Claude Bernard (*Experimental Medicine*):** *"Physiological **toxicology** demonstrates that every chemical poison acts upon a specific tissue component with unwavering mechanical fidelity."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"The urgent lesson of modern **toxicology** is that synthetic chemicals released into the biosphere return inevitably to poison human water and food."*

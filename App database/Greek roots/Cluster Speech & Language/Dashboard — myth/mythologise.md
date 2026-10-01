@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Construct a myth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make into a myth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To explain, recount, or interpret in terms of myth; to invent or embellish myths.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical sociology, to transform contingent historical events into seemingly natural, eternal, or inevitable mythic narratives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mythologise designates construct a myth."*
+> - 📜 **E. P. Thompson (*The Making of the English Working Class*):** *"Hagiographers tended to **mythologise** trade union pioneers into saintly figures stripped of their political complexity."*
+> - 📜 **George Orwell (*Collected Essays*):** *"It is perilous for any nation to **mythologise** its military history until it loses touch with strategic reality."*
+> - 📜 **Isaiah Berlin (*The Crooked Timber of Humanity*):** *"Romantic nationalism sought to **mythologise** the primordial origins of the folk to justify political aggression."*

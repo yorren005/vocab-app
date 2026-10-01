@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Speech & Language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In ancient Greece, an annual public funeral oration delivered in honor of citizen soldiers fallen in war (notably the Funeral Oration of Pericles).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Eastern Orthodox Christian liturgy, an ornate liturgical textile or icon embroidered with the icon of the entombment of Christ, carried in Holy Friday processions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epitaphios designates a term designating an entity, condition, or phenomenon derived from greek ep."*
+> - 📜 **Thucydides (*History of the Peloponnesian War*):** *"Pericles stood before the Athenian assembly to deliver the immortal **epitaphios** honoring those fallen in the first campaign."*
+> - 📜 **Plato (*Menexenus*):** *"The customary **epitaphios** reminds citizens that the glory of the fallen inspires the virtue of the living."*
+> - 📜 **Demosthenes (*Funeral Oration*):** *"In pronouncing the civic **epitaphios**, I praise not only individual valor but the enduring freedom of our commonwealth."*

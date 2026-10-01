@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to toxicology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to toxicology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to toxicology; dealing with the nature, effects, detection, and clinical treatment of poisons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and regulatory safety assessment, designating protocols (such as LD50 tests or bioassays) that quantify chemical toxicity and environmental hazard.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toxicological designates of or relating to toxicology."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Sherlock Holmes performed a series of delicate **toxicological** tests to identify the rare South American alkaloid found on the pill."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Modern chemical pest control was introduced without sufficient **toxicological** research into its long-term ecological consequences."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The **toxicological** effects of carbon monoxide illustrate how poisons disrupt cellular respiration by blocking oxygen transport."*

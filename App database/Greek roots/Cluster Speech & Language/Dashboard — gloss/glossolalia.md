@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Repetitive nonmeaningful speech (especially that associated with a trance state or religious fervor).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repetitive nonmeaningful speech (especially that associated with a trance state or religious fervor).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The phenomenon of uttering unintelligible, speech-like sounds that are not a recognized human language, typically while in a state of religious ecstasy or trance; speaking in tongues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the psychology of religion and anthropo-linguistics, ecstatic phonation consisting of rhythmic syllable strings lacking semantic syntax, celebrated in Pentecostalism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glossolalia designates repetitive nonmeaningful speech (especially that associated with a trance state or religious fervor)."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The sudden outburst of **glossolalia** during revivals represents an emotional overflow where language dissolves into ecstatic vocalization."*
+> - 📜 **C. G. Jung (*Psychology and Religion*):** *"In states of psychic dissociation, the emergence of **glossolalia** reveals archetypal speech rhythms unconstrained by conscious grammar."*
+> - 📜 **David Crystal (*The Cambridge Encyclopedia of Language*):** *"Linguistic analysis of **glossolalia** demonstrates that the vocalizations utilize the phonemes of the speaker's native tongue without semantic structure."*

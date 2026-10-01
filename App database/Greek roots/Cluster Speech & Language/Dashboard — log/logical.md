@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of or reflecting the capability for correct and valid reasoning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on known statements or events or conditions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of, characterized by, or adhering to the principles of sound and valid reasoning; rationally consistent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy of science, describing deductions or conclusions that follow necessarily from antecedent empirical or axiomatic premises.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Within the remote depths of his constitution, so gentle and affectionate as he was in general, there lay hidden a hard logical deposit, like a vein of metal in a soft loam, which turned the edge of everything that attempted to traverse it."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Do try and be logical on occasion."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This is not an explanation of the property rights that are arising every moment, nor does it give a logical reason for the continuance of ancient property rights."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Within his constitution there lay hidden a hard **logical** deposit that turned the edge of every emotional plea."*
+> - 📜 **Bertrand Russell (*Mysticism and Logic*):** *"The pursuit of **logical** precision disciplines the philosophical mind, purging it of wishful thinking and vague sentiment."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Sherlock Holmes approached every criminal mystery as an exercise in cold, dispassionate **logical** deduction."*

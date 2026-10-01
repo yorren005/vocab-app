@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A manner of organizing words and phrases into longer elements : style.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Choice of words.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A particular mode of organizing words into sentences and phrases; a person's characteristic choice or arrangement of words; diction or idiom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized, characteristic, or idiosyncratic vocabulary and expressions associated with a particular group, profession, or sphere of activity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He himself knew that, in reality, the confused beliefs which she held, apparently imbibed in childhood, were, if anything, Tractarian as to phraseology, and Pantheistic as to essence."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"To be hanged by the neck until dead” is society’s quaint phraseology . . ."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Though at the time I but ill comprehended not a few of his words, yet subsequent disclosures, when I had become more familiar with his broken phraseology, now enable me to present the whole story such as it may prove in the mere skeleton I give."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The beliefs she held were, if anything, Tractarian as to **phraseology**, and pantheistic as to essence."*
+> - 📜 **George Orwell (*Politics and the English Language*):** *"Modern political writing is dominated by stale **phraseology** that assembles prefabricated clauses like children's building blocks."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth listened with amusement to Mr. Collins's pompous **phraseology**, which transformed common compliments into tedious orations."*

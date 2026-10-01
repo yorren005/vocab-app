@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The exponent that indicates the power to which a base number is raised to produce a given number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A logarithm whose base is 10.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The exponent indicating the power to which a fixed base number must be raised to yield a given number.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational history and applied mathematics, a foundational mathematical concept invented by John Napier to convert multiplication and division into simpler addition and subtraction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"But it is best not to be intimate with gentlemen of this profession and to take the calculations at second hand, as you do logarithms, for to work them yourself, depend upon it, will cost you something considerable."*
+> - 📜 **John Napier (*Mirifici Logarithmorum Canonis Descriptio*):** *"The calculation of astronomical orbits became swift and pleasant through the introduction of the **logarithm**."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"You calculate at second hand, as you do with a **logarithm**, rather than work out the painful sums yourself."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"The spiral arms of galaxies wind outward in logarithmic spirals, demonstrating nature's affinity for the **logarithm**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek log.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Speech & Language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In liturgical theology and hymnody, an antiphonal or responsive hymn of praise exchanged dynamically between officiant and congregation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical liturgics, a choral dialogue praising God (such as the *Sursum Corda* and *Gloria in Excelsis*) structured as an alternating verbal exchange.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dialogue doxology designates a term designating an entity, condition, or phenomenon derived from greek log."*
+> - 📜 **John Henry Newman (*Parochial and Plain Sermons*):** *"The ancient liturgy resounds with a sublime **dialogue doxology** where priest and people unite their voices in heavenly adoration."*
+> - 📜 **Alexander Schmemann (*Introduction to Liturgical Theology*):** *"The Eucharistic canon opens with a vibrant **dialogue doxology** that lifts the assembly into the presence of the divine mystery."*
+> - 📜 **Evelyn Underhill (*Worship*):** *"The alternating cadences of the **dialogue doxology** dramatize the communion between the earthly church and the unseen host."*

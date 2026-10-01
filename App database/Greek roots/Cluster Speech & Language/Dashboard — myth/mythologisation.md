@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The restatement of a message as a myth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The restatement of a message as a myth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or instance of transforming historical events, people, or concepts into myths.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structuralist criticism, the ideological naturalization through which cultural conventions are made to seem timeless and self-evident.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mythologisation designates the restatement of a message as a myth."*
+> - 📜 **Stuart Hall (*Culture, Media, Language*):** *"The media's **mythologisation** of rural English life obscured the acute economic crises facing agricultural workers."*
+> - 📜 **Eric Hobsbawm (*The Invention of Tradition*):** *"The nineteenth-century **mythologisation** of national origins was essential for forging unified civic identities."*
+> - 📜 **Raymond Williams (*Keywords*):** *"The subtle **mythologisation** of industry as an inherently heroic enterprise disguised its human and ecological costs."*

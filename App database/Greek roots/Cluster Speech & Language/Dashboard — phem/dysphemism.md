@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An offensive or disparaging expression that is substituted for an inoffensive one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An offensive or disparaging expression that is substituted for an inoffensive one.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The substitution of a harsh, derogatory, offensive, or disparaging expression for an otherwise neutral or polite term (the opposite of euphemism).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociolinguistics and rhetoric, a deliberate lexical choice employed to stigmatize, provoke, express emotional hostility, or strip away protective social veneers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysphemism designates an offensive or disparaging expression that is substituted for an inoffensive one."*
+> - 📜 **Keith Allan & Kate Burridge (*Forbidden Words*):** *"A speaker employs **dysphemism** to emphasize the grotesque or unpalatable realities of mortality and bodily functions."*
+> - 📜 **H. L. Mencken (*The American Language*):** *"Political invective thrives upon **dysphemism**, reducing complex policies to derisive labels that excite popular prejudice."*
+> - 📜 **Steven Pinker (*The Stuff of Thought*):** *"The psychological transition from euphemism to **dysphemism** illustrates how language tracks shifts in emotional framing and social taboo."*

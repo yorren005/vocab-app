@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gloss.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Speech & Language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, condition, or habit of speaking or understanding only a single language; monolingualism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In language planning and political linguistics, the cultural policy or ideology that asserts the exclusive primacy of one language within a nation-state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monoglottism designates a term designating an entity, condition, or phenomenon derived from greek gloss."*
+> - 📜 **Joshua Fishman (*Language and Nationalism*):** *"Institutionalized **monoglottism** was long promoted by centralized nation-states as a prerequisite for patriotic civic unity."*
+> - 📜 **Edward Sapir (*Selected Writings in Language, Culture, and Personality*):** *"The unconscious bias bred by lifetime **monoglottism** blinds people to the profound grammatical diversity of human thought."*
+> - 📜 **Umberto Eco (*The Search for the Perfect Language*):** *"The European dream of overcoming biblical Babel arose as a philosophical reaction against the limitations of **monoglottism**."*

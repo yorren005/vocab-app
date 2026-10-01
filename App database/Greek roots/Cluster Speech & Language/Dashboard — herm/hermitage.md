@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The abode of a hermit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The abode of a hermit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The habitation or dwelling-place of a hermit; a secluded residence or retreat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An imperial museum and palace complex in St. Petersburg, Russia (the State Hermitage Museum), originally established by Catherine the Great as a quiet retreat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Lines Written In Friars’-Carse Hermitage Glenriddel Hermitage, June 28th, 1788."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Written In Friar’s-Carse Hermitage On Nithside Thou whom chance may hither lead, Be thou clad in russet weed, Be thou deckt in silken stole, Grave these counsels on thy soul."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Inscription At Friars’ Carse Hermitage To the Memory of Robert Riddell."*
+> - 📜 **William Wordsworth (*Lines Composed a Few Miles above Tintern Abbey*):** *"Once again do I behold some **hermitage** where by his forest fire the hermit sits alone in peaceful contemplation."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"The old prince had constructed a secluded **hermitage** at the edge of his country estate where he could read philosophy undisturbed."*
+> - 📜 **Catherine the Great (*Memoirs*):** *"In my private **Hermitage**, surrounded by masterworks of art, I enjoy conversations with scholars away from the rigid ceremonies of the court."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Antilogarithm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Antilogarithm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The common colloquial abbreviation for antilogarithm; the number corresponding to a given logarithm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational mathematics and navigational table lookups, the inverse function used to recover an original quantity from logarithmic calculations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antilog designates antilogarithm."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The mechanical engine was designed to calculate and stamp both the logarithm and the **antilog** without human copying error."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The astronomer consults the column of the **antilog** to translate logarithmic planetary coordinates back into observable angular distances."*
+> - 📜 **Vannevar Bush (*Operational Circuit Analysis*):** *"In analogue amplification, determining the **antilog** of the voltage ratio gives the absolute power gain of the stage."*

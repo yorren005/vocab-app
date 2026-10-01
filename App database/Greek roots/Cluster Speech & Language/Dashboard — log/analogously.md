@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an analogous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an analogous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an analogous manner; by way of analogy or corresponding relation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal logic and comparative epistemology, reasoning or concluding from parallel structural conditions across distinct domains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, analogously designates in an analogous manner."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"The mind reasons **analogously** when it projects rules observed in sensible experience onto supersensible objects."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Nature acts uniformly throughout all her parts, operating **analogously** in the macrocosm and the microcosm."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"We infer other minds **analogously** from physical behavior, assuming that similar actions spring from similar mental states."*

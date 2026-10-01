@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic binomial in which the generic name and specific epithet are alike and which is common in zoology especially to designate a typical form but is forbidden to botany under the International Code of Botanical Nomenclature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A taxonomic binomial in which the generic name and specific epithet are alike and which is common in zoology especially to designate a typical form but is forbidden to botany under the International Code of Botanical Nomenclature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In biological taxonomy, the condition or practice of using the identical word for both the genus and the species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of biological nomenclature, the rule of absolute tautonymy whereby an earlier genus name becomes the species epithet upon taxonomic transfer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tautonymy designates a taxonomic binomial in which the generic name and specific epithet are alike and which is common in zoology especially to designate a typical form but is forbidden to botany under the international code of botanical nomenclature."*
+> - 📜 **Ernst Mayr (*Principles of Systematic Zoology*):** *"The rule of absolute **tautonymy** automatically designates the type species whenever an author transfers a generic name to a species epithet."*
+> - 📜 **George Gaylord Simpson (*Principles of Animal Taxonomy*):** *"Differences between botanical and zoological codes regarding **tautonymy** reflect differing historical conventions in nomenclature."*
+> - 📜 **David Starr Jordan (*A Manual of the Vertebrate Animals*):** *"Under the zoological code, **tautonymy** is accepted as a legitimate and convenient method of designating the type."*

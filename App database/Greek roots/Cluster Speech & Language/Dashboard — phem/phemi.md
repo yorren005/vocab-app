@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Speech & Language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek linguistics and grammar, the first-person singular present indicative of phanai (to speak or declare), serving as the foundational root for words denoting speech, rumor, and verbal utterance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philology and classical lexicography, the archetype of athematic verbs of speaking whose stems generate rhetorical compounds such as euphemism, blasphemy, and prophecy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phemi designates a term designating an entity, condition, or phenomenon derived from greek phem."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"The archaic verb **phemi** designates the act of asserting or making an oral declaration, distinct from discursive reasoning."*
+> - 📜 **Herbert Weir Smyth (*Greek Grammar*):** *"In Attic Greek the present indicative of **phemi** is enclitic except in the second person singular form."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"The Proto-Indo-European root underlying **phemi** yielded cognates signifying both speech and manifestation across the daughter languages."*

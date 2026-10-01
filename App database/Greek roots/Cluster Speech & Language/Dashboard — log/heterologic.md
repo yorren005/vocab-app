@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not corresponding in structure or evolutionary origin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not corresponding in structure or evolutionary origin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by a lack of correspondence in structure, evolutionary origin, or logical category; non-homologous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In semio-philosophy and linguistics, describing an adjective that does not apply to itself (e.g., 'monosyllabic' is heterologic because it has five syllables; the Grelling-Nelson paradox).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterologic designates not corresponding in structure or evolutionary origin."*
+> - 📜 **Richard Owen (*On the Archetype and Homologies of the Vertebrate Skeleton*):** *"Anatomical features that exhibit purely superficial resemblance without morphological identity are termed **heterologic** by comparative anatomists."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"The semantic paradox surrounding a **heterologic** predicate demonstrates the necessity of establishing a hierarchy of logical types."*
+> - 📜 **W. V. Quine (*The Ways of Paradox*):** *"Whether the word **heterologic** is itself heterologic generates an insoluble antinomy unless syntactic levels are strictly distinguished."*

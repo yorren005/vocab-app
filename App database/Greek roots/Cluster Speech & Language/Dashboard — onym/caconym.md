@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek onym.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Speech & Language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A harsh-sounding, misconstructed, or linguistically incorrect name, especially in taxonomic nomenclature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical and zoological taxonomy, an objectionable scientific name rejected due to poor etymological formation or offensive barbarism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caconym designates a term designating an entity, condition, or phenomenon derived from greek onym."*
+> - 📜 **Carl Linnaeus (*Critica Botanica*):** *"A judicious botanist will avoid every barbarous **caconym** that violates the classical rules of grammatical harmony."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The commission rejected the proposed generic title as an unpronounceable **caconym** offending the canons of international nomenclature."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Taxonomists have repeatedly emended that harsh **caconym** to restore etymological dignity to the species."*

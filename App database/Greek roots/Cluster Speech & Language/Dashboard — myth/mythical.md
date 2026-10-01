@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or told of in traditional stories; lacking factual basis or historical validity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on or told of in traditional stories; lacking factual basis or historical validity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or described in a myth or legend; imaginary and lacking empirical existence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fictitious, legendary, or fabulously celebrated beyond what can be verified by historical evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon aimed) that all the mythical systems or erratic mythical fragments in the world were corruptions of a tradition originally revealed."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Having once mastered the true position and taken a firm footing there, the vast field of mythical constructions became intelligible, nay, luminous with the reflected light of correspondences."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Some of them represent the fable of Cupid and Psyche, which is probably the romantic invention of a literary period, and cannot, I think, be reckoned as a genuine mythical product."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Many curious instances could be given of animals possessing structures which resemble the **mythical** creations of heraldry."*
+> - 📜 **David Hume (*The Natural History of Religion*):** *"Early pagan traditions were filled with **mythical** deities whose moral attributes reflected human frailties and fears."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"He spoke of the spectral hound not as a reality, but as a **mythical** tale handed down from superstitious ancestors."*

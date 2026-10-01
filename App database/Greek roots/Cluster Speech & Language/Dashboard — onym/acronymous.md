@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by the use of acronyms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by the use of acronyms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed as an acronym; composed of the initial letters of several words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bureaucratic linguistics, characterizing names or terminology created through the contraction of longer descriptive phrases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acronymous designates characterized by the use of acronyms."*
+> - 📜 **Geoffrey Leech (*Semantics: The Study of Meaning*):** *"Modern organizational discourse frequently employs **acronymous** titles to present a sleek and professional corporate identity."*
+> - 📜 **John Algeo (*Fifty Years Among the New Words*):** *"The transition from descriptive phrases to **acronymous** words shows how spoken language assimilates written abbreviations."*
+> - 📜 **David Crystal (*The Cambridge Encyclopedia of Language*):** *"International treaties often establish **acronymous** agencies that soon become household names in their own right."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a metonymic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a metonymic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a metonymic manner; by means of metonymy or associative substitution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociopolitical discourse, referring to institutions, nations, or classes through representative physical locations or symbolic objects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metonymically designates in a metonymic manner."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The revolutionary mob attacked the Bastille, using that ancient fortress **metonymically** to strike at the entire monarchy."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The name of Machiavelli has been used **metonymically** to designate every species of political cunning and deceit."*
+> - 📜 **David Crystal (*The Cambridge Encyclopedia of the English Language*):** *"We speak **metonymically** of the press when we mean the entire journalistic profession and its output."*

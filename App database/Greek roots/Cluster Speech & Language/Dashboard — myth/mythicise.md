@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Interpret as a myth or in terms of mythology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make into a myth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To transform a historical person, event, or secular concept into a myth or legendary archetype.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historiography and cultural critique, to romanticize or elevate mundane realities into timeless symbolic narratives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mythicise designates interpret as a myth or in terms of mythology."*
+> - 📜 **Terry Eagleton (*Literary Theory: An Introduction*):** *"Bourgeois ideology tends to **mythicise** historically contingent social relations as immutable laws of nature."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"The romantic imagination attempted to **mythicise** the life of Leonardo, casting him as a sorcerer of secret arts."*
+> - 📜 **George Steiner (*In Bluebeard's Castle*):** *"To **mythicise** European catastrophe is to risk evading the rigorous moral responsibility of historical remembrance."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aphrod.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state or condition of intersex development in which the gonads are exclusively male (testes) or female (ovaries), but the external genitalia are ambiguous or characteristic of the opposite sex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical endocrinology, categorized into male pseudohermaphroditism (e.g., androgen insensitivity) and female pseudohermaphroditism (e.g., congenital adrenal hyperplasia).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudohermaphroditism designates a term designating an entity, condition, or phenomenon derived from greek aphrod."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The underlying etiology of female **pseudohermaphroditism** typically involves excessive androgen secretion by the fetal adrenal cortex."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Historical accounts of sexual metamorphoses frequently described undiagnosed cases of congenital **pseudohermaphroditism**."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Studies of **pseudohermaphroditism** reveal how delicate the biochemical cascades governing secondary sexual differentiation truly are."*

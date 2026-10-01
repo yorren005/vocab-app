@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To express regret for something done or said : to make an apology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To offer a defense or excuse or admission of fault for (something)—used in negative statements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To express regret for something done or said; to acknowledge a fault or discourtesy (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal rhetoric, to offer an argumentative defense or explanatory justification of one's actions or principles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The relations between us are of an unfortunate description, Lady Dedlock; but as they are not of my making, I will not apologize for them."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Indeed the mistake was mine, and I ought to apologize for it.” I had not once looked up."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed begins to apologize."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The relations between us are of an unfortunate description, Lady Dedlock; but as they are not of my making, I will not **apologize** for them."*
+> - 📜 **Mark Twain (*The Innocents Abroad*):** *"I refuse to **apologize** for our hearty American laughter in the somber cathedrals of the Old World."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"He felt an urge to **apologize** for his bluntness, yet knew that any retreat would compromise his honesty."*

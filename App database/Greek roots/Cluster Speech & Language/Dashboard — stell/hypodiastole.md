@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek stell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Speech & Language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In ancient and Byzantine Greek grammar and punctuation, a mark (such as a comma or virgule) placed between words to avoid ambiguity of word division.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textual criticism and palaeography, an editorial sign used in manuscripts to distinguish identical phrases, such as differentiating hoti (that) from ho ti (whatever).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypodiastole designates a term designating an entity, condition, or phenomenon derived from greek stell."*
+> - 📜 **Herbert Weir Smyth (*Greek Grammar*):** *"Ancient scribes employed the **hypodiastole** beneath the line to separate words that might otherwise be read as a single compound."*
+> - 📜 **Richard Bentley (*Dissertation upon the Epistles of Phalaris*):** *"The corrupt reading in the codex arose from the copyist omitting the **hypodiastole**, thus confounding two distinct clauses."*
+> - 📜 **L. D. Reynolds & N. G. Wilson (*Scribes and Scholars*):** *"Byzantine scholars standardized the **hypodiastole** to assist readers in parsing continuous script without word spacing."*

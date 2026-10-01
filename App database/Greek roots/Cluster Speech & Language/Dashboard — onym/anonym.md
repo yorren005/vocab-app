@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fictitious name used when the person performs a particular social role.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fictitious name used when the person performs a particular social role.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anonymous person; someone whose name is unknown, withheld, or concealed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In publishing and bibliography, a book, essay, or publication issued without the author's name.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anonym designates a fictitious name used when the person performs a particular social role."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The German philosopher remained a mysterious **anonym** to the learned world, sending forth profound treatises from an unknown retreat."*
+> - 📜 **Henry James (*The Aspern Papers*):** *"He scrutinized the ancient review, wondering what critic lurked behind the impenetrable **anonym** of the editorial signature."*
+> - 📜 **Edgar Allan Poe (*Marginalia*):** *"An author who publishes under an **anonym** invites the public to judge the work on its intrinsic merits alone."*

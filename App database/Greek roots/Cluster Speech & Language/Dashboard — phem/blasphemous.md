@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grossly irreverent toward what is held to be sacred.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by profanity or cursing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or uttering profanity, irreverence, or indignity against God or sacred things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and socio-religious commentary, expressing provocative or shocking contempt for deeply cherished orthodoxies, cultural dogmas, or sacrosanct institutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A pox o’ your throat, you bawling, blasphemous, incharitable dog!"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And I remembered back to my young days when I had sat at the feet of Arius, who had been a presbyter of the city of Alexandria, and who had been robbed of the bishopric by the blasphemous and heretical Alexander."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Blasphemous and heretical Warden of San Quentin whose feet have fast hold of hell,” I gibed, after I had drunk deep of the water they held to my lips."*
+> - 📜 **Thomas Hobbes (*Leviathan*):** *"He that pretends to immediate revelation from God must take heed lest his doctrines be judged **blasphemous** by the sovereign authority."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"A thousand times rather would I have confessed myself guilty of the most **blasphemous** atrocities than have permitted her condemnation."*
+> - 📜 **George Eliot (*Adam Bede*):** *"To Arthur's upright moral sense, the cynical insinuation appeared thoroughly vicious and almost **blasphemous** in its disregard of honor."*

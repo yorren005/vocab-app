@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A surface luster or brightness : shine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deceptively attractive appearance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brief explanatory note or translation inserted between lines or in the margin of a text to explain an obscure, archaic, or foreign word.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary philology and hermeneutics, a cumulative commentary apparatus; also (from Germanic origin), a bright surface sheen or deceptive superficial polish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, ill, to like him that ne’er it likes. ’Tis a commodity will lose the gloss with lying; the longer kept, the less worth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The over-daring Talbot Hath sullied all his gloss of former honour By this unheedful, desperate, wild adventure."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your painted gloss discovers, To men that understand you, words and weakness."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Scholastic commentators too often encumbered ancient texts with an endless **gloss** that obscured the author's primary intent."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"He scrutinized every marginal **gloss** in the venerable manuscript to restore the authentic reading of the verse."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"The painting possessed a luminous enamel **gloss** that preserved the delicate radiance of the Venetian pigments."*

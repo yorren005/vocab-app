@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to geology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to geology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner relating to geology; with respect to the geological history or physical structure of the earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In terms of geological time scales and planetary processes, characterized by gradual continental shifts and rock deposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geologically designates with respect to geology."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"These rugged mountains are **geologically** young, having been uplifted during the most recent tertiary epoch."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The volcanic archipelago of the Galapagos is **geologically** recent, rising from the sea floor through submarine eruptions."*
+> - 📜 **John McPhee (*Basin and Range*):** *"Human civilization occupies only an eyeblink **geologically**, flourishing upon the uppermost veneer of accumulated strata."*

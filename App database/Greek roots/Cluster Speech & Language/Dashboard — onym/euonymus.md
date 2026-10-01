@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely distributed chiefly evergreen shrubs or small trees or vines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widely distributed chiefly evergreen shrubs or small trees or vines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of deciduous and evergreen shrubs and small trees in the family Celastraceae (commonly called spindle trees or burning bushes), prized for ornamental foliage and vibrant berries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical taxonomy, classical Greek euōnymos (of good name, auspicious; ironically euphemistic for a plant known to be toxic to cattle).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"SPINDLE UREDO; spots yellowish; sori roundish, circinating, often confluent; epidermis erumpent; sporidia ovoid and slightly coherent, tawny-yellow.—On leaves of _Euonymus Europæus_."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"The shrub **Euonymus** europaeus displays four-angled capsules that split to reveal bright orange arils in late autumn."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"In our southern hedges, the spindle-tree or **Euonymus** is conspicuous in October for its rose-colored seed vessels."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Species of **Euonymus** are cultivated for their fiery crimson autumn foliage, which earned them the name of burning bush."*

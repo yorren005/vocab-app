@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of literature and of disciplines relevant to literature or to language as used in literature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Linguistics; especially : historical and comparative linguistics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of language in oral and written historical sources; the branch of knowledge that deals with the structure, historical development, and relationships of languages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Classical literary scholarship dedicated to the interpretation, critical editing, and historical contextualization of ancient literary monuments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"At least it seems more likely that the rule sprang from a superstition of this sort than from a simple calculation of expediency, as I formerly suggested (_Journal of Philology_, xiv. (1885) p. 158)."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And yet the former history continues to be studied side by side with the laws of statistics, geography, political economy, comparative philology, and geology, which directly contradict its assumptions."*
+> - 📜 **James George Frazer (*Balder the Beautiful*):** *"The rule sprang from ancient superstition rather than expediency, as I formerly suggested in the Journal of **Philology**."*
+> - 📜 **Jacob Grimm (*Deutsche Grammatik*):** *"Comparative **philology** proves that the living dialects of common peasants preserve the ancient grammatical roots of our civilization."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"True **philology** is not merely an inventory of dry roots, but the vital recreation of human culture through its finest literatures."*

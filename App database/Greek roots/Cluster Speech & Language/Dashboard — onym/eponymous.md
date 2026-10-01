@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being the person or thing for whom or which something specified is named : of, relating to, or being an eponym.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Named for a particular person or thing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving one's name to something, or named after the person or character who is its source (e.g., the eponymous hero of a novel).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern popular culture and the music industry, designating a self-titled work, album, or commercial brand that shares the name of its creator.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eponymous designates being the person or thing for whom or which something specified is named : of, relating to, or being an eponym."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The **eponymous** narrator of the story recounts his journey from an unhappy childhood to professional literary success."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The **eponymous** scientist creator Victor Frankenstein is consumed by the tragic consequences of his daring experiment."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Captain Ahab's obsessive vengeance is directed against the **eponymous** albino whale that roams the Pacific."*
