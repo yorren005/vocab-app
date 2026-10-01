@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek techn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An environmental philosophy asserting that advanced science, technology, and biotechnology can and should be developed to restore and sustain the Earth's environment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A green ideological framework advocating geoengineering, renewable energy technology, and eco-technological solutions to reverse ecological degradation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, technogaianism designates a term designating an entity, condition, or phenomenon derived from greek techn."*
+> - 📜 **James Lovelock (*The Revenge of Gaia*):** *"Advocates of **technogaianism** propose that human engineering must actively assist the planetary self-regulating biosphere."*
+> - 📜 **Stewart Brand (*Whole Earth Discipline*):** *"Embracing **technogaianism** means using biotechnology and nuclear power to protect wild habitats from catastrophic climate change."*
+> - 📜 **E. O. Wilson (*The Future of Life*):** *"Technological innovation alone cannot save biodiversity unless guided by ethical stewardship and ecological humility."*

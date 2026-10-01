@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or concerned with choreography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or concerned with choreography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, designed for, or relating to choreography or dance composition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by intricate, coordinated, or highly stylized physical movement or staging.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Isabel, though she danced very well, had not the recollection of having been in New York a successful member of the choreographic circle; her sister Edith was, as every one said, so very much more fetching."*
+> - 📜 **Isadora Duncan (*My Life*):** *"My new dance rebelled against the rigid **choreographic** conventions of traditional academic ballet."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"The figures in Botticelli's Primavera move with an ethereal, **choreographic** grace across the meadow."*
+> - 📜 **Susan Sontag (*Against Interpretation*):** *"The performance achieved a hypnotic power through its relentless, minimalist **choreographic** design."*

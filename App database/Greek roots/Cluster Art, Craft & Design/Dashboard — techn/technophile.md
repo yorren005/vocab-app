@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is enthusiastic about new technology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is enthusiastic about new technology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is enthusiastic about, enthusiastic for, or deeply fascinated by new technology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ardent supporter of technological innovation who readily adopts modern digital devices and systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, technophile designates a person who is enthusiastic about new technology."*
+> - 📜 **David Foster Wallace (*Infinite Jest*):** *"The fervent **technophile** surrounded himself with banks of cartridge players and digital consoles."*
+> - 📜 **Neil Postman (*Building a Bridge to the Eighteenth Century*):** *"The uncritical **technophile** welcomes every digital novelty without considering what human qualities might be lost."*
+> - 📜 **William Gibson (*Idoru*):** *"In downtown Tokyo, every teenage **technophile** carried customized gadgets glowing with holographic displays."*

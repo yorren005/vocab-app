@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the family orchestiidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family orchestiidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of talitrid amphipod crustaceans commonly known as beach fleas or sandhoppers, named for their dancing, jumping locomotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine littoral biology, small semiterrestrial crustaceans that inhabit wrack zones along sandy and rocky seashores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orchestia designates type genus of the family orchestiidae."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"When the tide recedes, countless tiny beach fleas of the genus **Orchestia** hop energetically across the stranded kelp."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The muscular urosome of **Orchestia** enables sudden leaping escapes when disturbed in damp coastal sand."*
+> - 📜 **Alister Hardy (*The Open Sea*):** *"Intertidal scavengers such as **Orchestia** perform vital ecological functions by recycling decomposing drift-weed."*

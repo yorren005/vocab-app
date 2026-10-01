@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling apoplexy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling apoplexy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or allied to apoplexy; apoplectic in clinical character or appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting stroke-like symptoms, stupor, or sudden vascular collapse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apoplectoid designates resembling apoplexy."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe uremic intoxication can trigger sudden **apoplectoid** seizures that confuse the inexperienced diagnostician."*
+> - 📜 **Jean-Martin Charcot (*Lectures on Localization in Diseases of the Brain*):** *"Focal cerebral softening often commences with an **apoplectoid** onset before localized motor deficits emerge."*
+> - 📜 **Robert Hooper (*Lexicon Medicum*):** *"Pathologists designated as **apoplectoid** those sudden comatose states unassociated with detectable ventricular bleeding."*

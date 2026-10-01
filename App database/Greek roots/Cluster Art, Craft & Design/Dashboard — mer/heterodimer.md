@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek mer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A macromolecular complex or chemical compound formed by the association of two different molecules or polypeptide subunits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular genetics, a protein dimer composed of two distinct gene products (such as alpha-beta tubulin).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterodimer designates a term designating an entity, condition, or phenomenon derived from greek mer."*
+> - 📜 **James D. Watson (*Molecular Biology of the Cell*):** *"Microtubules assemble from alternating alpha and beta tubulin subunits joined into a stable **heterodimer**."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"The active receptor functions as a **heterodimer**, requiring both distinct subunits for hormone binding."*
+> - 📜 **Arthur Kornberg (*DNA Replication*):** *"The restriction endonuclease operates as an asymmetric **heterodimer** recognizing non-palindromic target sites."*

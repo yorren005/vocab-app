@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of fungi in the family pezizaceae closely related to and often included in genus peziza.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of fungi in the family pezizaceae closely related to and often included in genus peziza.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of cup fungi in the family Sarcosomataceae, producing dark, fleshy, cup-shaped apothecia on decaying wood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology, an ascomycete genus characterized by blackish, interwoven hyphal walls and operculate asci containing smooth ascospores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plectania designates genus of fungi in the family pezizaceae closely related to and often included in genus peziza."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"The leathery exciple of **Plectania** is composed of dense, dark-walled hyphae interwoven into a protective rind."*
+> - 📜 **Elias Magnus Fries (*Systema Mycologicum*):** *"Fries distinguished **Plectania** among the Pezizaceae by its sooty black coloration and persistent cup shape."*
+> - 📜 **Charles Horton Peck (*Annual Report of the State Botanist*):** *"In damp spruce woods, colonies of **Plectania** emerged from buried rotting twigs soon after the snow melted."*

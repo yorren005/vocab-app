@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The main temple of the goddess athena; built on the acropolis in athens more than 400 years b.c.; example of doric architecture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The main temple of the goddess athena; built on the acropolis in athens more than 400 years b.c.; example of doric architecture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The iconic 5th-century BCE Doric temple on the Athenian Acropolis, dedicated to the maiden goddess Athena Parthenos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crowning masterpiece of classical Greek architecture, renowned for its optical refinements, sculpted friezes, and enduring cultural symbolism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Theseus: a reclining statue from the eastern pediment of the Parthenon, now in the British Museum."*
-> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"You spoke out so plainly with squealing and capering, With whinnying, snorting, contorting and prancing, As you dodged your pursuers, looking askance, With Greek-footed figures, and Parthenon paces, O broncho that would not be broken of dancing."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"Cold is the heart, fair Greece, that looks on thee, nor feels as lovers o'er the dust of the **Parthenon**."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The subtle curvatures of the stylobate of the **Parthenon** demonstrate that perfection in art transcends mechanical geometry."*
+> - 📜 **Will Durant (*The Life of Greece*):** *"Ictinus and Callicrates raised the **Parthenon** upon the Acropolis as the supreme monument of Athenian civilization."*

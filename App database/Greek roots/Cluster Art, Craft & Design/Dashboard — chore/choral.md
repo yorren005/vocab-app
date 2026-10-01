@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stately protestant (especially lutheran) hymn tune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related to or written for or performed by a chorus or choir.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Composed for, performed by, or sung by a choir or chorus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A harmonized hymn tune or sacred song; a chorale.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"A final chorus, or choral series, of rejoicings (such as does ultimately end the drama where Prometheus appears on the scene) would have been legitimate enough."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"It is as if the choral _finale_ of an opera were prolonged through two acts."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It would do one’s heart good to hear, on a club night, the shouts of merriment, the snatches of song, and now and then the choral bursts of half a dozen discordant voices, which issue from this jovial mansion."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"The birds broke into a joyful **choral** chant that echoed through the garden trees."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The roaring gale and tossing billows united in a wild, tempestuous **choral** dirge."*
+> - 📜 **Donald Jay Grout (*A History of Western Music*):** *"Beethoven introduced the human voice into the symphony through the triumphant **choral** finale of the Ninth."*

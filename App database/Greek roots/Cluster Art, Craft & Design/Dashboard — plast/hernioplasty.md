@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek plast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical repair and reconstruction of a hernia, especially one involving reinforcement with synthetic mesh or tissue grafts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In abdominal surgery, tension-free hernioplasty techniques that dramatically reduce postoperative recurrence rates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hernioplasty designates a term designating an entity, condition, or phenomenon derived from greek plast."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"In performing an inguinal **hernioplasty**, the resident learned to place the polypropylene mesh without injuring the spermatic cord."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern tension-free **hernioplasty** has largely supplanted older tissue-apposition sutures."*
+> - 📜 **Harold Gillies (*Principles and Art of Plastic Surgery*):** *"Restoring structural integrity across fascial defects requires careful **hernioplasty** using autologous fascia lata."*

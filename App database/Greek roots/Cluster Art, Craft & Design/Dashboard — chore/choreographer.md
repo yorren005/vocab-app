@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who creates new dances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who creates new dances.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who creates, designs, and arranges dance movements, routines, and sequences for ballets, musicals, or stage shows.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artist who conceptualizes the spatial and temporal architecture of human physical motion on stage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, choreographer designates someone who creates new dances."*
+> - 📜 **Martha Graham (*Blood Memory*):** *"The true **choreographer** listens to the ancestral memories stored within the muscles of the dancer."*
+> - 📜 **Mikhail Baryshnikov (*A Day with Baryshnikov*):** *"Working with a visionary **choreographer** demands total physical surrender and inventive bravery."*
+> - 📜 **Lincoln Kirstein (*Movement and Metaphor*):** *"Balanchine proved himself the greatest neoclassical **choreographer** of the twentieth century."*

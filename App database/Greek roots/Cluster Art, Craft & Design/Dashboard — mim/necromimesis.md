@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek mim.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A psychiatric delusion in which a living person firmly believes themselves to be dead, or the clinical simulation of death (related to Cotard's syndrome).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic pathology and neurology, an extreme catatonic or stuporous state resembling physical death.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, necromimesis designates a term designating an entity, condition, or phenomenon derived from greek mim."*
+> - 📜 **Jules Cotard (*On Hypochondriacal Delusions in a Severe Form of Anxious Melancholia*):** *"In profound melancholia, patients exhibit **necromimesis**, insisting that their organs have ceased functioning and they are deceased."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Catatonic trance occasionally mimicked **necromimesis**, presenting an eerie stillness that deceived observers into suspecting death."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe hysterical catalepsy may produce a transient **necromimesis** with imperceptible pulse and flaccid musculature."*

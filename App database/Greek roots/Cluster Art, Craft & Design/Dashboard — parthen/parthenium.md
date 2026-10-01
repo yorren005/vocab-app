@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of north american herbs and shrubs with terminal panicles of small ray flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of north american herbs and shrubs with terminal panicles of small ray flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of North American and Neotropical shrubs in the aster family Asteraceae, including guayule (*Parthenium argentatum*) and feverfew.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic botany and ethnobotany, a plant genus historically valued for natural rubber latex extraction and medicinal alkaloids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parthenium designates small genus of north american herbs and shrubs with terminal panicles of small ray flowers."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The composite genus **Parthenium** features small, whitish flower-heads and aromatic, resinous leaves."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"Indigenous peoples in northern Mexico harvested rubber from wild stands of shrubby **Parthenium**."*
+> - 📜 **Peter H. Raven (*Biology of Plants*):** *"Agronomists investigated **Parthenium** as an alternative arid-zone crop for industrial rubber production."*

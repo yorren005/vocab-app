@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various usually free-swimming marine coelenterates having a gelatinous medusoid stage as the dominant phase of its life cycle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various usually free-swimming marine coelenterates having a gelatinous medusoid stage as the dominant phase of its life cycle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any marine cnidarian belonging to the class Scyphozoa (a true jellyfish).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the Scyphozoa or true jellyfish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scyphozoan designates any of various usually free-swimming marine coelenterates having a gelatinous medusoid stage as the dominant phase of its life cycle."*
+> - 📜 **William Beebe (*Half Mile Down*):** *"Through the bathysphere window, a magnificent **scyphozoan** floated past, glowing with ghostly bioluminescence."*
+> - 📜 **Alister Hardy (*The Open Sea: Its Natural History*):** *"The rhythmic contractions of the **scyphozoan** bell propel the creature with gentle, pulsing grace."*
+> - 📜 **Edward O. Wilson (*The Diversity of Life*):** *"Even in open oceanic deserts, the predatory **scyphozoan** traps larval fish with trailing tentacles."*

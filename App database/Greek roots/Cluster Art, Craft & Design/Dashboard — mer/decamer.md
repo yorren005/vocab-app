@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek mer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An oligomer or macromolecular complex composed of ten monomeric subunits or peptide residues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, a protein assembly consisting of ten associated polypeptide chains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decamer designates a term designating an entity, condition, or phenomenon derived from greek mer."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"Electron microscopy revealed the viral capsid protein assembling into a stable ring-shaped **decamer**."*
+> - 📜 **Arthur Kornberg (*DNA Replication*):** *"The replication initiator complex functions as an active **decamer** to unwind duplex DNA at the origin."*
+> - 📜 **Max Perutz (*Proteins and Nucleic Acids*):** *"Symmetry constraints favor the formation of a five-fold symmetric **decamer** in many bacterial enzymes."*

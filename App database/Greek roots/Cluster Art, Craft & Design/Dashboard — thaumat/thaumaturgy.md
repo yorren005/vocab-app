@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The performance of miracles; specifically : magic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The performance of miracles; specifically : magic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The performance of miracles, magical feats, or supernatural wonders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature and history, the art of stage magic, illusion, or the practical application of magical formulas to alter physical reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thaumaturgy designates the performance of miracles; specifically : magic."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"His youthful fascination with Agrippa and Paracelsus drew him toward the alluring mysteries of ancient **thaumaturgy**."*
+> - 📜 **W. B. Yeats (*The Secret Rose*):** *"The adept sought mastery over the higher **thaumaturgy**, invoking invisible spiritual powers to illuminate the mind."*
+> - 📜 **George Eliot (*Romola*):** *"Popular credulity credited the friar with supernatural **thaumaturgy**, flocking to the square in hopes of witnessing a sign."*

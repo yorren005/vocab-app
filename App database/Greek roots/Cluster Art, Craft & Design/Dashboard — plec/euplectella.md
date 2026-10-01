@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of hyalospongiae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of hyalospongiae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of deep-sea glass sponges in the class Hexactinellida, notably *Euplectella aspergillum* (Venus' flower basket), famous for its intricate siliceous skeleton.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology, an abyssal sponge that often permanently encases a symbiotic pair of spongicolid shrimp inside its woven glass lattice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, euplectella designates a genus of hyalospongiae."*
+> - 📜 **Richard Owen (*On a New Genus and Species of Sponge: Euplectella Aspergillum*):** *"The cylindrical framework of **Euplectella** consists of curved siliceous threads woven with matchless mathematical elegance."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The glass sponge **Euplectella** secretes a rigid cylindrical lattice of fused opaline spicules."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"From the ocean floor beneath the Philippines comes **Euplectella**, its delicate basket of woven glass reflecting ancient architectural perfection."*

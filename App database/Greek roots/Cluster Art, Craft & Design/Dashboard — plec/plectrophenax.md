@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Snow bunting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Snow bunting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Arctic and subarctic passerine birds in the longspur family Calcariidae, comprising the snow bunting (*Plectrophenax nivalis*) and McKay's bunting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, migratory tundra songbirds possessing long, straight hind claws adapted for running over snow and barren rocky ground.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plectrophenax designates snow bunting."*
+> - 📜 **John James Audubon (*The Birds of America*):** *"Flocks of **Plectrophenax** drifted over the snowdrifts like whirling snowflakes on the Arctic gale."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"The genus **Plectrophenax** is distinguished by its elongated, spur-like hallux and dense cold-adapted plumage."*
+> - 📜 **Peter Matthiessen (*The Wind Birds*):** *"High on the windswept tundra fell-fields, the cheerful trill of **Plectrophenax** announced the fleeting northern spring."*

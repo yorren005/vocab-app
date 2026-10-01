@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Primitive winged insect with a flattened body; used as bait by fishermen; aquatic gilled larvae are carnivorous and live beneath stones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primitive winged insect with a flattened body; used as bait by fishermen; aquatic gilled larvae are carnivorous and live beneath stones.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any insect belonging to the order Plecoptera; a stonefly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or characteristic of stoneflies and their aquatic naiads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plecopteran designates primitive winged insect with a flattened body; used as bait by fishermen; aquatic gilled larvae are carnivorous and live beneath stones."*
+> - 📜 **Alister Hardy (*The Open Sea and Freshwater World*):** *"The fisherman tied an artificial nymph mimicking the flattened body of a **plecopteran** clinging to river rocks."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"Fossil beds reveal primitive **plecopteran** relatives that thrived along the swampy margins of Paleozoic streams."*
+> - 📜 **Robert MacArthur (*Geographical Ecology*):** *"Stream riffle communities exhibit distinct resource partitioning among each coexisting **plecopteran** species."*

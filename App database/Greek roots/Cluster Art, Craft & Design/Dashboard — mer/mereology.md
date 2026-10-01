@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek mer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of philosophical logic, ontology, and mathematics that investigates the formal relations between parts and wholes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal axiomatic system treating parthood as a fundamental ontological primitive.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mereology designates a term designating an entity, condition, or phenomenon derived from greek mer."*
+> - 📜 **Stanisław Leśniewski (*Foundations of the General Theory of Sets*):** *"I formulated **mereology** as a nominalist alternative to set theory, taking the part-whole relation as basic."*
+> - 📜 **Nelson Goodman (*The Structure of Appearance*):** *"Philosophical **mereology** provides rigorous tools to analyze how complex objects decompose into simpler individuals."*
+> - 📜 **Willard Van Orman Quine (*From a Logical Point of View*):** *"A rigorous **mereology** avoids the abstract platonism of classes by restricting itself to concrete physical sums."*

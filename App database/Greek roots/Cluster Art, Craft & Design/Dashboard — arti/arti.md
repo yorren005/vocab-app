@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek arti.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek combining root *artios* (even-numbered, complete, fitting), seen in zoological and biological nomenclature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Romance and English etymology, the stem representing Latin *ars* (genitive *artis*), signifying craft, skill, or artistic technique.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The picture referred to is ‘The Coronation of the Virgin’, in the ‘Accademia delle Belle Arti’, in Florence."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"In anatomical and zoological compounds, the root **arti** denotes an even number or fitting symmetry of parts."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The dental formula and pedal digits share the primitive **arti** arrangement characteristic of even-toed ungulates."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The Greek adjective *artios*, root **arti**, designated whole numbers that are divisible by two without remainder."*

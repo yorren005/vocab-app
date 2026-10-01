@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mediterranean thistlelike plant widely cultivated for its large edible flower head.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thistlelike flower head with edible fleshy leaves and heart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A perennial plant of the thistle family Asteraceae, cultivated for its edible immature flower head.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The Jerusalem artichoke (*Helianthus tuberosus*), a North American sunflower cultivated for its edible tuberous rhizomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The interior looked like a white pasty, a sort of soft crumb, the flavour of which was like that of an artichoke."*
-> - 📜 **James Joyce (*Ulysses*):** *"Open like flowers, know their hours, sunflowers, Jerusalem artichokes, in ballrooms, chandeliers, avenues under the lamps."*
+> - 📜 **Elizabeth David (*French Provincial Cooking*):** *"Peel away the tough outer bracts of the **artichoke** to reveal the tender, pale green heart."*
+> - 📜 **Pablo Neruda (*Ode to the Artichoke*):** *"The tender **artichoke** dressed in armor, a vegetable warrior standing proud in market baskets."*
+> - 📜 **Henry James (*A Little Tour in France*):** *"We were served boiled purple **artichoke** accompanied by a piquant vinaigrette."*

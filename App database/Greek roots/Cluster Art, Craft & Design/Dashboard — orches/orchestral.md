@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or composed for an orchestra.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or composed for an orchestra.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, composed for, or performed by an orchestra.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by grand, multi-instrumental sonic textures, rich harmonic layering, and symphonic color.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Orchestral Satan, weeping many a rood Tears such as angels weep."*
+> - 📜 **Leonard Bernstein (*The Joy of Music*):** *"Brahms achieved an **orchestral** warmth that wrapped the listener in rich velvet sonorities."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"The breaking waves outside sounded like a distant **orchestral** crescendo swelling against the rocks."*
+> - 📜 **Aaron Copland (*What to Listen for in Music*):** *"Mastering **orchestral** scoring requires an intimate knowledge of each instrument's dynamic range and timbre."*

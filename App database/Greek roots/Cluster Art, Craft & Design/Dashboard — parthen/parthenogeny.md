@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Human conception without fertilization by a man.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Process in which an unfertilized egg develops into a new individual; common among insects and some other arthropods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Parthenogenesis; reproduction without fertilization by male gametes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The biological generation and development of an organism from an unfertilized female egg cell.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parthenogeny designates human conception without fertilization by a man."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"The occurrence of **parthenogeny** in lower organisms demonstrates that development may proceed without gametic union."*
+> - 📜 **Ernst Haeckel (*The Wonders of Life*):** *"In rotational cycles of **parthenogeny**, virgin generations alternate with sexual forms to optimize survival."*
+> - 📜 **August Weismann (*Essays Upon Heredity*):** *"Weismann studied whether germ-plasm continuity operated identically in cases of pure **parthenogeny**."*

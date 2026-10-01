@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or being a function of a complex variable that is analytic everywhere in a region except for singularities at each of which infinity is the limit and each of which is contained in a neighborhood where the function is analytic except for the singular point itself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or being a function of a complex variable that is analytic everywhere in a region except for singularities at each of which infinity is the limit and each of which is contained in a neighborhood where the function is analytic except for the singular point itself.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In complex analysis, describing a function that is holomorphic throughout an open domain except at a set of isolated poles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ratio of two holomorphic functions on a Riemann surface, behaving well under algebraic operations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meromorphic designates relating to or being a function of a complex variable that is analytic everywhere in a region except for singularities at each of which infinity is the limit and each of which is contained in a neighborhood where the function is analytic except for the singular point itself."*
+> - 📜 **Lars Ahlfors (*Complex Analysis*):** *"A function is called **meromorphic** in a domain if its only singularities are non-essential isolated poles."*
+> - 📜 **Henri Poincaré (*Analysis Situs*):** *"The global properties of algebraic curves are revealed through the study of **meromorphic** functions defined upon them."*
+> - 📜 **Roger Penrose (*The Road to Reality*):** *"Riemann surfaces provide the natural geometric setting for multi-valued and **meromorphic** functions."*

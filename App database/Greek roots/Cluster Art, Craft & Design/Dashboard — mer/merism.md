@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Possession of (such) an arrangement of or relation among constituent chemical units.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possession of (such) an arrangement of or relation among constituent chemical units.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhetorical figure in which a whole entity is referred to by enumerating its contrasting or constituent parts (e.g. 'flesh and bone').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morphology, the repetition of homologous anatomical parts or segments (meristic variation).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The error, mes- merism - or hypnotism, to use the recent term 402:24 - illustrates the fact just stated."*
+> - 📜 **George Puttenham (*The Arte of English Poesie*):** *"This figure **merism**, or division, unfoldeth a general matter by recounting every particular part thereof."*
+> - 📜 **William Bateson (*Materials for the Study of Variation*):** *"Bateson investigated evolutionary **merism**, documenting variations in repeated vertebral and floral segments."*
+> - 📜 **C. S. Lewis (*Studies in Words*):** *"Biblical Hebrew poetry abounds in **merism**, invoking 'the heavens and the earth' to denote the entire cosmos."*

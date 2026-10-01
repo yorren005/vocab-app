@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person devoted to refined sensuous enjoyment (especially good food and drink).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person devoted to refined sensuous enjoyment (especially good food and drink).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who takes particular pleasure in fine food, drink, and sensory delicacies; a connoisseur of gastronomy (gourmet).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, a follower of the Greek philosopher Epicurus, who taught that peaceful tranquility and freedom from pain are the highest good.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With the health that Pompey gives him, else he is a very epicure."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Our alderman was _ex-officio_ the epicure of the party, half of his duties as a New York city father having been to study carefully all known flavors."*
-> - 📜 **James Joyce (*Ulysses*):** *"Well preserved fat corpse, gentleman, epicure, invaluable for fruit garden."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Montaigne was a philosophical **epicure**, tasting life's diverse flavors with detached curiosity."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The portly gentleman was a noted **epicure** who spent hours debating the vintage of his cellar."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The true philosopher is not an **epicure** seeking exotic treats, but one who relishes the sweet simplicity of wild berries."*

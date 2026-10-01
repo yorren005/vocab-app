@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an artistic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an artistic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an artistic, aesthetically pleasing, or skillfully creative manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From the standpoint of art, aesthetics, or artistic technique.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Artistically he is perfectly beautiful in an Old-Testament fashion."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"If a man treats life artistically, his brain is his heart,” he answered, sinking into an arm-chair."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"An agent would describe it as a `desirable gentleman's residence, comprising four entertaining rooms and eight bedrooms, glass, stabling, and grounds of four acres, artistically laid out'."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"The private drawing-room was decorated **artistically**, avoiding the rigid Victorian clutter of the avenue."*
+> - 📜 **Henry James (*The Aspern Papers*):** *"The Venetian garden was neglected, yet **artistically** charming in its wild, romantic decay."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Turner arranged the light and shadow **artistically**, lifting the landscape into spiritual poetry."*

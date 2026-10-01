@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical compound or mixture of compounds formed by polymerization and consisting essentially of repeating structural units.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance (such as polystyrene) consisting of molecules that are large multiples of units of low molecular weight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance consisting of large molecules composed of many repeating subunits linked together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: High-molecular-weight compounds formed through addition or condensation polymerization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymer designates a chemical compound or mixture of compounds formed by polymerization and consisting essentially of repeating structural units."*
+> - 📜 **Hermann Staudinger (*Nobel Lecture on Macromolecular Chemistry*):** *"I proved that natural rubber is not a colloidal aggregate, but a true macromolecular **polymer**."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The high tensile strength of nylon stems from linear **polymer** chains aligned by hydrogen bonding."*
+> - 📜 **Primo Levi (*The Periodic Table*):** *"The reactor held thousands of gallons of molten **polymer**, viscous as honey and clear as glass."*

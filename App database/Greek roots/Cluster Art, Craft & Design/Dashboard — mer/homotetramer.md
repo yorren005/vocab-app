@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek mer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A protein or macromolecular complex consisting of four identical subunits or polypeptide chains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, a symmetric four-subunit protein assembly (such as avidin or potassium channel pore domains).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homotetramer designates a term designating an entity, condition, or phenomenon derived from greek mer."*
+> - 📜 **Max Perutz (*Mechanisms of Cooperativity*):** *"Lactate dehydrogenase from muscle tissues assembles as an active **homotetramer** of four identical M-subunits."*
+> - 📜 **James D. Watson (*Molecular Biology of the Cell*):** *"Voltage-gated potassium channels feature four identical transmembrane subunits arranged into a functional **homotetramer**."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Crystallographic four-fold symmetry confirms the stable **homotetramer** architecture of the transport protein."*

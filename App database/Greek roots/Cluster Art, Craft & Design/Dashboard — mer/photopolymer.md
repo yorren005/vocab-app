@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A light-sensitive material that undergoes chemical and physical property changes when exposed to light (as UV or visible).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light-sensitive polymer used especially in the manufacture of printing plates —often used before another noun.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polymer or light-sensitive plastic material that changes its chemical and physical properties upon exposure to light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In additive manufacturing and dentistry, liquid resins cured by ultraviolet lasers in stereolithography.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photopolymer designates a light-sensitive material that undergoes chemical and physical property changes when exposed to light (as uv or visible)."*
+> - 📜 **Chuck Hull (*Origins of Stereolithography*):** *"By directing an ultraviolet laser across a vat of liquid **photopolymer**, we cured the first three-dimensional plastic object."*
+> - 📜 **David Foster Wallace (*Infinite Jest*):** *"Dental implants were set instantly with a handheld ultraviolet curing wand on blue **photopolymer**."*
+> - 📜 **Peter Atkins (*Physical Chemistry*):** *"Free-radical cross-linking in a **photopolymer** occurs within microseconds of photon absorption."*

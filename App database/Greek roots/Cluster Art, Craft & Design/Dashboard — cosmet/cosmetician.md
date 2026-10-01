@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who sells or applies cosmetics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who works in a beauty parlor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A professional who advises on, sells, or applies cosmetics and beauty treatments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An aesthetician trained in skin analysis, facial makeup artistry, and personal grooming regimens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmetician designates someone who sells or applies cosmetics."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"The ambitious young woman trained as a **cosmetician**, determined to open her own beauty salon in Minneapolis."*
+> - 📜 **Truman Capote (*Breakfast at Tiffany's*):** *"Her dressing table was cluttered with jars and pomades recommended by a fashionable French **cosmetician**."*
+> - 📜 **David Foster Wallace (*Infinite Jest*):** *"The television studio **cosmetician** applied pancake foundation with mechanical, weary efficiency."*

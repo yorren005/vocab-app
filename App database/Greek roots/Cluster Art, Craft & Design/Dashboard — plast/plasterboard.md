@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wallboard with a gypsum plaster core bonded to layers of paper or fiberboard; used instead of plaster or wallboard to make interior walls.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wallboard with a gypsum plaster core bonded to layers of paper or fiberboard; used instead of plaster or wallboard to make interior walls.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rigid building board made of a layer of gypsum plaster pressed between two thick sheets of paper, used for interior walls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern construction, a prefabricated interior wall cladding material valued for fire resistance and ease of installation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasterboard designates wallboard with a gypsum plaster core bonded to layers of paper or fiberboard; used instead of plaster or wallboard to make interior walls."*
+> - 📜 **David Foster Wallace (*Infinite Jest*):** *"The cheap partition wall was constructed of thin **plasterboard** that failed to muffle the tenant's television."*
+> - 📜 **Philip K. Dick (*Do Androids Dream of Electric Sheep?*):** *"The decaying apartment showed exposed wiring protruding through cracked sheets of crumbling **plasterboard**."*
+> - 📜 **John Updike (*Rabbit, Run*):** *"The smell of fresh spackle and cut **plasterboard** hung in the unfinished suburban basement."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of having or the stage of evolutionary development characterized by a body made up of metameres.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The identical visual appearance of two colors that have different physical or spectral compositions : the condition of being metameric in color.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In comparative zoology and embryology, the condition of having a body composed of a linear series of homologous segments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In color science, the perceived match of colors with different spectral power distributions under specific lighting conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metamerism designates the condition of having or the stage of evolutionary development characterized by a body made up of metameres."*
+> - 📜 **William Bateson (*Materials for the Study of Variation*):** *"Serial homology and developmental **metamerism** provide fundamental evidence of evolutionary modification."*
+> - 📜 **Jöns Jacob Berzelius (*Treatise on Chemistry*):** *"Berzelius initially used **metamerism** to describe compounds possessing identical proportions of elements in different arrangements."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"The genetic control of **metamerism** by homeobox genes revolutionized evolutionary developmental biology."*

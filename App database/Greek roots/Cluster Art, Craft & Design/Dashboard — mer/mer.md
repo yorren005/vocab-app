@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: meridian.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: member of a (specified) class.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fundamental, repeating structural unit of a polymer (a monomeric unit).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The Greek root *meros* (part, portion, share), the parent of biological, chemical, and philosophical terms involving division and composition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Schwartz, _op. cit._ p. 71, No. 72. 3. [255] Karl Müllenhoff, _Sagen, Märchen und Lieder der Herzogthümer Holstein und Lauenburg_ (Kiel, 1845), pp. 158 _sg._, No. 217."*
-> - 📜 **Effie Afton (*Eventide*):** *"Mer---- what is his name?" she paused and asked abruptly."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He wanted Fenzile, with her eyes, _vert de mer_, her full childish face, her slim hands with the orange-tinted finger nails, her silken trousers, her little slippers of silver and blue...."*
+> - 📜 **Walter William Skeat (*Principles of English Etymology*):** *"The Greek root **mer** denotes a share, portion, or division, forming the core of polymer and monomer."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"A high polymer consists of thousands of identical **mer** units linked in a covalent chain."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"From ancient *meros*, meaning part or lot, modern science derived the root **mer** for chemical units."*

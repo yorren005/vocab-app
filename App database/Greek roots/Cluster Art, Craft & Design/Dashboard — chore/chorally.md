@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By a chorus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By a chorus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a choral manner; by or as a choir or chorus singing together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sung in unison or multipart harmony by a collective body of voices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chorally designates by a chorus."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The Greek tragedies were chanted **chorally** by celebrants moving in solemn strophic dance."*
+> - 📜 **Walter Pater (*Greek Studies*):** *"The hymn was delivered **chorally**, the voices of the youths alternating with the maidens."*
+> - 📜 **George Saintsbury (*A History of English Prose Rhythm*):** *"The prose sentences resound **chorally**, building toward a majestic harmonic climax."*

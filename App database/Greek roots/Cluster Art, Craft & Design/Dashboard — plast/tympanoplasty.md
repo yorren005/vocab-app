@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek plast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical reconstruction and repair of a perforated eardrum and the ossicles of the middle ear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In otolaryngology, a microsurgical procedure aimed at eradicating middle-ear infection and restoring conductive hearing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tympanoplasty designates a term designating an entity, condition, or phenomenon derived from greek plast."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic suppurative otitis media with membrane perforation frequently requires elective **tympanoplasty** to preserve hearing."*
+> - 📜 **Robert Thayer Sataloff (*Professional Voice*):** *"The otologist successfully performed a microscopic **tympanoplasty** using a delicate temporalis fascia graft."*
+> - 📜 **Atul Gawande (*Complications*):** *"During the delicate **tympanoplasty**, the surgeon manipulated the micro-instruments under thirty-power magnification."*

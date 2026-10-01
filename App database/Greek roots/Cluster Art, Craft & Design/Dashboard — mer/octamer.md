@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek mer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An oligomer or macromolecular complex composed of eight monomeric subunits or parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular genetics, the histone octamer around which eukaryotic DNA winds to form a nucleosome core particle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octamer designates a term designating an entity, condition, or phenomenon derived from greek mer."*
+> - 📜 **James D. Watson (*Molecular Biology of the Cell*):** *"Nuclear DNA wraps twice around a core histone **octamer** to constitute the fundamental nucleosome."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"The structure of chromatin revealed that eight histone proteins assemble into a symmetrical disc-shaped **octamer**."*
+> - 📜 **Max Perutz (*Protein Structure*):** *"Crystallographic analysis confirmed that eight identical subunits coordinate to form the active enzymatic **octamer**."*

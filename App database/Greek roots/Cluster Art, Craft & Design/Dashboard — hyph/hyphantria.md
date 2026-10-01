@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fall webworms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fall webworms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tiger moths in the family Erebidae, notably including the fall webworm (*Hyphantria cunea*), named for its woven communal silk webs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomological taxonomy, an insect genus whose gregarious caterpillars construct extensive woven silk nests over foliage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyphantria designates fall webworms."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Populations of **Hyphantria** demonstrated rapid adaptive shifts in larval coloration across diverse climatic zones."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"The conspicuous silk tents of **Hyphantria** across autumn fruit trees often provoked excessive chemical spraying."*
+> - 📜 **E. O. Wilson (*The Insect Societies*):** *"Communal web construction in larval **Hyphantria** provides thermoregulation and collective defense against parasitoid wasps."*

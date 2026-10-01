@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to articulation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to articulation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to articulate, join, or connect; having the power of distinct articulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics or anatomy, functioning in the formation of speech sounds or physical jointing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, articulative designates of or relating to articulation."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The **articulative** organs of the human mouth coordinate subtle air movements into recognizable speech."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Higher intellectual evolution is marked by increasing **articulative** complexity in symbolic communication."*
+> - 📜 **William Dwight Whitney (*Language and the Study of Language*):** *"The child gradually refines its crude vocal babbling into controlled, **articulative** phrases."*

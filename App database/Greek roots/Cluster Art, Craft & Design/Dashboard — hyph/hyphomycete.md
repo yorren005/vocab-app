@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hyph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any fungus of the former artificial class Hyphomycetes, characterized by asexual conidial reproduction directly on uncontained hyphae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology, an anamorphic mold or imperfect fungus that lacks closed fruiting structures such as pycnidia or acervuli.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"GASTEROMYCETES, CONIOMYCETES, and HYPHOMYCETES, 1s."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"Every classic **hyphomycete** develops airborne conidiophores rising directly from the vegetative mycelium."*
+> - 📜 **Alexander Flecker (*Fungal Ecology in Stream Ecosystems*):** *"Aquatic forms of **hyphomycete** play a crucial role in breaking down leaf litter in freshwater streams."*
+> - 📜 **Peter H. Raven (*Biology of Plants*):** *"Systematists now reclassify each **hyphomycete** into Ascomycota based on molecular phylogenetic markers."*

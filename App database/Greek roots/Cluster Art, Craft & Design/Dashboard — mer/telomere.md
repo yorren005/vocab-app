@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The natural end of a eukaryotic chromosome composed of a usually repetitive DNA sequence and serving to stabilize the chromosome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The natural end of a eukaryotic chromosome composed of a usually repetitive DNA sequence and serving to stabilize the chromosome.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound structure consisting of repetitive non-coding nucleotide sequences at each end of a eukaryotic chromosome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular cytogenetics, a chromosomal end structure whose progressive shortening during cell division limits replicative lifespan.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telomere designates the natural end of a eukaryotic chromosome composed of a usually repetitive dna sequence and serving to stabilize the chromosome."*
+> - 📜 **Elizabeth Blackburn (*Nobel Lecture on Telomeres and Telomerase*):** *"At each round of cell division, the chromosomal **telomere** protects vital genetic data from degradation."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"Without telomerase, the end-replication problem causes progressive erosion of the **telomere**."*
+> - 📜 **Siddhartha Mukherjee (*The Gene: An Intimate History*):** *"The biological clock ticking within our cells is written in the diminishing repeats of each **telomere**."*

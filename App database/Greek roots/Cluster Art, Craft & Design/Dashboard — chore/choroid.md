@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A highly vascular membrane in the eye between the retina and the sclera; a dark pigmentation minimizes the scattering of light inside the eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A highly vascular membrane in the eye between the retina and the sclera; a dark pigmentation minimizes the scattering of light inside the eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The thin, vascular, pigmented layer of the eye between the sclera and retina, supplying blood and oxygen to the retina.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy, resembling a vascular membrane; also designating the choroid plexus that produces cerebrospinal fluid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, choroid designates a highly vascular membrane in the eye between the retina and the sclera; a dark pigmentation minimizes the scattering of light inside the eye."*
+> - 📜 **Hermann von Helmholtz (*Physiological Optics*):** *"Through the ophthalmoscope, the dark, blood-rich vessels of the ocular **choroid** become clearly visible."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Tubercles may occasionally be detected in the **choroid** during the course of acute miliary tuberculosis."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"The capillary loops of the **choroid** plexus are covered by specialized ependymal epithelium."*

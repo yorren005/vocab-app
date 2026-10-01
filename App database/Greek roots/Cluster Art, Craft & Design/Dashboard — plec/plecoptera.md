@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stoneflies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stoneflies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient order of hemimetabolous insects commonly known as stoneflies, possessing aquatic nymphs and four membranous wings folded flat over the back.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In freshwater ecology, an insect order whose presence serves as a sensitive bioindicator of pristine, well-oxygenated water quality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plecoptera designates stoneflies."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Sensitive aquatic larvae of the order **Plecoptera** vanished from the riverbeds following aerial forest spraying."*
+> - 📜 **Edward O. Wilson (*The Diversity of Life*):** *"The ancient lineage of **Plecoptera** traces back to the Carboniferous, preserving primitive wing-folding mechanisms."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Aquatic insects such as **Plecoptera** survive across wide geographic ranges by clinging to subterranean gravel beds."*

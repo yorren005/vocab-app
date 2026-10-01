@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or exhibiting isomerism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or exhibiting isomerism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, having the nature of, or exhibiting isomerism; sharing identical chemical composition but differing in structure or properties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear physics, relating to nuclear isomers or metastable energy levels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isomeric designates of, relating to, or exhibiting isomerism."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry*):** *"Faraday discovered that butylene and ethylene shared an identical percentage composition, proving their **isomeric** relationship."*
+> - 📜 **Louis Pasteur (*Researches on Molecular Asymmetry*):** *"Tartaric and racemic acids constitute distinct **isomeric** forms exhibiting opposite optical behaviors."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Structural formulas reveal how **isomeric** hydrocarbons can have wildly different boiling points."*

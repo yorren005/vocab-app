@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek mer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An oligomer, macromolecular complex, or protein assembly composed of five monomeric subunits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology, immunoglobulin M (IgM) circulating in serum as a star-shaped pentamer joined by a J chain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentamer designates a term designating an entity, condition, or phenomenon derived from greek mer."*
+> - 📜 **James D. Watson (*Molecular Biology of the Cell*):** *"Serum IgM antibodies assemble into a magnificent planar **pentamer** capable of binding ten antigens."*
+> - 📜 **Max Perutz (*Proteins and Nucleic Acids*):** *"The viral capsid vertices are constructed from a five-fold symmetric capsomer **pentamer**."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"Pentagonal symmetry in viral coats arises from five identical protein chains forming a stable **pentamer**."*

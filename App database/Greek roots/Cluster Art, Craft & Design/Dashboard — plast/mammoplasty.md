@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek plast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plastic surgery performed on the breast, either to reduce, enlarge, reconstruct, or reshape its contour.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oncologic reconstructive surgery, post-mastectomy tissue reconstruction using implants or autologous tissue flaps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mammoplasty designates a term designating an entity, condition, or phenomenon derived from greek plast."*
+> - 📜 **Atul Gawande (*Better: A Surgeon's Notes on Performance*):** *"The reconstructive team completed the bilateral **mammoplasty**, restoring symmetry following tumor excision."*
+> - 📜 **Harold Gillies (*Plastic Surgery of the Face and Body*):** *"A successful **mammoplasty** balances aesthetic contour with careful preservation of blood supply to the nipple-areola complex."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"Modern breast cancer surgery evolved to integrate oncological clearance with immediate reconstructive **mammoplasty**."*

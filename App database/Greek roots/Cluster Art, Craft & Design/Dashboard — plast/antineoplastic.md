@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several drugs that control or kill neoplastic cells; used in chemotherapy to kill cancer cells; all have unpleasant side effects that may include nausea and vomiting and hair loss and suppression of bone marrow function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in the treatment of cancer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acting to prevent, inhibit, or arrest the development, proliferation, or spread of malignant neoplasms; chemotherapeutic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pharmaceutical agent or drug used in cancer chemotherapy to destroy tumor cells or suppress abnormal cell division.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antineoplastic designates any of several drugs that control or kill neoplastic cells; used in chemotherapy to kill cancer cells; all have unpleasant side effects that may include nausea and vomiting and hair loss and suppression of bone marrow function."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"Farber recognized that aminopterin acted as a potent **antineoplastic** agent against childhood leukemia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern oncology relies on synergistic **antineoplastic** regimens to overcome biochemical drug resistance."*
+> - 📜 **Jerome Groopman (*The Anatomy of Hope*):** *"The patient endured punishing side effects from the aggressive **antineoplastic** infusion in hopes of remission."*

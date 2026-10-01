@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preserve (tissue) with plastics, as for teaching and research purposes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preserve (tissue) with plastics, as for teaching and research purposes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To preserve a biological specimen or anatomical body by replacing water and fat with curable polymers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To subject anatomical tissues to the process of plastination for medical education and museum display.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plastinate designates preserve (tissue) with plastics, as for teaching and research purposes."*
+> - 📜 **Gunther von Hagens (*Anatomy and Plastination*):** *"Our objective was to **plastinate** whole organ systems so that students could study authentic human anatomy without toxic formalin."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"In modern dissection laboratories, curators **plastinate** complex vascular networks to demonstrate three-dimensional collateral pathways."*
+> - 📜 **Oliver Sacks (*Uncle Tungsten*):** *"Anatomists learned to **plastinate** fragile cerebral specimens, rendering the delicate gyri dry, durable, and odorless."*

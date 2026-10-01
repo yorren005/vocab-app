@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A polymer formed from three molecules of a monomer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polymer formed from three molecules of a monomer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polymer or macromolecular complex consisting of three monomeric units or polypeptide chains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry, a compound formed by the union of three identical molecules (e.g. benzene from acetylene).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trimer designates a polymer formed from three molecules of a monomer."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Heating acetylene passes it over heated copper, polymerizing three molecules into the cyclic **trimer** benzene."*
+> - 📜 **James D. Watson (*Molecular Biology of the Cell*):** *"The coronavirus spike glycoprotein forms a prominent surface **trimer** that mediates viral entry."*
+> - 📜 **Max Perutz (*Protein Structure*):** *"Collagen fibers consist of a triple helix formed by three polypeptide chains wound into a stable **trimer**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or showing technophobia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or showing technophobia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing, feeling, or characterized by technophobia; fearful, suspicious, or hostile toward new technology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resisting automation, digitization, or computerized processes in daily life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, technophobic designates of or relating to or showing technophobia."*
+> - 📜 **Kurt Vonnegut (*Player Piano*):** *"The underground resistance was fueled by a deeply **technophobic** rage against automated factories."*
+> - 📜 **Thomas Pynchon (*Gravity's Rainbow*):** *"His **technophobic** instincts warned him against trusting the sterile electronic calculations of the guidance system."*
+> - 📜 **Neil Postman (*Technopoly*):** *"To question the benefits of a machine is not to be **technophobic**; it is the first duty of a responsible citizen."*

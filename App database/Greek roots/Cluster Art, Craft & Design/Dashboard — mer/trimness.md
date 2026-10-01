@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of arrangement or appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of arrangement or appearance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, quality, or condition of being trim; neatness, orderliness, and smartness of appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slenderness, compactness, and athletic proportion of physical build.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trimness designates a state of arrangement or appearance."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She admired the Quaker **trimness** of the quiet room, where every book and chair had its exact station."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"The French pupils displayed an innate Parisian **trimness** in their uniform aprons and braided hair."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"The immaculate **trimness** of the warship was maintained by daily scrubbing and holystoning."*

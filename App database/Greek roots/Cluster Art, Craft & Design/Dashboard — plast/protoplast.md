@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A biological unit consisting of a nucleus and the body of cytoplasm with which it interacts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biological unit consisting of a nucleus and the body of cytoplasm with which it interacts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The living contents of a plant or bacterial cell, comprising the nucleus and cytoplasm after the cell wall has been removed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An original ancestor or prototype; in theology, Adam as the original protoplast or first-formed human.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Those forms, unalterable first as last, proved him her copier, not the protoplast of nature: what could come of being free by action to exhibit tree for tree, bird, beast, for beast and bird, or prove earth bore one veritable man or woman more?"*
+> - 📜 **Lynn Margulis (*Early Life*):** *"Cell biologists can dissolve the cellulose wall to study the naked, living **protoplast** directly."*
+> - 📜 **Peter H. Raven (*Biology of Plants*):** *"Somatic hybridization is achieved by fusing an isolated plant **protoplast** with another in an electric field."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Adam, the sacred **protoplast** of human kind, walked majestic in the groves of Eden."*

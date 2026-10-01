@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek mim.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word or expressive linguistic item that depicts a psychological state, subjective feeling, or emotional attitude (a psychomimetic ideophone).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sound symbolism and lexicology, a mimetic lexical form (gijōgo) representing internal mental states or emotional dispositions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychomime designates a term designating an entity, condition, or phenomenon derived from greek mim."*
+> - 📜 **Roman Jakobson (*The Sound Shape of Language*):** *"In expressive vocabulary, a **psychomime** links phonetic nuance directly to subjective states of inner turmoil or calm."*
+> - 📜 **Edward Sapir (*Selected Writings in Language, Culture and Personality*):** *"The expressive utility of a **psychomime** lies in conveying visceral mental attitudes without descriptive abstraction."*
+> - 📜 **Mark Dingemanse (*The Meaning and Use of Ideophones*):** *"When describing nervousness or excitement, speakers employ a **psychomime** to mirror the felt emotional state."*

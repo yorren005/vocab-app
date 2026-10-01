@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of repeat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of repeat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In linguistics, pertaining to or functioning as a psychomime; depicting mental states or emotional feelings through sound symbolism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology (more commonly psychotomimetic), mimicking the symptoms of psychosis or inducing altered states of consciousness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychomimetic designates adjective*) pertaining to, derived from, or characteristic of repeat."*
+> - 📜 **Aldous Huxley (*The Doors of Perception*):** *"Pharmacologists investigated mescaline as a **psychomimetic** agent that simulated schizophrenic perceptions in healthy volunteers."*
+> - 📜 **Oliver Sacks (*Hallucinations*):** *"The bizarre sensory distortions induced by **psychomimetic** compounds provided insight into neural perceptual gating."*
+> - 📜 **Roman Jakobson (*The Sound Shape of Language*):** *"Linguists analyze **psychomimetic** words to understand how phonological tones evoke internal psychological responses."*

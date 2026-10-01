@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An actor who communicates entirely by gesture and facial expression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An actor who communicates entirely by gesture and facial expression.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who performs in mime; a mimic or pantomimist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval folk drama, a muller or mummer performing masked seasonal folk plays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mimer designates an actor who communicates entirely by gesture and facial expression."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The village **mimer** brandished his wooden broadsword before the cottage hearth in the traditional Christmas play."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"Masked revelers and each rustic **mimer** paraded through the hall to amuse the country squire."*
+> - 📜 **Walter Pater (*Greek Studies*):** *"The antique **mimer** caricatured local magistrates with biting, improvised bodily gestures."*

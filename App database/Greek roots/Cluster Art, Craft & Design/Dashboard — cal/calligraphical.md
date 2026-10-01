@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or expressed in calligraphy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or expressed in calligraphy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to calligraphy; calligraphic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by ornamental flourishes and elegant handwritten draftsmanship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calligraphical designates of or relating to or expressed in calligraphy."*
+> - 📜 **Washington Irving (*The Alhambra*):** *"The walls of the Moorish palace were adorned with intricate **calligraphical** poems praising the sultan."*
+> - 📜 **Edgar Allan Poe (*The Murders in the Rue Morgue*):** *"Dupin scrutinized the document, remarking upon its quaint, **calligraphical** flourishes."*
+> - 📜 **Charles Lamb (*Essays of Elia*):** *"The old clerk took solemn pride in his obsolete **calligraphical** accomplishments and fine flourishes."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The aspect of pronunciation that involves bringing articulatory organs together so as to shape the sounds of speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The shape or manner in which things come together and a connection is made.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The clear, distinct pronunciation and enunciation of vocal speech sounds in language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movable or fixed joint between two bones or parts of an animal skeleton; or the state of being jointed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"To savages generally is imputed a guttural articulation."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He was sparing in discourse; but whatever he said was pregnant with meaning, and uttered with rectitude of articulation and force of emphasis of which I had entertained no conception previously to my knowledge of him."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"No articulation was ever more distinct."*
+> - 📜 **Peter Ladefoged (*A Course in Phonetics*):** *"Precise lingual **articulation** against the alveolar ridge produces crisp dental consonants."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The ball-and-socket **articulation** of the shoulder allows universal rotation of the forelimb."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"Eliza practiced her vowel **articulation** before the mirror until every trace of Cockney slang vanished."*

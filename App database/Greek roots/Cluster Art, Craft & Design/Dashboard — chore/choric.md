@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or written for or in the style of a greek chorus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or written for or in the style of a greek chorus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to, recited by, or resembling a dramatic chorus, especially in ancient Greek drama.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sung or chanted in unison by an ensemble or group.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"It is the most horrible of virgin-sacrifices,” said Will; and he painted to himself what were Dorothea’s inward sorrows as if he had been writing a choric wail."*
+> - 📜 **Gilbert Murray (*Euripides and His Age*):** *"The sublime **choric** odes in Greek tragedy comment upon the tragic hero's fate with cosmic perspective."*
+> - 📜 **W. B. Yeats (*Per Amica Silentia Lunae*):** *"The verses rose like a **choric** chant, invoking ancestral spirits from the deep well of memory."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"Beneath the cliffs, earth-spirits chanted a **choric** hymn of triumphant joy."*

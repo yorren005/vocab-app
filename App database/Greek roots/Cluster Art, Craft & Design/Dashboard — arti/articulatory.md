@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to articulation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to articulation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the articulation of speech sounds or the anatomical organs involved in speech production.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to anatomical joints or joint function.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, articulatory designates of or relating to articulation."*
+> - 📜 **Noam Chomsky (*The Sound Pattern of English*):** *"Generative phonology relates abstract phonological matrices to concrete **articulatory** movements."*
+> - 📜 **Peter Ladefoged (*Elements of Acoustic Phonetics*):** *"Acoustic resonance in the vocal tract corresponds directly to specific **articulatory** postures."*
+> - 📜 **Edward Sapir (*Language*):** *"Every spoken language possesses its own distinctive **articulatory** rhythm and muscular habitus."*

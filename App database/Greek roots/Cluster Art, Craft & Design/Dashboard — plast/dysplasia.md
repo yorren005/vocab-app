@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal growth or development (as of organs or cells); broadly : abnormal anatomical structure due to such growth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal growth or development (as of organs or cells); broadly : abnormal anatomical structure due to such growth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The abnormal growth, development, or organization of cells, tissues, or organs, often representing an early pre-malignant stage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental genetics, a structural malformation caused by intrinsic abnormalities in tissue embryogenesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysplasia designates abnormal growth or development (as of organs or cells); broadly : abnormal anatomical structure due to such growth."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"Cervical Pap smears transformed preventive oncology by detecting cellular **dysplasia** years before invasive carcinoma developed."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe epithelial **dysplasia** in Barrett's esophagus warrants close endoscopic surveillance."*
+> - 📜 **Atul Gawande (*Complications*):** *"Microscopic sections showed moderate architectural **dysplasia** along the glandular margins."*

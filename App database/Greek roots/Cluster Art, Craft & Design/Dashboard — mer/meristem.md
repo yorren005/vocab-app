@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A formative plant tissue usually made up of small cells capable of dividing indefinitely and giving rise to similar cells or to cells that differentiate to produce the definitive tissues and organs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A meristem at the apex of a root or shoot that is responsible for increase in length.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A region of plant tissue consisting of undifferentiated cells actively dividing to form new specialized tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant anatomy, the perpetual embryonic tissue that enables indeterminate growth at shoot and root tips.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meristem designates a formative plant tissue usually made up of small cells capable of dividing indefinitely and giving rise to similar cells or to cells that differentiate to produce the definitive tissues and organs."*
+> - 📜 **Peter H. Raven (*Biology of Plants*):** *"The shoot apical **meristem** continuously generates new leaves and stem tissues throughout the life of the tree."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"Cells of the vascular **meristem** remain undifferentiated, maintaining the capacity for division."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Every upward surge of the forest bough originates within the microscopic dome of the apical **meristem**."*

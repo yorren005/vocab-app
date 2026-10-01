@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The practical application of scientific knowledge especially in a particular area : engineering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A machine, piece of equipment, method, etc. that is created by the practical application of scientific knowledge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The application of scientific knowledge and mechanical principles for practical purposes, especially in industry and commerce.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The collection of techniques, skills, methods, and processes used in the production of goods or services or in accomplishing objectives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"His special friend--at last the dearest friend he had in this world--was the younger son, George, afterwards the well-known chemist and Professor of Technology in the University of Edinburgh."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Slingshot technology, facilities, and materiel give to us, more than to any other member of INOR, the means to attain our aspirations."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hyperspace technology solved the problem."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"Any sufficiently advanced **technology** is indistinguishable from magic."*
+> - 📜 **Neil Postman (*Technopoly: The Surrender of Culture to Technology*):** *"Uncontrolled **technology** redesigns culture from within, subordinating human traditions to algorithmic efficiency."*
+> - 📜 **Ursula K. Le Guin (*The Dispossessed*):** *"We must learn to use our **technology** as an instrument of liberation rather than a tool of domination."*

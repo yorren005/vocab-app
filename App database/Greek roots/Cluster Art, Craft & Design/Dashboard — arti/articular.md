@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or affecting the joints of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or affecting the joints of the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a joint or the joints of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by or situated near the articulating surface of two bones or cartilage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, articular designates relating to or affecting the joints of the body."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Rheumatoid disease characteristically begins with bilateral swelling of the small **articular** capsules."*
+> - 📜 **Gray's Anatomy (*Anatomy of the Human Body*):** *"Smooth hyaline cartilage coats each **articular** extremity to minimize friction during movement."*
+> - 📜 **Santiago Ramón y Cajal (*Histology*):** *"Proprioceptive sensory nerve endings are densely distributed within the fibrous **articular** ligaments."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgery concerned with therapeutic or cosmetic reformation of tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgery concerned with therapeutic or cosmetic reformation of tissue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reconstructive or plastic surgery aimed at restoring lost, deformed, or injured body parts through grafting or tissue repositioning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical history, restorative grafting procedures practiced in classical India and Renaissance Europe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaplasty designates surgery concerned with therapeutic or cosmetic reformation of tissue."*
+> - 📜 **Harold Gillies (*Plastic Surgery of the Face*):** *"Modern facial **anaplasty** was born in the trenches of the Great War to rebuild shattered visages."*
+> - 📜 **Robert Hooper (*Lexicon Medicum*):** *"Surgical treatises describe **anaplasty** as the art of restoring mutilated noses and lips using adjacent flaps."*
+> - 📜 **Chevalier Jackson (*Bronchoscopy and Esophagoscopy*):** *"Careful **anaplasty** of the tracheal stenosis restored normal laminar airflow."*

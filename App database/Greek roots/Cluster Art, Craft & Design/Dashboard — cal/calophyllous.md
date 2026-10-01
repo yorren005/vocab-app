@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of beautiful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of beautiful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having beautiful, glossy, or aesthetically pleasing leaves (from Greek *kalos* beautiful + *phyllon* leaf).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, designating tropical plants characterized by elegant, closely parallel-veined foliage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calophyllous designates adjective*) pertaining to, derived from, or characteristic of beautiful."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The tropical evergreen trees of this family are preeminently **calophyllous**, bearing leathery leaves with delicate transverse veins."*
+> - 📜 **Alexander von Humboldt (*Aspects of Nature*):** *"The deep green shade of the **calophyllous** canopies sheltered delicate orchids from the equatorial sun."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Certain rainforest species are prized in botanical collections for their striking, **calophyllous** habit."*

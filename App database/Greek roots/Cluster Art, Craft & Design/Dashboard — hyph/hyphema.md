@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek haem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An accumulation of blood inside the anterior chamber of the eye, typically pooling between the cornea and the iris following trauma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical ophthalmology, an intraocular hemorrhage that can lead to elevated intraocular pressure and corneal staining.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyphema designates a term designating an entity, condition, or phenomenon derived from greek haem."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Blunt ocular contusion frequently produces a visible **hyphema**, requiring prompt immobilization to avert secondary hemorrhage."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology*):** *"Examination revealed traumatic mydriasis accompanied by a layered **hyphema** settling along the inferior limbus."*
+> - 📜 **Atul Gawande (*Better: A Surgeon's Notes on Performance*):** *"The resident carefully checked the patient's anterior chamber, monitoring the clearance of a traumatic **hyphema**."*

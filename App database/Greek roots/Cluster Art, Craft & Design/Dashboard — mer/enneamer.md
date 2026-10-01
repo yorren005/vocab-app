@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek mer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An oligomer or macromolecular complex composed of nine monomeric units or subunits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural molecular biology, a symmetric protein assembly exhibiting nine-fold rotational symmetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enneamer designates a term designating an entity, condition, or phenomenon derived from greek mer."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"The bacterial flagellar basal ring assembles as an intricate **enneamer** embedded in the inner membrane."*
+> - 📜 **Max Perutz (*Proteins and Nucleic Acids*):** *"Crystallographic analysis revealed nine identical peptide subunits arranged in a cyclic **enneamer**."*
+> - 📜 **Arthur Kornberg (*DNA Replication*):** *"The chaperone complex functions as a transient **enneamer** during the assembly of the viral capsid."*

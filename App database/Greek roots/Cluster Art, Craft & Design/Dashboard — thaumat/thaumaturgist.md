@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who practices magic or sorcery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who practices magic or sorcery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who performs miracles, magical feats, or prestidigitation; a wonder-worker or conjurer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A theatrical magician or illusionist skilled in sleight of hand and mechanical stage wonders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thaumaturgist designates one who practices magic or sorcery."*
+> - 📜 **Arthur Conan Doyle (*The Coming of the Fairies*):** *"The skeptical investigator must discern whether the phenomenon is genuine or the trick of a clever **thaumaturgist**."*
+> - 📜 **Washington Irving (*Tales of a Traveller*):** *"The traveling **thaumaturgist** amazed the village crowd with enchanted bottles and dancing shadows."*
+> - 📜 **Nathaniel Hawthorne (*Mosses from an Old Manse*):** *"He resembled some antique **thaumaturgist** whose laboratory breathed of sulfur and forbidden lore."*

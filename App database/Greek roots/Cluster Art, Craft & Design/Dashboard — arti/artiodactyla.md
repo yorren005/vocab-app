@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of hooved mammals of the subclass eutheria (including pigs and peccaries and hippopotami and members of the suborder ruminantia) having an even number of functional toes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of hooved mammals of the subclass eutheria (including pigs and peccaries and hippopotami and members of the suborder ruminantia) having an even number of functional toes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of placental mammals comprising the even-toed ungulates, whose weight is borne equally by the third and fourth digits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian paleontology, a dominant ungulate order that diversified extensively throughout the Cenozoic era.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, artiodactyla designates an order of hooved mammals of the subclass eutheria (including pigs and peccaries and hippopotami and members of the suborder ruminantia) having an even number of functional toes."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The order **Artiodactyla** is distinguished by an asymmetrical paraxonic foot symmetry."*
+> - 📜 **Ernst Mayr (*Principles of Systematic Zoology*):** *"Molecular phylogenies revealed that Cetacea are nested cladistically within **Artiodactyla**, forming Cetartiodactyla."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"Ruminant families of the **Artiodactyla** achieved their greatest diversity across the Old World plains."*

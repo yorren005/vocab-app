@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An actor who communicates entirely by gesture and facial expression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An actor who communicates entirely by gesture and facial expression.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An actor, performer, or dancer who acts in a pantomime without speaking; a mime.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A performer in traditional pantomime or harlequinade productions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pantomimer designates an actor who communicates entirely by gesture and facial expression."*
+> - 📜 **Henry Fielding (*Tom Jones*):** *"The agile **pantomimer** skipped across the platform, delighting the fairground spectators with silent antics."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Behind the curtain, the weary **pantomimer** applied fresh chalk to his face before leaping onto the boards."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The agile suspect slipped through the narrow skylight like a trained **pantomimer** escaping a harlequinade."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with a joint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into words or an expression.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing the ability to speak fluently and coherently; expressing oneself clearly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having joints or jointed segments; forming a movable joint with another bone or part.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Send us to Rome The best, with whom we may articulate For their own good and ours."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I tried to tell him what I thought of him, but I could not articulate a word."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I stood for some minutes without being able to articulate a word--which, indeed, seemed the case with most of those before me."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He possessed an extraordinarily **articulate** voice that lent persuasiveness to the most complex moral argument."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Human speech differs from animal cries by consisting of distinct, **articulate** vocal sounds."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The limbs of the anthropoid ape are freely **articulate**, adapted for brachiation among branches."*

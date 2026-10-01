@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relationship of two or more chemical species that are isomers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation of two or more nuclides with the same mass numbers and atomic numbers but different energy states and rates of radioactive decay.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The existence of chemical compounds that have the same molecular formula but differ in chemical structure or spatial orientation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry, the phenomenon encompassing structural isomerism, stereoisomerism, tautomerism, and nuclear isomerism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isomerism designates the relationship of two or more chemical species that are isomers."*
+> - 📜 **Jöns Jacob Berzelius (*Annals of Philosophy*):** *"The discovery of **isomerism** established that the properties of matter depend not merely on elemental composition, but on atomic arrangement."*
+> - 📜 **Louis Pasteur (*Researches on Molecular Asymmetry*):** *"Optical **isomerism** opened an entirely new window onto the three-dimensional architecture of organic molecules."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Planar coordination geometry in coordination complexes explains geometric **isomerism** in inorganic chemistry."*

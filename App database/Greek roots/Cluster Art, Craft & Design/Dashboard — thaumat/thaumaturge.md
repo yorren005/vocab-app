@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thaumaturgist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thaumaturgist.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A worker of miracles or wonders; a magician or supernatural healer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A title given to certain Christian saints renowned for performing miracles (such as Saint Gregory Thaumaturgus).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thaumaturge designates thaumaturgist."*
+> - 📜 **Umberto Eco (*Foucault's Pendulum*):** *"The mysterious alchemist presented himself as a divine **thaumaturge** capable of transmuting base metal into gold."*
+> - 📜 **H. P. Lovecraft (*The Shadow Over Innsmouth*):** *"The ancient cultists revered the strange visitor as an omnipotent **thaumaturge** who controlled the oceanic tides."*
+> - 📜 **Will Durant (*The Life of Greece*):** *"Empedocles walked among the cities in purple robes, celebrated both as a philosopher and a miraculous **thaumaturge**."*

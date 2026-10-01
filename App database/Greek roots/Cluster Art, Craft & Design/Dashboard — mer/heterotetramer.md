@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek mer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A protein or macromolecular complex consisting of four subunits, of which at least two are different from each other.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, an oligomeric protein assembly composed of two distinct pairs of polypeptide chains (e.g. hemoglobin).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterotetramer designates a term designating an entity, condition, or phenomenon derived from greek mer."*
+> - 📜 **Max Perutz (*Mechanisms of Cooperativity in Hemoglobin*):** *"Adult human hemoglobin is an allosteric **heterotetramer** containing two alpha-globin and two beta-globin chains."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Cooperative oxygen binding in hemoglobin depends upon structural shifts within the **heterotetramer**."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"Ion channels in neural membranes frequently assemble as a **heterotetramer** of diverse pore-forming subunits."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek mim.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In linguistic sound symbolism (especially Japanese mimetic morphology), a word that depicts a physical phenomenon, motion, or state rather than a sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mimetic word (gitaigo) representing visual perceptions, textures, or spatial movements through phonetic symbolism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phenomime designates a term designating an entity, condition, or phenomenon derived from greek mim."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Languages frequently employ a **phenomime** to depict visual motion or physical texture through symbolic phonetic patterning."*
+> - 📜 **Roman Jakobson (*Six Lectures on Sound and Meaning*):** *"Unlike direct onomatopoeia, a **phenomime** translates non-auditory visual phenomena into evocative vocal sounds."*
+> - 📜 **Mark Dingemanse (*The Meaning and Use of Ideophones*):** *"A Japanese **phenomime** like *pikapika* does not describe an auditory event, but the visual sparkling of bright light."*

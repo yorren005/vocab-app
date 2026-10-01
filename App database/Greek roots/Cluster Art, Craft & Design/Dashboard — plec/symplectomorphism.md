@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek plec.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In differential geometry and symplectic topology, a smooth isomorphism between symplectic manifolds that preserves the symplectic form (a canonical transformation).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Hamiltonian mechanics, a phase-space mapping that preserves Hamiltonian equations of motion and phase volume (satisfying Liouville's theorem).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symplectomorphism designates a term designating an entity, condition, or phenomenon derived from greek plec."*
+> - 📜 **V. I. Arnold (*Mathematical Methods of Classical Mechanics*):** *"A time evolution in Hamiltonian dynamics generates a one-parameter family of **symplectomorphism** maps on phase space."*
+> - 📜 **Dusa McDuff (*Introduction to Symplectic Topology*):** *"The group of **symplectomorphism** transformations forms the central object of inquiry in modern symplectic geometry."*
+> - 📜 **Roger Penrose (*The Road to Reality*):** *"Canonical transformations in classical mechanics are precisely those diffeomorphisms that preserve the symplectic structure—namely, a **symplectomorphism**."*

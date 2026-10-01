@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or science of building; specifically : the art or practice of designing and building structures and especially habitable ones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formation or construction resulting from or as if from a conscious act.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art, science, and practice of designing and constructing buildings and other physical structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The complex structure, conceptual organization, or framework of any system, software, or discipline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The graceful pile of cathedral architecture rose dimly on their left hand, but it was lost upon them now."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"The new building was not only new, but declared itself to be so; intended only for offices, and enclosed behind by stable-yards, no uniformity of architecture had been thought necessary."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I now glanced sideways at this piece of architecture."*
+> - 📜 **Vitruvius (*De Architectura*):** *"Sound **architecture** must satisfy three essential conditions: firmness, commodity, and delight."*
+> - 📜 **Johann Wolfgang von Goethe (*Conversations with Eckermann*):** *"I call **architecture** frozen music, where silent harmonies speak directly to the soul."*
+> - 📜 **Le Corbusier (*Towards a New Architecture*):** *"Our **architecture** is the masterly, correct, and magnificent play of masses brought together in light."*

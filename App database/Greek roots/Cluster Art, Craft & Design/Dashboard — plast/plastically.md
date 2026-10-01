@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a plastic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a plastic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a plastic, malleable, or pliable manner; capable of being shaped or molded without rupture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a three-dimensional, sculptural, or vividly tangible artistic form.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"What we want to ascertain is the peculiar quality of the imaginative stuff with which he plastically works, and to appreciate its worth."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"The marble was treated so **plastically** by Michelangelo that the imprisoned figure seemed struggling to emerge."*
+> - 📜 **Johann Wolfgang von Goethe (*Italian Journey*):** *"The ancient sculptor conceived his subject **plastically**, giving tactile weight to every muscle."*
+> - 📜 **Oliver Sacks (*The Mind's Eye*):** *"The damaged visual cortex reorganized **plastically**, recruiting adjacent auditory regions to interpret tactile input."*

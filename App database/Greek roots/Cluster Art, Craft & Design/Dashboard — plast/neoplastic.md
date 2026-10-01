@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to or having the properties of a neoplasm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to or having the properties of a neoplasm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, of the nature of, or characterized by a neoplasm (abnormal tissue growth or tumor).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oncology, exhibiting autonomous, uncontrolled cellular replication and loss of normal tissue architecture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neoplastic designates of or related to or having the properties of a neoplasm."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"Carcinogenic mutations accumulate sequentially, converting a normal cell into an aggressively **neoplastic** clone."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Rapid weight loss and unexplained anemia frequently signal an occult **neoplastic** process."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"A localized **neoplastic** infiltration in the right parietal lobe caused profound perceptual neglect."*

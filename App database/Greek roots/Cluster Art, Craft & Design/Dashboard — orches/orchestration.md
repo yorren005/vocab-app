@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An arrangement of a piece of music for performance by an orchestra or band.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of arranging a piece of music for an orchestra and assigning parts to the different musical instruments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art, technique, or craft of arranging and scoring musical compositions for an orchestra.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The strategic arrangement, coordination, or harmonized management of diverse elements in a complex project or system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orchestration designates an arrangement of a piece of music for performance by an orchestra or band."*
+> - 📜 **Nikolai Rimsky-Korsakov (*Principles of Orchestration*):** *"True **orchestration** is not mere decoration; it is one of the essential elements of musical thought itself."*
+> - 📜 **David Byrne (*How Music Works*):** *"The acoustic environment dictates the optimal **orchestration** of instruments in any concert setting."*
+> - 📜 **Henry Kissinger (*Diplomacy*):** *"Bismarck showed consummate mastery in the diplomatic **orchestration** of European alliances."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek parthen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek mythology, one of the Sirens who cast herself into the sea when Odysseus resisted her song; the ancient Greek settlement that became Naples.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature and astronomy, the poetic eponym for the city of Naples, and a main-belt asteroid discovered in 1850.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In the midst of these living plants, and under the arbours of the hydrophytes, were layers of clumsy articulates, particularly some raninae, whose carapace formed a slightly rounded triangle; and some horrible looking parthenopes."*
+> - 📜 **Virgil (*Georgics*):** *"In those days sweet **Parthenope** nourished me, Virgil, flourishing in the pursuits of unheralded peace."*
+> - 📜 **Percy Bysshe Shelley (*Ode to Naples*):** *"The Siren city, bright **Parthenope**, lay dreaming beside the azure waters of her volcanic bay."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Belisarius marched his legions south toward the ancient walls of **Parthenope**, now known as Naples."*

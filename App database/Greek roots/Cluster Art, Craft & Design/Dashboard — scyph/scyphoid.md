@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to cup.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to cup.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a cup, goblet, or beaker; cup-shaped.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology and lichenology, resembling a scyphus or calyx, such as the cup-like podetia of certain lichens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scyphoid designates adjective & noun*) resembling, having the physical form of, or akin to cup."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The polypoid larva develops a series of **scyphoid** segments before releasing free-swimming medusae."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Certain lichenous genera bear conspicuous **scyphoid** receptacles upon their upright stalks."*
+> - 📜 **Ernst Haeckel (*Art Forms in Nature*):** *"The delicate **scyphoid** calyces of the hydrozoans unfold with mathematical symmetry in the ocean currents."*

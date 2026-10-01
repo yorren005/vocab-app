@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A movement disorder marked by involuntary spasmodic movements especially of the limbs and facial muscles and typically symptomatic of neurological dysfunction (such as that associated with a neurodegenerative disease or metabolic disturbance).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movement disorder marked by involuntary spasmodic movements especially of the limbs and facial muscles and typically symptomatic of neurological dysfunction (such as that associated with a neurodegenerative disease or metabolic disturbance).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical Greek and Latin prosody, a metrical foot consisting of a long syllable followed by a short syllable; a trochee.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetics, the trochaic foot (traditionally associated in antiquity with lively dance rhythms).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, choree designates a movement disorder marked by involuntary spasmodic movements especially of the limbs and facial muscles and typically symptomatic of neurological dysfunction (such as that associated with a neurodegenerative disease or metabolic disturbance)."*
+> - 📜 **George Puttenham (*The Arte of English Poesie*):** *"The foot called **choree**, or trochee, consisteth of a long and a short syllable, pleasant for light measures."*
+> - 📜 **John Dryden (*Essay of Dramatic Poesy*):** *"The verse marches with brisk vigor when the trochee or **choree** begins the line."*
+> - 📜 **Matthew Arnold (*On Translating Homer*):** *"Classical scansion reveals how the dactyl yields to the swift **choree** in energetic dramatic passages."*

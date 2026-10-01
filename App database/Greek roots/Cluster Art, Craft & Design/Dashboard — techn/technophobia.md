@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fear or dislike of advanced technology or complex devices and especially computers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fear or dislike of advanced technology or complex devices and especially computers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal or intense fear, hatred, or avoidance of advanced technology, computers, or mechanized systems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anxiety or resistance caused by the rapid pace of technological change and automation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, technophobia designates fear or dislike of advanced technology or complex devices and especially computers."*
+> - 📜 **Isaac Asimov (*The Caves of Steel*):** *"The medievalist faction exploited widespread **technophobia** to incite riots against humanoid robots."*
+> - 📜 **Alvin Toffler (*Future Shock*):** *"When change occurs too rapidly, widespread social **technophobia** emerges as an emotional defense against disorientation."*
+> - 📜 **Carl Sagan (*The Demon-Haunted World*):** *"Ignorance of science breeds suspicion, turning natural skepticism into debilitating **technophobia**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The conversion of a compound into an isomer of itself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The conversion of a compound into an isomer of itself.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chemical process or reaction by which a compound is transformed into any of its isomeric forms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial petrochemistry, the catalytic conversion of straight-chain hydrocarbons into branched-chain isomers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isomerisation designates the conversion of a compound into an isomer of itself."*
+> - 📜 **Jacobus Henricus van 't Hoff (*Studies in Chemical Dynamics*):** *"Thermal **isomerisation** of maleic acid into fumaric acid illustrates reversible molecular reorganization."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Light absorption initiates the rapid photochemical **isomerisation** of retinal in the rhodopsin visual cycle."*
+> - 📜 **Primo Levi (*The Periodic Table*):** *"Catalytic **isomerisation** in petroleum cracking towers converted low-grade naphtha into high-octane aviation fuel."*

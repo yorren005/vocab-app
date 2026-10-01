@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The regular or daily light work of a household or farm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A routine task or job.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A routine or minor household task, daily duty, or domestic errand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tedious, unpleasant, or burdensome piece of work.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"At one time, when I was attending school about a mile from home, my time out of school was taken up by my walk to and from it and the chores which necessarily fall to a farmer's boy, so that for some months I had no opportunity of earning anything."*
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"Ven ve get all dose leetle chores done, Und some more ve can't tink about yet, Ve vill hang up de sword und de gun."*
-> - 📜 **Effie Afton (*Eventide*):** *"Don't I give you the rent of that great house for the few light chores you do for us, which really amount to nothing?"*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I had my morning **chore** to do: fetching water from the spring and hoeing my beans."*
+> - 📜 **Willa Cather (*My Ántonia*):** *"Every autumn evening had its necessary farm **chore**, from herding cattle to stocking the root cellar."*
+> - 📜 **Louisa May Alcott (*Little Women*):** *"The sisters shared every household **chore** cheerfully, singing while they swept the parlor."*

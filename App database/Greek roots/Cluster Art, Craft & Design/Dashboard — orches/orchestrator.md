@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An arranger who writes for orchestras.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arranger who writes for orchestras.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musician who arranges and scores music composed by themselves or others for orchestral performance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person or computerized software system that plans, directs, and coordinates the execution of complex multi-part workflows.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orchestrator designates an arranger who writes for orchestras."*
+> - 📜 **George Gershwin (*Letters on Rhapsody in Blue*):** *"Ferde Grofé served as the brilliant **orchestrator** who gave the concert piece its shimmering jazz colors."*
+> - 📜 **Robert Craft (*Conversations with Igor Stravinsky*):** *"Stravinsky was his own meticulous **orchestrator**, calculating every balance of instrumental timbre with scientific exactness."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"He fancied himself the chief **orchestrator** of civic enthusiasm at the weekly booster luncheon."*

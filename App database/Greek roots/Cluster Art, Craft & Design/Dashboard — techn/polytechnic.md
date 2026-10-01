@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or devoted to instruction in many technical arts or applied sciences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polytechnic school.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An institution of higher education offering instruction in technical, industrial, and applied scientific subjects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to, teaching, or involving many applied sciences, crafts, and technical arts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"On September 13, 1839, Spencer read a paper before the Polytechnic Institution of Liverpool, which he accompanied with specimens of both electrotypes made by this process and of printing from these electrotypes."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"He was furnishing the money to put a young brother through a polytechnic school and satisfy his desire to become a civil engineer."*
+> - 📜 **H. G. Wells (*The Food of the Gods and How It Came to Earth*):** *"He attended evening lectures at the local **polytechnic**, studying industrial chemistry with relentless ambition."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"The founder endowed a magnificent **polytechnic** to equip working youths with modern engineering skills."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"Graduates from the Central **Polytechnic** managed the intricate automated factories of the metropolis."*

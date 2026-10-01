@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to calisthenics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to calisthenics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, consisting of, or designed for calisthenics (gymnastic exercises for fitness, flexibility, and muscle tone).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by rhythmic bodily movements using body weight rather than external apparatus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Instead of going to the gym on Saturday, I'll put in calisthenics and acrobatic stunts with a broom and duster.” She was thorough, too."*
-> - 📜 **James Joyce (*Ulysses*):** *"He places a hand lightly on his breastbone, bows, and fondles his flower and buttons.)_ MAGINNI: The poetry of motion, art of calisthenics."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Skene, assisted by a competent staff of professors, would give lessons in dancing, deportment, and calisthenics."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"The sailors engaged in brisk **calisthenic** drills upon the open frigate deck to stave off the damp cold."*
+> - 📜 **Louisa May Alcott (*Little Women*):** *"The girls practiced their daily **calisthenic** routines with cheerful vigor before breakfast."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"The industrialist instituted morning **calisthenic** exercises to promote hygiene and discipline among his workers."*

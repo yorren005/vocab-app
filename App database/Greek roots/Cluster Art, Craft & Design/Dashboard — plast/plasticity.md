@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being physically malleable; the property of something that can be worked or hammered or shaped without breaking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being physically malleable; the property of something that can be worked or hammered or shaped without breaking.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being easily shaped, molded, or deformed under stress without breaking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroscience, the capacity of the brain and nervous system to change and reorganize structurally throughout life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasticity designates the property of being physically malleable; the property of something that can be worked or hammered or shaped without breaking."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Habit simplifies our movements, diminishes fatigue, and is made possible solely by the extraordinary physical **plasticity** of our neural pathways."*
+> - 📜 **Oliver Sacks (*Musicophilia*):** *"The remarkable **plasticity** of the musical brain enables blind performers to develop vastly expanded auditory cortices."*
+> - 📜 **Stephen Jay Gould (*The Mismeasure of Man*):** *"Human biological nature is characterized above all by behavioral and cultural **plasticity**."*

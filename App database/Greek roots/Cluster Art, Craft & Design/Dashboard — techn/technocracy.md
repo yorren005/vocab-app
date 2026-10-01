@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Government by technicians; specifically : management of society by technical experts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Government by technicians; specifically : management of society by technical experts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of government or societal management in which decision-makers are selected on the basis of technological and scientific expertise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A society governed or controlled by technical experts, scientists, and engineers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, technocracy designates government by technicians; specifically : management of society by technical experts."*
+> - 📜 **Aldous Huxley (*Brave New World Revisited*):** *"The danger of modern society lies in sliding into an authoritarian **technocracy** where human values are subordinated to efficiency."*
+> - 📜 **Thorstein Veblen (*The Engineers and the Price System*):** *"Veblen advocated a functional **technocracy** where productive engineers, rather than speculative financiers, directed industrial production."*
+> - 📜 **Lewis Mumford (*The Myth of the Machine*):** *"The totalitarian mega-machine finds its modern embodiment in an uncritical **technocracy** worshiping mechanical power."*

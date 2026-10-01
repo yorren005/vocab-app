@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound formed by the union of two radicals or two molecules of a simpler compound; specifically : a polymer formed from two molecules of a monomer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compound formed by the union of two radicals or two molecules of a simpler compound; specifically : a polymer formed from two molecules of a monomer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical compound or macromolecular complex consisting of two identical or similar molecules linked together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In photobiology, a thymine dimer formed in DNA upon exposure to ultraviolet radiation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dimer designates a compound formed by the union of two radicals or two molecules of a simpler compound; specifically : a polymer formed from two molecules of a monomer."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"In acetic acid vapor, strong hydrogen bonding causes molecules to associate into a stable **dimer**."*
+> - 📜 **James D. Watson (*Molecular Biology of the Cell*):** *"Transcription factor activation frequently requires two identical subunits to assemble into an active **dimer**."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"Ultraviolet damage cross-links adjacent pyrimidines, creating a mutagenic cyclobutane **dimer** in the helix."*

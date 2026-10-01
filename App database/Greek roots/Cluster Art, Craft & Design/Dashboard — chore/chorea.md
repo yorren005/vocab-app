@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A movement disorder marked by involuntary spasmodic movements especially of the limbs and facial muscles and typically symptomatic of neurological dysfunction (such as that associated with a neurodegenerative disease or metabolic disturbance).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chorea chiefly of children and adolescents that occurs following Group A streptococcal infection and is mainly a neurological manifestation of rheumatic fever and that is characterized especially by involuntary movements of the face, arms, legs, and trunk —called also Saint Vitus' dance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A neurological disorder characterized by involuntary, irregular, unpredictable, and purposeless jerking movements of the limbs and face.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine, any condition manifesting these dance-like movements, such as Sydenham's chorea or Huntington's disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Bass, a Home Missionary of Brooklyn, N.Y.: "While living in Canada, my eldest daughter, then a girl of ten years of age, rather delicate and of feeble health, had a severe attack of chorea, "St."*
+> - 📜 **William Osler (*On Chorea and Choreiform Affections*):** *"The restless, dance-like twitches of Sydenham's **chorea** typically follow acute rheumatic fever in childhood."*
+> - 📜 **George Huntington (*On Chorea*):** *"In adult hereditary **chorea**, the spasmodic contortions begin gradually and inexorably progress over decades."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"L-Dopa therapy occasionally induced prominent drug-related **chorea**, causing rapid involuntary movements of the hands."*

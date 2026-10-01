@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek scyph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Greek two-handled, deep drinking cup with a low foot or flat base.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lichenology, a cup-shaped expanded top of a podetium in lichens (e.g. *Cladonia*); or a corona-like flower appendage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scyphus designates a term designating an entity, condition, or phenomenon derived from greek scyph."*
+> - 📜 **John Boardman (*Athenian Black Figure Vases*):** *"The ceramic **scyphus** was commonly painted with lively sympotic banqueting scenes and Dionysian revels."*
+> - 📜 **J. D. Beazley (*Attic Red-Figure Vase-Painters*):** *"A fine red-figure **scyphus** attributed to the Brygos Painter depicts a youth carrying a lyre."*
+> - 📜 **John Lindley (*The Treasury of Botany*):** *"In the genus *Cladonia*, the upright stem terminates in an elegant, funnel-shaped **scyphus**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of repeat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of repeat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characterized by, or exhibiting mimesis, imitation, or mimicry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, describing organisms that closely resemble other species or environmental objects to deter predators or lure prey.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mimetic designates adjective*) pertaining to, derived from, or characteristic of repeat."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"The remarkable **mimetic** resemblance between harmless butterflies and toxic heliconids protects them from avian predators."*
+> - 📜 **René Girard (*Violence and the Sacred*):** *"Human desire is fundamentally **mimetic**, constantly modeling itself upon the desires of others."*
+> - 📜 **Walter Benjamin (*On the Mimetic Faculty*):** *"The **mimetic** faculty is the ancient human capacity to perceive similarities and produce correspondences."*

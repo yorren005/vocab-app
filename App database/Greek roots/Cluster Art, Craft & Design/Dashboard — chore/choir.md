@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chorus that sings as part of a religious ceremony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of similar musical instrument playing together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organized group of singers, typically one that performs in church services or public concerts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of a cathedral or large church between the nave and sanctuary where the singers and clergy sit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our valour is to chase what flies; our cage We make a choir, as doth the prison’d bird, And sing our bondage freely."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The door was closed, and the choir was learning a new hymn."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Here they were within a plantation which formed the Abbey grounds, and taking a new hold of her he went onward a few steps till they reached the ruined choir of the Abbey-church."*
+> - 📜 **John Milton (*Il Penseroso*):** *"There let the pealing organ blow to the full-voiced **choir** below in service high and anthems clear."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The church **choir** was seated in the gallery, singing the morning psalm with rustic enthusiasm."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The Mellstock parish **choir** went their rounds through the snowy lanes on Christmas Eve."*

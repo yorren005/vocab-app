@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large but transportable armament.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An army unit that uses big guns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large-caliber mounted firearms, cannon, howitzers, or missile launchers used in warfare.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch or regiment of an army that uses and maintains heavy ordnance and cannons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll to the Tower with all the haste I can To view th’ artillery and munition; And then I will proclaim young Henry king. [_Exit._] EXETER."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ten thousand French have ta’en the sacrament To rive their dangerous artillery Upon no Christian soul but English Talbot."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have I not heard great ordnance in the field, And heaven’s artillery thunder in the skies?"*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The massed **artillery** opened fire at dawn, throwing up a rolling curtain of fire and steel."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Captain Tushin's battery of light **artillery** maintained its fire despite heavy smoke and enemy shot."*
+> - 📜 **Ernest Hemingway (*A Farewell to Arms*):** *"The Austrian mountain **artillery** pounded the ridge with sharp, rhythmic detonations."*

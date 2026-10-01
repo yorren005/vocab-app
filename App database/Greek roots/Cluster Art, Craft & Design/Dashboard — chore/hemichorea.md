@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chore.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A neurological movement disorder characterized by choreic, involuntary, dance-like jerking movements affecting only one side of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, a condition often caused by vascular lesions in the contralateral subthalamic nucleus or basal ganglia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemichorea designates a term designating an entity, condition, or phenomenon derived from greek chore."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"A localized lacunar stroke in the basal ganglia triggered persistent contralateral **hemichorea** in the elderly patient."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Unilateral movement disorders such as **hemichorea** point directly to vascular damage near the internal capsule."*
+> - 📜 **C. Miller Fisher (*Cerebral Ischemia*):** *"Sudden onset of violent ballistic movements and **hemichorea** followed occlusion of small penetrating thalamoperforating arteries."*

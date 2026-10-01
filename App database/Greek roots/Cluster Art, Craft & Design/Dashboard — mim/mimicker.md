@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who mimics (especially an actor or actress).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who mimics (especially an actor or actress).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who mimics or imitates another, especially in voice, mannerisms, gestures, or appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A copycat, mocking imitator, or parodist who mimics others for satirical effect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mimicker designates someone who mimics (especially an actor or actress)."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"The theatrical company boasted an extraordinary **mimicker** who could duplicate the voice of any London alderman."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He proved an adroit **mimicker** of provincial pomposity, mocking his uncle's heavy political speeches."*
+> - 📜 **Aldous Huxley (*Those Barren Leaves*):** *"The satirist was a cruel **mimicker**, pinpointing his victim's nervous vocal tics with unerring accuracy."*

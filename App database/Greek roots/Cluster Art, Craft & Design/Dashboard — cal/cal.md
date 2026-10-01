@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small calorie.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: California.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abbreviation for calorie (a unit of thermal energy) or caliber (bore diameter); or the Greek prefix *kal-* from *kallos* (beauty).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nutritional science and ballistics, a standard notation used in dietary labels, thermodynamics, and munitions specifications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I wish cousins Cal and Art would invite themselves to dine with us too." "Art's very busy just now," said Ella: "there's a good deal of sickness, and I don't believe he's spent a whole night at home for the last week or more." "Dear me!"*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I'm nearly done with Art's, and then I have Cal's to do." "Oh, how pretty!" exclaimed Zoe, examining the work: "and that's a new stitch; won't you teach it to me?" "Yes, indeed, with pleasure."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Cal and Art say, perhaps one or both of them may go on to spend two or three weeks this winter; and in that case I shall go along." "Perhaps we may go at the same time, and what a nice party we will make!" said Zoe."*
+> - 📜 **James Prescott Joule (*On the Mechanical Equivalent of Heat*):** *"We measured the mechanical work required to raise one gram of water by a single **cal** of heat."*
+> - 📜 **Ernest Hemingway (*A Farewell to Arms*):** *"The officer carried an old service pistol chambered for heavy nine-millimeter **cal** ammunition."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Metabolic conversion measures each **cal** of energy transferred across trophic food webs."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: fate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: fate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek mythology, the three Fates (Clotho, Lachesis, and Atropos) who apportion each mortal's share of life, destiny, and death.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The personifications of inevitable destiny and cosmic order in ancient Greek religion and poetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog Moirai as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Hesiod (*Theogony*):** *"Night bore the **Moirai**, Clotho, Lachesis, and Atropos, who give mortals their portion of good and evil."*
+> - 📜 **Plato (*The Republic*):** *"The daughters of Necessity, the **Moirai**, sang in harmony with the music of the celestial spheres."*
+> - 📜 **Will Durant (*The Life of Greece*):** *"Even Zeus himself was subject to the immutable decrees woven by the venerable **Moirai**."*

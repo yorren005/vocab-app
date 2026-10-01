@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ap.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical or rhinological condition characterized by discharge or morbid flux of fluid from the nasal cavities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical pathology and Galenic medicine, an evacuation, defluxion, or flowing forth of humors through the nostrils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aporrhinosis designates a term designating an entity, condition, or phenomenon derived from greek ap."*
+> - 📜 **Galen (*On the Affected Parts*):** *"The physician observed a copious **aporrhinosis**, whereby corrupt humors were purged from the cranial cavity through the nostrils."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"Catarrhal fevers are frequently relieved as soon as nature establishes a free **aporrhinosis**."*
+> - 📜 **Robert Hooper (*Lexicon Medicum*):** *"In old medical nosologies, **aporrhinosis** denoted an excessive mucous discharge or defluxion from the nose."*

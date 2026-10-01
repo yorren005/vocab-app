@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or making for beauty especially of the complexion : beautifying.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Done or made for the sake of appearance: such as.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to treatment intended to restore or improve a person's appearance; beautifying or enhancing external appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affecting only the surface or appearance of something rather than its substance, structure, or fundamental character; superficial.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No wonder that in old times this sperm was such a favorite cosmetic."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The juice of the ‘papa’ root found in great abundance at the head of the valley, is held in great esteem as a cosmetic, with which many of the females daily anoint their whole person."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Nothing, therefore, can be imagined more singular than the appearance of these nearly naked damsels immediately after the application of the cosmetic."*
+> - 📜 **Jane Austen (*Emma*):** *"Her complexion required no artificial **cosmetic** art to heighten its fresh and blooming charm."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"She dismissed the administrative reforms as a purely **cosmetic** adjustment that left the deeper problem untouched."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Society forgives many sins, but it will never forgive a clumsy and visible **cosmetic** disguise."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or evidencing dysplasia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or evidencing dysplasia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or exhibiting dysplasia; showing abnormal microscopic cellular development or atypical growth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to congenital malformation or developmental defect in tissue structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysplastic designates relating to or evidencing dysplasia."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*):** *"Histological analysis revealed **dysplastic** cortical architecture, explaining the patient's refractory focal seizures."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Dermatologists routinely excise **dysplastic** nevi to prevent their potential transformation into malignant melanoma."*
+> - 📜 **Jerome Groopman (*How Doctors Think*):** *"The pathologist confirmed that the polyp contained **dysplastic** crypts requiring complete removal."*

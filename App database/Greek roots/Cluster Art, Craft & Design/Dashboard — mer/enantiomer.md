@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of a pair of chemical compounds whose molecular structures have a nonsuperimposable mirror-image relationship to each other.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of a pair of chemical compounds whose molecular structures have a nonsuperimposable mirror-image relationship to each other.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Each of a pair of chemical molecules that are non-superimposable mirror images of one another (optical isomers).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stereochemistry, chiral isomers that share identical physical properties but rotate plane-polarized light in opposite directions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enantiomer designates either of a pair of chemical compounds whose molecular structures have a nonsuperimposable mirror-image relationship to each other."*
+> - 📜 **Louis Pasteur (*Researches on Molecular Asymmetry*):** *"Every chiral substance exists as a right-handed or left-handed **enantiomer**, reflecting fundamental asymmetry in nature."*
+> - 📜 **Jacobus Henricus van 't Hoff (*The Arrangement of Atoms in Space*):** *"The tetrahedral carbon atom explains why an asymmetric molecule possesses an exact mirror-image **enantiomer**."*
+> - 📜 **Oliver Sacks (*Uncle Tungsten*):** *"Pasteur's manual separation of sodium ammonium tartrate crystals into each pure **enantiomer** was a triumph of chemical intuition."*

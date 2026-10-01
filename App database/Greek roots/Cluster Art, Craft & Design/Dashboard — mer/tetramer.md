@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A molecule (such as an enzyme or a polymer) that consists of four structural subunits (such as peptide chains or condensed monomers).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A molecule (such as an enzyme or a polymer) that consists of four structural subunits (such as peptide chains or condensed monomers).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polymer or protein complex composed of four monomeric units or polypeptide chains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, a four-subunit macromolecule (such as hemoglobin, avidin, or p53).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetramer designates a molecule (such as an enzyme or a polymer) that consists of four structural subunits (such as peptide chains or condensed monomers)."*
+> - 📜 **Max Perutz (*Proteins and Nucleic Acids*):** *"Hemoglobin functions as a cooperative **tetramer** that alters its quaternary shape upon oxygen binding."*
+> - 📜 **James D. Watson (*Molecular Biology of the Cell*):** *"The tumor suppressor p53 binds to DNA response elements as a symmetrical **tetramer**."*
+> - 📜 **Arthur Kornberg (*DNA Replication*):** *"The single-stranded DNA-binding protein forms an active **tetramer** that coats unwound template strands."*

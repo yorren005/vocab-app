@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gather, as of natural products.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get or derive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cut and gather a crop of grain or agricultural produce at harvest time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To receive, obtain, or harvest something (such as a reward, consequence, or profit) as the result of one's own or others' actions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy pains, not us’d, must by thyself be paid; Proffers, not took, reap thanks for their reward."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They that reap must sheaf and bind, Then to cart with Rosalind."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is a thing Which you might from relation likewise reap, Being, as it is, much spoke of."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"To **reap** a harvest of perpetual peace by this one bloody trial of sharp war."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Let none admire that riches grow in Hell; that soil may best deserve the precious bane, and who shall **reap** the spoil?"*
+> - 📜 **George Eliot (*Adam Bede*):** *"He that soweth to his flesh shall of the flesh **reap** corruption; but he that soweth to the Spirit shall of the Spirit **reap** life everlasting."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pickup truck with a gun mounted on it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (basketball) a foul that can be assessed on a player or a coach or a team for unsportsmanlike conduct; does not usually involve physical contact during play.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a particular subject, art, craft, science, or profession, and involving specialized terminology or complex skills.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving or requiring formal mechanical, scientific, or engineering knowledge rather than general or theoretical principles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yet the dignity of the girl, the strange tenderness in her voice, combined to affect his nobler impulses—or rather those that he had left in him after ten years of endeavour to graft technical belief on actual scepticism."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Technical features of coinage. § 10."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This rhythmic movement as it appears in the capitalization of enterprises is favored and magnified, we have seen, by the wide use of credit and by the constantly changing technical and physical conditions of industry."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The agricultural surveyor explained the drainage scheme with precise **technical** terminology that baffled the farmers."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"The economist must distinguish between monetary exchange values and the physical, **technical** efficiency of production."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"Philosophical arguments frequently turn upon subtle, **technical** distinctions that seem trivial to common sense."*

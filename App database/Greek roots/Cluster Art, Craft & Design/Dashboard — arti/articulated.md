@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with a joint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into words or an expression.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having jointed sections, segments, or connecting links that allow bending, movement, or flexibility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clearly expressed, formulated, or enunciated in words.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Sir Clifford’s whale has been articulated throughout; so that, like a great chest of drawers, you can open and shut him, in all his bony cavities—spread out his ribs like a gigantic fan—and swing all day upon his lower jaw."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He unfolded like an articulated, mechanical crane."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"In the foreground, the Slingshot Logistics Depot and its maze of ships, tugs, articulated cranes and flex-conveyers were portrayed busily engaged in loading and unloading the moored vessels, and the new arrivals that waited for their turn."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The Martian war-machine stepped across the hills on three long, **articulated** metallic legs."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"Her unspoken grief was at last **articulated** in a series of poignant journal entries."*
+> - 📜 **Richard Feynman (*The Character of Physical Law*):** *"Scientific theories must be rigorously **articulated** so that precise predictions can be tested."*

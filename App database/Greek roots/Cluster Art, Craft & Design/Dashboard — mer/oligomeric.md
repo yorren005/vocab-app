@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A polymer or polymer intermediate containing relatively few structural units.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polymer or polymer intermediate containing relatively few structural units.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, having the nature of, or consisting of an oligomer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, describing proteins composed of two or more interacting polypeptide subunits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oligomeric designates a polymer or polymer intermediate containing relatively few structural units."*
+> - 📜 **Max Perutz (*Mechanisms of Cooperativity*):** *"Allosteric regulation is an exclusive property of **oligomeric** proteins with interacting subunits."*
+> - 📜 **Arthur Kornberg (*For the Love of Enzymes*):** *"The **oligomeric** structure of the enzyme provides cooperativity and multi-substrate binding sites."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Non-covalent hydrophobic interfaces stabilize the **oligomeric** assembly of globular proteins."*

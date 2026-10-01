@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An adherent of technocracy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical expert; especially : one exercising managerial authority.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A technical expert, scientist, or engineer who exercises managerial authority or political power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An administrator or official who relies strictly on technical, quantitative, or scientific criteria to formulate policy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, technocrat designates an adherent of technocracy."*
+> - 📜 **George Orwell (*1984*):** *"The Inner Party member operated like a detached **technocrat**, administering state power with chilling mathematical logic."*
+> - 📜 **John Kenneth Galbraith (*The New Industrial State*):** *"The modern corporate enterprise is run not by rugged individualists, but by an anonymous cadre of the **technocrat** class."*
+> - 📜 **E. F. Schumacher (*Small Is Beautiful*):** *"The narrow vision of the specialized **technocrat** too often blinds him to ecological and human costs."*

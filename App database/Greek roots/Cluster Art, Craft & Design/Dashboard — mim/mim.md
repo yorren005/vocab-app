@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affectedly shy or modest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affectedly shy or modest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root *mimos* (imitator, actor, mime, mimic); the morphological base for words relating to imitation, theatrical acting, and biological mimicry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Scottish and Northern English dialect, prudishly modest, quiet, demure, or primly silent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Peebles of Newton-upon-Ayr.] See, up he’s got, the word o’ God, An’ meek an’ mim has view’d it, While Common-sense has taen the road, An’ aff, an’ up the Cowgate^6 Fast, fast that day."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Then out spak mim-mou’d Meg o’ Nith, And she spak up wi’ pride, And she wad send the Soger youth, Whatever might betide."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Heathcliff was nowhere visible; and Joseph, whom I followed to the stables, and requested to accompany me in, after staring and muttering to himself, screwed up his nose and replied—“Mim! mim! mim!"*
+> - 📜 **Walter William Skeat (*Principles of English Etymology*):** *"The Greek root **mim** provided European languages with fundamental terms for theatrical performance and visual mimicry."*
+> - 📜 **Robert Burns (*Halloween*):** *"She was na cheek for chow, nor proud, but social, **mim**, and genteel."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The noun *mimos* derives from the base **mim**, denoting an actor who imitates scenes from real life."*

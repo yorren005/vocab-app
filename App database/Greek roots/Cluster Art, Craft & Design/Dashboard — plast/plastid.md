@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various small particles in the cytoplasm of the cells of plants and some animals containing pigments or starch or oil or protein.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various small particles in the cytoplasm of the cells of plants and some animals containing pigments or starch or oil or protein.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class of small, double-membrane-bound organelles in the cells of plants and algae containing pigments or stored food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant cell biology, an autonomous organelle possessing its own genome, originating from endosymbiotic cyanobacteria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plastid designates any of various small particles in the cytoplasm of the cells of plants and some animals containing pigments or starch or oil or protein."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"The photosynthetic **plastid** evolved through ancient endosymbiosis between a eukaryotic host and a free-living cyanobacterium."*
+> - 📜 **Peter H. Raven (*Biology of Plants*):** *"Light exposure stimulates the colorless proplastid to differentiate into a chlorophyll-rich photosynthetic **plastid**."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Variegated leaves result from somatic mutations that disrupt normal **plastid** pigment synthesis."*

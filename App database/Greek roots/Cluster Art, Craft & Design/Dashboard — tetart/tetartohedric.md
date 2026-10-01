@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of fourth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of fourth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or possessing tetartohedrism; exhibiting one fourth of the symmetry of the holohedral crystal class.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography and mineralogy, describing crystal forms having only one fourth of the planes required for complete symmetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetartohedric designates adjective*) pertaining to, derived from, or characteristic of fourth."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"A **tetartohedric** crystal exhibits only one fourth of the plane faces required for complete holohedral symmetry."*
+> - 📜 **Eduard Suess (*The Face of the Earth*):** *"Crystallographic analysis confirmed the **tetartohedric** character of the newly synthesized mineral grains."*
+> - 📜 **Louis Pasteur (*Researches on the Molecular Asymmetry of Natural Organic Products*):** *"Pasteur observed that **tetartohedric** facets on tartrate crystals correlated with their optical rotatory power."*

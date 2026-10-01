@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek orches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root *orchēsis* (dancing, the dance); the etymological root of words concerning choreographed movement, stage dancing, and instrumental ensembles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morphological linguistics, designating rhythmic leaping, jumping movement, or the space reserved for dancing in antique theaters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orches designates a term designating an entity, condition, or phenomenon derived from greek orches."*
+> - 📜 **Walter William Skeat (*Principles of English Etymology*):** *"The classical root **orches** originally designated the circular dancing floor where the Athenian chorus performed."*
+> - 📜 **Gilbert Murray (*The Rise of the Greek Epic*):** *"Choral drama evolved directly from ancient festive dances rooted in the primitive Greek **orches**."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The noun *orchesis* traces to the base **orches**, denoting the art of the dance in religious and theatrical festivals."*

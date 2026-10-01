@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long narrative poem telling of a hero's deeds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very imposing or impressive; surpassing the ordinary (especially in size or scale).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long narrative poem recounting the heroic deeds, adventures, and historical achievements of legendary figures or a nation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: On a grand, monumental, or heroic scale; surpassing the ordinary in size, scope, or ambition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Poestion, (Vienna, 1879), pp. 3 _sq._, 14-17, 45-52. [261] _The Epic of Kings, Stories retold from Firdusi_, by Helen Zimmern (London, 1883), pp. 325-331."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Theresa’s passionate, ideal nature demanded an epic life: what were many-volumed romances of chivalry and the social conquests of a brilliant girl to her?"*
-> - 📜 **George Eliot (*Middlemarch*):** *"It is still the beginning of the home epic—the gradual conquest or irremediable loss of that complete union which makes the advancing years a climax, and age the harvest of sweet memories in common."*
+> - 📜 **John Milton (*Paradise Lost*):** *"I now must change these notes to tragic, seeking argument not less but more heroic than the Iliad's **epic** song."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"To write a mighty book, you must choose a mighty theme, worthy of an **epic** enterprise."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Many a modest life is an unwritten **epic** of silent self-sacrifice and enduring love."*

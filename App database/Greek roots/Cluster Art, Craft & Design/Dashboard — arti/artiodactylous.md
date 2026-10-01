@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of even.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of even.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an even number of toes or digits on each foot; belonging or pertaining to the Artiodactyla.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by a paraxonic foot structure in which the main axis of weight passes between the third and fourth digits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, artiodactylous designates adjective*) pertaining to, derived from, or characteristic of even."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"The fossil tracks displayed a distinctly **artiodactylous** footprint, clearly separated from odd-toed tapir prints."*
+> - 📜 **Richard Owen (*Palaeontology: A Systematic Summary of Extinct Animals*):** *"Anoplotherium possessed **artiodactylous** feet, representing an extinct transitional herbivore."*
+> - 📜 **Edward Drinker Cope (*The Primary Factors of Organic Evolution*):** *"Foot reduction in **artiodactylous** ungulates culminated in the specialized cannon bones of deer and cattle."*

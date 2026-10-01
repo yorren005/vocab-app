@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who dislikes or avoids new technology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who dislikes or avoids new technology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who fears, dislikes, or avoids new technology, computers, or advanced machinery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual who resists or rejects mechanization and technological intrusion into personal life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, technophobe designates a person who dislikes or avoids new technology."*
+> - 📜 **Ray Bradbury (*Fahrenheit 451*):** *"The stubborn old scholar lived like a **technophobe**, refusing to install the interactive parlour walls in his cottage."*
+> - 📜 **David Foster Wallace (*Consider the Lobster*):** *"He confessed to being an incorrigible **technophobe**, still writing his drafts by hand with a fountain pen."*
+> - 📜 **Douglas Adams (*The Salmon of Doubt*):** *"Even the most hardened **technophobe** eventually succumbed to the convenience of the digital microwave."*

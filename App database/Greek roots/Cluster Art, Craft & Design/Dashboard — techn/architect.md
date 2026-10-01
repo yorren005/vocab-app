@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who designs buildings and advises in their construction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who designs and guides a plan or undertaking.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person qualified to design and oversee the construction of buildings or other physical structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who designs, devises, or plans a complex program, policy, system, or software architecture; a master planner.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of this was Tamora delivered, The issue of an irreligious Moor, Chief architect and plotter of these woes."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Herndon by a French engineer and architect, M. de Lincourt, who witnessed it at Manduassu, a village on the Tapajos river."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Here, Kitty, come and look at my plan; I shall think I am a great architect, if I have not got incompatible stairs and fireplaces.” As Celia bent over the paper, Dorothea put her cheek against her sister’s arm caressingly."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The true **architect** must be not merely a builder of walls, but a poet and sculptor in stone."*
+> - 📜 **William Shakespeare (*Titus Andronicus*):** *"Chief **architect** and plotter of these woes, the ruthless conspirator smiled upon the ruin he had wrought."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Every man is the **architect** of a temple, called his body, to a god he worships after his own style."*

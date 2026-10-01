@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cosmet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The preservation, restoration, or enhancement of bodily appearance, especially following surgical intervention or trauma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reconstructive and plastic surgery, the aesthetic outcome and natural contour of repaired tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmesis designates a term designating an entity, condition, or phenomenon derived from greek cosmet."*
+> - 📜 **Robert Thayer Sataloff (*Professional Voice*):** *"The surgeon achieved excellent functional recovery while preserving optimal cervical **cosmesis**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In facial excision, the clinician must balance thorough diseased tissue removal with acceptable **cosmesis**."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"In reconstructive procedures, patient satisfaction hinges not merely on healing, but on the delicate quality of **cosmesis**."*

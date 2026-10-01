@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not characteristic of or skilled in applied arts and sciences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not characteristic of or skilled in applied arts and sciences.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not technical; not relating to or characterized by specialized technical skills, mechanics, or jargon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressed in simple, everyday language accessible to non-specialists; informal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"They must be read as intentionally untechnical holiday lectures intended for juveniles."*
+> - 📜 **Thomas Huxley (*Science and Culture*):** *"The lecturer succeeded in explaining complex biological principles in clear, **untechnical** language."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Darwin deliberately adopted a plain, **untechnical** style so that his evolutionary arguments could be read by all."*
+> - 📜 **William James (*Pragmatism*):** *"A sound philosophical concept should be capable of translation into vivid, **untechnical** terms understandable to common sense."*

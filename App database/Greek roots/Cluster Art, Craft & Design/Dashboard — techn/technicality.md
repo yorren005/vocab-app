@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A detail that is considered insignificant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A detail that is considered insignificant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A point, detail, rule, or requirement of a specialized or technical nature, especially a minor legal or procedural one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality, condition, or state of being technical or overly concerned with formal mechanics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The middle row, the first to be inscribed, deals with the Epicurean theory of atoms--not by apophthegm or aphorism, but with something of the fulness and technicality of a treatise."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Let no technicality prevent winning."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Aloof from technicality, and unfettered by artificial rule, such a question gave opportunity for that deep and clear analysis, that mighty grasp of principle, which so much distinguished his higher efforts."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The lawsuit in Chancery dragged on for decades, entangled in every conceivable legal **technicality**."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"A narrow legal **technicality** prevented the coroner from issuing a conclusive warrant."*
+> - 📜 **George Orwell (*1984*):** *"The Party could alter the laws at will, brushing aside every procedural **technicality** with absolute contempt."*

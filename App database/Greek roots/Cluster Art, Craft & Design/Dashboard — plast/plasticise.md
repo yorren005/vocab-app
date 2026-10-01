@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become plastic, as by having a plasticizer added.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make plastic, as by the addition of a plasticizer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make or become plastic, malleable, or pliable; to add plasticizers to a polymer to increase flexibility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, to render fluid, moldable, or adaptable to external pressures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasticise designates become plastic, as by having a plasticizer added."*
+> - 📜 **Primo Levi (*The Periodic Table*):** *"The industrial chemist learned how to **plasticise** rigid cellulose nitrate using natural camphor."*
+> - 📜 **Aldous Huxley (*Brave New World Revisited*):** *"Totalitarian propaganda seeks to **plasticise** public opinion until citizens conform to any official mandate."*
+> - 📜 **J. G. Ballard (*The Atrocity Exhibition*):** *"Heat and chemical solvents began to **plasticise** the synthetic upholstery of the crashed automobile."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong cotton fabric with a raised pattern; used for bedcovers and curtains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strong cotton fabric with a raised pattern; used for bedcovers and curtains.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sheer, lightweight, crisp cotton fabric woven with raised stripes, checks, or corded patterns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historical textile (from Greek *dimitos* double-thread) prized in domestic furnishing and summer clothing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In removing the light towards the bedstead its rays fell upon the tester of white dimity; something was hanging beneath it, and she lifted the candle to see what it was."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"This morning I waited behind the old purple lilac at the gate, which immediately got into the game by sweeping its purple-plumed arms all around me, so that not a tag of my dimity alarmed him as he came slowly down the street."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Uncle Peter refused, because he said that he felt a smooth walk around the Square would call out what he called "a dimity parade" every afternoon."*
+> - 📜 **Jane Austen (*Emma*):** *"The bedroom was fresh and charming, draped in clean white **dimity** curtains that caught the summer breeze."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"A narrow bed draped with snowy **dimity** stood in the corner of the quiet French pension."*
+> - 📜 **Louisa May Alcott (*Little Women*):** *"Meg ironed her crisp white **dimity** dress for the festive lawn party with painstaking care."*

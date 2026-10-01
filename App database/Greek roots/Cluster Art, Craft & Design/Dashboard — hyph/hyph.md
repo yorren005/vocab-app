@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hyph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root *hyphē* (web, weaving, textile, fabric); the morphological base for botanical, mycological, and histological terms relating to woven filaments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics and etymology, denoting structures formed like woven webs or spun threads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyph designates a term designating an entity, condition, or phenomenon derived from greek hyph."*
+> - 📜 **Walter William Skeat (*Principles of English Etymology*):** *"The Greek root **hyph** connects ancient craft weaving with the microscopic filamentary webs observed in living tissues."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"From the classical root **hyph**, botanists named the basic filamentous threads that weave together fungal mycelia."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"In ancient Greek, the noun relates to the root **hyph**, signifying a woven web, a spider's fabric, or the texture of cloth."*

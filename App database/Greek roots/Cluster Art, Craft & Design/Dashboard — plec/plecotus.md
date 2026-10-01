@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of vespertilionidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of vespertilionidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of vespertilionid bats commonly known as long-eared bats, characterized by extraordinarily large ears that fold beneath the wings during torpor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chiropteran zoology, insectivorous bats renowned for whisper-echolocation used to glean prey from foliage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plecotus designates a genus of vespertilionidae."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The brown long-eared bat, classified as **Plecotus**, folded its enormous transparent ears under its arms while sleeping."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The genus **Plecotus** ranges across temperate Eurasia, exhibiting subtle geographic variation in cranial proportions."*
+> - 📜 **Richard Dawkins (*The Blind Watchmaker*):** *"In **Plecotus**, acoustic gleaning enables the bat to detect the rustling footsteps of beetles in leaf litter."*

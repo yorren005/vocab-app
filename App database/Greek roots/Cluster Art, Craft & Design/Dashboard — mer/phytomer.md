@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek mer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A basic functional and structural repeating developmental unit of a plant shoot, typically consisting of a node, leaf, bud, and internode.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant morphogenesis, the module whose repeated iterative production generates the vegetative architecture of plants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phytomer designates a term designating an entity, condition, or phenomenon derived from greek mer."*
+> - 📜 **Peter H. Raven (*Biology of Plants*):** *"The vegetative shoot develops as a continuous sequence of iterative modules, each termed a **phytomer**."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"Each **phytomer** comprises a node with its attached leaf and bud, along with the subjacent internode."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"Modular construction via repeating **phytomer** units gives plants remarkable developmental plasticity."*

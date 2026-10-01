@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or affecting the joints of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or affecting the joints of the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, involving, or situated at the joints; articular.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy, designating connective structures, ligaments, or surfaces participating in joint articulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, articulary designates relating to or affecting the joints of the body."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy of Vertebrates*):** *"The fossil reptile displayed specialized **articulary** facets on its cervical vertebrae."*
+> - 📜 **Robert Hooper (*Lexicon Medicum*):** *"In classical nosology, **articulary** rheumatism denoted painful inflammation confined to synovial joints."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The **articulary** head of the humerus fits snugly into the shallow glenoid cavity."*

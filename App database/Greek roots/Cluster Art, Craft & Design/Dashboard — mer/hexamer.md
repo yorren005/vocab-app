@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek mer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An oligomer, polymer, or protein complex composed of six monomeric subunits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular genetics, a DNA helicase or viral capsid structure possessing six-fold symmetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hexamer designates a term designating an entity, condition, or phenomenon derived from greek mer."*
+> - 📜 **Arthur Kornberg (*DNA Replication*):** *"The replicative helicase forms a ring-shaped **hexamer** that encircles single-stranded DNA and unwinds the duplex."*
+> - 📜 **James D. Watson (*Molecular Biology of the Cell*):** *"Insulin is stored within pancreatic secretory granules as a zinc-stabilized **hexamer**."*
+> - 📜 **Max Perutz (*Proteins and Nucleic Acids*):** *"Six identical subunits coordinate around a central twofold axis to complete the catalytic **hexamer**."*

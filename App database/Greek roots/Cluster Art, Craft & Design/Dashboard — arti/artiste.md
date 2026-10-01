@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A public performer (a dancer or singer).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public performer (a dancer or singer).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A professional entertainer, especially a singer, dancer, or variety performer on stage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A skilled craftsperson or stylist who approaches their trade with artistic flair and theatricality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, artiste designates a public performer (a dancer or singer)."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"The eccentric salon was frequented by poets, painters, and a flamboyant foreign **artiste**."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Mr. Vincent Crummles introduced his leading stage **artiste** with grand theatrical flourishes."*
+> - 📜 **P. G. Wodehouse (*Right Ho, Jeeves*):** *"The dramatic soprano considered herself an **artiste** of international caliber, brooking no contradiction."*

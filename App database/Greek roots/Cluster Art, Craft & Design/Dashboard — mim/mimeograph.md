@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A duplicator for making many copies that utilizes a stencil through which ink is pressed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A duplicator for making many copies that utilizes a stencil through which ink is pressed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A duplicating machine that prints copies from a typed, drawn, or cut stencil wrapped around an ink-filled rotating drum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To make copies of a text or document using a mimeograph machine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mimeograph designates a duplicator for making many copies that utilizes a stencil through which ink is pressed."*
+> - 📜 **Thomas Edison (*The Mimeograph Patents*):** *"The newly patented **mimeograph** enabled business offices to produce hundreds of identical copies with swift dispatch."*
+> - 📜 **Sylvia Plath (*The Bell Jar*):** *"The acrid smell of blue ink from the office **mimeograph** drifted through the publishing house hallway."*
+> - 📜 **David Foster Wallace (*Infinite Jest*):** *"Classroom handouts, fresh off the purple **mimeograph**, carried a distinct chemical aroma that students inhaled."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek mer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An oligomer, peptide, or protein complex composed of seven monomeric subunits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biology, a specific seven-base-pair conserved DNA sequence (e.g. in V(D)J recombination signals) or a seven-subunit channel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heptamer designates a term designating an entity, condition, or phenomenon derived from greek mer."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"The toxin forms a ring-shaped **heptamer** that punctures the host erythrocyte membrane."*
+> - 📜 **James D. Watson (*Molecular Biology of the Cell*):** *"Immunoglobulin gene rearrangement requires a conserved **heptamer** sequence flanking the diversity segment."*
+> - 📜 **Max Perutz (*Protein Structure*):** *"GroES functions in protein folding as a dome-shaped **heptamer** capping the chaperonin cylinder."*

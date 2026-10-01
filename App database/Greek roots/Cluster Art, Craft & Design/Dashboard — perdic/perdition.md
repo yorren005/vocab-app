@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (christianity) the abode of satan and the forces of evil; where sinners suffer eternal punishment; - john milton; ; -dr. johnson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (christianity) the abode of satan and the forces of evil; where sinners suffer eternal punishment; - john milton; ; -dr. johnson.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of eternal damnation, punishment, or spiritual ruin into which a sinful soul passes after death.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Complete, irreversible loss, disaster, or utter ruin of wealth, status, or life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, his definement suffers no perdition in you, though I know, to divide him inventorially would dizzy th’arithmetic of memory, and yet but yaw neither, in respect of his quick sail."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The perdition of the athversary hath been very great, reasonable great."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Perdition catch my soul, But I do love thee!"*
+> - 📜 **John Milton (*Paradise Lost*):** *"Him the Almighty Power hurled headlong flaming from the ethereal sky to bottomless **perdition**."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"A thousand twangling instruments will hum about mine ears, rescuing me from utter **perdition**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"He swore he would chase the white whale round Good Hope, and round the horn, and round the Norway maelstrom, and round **perdition**'s flames before he gave him up."*

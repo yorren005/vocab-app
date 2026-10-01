@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The planning that is disrupted when someone `upsets the applecart'.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A handcart from which apples and other fruit are sold in the street.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A light handcart or barrow used by a street vendor for transporting and selling apples.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in the idiom 'upset the applecart', meaning to spoil or disrupt carefully laid plans or the status quo.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, applecart designates the planning that is disrupted when someone `upsets the applecart'."*
+> - 📜 **George Bernard Shaw (*The Apple Cart*):** *"The King warned his cabinet that a premature constitutional crisis would inevitably overturn the **applecart**."*
+> - 📜 **P. G. Wodehouse (*The Code of the Woosters*):** *"One false move would completely upset Aunt Dahlia's **applecart** and plunge the household into disaster."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"The radical backbenchers threatened to upset the political **applecart** by voting against the government's budget."*

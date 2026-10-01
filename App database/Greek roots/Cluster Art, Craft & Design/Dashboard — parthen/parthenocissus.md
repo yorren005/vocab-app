@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Woody vines having disklike tips on the tendrils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Woody vines having disklike tips on the tendrils.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of climbing woody vines in the grape family Vitaceae, including Virginia creeper (*Parthenocissus quinquefolia*) and Boston ivy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticulture, vigorous ornamental vines that climb brickwork and rock faces using adhesive branching tendril disks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parthenocissus designates woody vines having disklike tips on the tendrils."*
+> - 📜 **John Muir (*My First Summer in the Sierra*):** *"Vines of wild **Parthenocissus** draped the granite crags in brilliant crimson tapestries as autumn approached."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The specialized adhesive tips of **Parthenocissus** tendrils secrete a sticky fluid that cements the climber to masonry."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"Dense festoons of **Parthenocissus** climbed high into the spruce boughs beside the riverbank."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek parthen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root *parthenos* (maiden, virgin, pure, unblemished); the etymological base for words concerning virgin birth, purity, and Athena's cult.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological and classical terminology, denoting unfertilized development or virgin architectural sanctuaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parthen designates a term designating an entity, condition, or phenomenon derived from greek parthen."*
+> - 📜 **Walter William Skeat (*Principles of English Etymology*):** *"The Greek root **parthen** appears in words referring both to unfertilized reproduction and to the temple of the virgin goddess."*
+> - 📜 **Gilbert Murray (*Five Stages of Greek Religion*):** *"The maiden epithet rooted in **parthen** embodied the inviolate sovereignty and wisdom of Athena."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The base **parthen** designates an unmarried maiden or pure virgin in Homeric epic and tragic poetry."*

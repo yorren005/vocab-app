@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Verb*) To subject to, transform by, or operate upon through part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Verb*) To subject to, transform by, or operate upon through part.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To combine or cause three monomeric molecules or subunits to combine into a trimer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural biochemistry, to undergo self-association into a three-subunit oligomeric complex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trimerize designates verb*) to subject to, transform by, or operate upon through part."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Under acid conditions, acetaldehyde will readily **trimerize** into paraldehyde."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"Receptor binding signals the intracellular domains to **trimerize** and initiate downstream phosphorylation."*
+> - 📜 **Peter Atkins (*Physical Chemistry*):** *"Elevated temperatures cause the alkyne to **trimerize** cleanly into the symmetrical aromatic ring."*

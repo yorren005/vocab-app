@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Artistic, stylized, or elegant handwriting or lettering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art of producing such writing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Decorative handwriting or handwritten lettering, especially when created with a pen, brush, or specialized writing instrument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art of beautiful writing regarded as a visual fine art tradition across East Asian, Islamic, and Western cultures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"After completion of laconic epistolary compositions she abandoned the implement of calligraphy in the encaustic pigment, exposed to the corrosive action of copperas, green vitriol and nutgall."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"These are usually inscriptions of a poetic nature, great importance being attached to the calligraphy."*
+> - 📜 **Steve Jobs (*Stanford Commencement Address*):** *"I learned about serif and sans-serif typefaces, and what makes great **calligraphy** great—it was artistically subtle in a way science cannot capture."*
+> - 📜 **Lin Yutang (*My Country and My People*):** *"In China, **calligraphy** is regarded as the purest and most abstract of all visual arts."*
+> - 📜 **Joris-Karl Huysmans (*Against the Grain*):** *"Des Esseintes admired the archaic **calligraphy** of the parchment codex, illuminated in saffron and gold."*

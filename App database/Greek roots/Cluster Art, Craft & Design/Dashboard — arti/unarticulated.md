@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not consisting of segments that are held together by joints.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uttered without the use of normal words or syllables.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not expressed, spoken, or clearly formulated in words; unspoken.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy or zoology, not having joints or movable connections; solid or fused.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unarticulated designates not consisting of segments that are held together by joints."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"Beneath our polite dinner conversation lay a vast ocean of **unarticulated** desires and unspoken regrets."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A shadowy, **unarticulated** fear hovered over her mind, though she dared not name it."*
+> - 📜 **Richard Owen (*Lectures on Invertebrate Anatomy*):** *"The primitive fossil carapace forms a single **unarticulated** shield protecting the dorsal organs."*

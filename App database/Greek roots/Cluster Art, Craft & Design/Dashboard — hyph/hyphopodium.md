@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hyph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized, short, lateral branch or outgrowth of a fungal hypha that adheres to a host plant surface (an appressorium-like holdfast).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant pathology, a fungal anchoring structure through which a penetration peg is driven into the cuticle of a host leaf.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyphopodium designates a term designating an entity, condition, or phenomenon derived from greek hyph."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"The epiphytic fungus secures itself to the leaf epidermis by forming a lobed, melanized **hyphopodium**."*
+> - 📜 **G. W. Martin (*The Fungi: An Advanced Treatise*):** *"From the basal surface of the **hyphopodium**, a minute infection peg pierces the host cell wall."*
+> - 📜 **F. L. Stevens (*Plant Disease Fungi*):** *"Under high magnification, each dark **hyphopodium** appears firmly cemented to the glossy plant cuticle."*

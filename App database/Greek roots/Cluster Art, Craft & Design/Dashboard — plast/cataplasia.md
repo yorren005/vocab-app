@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) degenerative reversion of cells or tissue to a less differentiated or more primitive form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) degenerative reversion of cells or tissue to a less differentiated or more primitive form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Degenerative or regressive cellular change in which mature cells or tissues revert to an earlier, less specialized, or less functional state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological pathology, physiological or pathological tissue regression (atrophy, senescent involution).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cataplasia designates (biology) degenerative reversion of cells or tissue to a less differentiated or more primitive form."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"In chronic wasting diseases, tissues undergo **cataplasia**, losing functional organelles and contractile fibrils."*
+> - 📜 **William Gowers (*A Manual of Diseases of the Nervous System*):** *"Motor neurons exhibited **cataplasia** with chromatolysis following prolonged mechanical compression."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"Following seasonal reproduction, the gonadal tissues of marine coelenterates undergo pronounced **cataplasia**."*

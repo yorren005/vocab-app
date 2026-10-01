@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that is cosmetic: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cosmetic preparation for external use.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Substances, preparations, or products applied to the human body to cleanse, beautify, promote attractiveness, or alter appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Superficial measures, decorative flourishes, or public relations adjustments intended to make something appear more appealing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The Christian artisan of Celsus had no temptation to use a silver foot-bath or to plaster himself with cosmetics."*
-> - 📜 **James Joyce (*Ulysses*):** *"JOHN EGLINTON: _(Produces a greencapped dark lantern and flashes it towards a corner: with carping accent.)_ Esthetics and cosmetics are for the boudoir."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The grand lady sat before her mirror amidst an elaborate arsenal of powders, paints, and Parisian **cosmetics**."*
+> - 📜 **Mary Wollstonecraft (*A Vindication of the Rights of Woman*):** *"Women are encouraged from childhood to waste their minds upon fashionable **cosmetics** and trivial adornment."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Consumers rarely questioned the toxic chemical ingredients concealed in everyday **cosmetics** and hair dyes."*

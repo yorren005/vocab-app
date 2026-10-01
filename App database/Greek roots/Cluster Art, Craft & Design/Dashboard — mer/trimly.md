@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a trim manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a trim manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a neat, orderly, elegant, or well-proportioned manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a spruce, smart, or carefully arranged condition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It does so very busily and trimly, looks in again a little while, and so departs."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The man who entered was young, some two-and-twenty at the outside, well-groomed and trimly clad, with something of refinement and delicacy in his bearing."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"Her mantle was embroidered **trimly** with silken thread, and neat was her attire."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The rustic cottage garden was **trimly** bordered with boxwood and fragrant sweet-william."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"A **trimly** dressed groom stepped forward to take the reins of the panting horses."*

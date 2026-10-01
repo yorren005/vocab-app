@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cosmet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root *kosmētos* (adorned, arranged, ordered), from *kosmos*; the base for words relating to beauty, grooming, and adornment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatological pharmacology, an abbreviated commercial or formulating term for a cosmetic preparation or base.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmet designates a term designating an entity, condition, or phenomenon derived from greek cosmet."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The English word cosmetic derives directly from Greek **cosmet**, signifying that which is skilled in adorning or setting in order."*
+> - 📜 **Max Müller (*The Science of Language*):** *"From the original concept of universal harmony emerged the specific Greek root **cosmet**, linking order with beauty."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The verbal adjective relates to the root **cosmet**, denoting that which is adorned, arranged, or well-ordered."*

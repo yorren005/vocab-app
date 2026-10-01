@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An actor who communicates entirely by gesture and facial expression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An actor who communicates entirely by gesture and facial expression.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A performer or actor highly skilled in the dramatic art of pantomime.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A classical or theatrical artist whose primary expressive vehicle is silent, stylized bodily gesture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pantomimist designates an actor who communicates entirely by gesture and facial expression."*
+> - 📜 **Washington Irving (*Bracebridge Hall*):** *"The Italian **pantomimist** astonished the guests with his uncanny ability to narrate an entire tragedy without a syllable."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"In imperial Rome, the celebrated **pantomimist** held crowds in breathless suspense through graceful choreographic storytelling."*
+> - 📜 **Edgar Allan Poe (*The Assignation*):** *"He moved with the calculated, dreamlike precision of an antique **pantomimist** performing before royalty."*

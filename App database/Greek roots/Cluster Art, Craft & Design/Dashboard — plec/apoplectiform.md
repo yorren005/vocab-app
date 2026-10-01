@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling apoplexy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling apoplexy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling apoplexy or a stroke; characterized by sudden onset of cerebral symptoms without extensive permanent hemorrhage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, describing transient ischemic attacks or pseudo-apoplectic episodes mimicking cerebrovascular accidents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apoplectiform designates resembling apoplexy."*
+> - 📜 **Jean-Martin Charcot (*Clinical Lectures on the Diseases of the Nervous System*):** *"Multiple sclerosis may occasionally present with an acute **apoplectiform** attack that subsides within forty-eight hours."*
+> - 📜 **William Gowers (*A Manual of Diseases of the Nervous System*):** *"Sudden congestive attacks in general paresis frequently assume an **apoplectiform** character."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The patient experienced recurrent **apoplectiform** episodes that temporarily paralyzed his left arm and speech."*

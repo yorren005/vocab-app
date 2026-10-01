@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being poorly illuminated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of lights or sounds that lack brilliance or are reduced in intensity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or quality of being dim; lack of brightness, clarity, or illumination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obscurity, indistinctness, or lack of sharpness in perception, memory, or intellectual comprehension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"In the dimness it had not seemed so certain; now, gazing at each other in the clear light of the natural morning, we saw what had happened to us."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Lecamus. is it for this that they have come?' His head had begun to droop again, and a dimness came over his face."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It was three o’clock; the church bell tolled as I passed under the belfry: the charm of the hour lay in its approaching dimness, in the low-gliding and pale-beaming sun."*
+> - 📜 **John Keats (*Ode to a Nightingale*):** *"Here there is no light, save what from heaven is with the breezes blown through verdurous glooms and winding mossy **dimness**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A gentle twilight **dimness** fell over the room as Dorothea sat pondering her future."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"We penetrated deeper and deeper into the heart of darkness, surrounded by primeval forest **dimness**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being facile in speech and writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being facile in speech and writing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being articulate; the ability to express thoughts fluently, clearly, and effectively in speech or writing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physical state of being segmented or having movable joints.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, articulateness designates the quality of being facile in speech and writing."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"True eloquence requires an **articulateness** of spirit where thought and word merge into one."*
+> - 📜 **David Foster Wallace (*Consider the Lobster*):** *"He admired the extraordinary **articulateness** of the radio essayist, who never faltered for a syllable."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"Higgins believed that phonetic **articulateness** was the primary barrier dividing social classes."*

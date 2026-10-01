@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to change into an isomer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change into an isomer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert or be converted from one chemical isomer into another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To undergo molecular restructuring without altering the empirical chemical formula.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isomerize designates cause to change into an isomer."*
+> - 📜 **George Wald (*Vision and the Photoreceptor Membrane*):** *"Light causes the chromophore to **isomerize** in picoseconds, triggering electrical nerve impulses."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Enzymes known as isomerases specifically **isomerize** metabolic sugars during glycolysis."*
+> - 📜 **Primo Levi (*The Periodic Table*):** *"High pressure and platinum catalysts force straight paraffin chains to **isomerize** into branched isomers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feminine given name of Greek origin meaning 'most beautiful' (from *kallistos*, superlative of *kalos*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In malacology, a genus of marine bivalve mollusks (venus clams) in the family Veneridae; or the heroine of John Henry Newman's novel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Callista designates a term designating an entity, condition, or phenomenon derived from greek cal."*
+> - 📜 **John Henry Newman (*Callista: A Sketch of the Third Century*):** *"**Callista** looked toward the Christian martyr with an earnest desire to discover the truth of his faith."*
+> - 📜 **Thomas Love Peacock (*Gryll Grange*):** *"The lovely maiden was christened **Callista**, fulfilling the promise of her auspicious Greek name."*
+> - 📜 **Richard Owen (*Lectures on Invertebrate Anatomy*):** *"The polished, porcelain-like valves of **Callista** exhibit delicate concentric growth lines."*

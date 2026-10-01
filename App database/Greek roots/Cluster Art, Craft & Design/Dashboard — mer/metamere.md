@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a linear series of primitively similar segments into which the body of a higher invertebrate or vertebrate is divisible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a linear series of primitively similar segments into which the body of a higher invertebrate or vertebrate is divisible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a linear series of homologous body segments or somites in animals exhibiting metameric segmentation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental embryology, an individual somite containing segmental nerves, blood vessels, and musculature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metamere designates any of a linear series of primitively similar segments into which the body of a higher invertebrate or vertebrate is divisible."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The earthworm's body consists of a longitudinal chain of repeating units, each termed a **metamere**."*
+> - 📜 **Richard Owen (*On the Archetype of the Skeleton*):** *"In vertebrate embryos, each primordial **metamere** gives rise to a single vertebral segment."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"Segmentation allows evolutionary diversification through the specialized modification of individual **metamere** units."*

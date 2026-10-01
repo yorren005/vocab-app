@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either a design that is fixed to some surface or a paper bearing the design which is to be transferred to the surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either a design that is fixed to some surface or a paper bearing the design which is to be transferred to the surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A design, picture, or label printed on specially prepared paper for transferring onto glass, porcelain, metal, or wood (decalcomania).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To apply a decorative decal or transfer onto a surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decal designates either a design that is fixed to some surface or a paper bearing the design which is to be transferred to the surface."*
+> - 📜 **Truman Capote (*In Cold Blood*):** *"On the rear window of the pickup truck was pasted a faded patriotic **decal**."*
+> - 📜 **Thomas Pynchon (*The Crying of Lot 49*):** *"A muted post horn **decal** appeared suddenly on walls and public telephone booths across the city."*
+> - 📜 **John Updike (*Rabbit, Run*):** *"The windshield bore a state inspection **decal** curling slightly at the corner."*

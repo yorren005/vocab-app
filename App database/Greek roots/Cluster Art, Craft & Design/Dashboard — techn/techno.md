@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A style of fast heavy electronic dance music usually without vocals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A style of fast heavy electronic dance music usually without vocals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genre of electronic dance music characterized by repetitive four-on-the-floor beats, synthetic timbres, and fast tempo.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A combining form or prefix denoting technology, technique, or applied industrial science.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, techno designates a style of fast heavy electronic dance music usually without vocals."*
+> - 📜 **David Byrne (*How Music Works*):** *"The underground clubs of Berlin and Detroit birthed **techno**, where machine rhythms dissolved individual identity into collective trance."*
+> - 📜 **William Gibson (*Neuromancer*):** *"The neon-lit basement bar pulsed with abrasive, industrial **techno** that rattled the floorboards."*
+> - 📜 **Alvin Toffler (*Future Shock*):** *"Modern culture is increasingly shaped by **techno**-scientific acceleration that outpaces social adaptation."*

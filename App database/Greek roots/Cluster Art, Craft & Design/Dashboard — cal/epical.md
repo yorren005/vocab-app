@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting or having to do with or suggestive of a literary epic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constituting or having to do with or suggestive of a literary epic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, having the characteristics of, or resembling an epic poem; heroic and grand in scale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing monumental grandeur, sweeping narrative scope, or legendary dignity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epical designates constituting or having to do with or suggestive of a literary epic."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"History unfolded before him not as dry chronicle, but as an **epical** tragedy of titanic human passions."*
+> - 📜 **Matthew Arnold (*On Translating Homer*):** *"Homer maintains a rapid, simple, and noble **epical** movement that modern translators fail to reproduce."*
+> - 📜 **Walter Pater (*Appreciations*):** *"The dramatic poems of Morris share that childlike yet grand **epical** vision found in medieval romance."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of partridge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of partridge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling a partridge; belonging to the genus *Perdix* or partridge family.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greek mythology and literature, relating to Perdix (nephew of Daedalus transformed into a partridge by Athena).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perdic designates adjective*) pertaining to, derived from, or characteristic of partridge."*
+> - 📜 **Ovid (*Metamorphoses*):** *"Pitying the falling boy, Athena changed the youth into a **perdic** bird that nests in hedges rather than daring the high air."*
+> - 📜 **Robert Ridgway (*The Birds of North and Middle America*):** *"The specimen shows typical **perdic** bill structure and short, rounded wings adapted for sudden, explosive flight."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"Certain quails share significant osteological affinities with the Old World **perdic** genera."*

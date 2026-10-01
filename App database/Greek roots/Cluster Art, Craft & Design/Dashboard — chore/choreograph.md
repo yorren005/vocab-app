@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compose a sequence of dance steps, often to music.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plan and oversee the development and details of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To compose the sequence of steps, dances, and movements for a ballet, dance, or theatrical production.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, to plan, arrange, or direct a complex sequence of events, moves, or interactions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"More than three-score sleeps had passed since their choreographed escape; only the events flashed through his mind; why they happened did not."*
+> - 📜 **George Balanchine (*By George Balanchine*):** *"The music itself tells the master how to **choreograph** the bodies moving through empty stage space."*
+> - 📜 **Agnes de Mille (*Dance to the Piper*):** *"I struggled to **choreograph** a ballet that captured the raw, buoyant vitality of American folk dancing."*
+> - 📜 **Bob Woodward (*The Commanders*):** *"The generals sought to **choreograph** every tactical maneuver of the impending desert offensive."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek mer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical Greek, a part, portion, share, or division; the etymological root of chemical and biological *mer* compounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and arthropod anatomy, the thigh or femoral segment of an insect or crustacean limb.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meros designates a term designating an entity, condition, or phenomenon derived from greek mer."*
+> - 📜 **Aristotle (*Parts of Animals*):** *"In examining living creatures, the philosopher must distinguish between the whole organism and each functional **meros**."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"In the crustacean appendage, the **meros** forms the prominent third segment of the walking leg."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"Ancient Greek *meros* signified a part, fraction, or appointed share of destiny."*

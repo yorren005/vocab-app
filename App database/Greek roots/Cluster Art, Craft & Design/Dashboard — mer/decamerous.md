@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of part.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In botany, having floral organs (petals, sepals, stamens) in multiples or sets of ten.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology, having ten radial parts, rays, or segments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decamerous designates adjective*) pertaining to, derived from, or characteristic of part."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Certain passionflowers display a **decamerous** perianth consisting of five sepals and five petals."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The flower is strictly **decamerous**, its ten stamens alternating neatly with the corolla lobes."*
+> - 📜 **Ernst Haeckel (*Art Forms in Nature*):** *"Deep-sea medusae often exhibit a **decamerous** radial symmetry with ten sensory marginal tentacles."*

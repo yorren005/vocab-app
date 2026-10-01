@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of art or artists.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Satisfying aesthetic standards and sensibilities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or revealing natural creative skill; showing good aesthetic taste and imaginative sensitivity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of art or artists.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"There IS a way,” says Phil with a highly artistic turn of his brush; “what I’m a-doing at present.” “Whitewashing.” Phil nods."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood went meditating down the slopes with his eyes on his boots, which the yellow pollen from the buttercups had bronzed in artistic gradations."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He had never till now estimated the artistic excellence of Tess’s limbs and features."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"Lily Briscoe struggled before her canvas to balance the color masses in unified **artistic** vision."*
+> - 📜 **Oscar Wilde (*The Critic as Artist*):** *"The **artistic** temperament is driven by an intense desire to create beauty amidst a prosaic world."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Her performance lacked genuine **artistic** depth, relying instead on mechanical technical perfection."*

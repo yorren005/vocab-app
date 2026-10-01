@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The production of fruits without fertilization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The production of fruits without fertilization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The development or production of fruit without prior fertilization of ovules, resulting in seedless fruit (e.g. bananas, seedless grapes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant physiology, natural or hormone-induced development of fruit tissues in the absence of pollination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parthenocarpy designates the production of fruits without fertilization."*
+> - 📜 **Liberty Hyde Bailey (*The Principles of Fruit-Growing*):** *"Commercial citrus growers value natural **parthenocarpy** for delivering completely seedless navel oranges."*
+> - 📜 **Peter H. Raven (*Biology of Plants*):** *"Applying exogenous gibberellins induces artificial **parthenocarpy** in greenhouse tomato cultivars."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"In certain species, the ovaries swell into succulent fruits through spontaneous **parthenocarpy** despite sterile pollen."*

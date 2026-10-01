@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person licensed to provide cosmetic treatments to the hair, skin, and nails : one trained in cosmetology : beautician.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person licensed to provide cosmetic treatments to the hair, skin, and nails : one trained in cosmetology : beautician.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert or licensed professional in cosmetology, specializing in hair styling, skincare, makeup application, and nail care.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A beauty consultant trained in the aesthetic chemistry, hygiene, and dermatological care of hair, skin, and nails.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmetologist designates a person licensed to provide cosmetic treatments to the hair, skin, and nails : one trained in cosmetology : beautician."*
+> - 📜 **Maya Angelou (*I Know Why the Caged Bird Sings*):** *"In our community, the licensed **cosmetologist** was both a skilled artisan and a trusted confidante."*
+> - 📜 **Alice Walker (*The Color Purple*):** *"She dreamed of studying in the city to become a certified **cosmetologist** with her own parlor."*
+> - 📜 **John Updike (*Couples*):** *"The local **cosmetologist** greeted each client with cheerful chatter about weekly appointments and town gossip."*

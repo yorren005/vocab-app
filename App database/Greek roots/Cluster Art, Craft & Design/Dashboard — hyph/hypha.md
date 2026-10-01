@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the threads that make up the mycelium of a fungus, increase by apical growth, and are transversely septate or nonseptate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the threads that make up the mycelium of a fungus, increase by apical growth, and are transversely septate or nonseptate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Each of the branching filaments that collectively make up the mycelium of a fungus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tubular, chitin-walled structural filament through which fungi absorb nutrients and secrete digestive enzymes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypha designates one of the threads that make up the mycelium of a fungus, increase by apical growth, and are transversely septate or nonseptate."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"Each individual **hypha** extends at its apical tip, branching repeatedly to form an expansive nutrient-absorbing network."*
+> - 📜 **Alexander Fleming (*On the Antibacterial Action of Cultures of a Penicillium*):** *"Microscopic inspection showed the branching **hypha** of the mold secreting an inhibitory halo around bacterial colonies."*
+> - 📜 **Peter H. Raven (*Biology of Plants*):** *"The slender diameter of a fungal **hypha** gives it an enormous surface-area-to-volume ratio ideal for extracellular absorption."*

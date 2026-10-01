@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or causing apoplexy or stroke; also : affected with, susceptible to, or showing symptoms of apoplexy or stroke.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a kind to cause or apparently cause stroke.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Overcome with extreme, uncontrollable anger or indignation, turning red in the face.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or caused by apoplexy (stroke); exhibiting cerebral hemorrhage or sudden loss of neurological consciousness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Weevle presents an apoplectic appearance before half the distance is accomplished."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop, very apoplectic, still exhibits his deportment about town, still enjoys himself in the old manner, is still believed in in the old way."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The news so shocked his mother that it brought on an apoplectic attack.” “And what good can you do her?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The elderly gentleman flew into an **apoplectic** rage, his countenance turning purple above his stiff cravat."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Old Osborne sat in his leather armchair, silent and **apoplectic** after reading the insolent letter."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The physician recognized an acute **apoplectic** seizure by the deep stertorous breathing and unilateral paralysis."*

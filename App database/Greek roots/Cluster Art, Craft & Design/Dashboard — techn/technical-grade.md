@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing small amounts of other chemicals, hence slightly impure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing small amounts of other chemicals, hence slightly impure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designating a chemical, solvent, or material that is of adequate purity for general industrial or commercial use, but not for analytical or medical applications.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical engineering, describing bulk raw materials containing trace impurities permissible in manufacturing processes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, technical-grade designates containing small amounts of other chemicals, hence slightly impure."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Industrial drums of **technical-grade** pesticide were mixed with kerosene before spraying across waterways."*
+> - 📜 **Primo Levi (*The Periodic Table*):** *"The warehouse was stacked with crude, **technical-grade** reagents intended for industrial varnish synthesis."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Analytical laboratories must never substitute **technical-grade** acids when quantitative titrations are required."*

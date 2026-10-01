@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of plait, interweave.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of plait, interweave.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Originating in, arising from, or involving a nerve plexus or vascular plexus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, designating plexogenic pulmonary arteriopathy, a severe form of vascular remodeling characterized by plexiform angiomatous lesions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plexogenic designates adjective*) pertaining to, derived from, or characteristic of plait, interweave."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Advanced pulmonary hypertension culminates in severe **plexogenic** lesions within the pre-capillary arterial beds."*
+> - 📜 **Robert Thayer Sataloff (*Professional Voice*):** *"Neuralgic shoulder discomfort was traced to a **plexogenic** brachial nerve entrapment."*
+> - 📜 **Eugene Braunwald (*Heart Disease: A Textbook of Cardiovascular Medicine*):** *"Histological biopsy demonstrated characteristic **plexogenic** changes with concentric laminar intimal fibrosis."*

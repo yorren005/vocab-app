@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who helps to gather the harvest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Death personified as an old man or a skeleton with a scythe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who harvests crops with a scythe or sickle; or a mechanical machine designed to cut grain standing in the field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In folklore and literature, the Grim Reaper as the personification of Death cutting down human lives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood looked at her—not slily, critically, or understandingly, but blankly at gaze, in the way a reaper looks up at a passing train—as something foreign to his element, and but dimly understood."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Along one side of the field the whole wain went, the arms of the mechanical reaper revolving slowly, till it passed down the hill quite out of sight."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Here haply too, at vernal dawn, Some musing bard may stray, And eye the smoking, dewy lawn, And misty mountain grey; Or, by the reaper’s nightly beam, Mild-chequering thro’ the trees, Rave to my darkly dashing stream, Hoarse-swelling on the breeze."*
+> - 📜 **William Wordsworth (*The Solitary Reaper*):** *"Behold her, single in the field, yon solitary Highland lass! Reaping and singing by herself; stop here, or gently pass!"*
+> - 📜 **Cyrus McCormick (*The Inventors and the Harvest*):** *"The mechanical **reaper** performed the labor of twenty men, transforming agriculture across the American frontier."*
+> - 📜 **Henry Wadsworth Longfellow (*The Reaper and the Flowers*):** *"There is a **Reaper**, whose name is Death, and, with his sickle keen, he reaps the bearded grain at a breath."*

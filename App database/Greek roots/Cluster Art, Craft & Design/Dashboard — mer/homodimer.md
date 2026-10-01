@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek mer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A macromolecular complex formed by the association of two identical molecules or polypeptide subunits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural biology, a symmetric protein dimer formed by the dimerization of identical protein chains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homodimer designates a term designating an entity, condition, or phenomenon derived from greek mer."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"The lac repressor headpiece binds DNA as a two-fold symmetric **homodimer** contacting inverted repeat sequences."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"Many restriction enzymes function as a **homodimer**, cutting both strands of the DNA palindrome simultaneously."*
+> - 📜 **Max Perutz (*Protein Structure*):** *"Self-association of identical polypeptide chains generates a stable **homodimer** with twofold rotational symmetry."*

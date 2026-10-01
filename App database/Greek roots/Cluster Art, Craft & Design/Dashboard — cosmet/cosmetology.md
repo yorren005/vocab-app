@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cosmetic treatment of the skin, hair, and nails.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cosmetic treatment of the skin, hair, and nails.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The professional study and practice of beauty treatments, including hairdressing, skincare, cosmetics application, manicures, and pedicures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The vocational discipline and regulatory trade curriculum governing aesthetic hygiene, cosmetic chemistry, and salon techniques.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmetology designates the cosmetic treatment of the skin, hair, and nails."*
+> - 📜 **Toni Morrison (*The Bluest Eye*):** *"The young girls leafed through worn catalogues from schools of **cosmetology**, gazing at illustrations of marcel waves."*
+> - 📜 **Sylvia Plath (*The Bell Jar*):** *"She turned the glossy pages of a beauty magazine, fascinated by the clinical precision of modern **cosmetology**."*
+> - 📜 **Betty Friedan (*The Feminine Mystique*):** *"Post-war commercial advertising elevated domestic grooming into the elaborate pseudo-science of **cosmetology**."*

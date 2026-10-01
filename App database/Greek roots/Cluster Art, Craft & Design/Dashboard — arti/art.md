@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The products of human creativity; works of art collectively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The creation of beautiful or significant things.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The expression or application of human creative skill and imagination, typically in visual or auditory form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A skill acquired by experience, study, or observation; a craft or trade.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art thy mother’s glass and she in thee Calls back the lovely April of her prime, So thou through windows of thine age shalt see, Despite of wrinkles this thy golden time."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For all that beauty that doth cover thee, Is but the seemly raiment of my heart, Which in thy breast doth live, as thine in me, How can I then be elder than thou art?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I tell the day to please him thou art bright, And dost him grace when clouds do blot the heaven: So flatter I the swart-complexioned night, When sparkling stars twire not thou gild’st the even."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"**Art** is the most intense mode of individualism that the world has known."*
+> - 📜 **Leo Tolstoy (*What Is Art?*):** *"**Art** is a human activity consisting in this, that one man consciously infects others with the feelings he has lived through."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"It was in the nature of **art** to hold together what was fleeting and chaotic in everyday life."*

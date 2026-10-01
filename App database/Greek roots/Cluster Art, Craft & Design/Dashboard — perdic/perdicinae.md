@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Old world partridges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Old world partridges.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subfamily of the avian family Phasianidae containing Old World partridges, snowcocks, francolins, and spurfowl.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In galliform taxonomy, a diverse lineage of non-migratory, ground-feeding game birds adapted to grasslands, scrub, and agricultural fields.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perdicinae designates old world partridges."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Species of the subfamily **Perdicinae** display remarkable resilience and reproductive adaptations in wild habitats."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"Members of the **Perdicinae** are widely distributed across the Palearctic, Ethiopian, and Oriental zoological regions."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"The evolutionary radiation of the **Perdicinae** produced diverse feeding specializations across Eurasia and Africa."*

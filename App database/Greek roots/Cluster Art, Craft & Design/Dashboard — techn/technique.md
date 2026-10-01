@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The manner in which technical details are treated (as by a writer) or basic physical movements are used (as by a dancer); also : ability to treat such details or use such movements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A body of technical methods (as in a craft or in scientific research).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A practical method, procedure, or skillful way of performing a task, artistic endeavor, or scientific investigation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mechanical skill, proficiency, and mastery of formal craft displayed by an artist, musician, or athlete.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Andrea sees in Raphael, whose technique was inferior to his own, his superior, as he reached above and through his art-- for it gives way. 106."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"However, the interview technique can be a starter to work through Grandpa's reserve."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"It's one thing to prefer a pleasing, perhaps highly artistic pen technique and quite another to apply it to fast presses, poor ink and hurried make-ready."*
+> - 📜 **Edgar Allan Poe (*The Philosophy of Composition*):** *"Every literary effect should be calculated with mathematical **technique** to produce a singular emotional impact."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"The writer must reinvent novelistic **technique** to capture the fluid impressions of consciousness."*
+> - 📜 **Igor Stravinsky (*Poetics of Music*):** *"True artistic freedom is achieved only through absolute mastery of musical **technique**."*

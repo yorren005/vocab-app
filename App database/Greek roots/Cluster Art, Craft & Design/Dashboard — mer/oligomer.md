@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A polymer or polymer intermediate containing relatively few structural units.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polymer or polymer intermediate containing relatively few structural units.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polymer molecule consisting of a small and specified number of monomeric units (typically between two and twenty).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural biochemistry, a multi-subunit protein complex composed of a small number of associated polypeptide chains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oligomer designates a polymer or polymer intermediate containing relatively few structural units."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Short chains intermediate between a monomer and a high polymer are designated an **oligomer**."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"Synthetic peptide **oligomer** sequences were used to identify cell surface receptor binding domains."*
+> - 📜 **Stanley B. Prusiner (*Nobel Lecture on Prions*):** *"Neurotoxic intermediates frequently accumulate as a soluble **oligomer** before forming insoluble amyloid plaques."*

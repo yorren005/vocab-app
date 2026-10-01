@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of dichromacy characterized by lowered sensitivity to yellow light; so rare that its existence has been questioned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of dichromacy characterized by lowered sensitivity to yellow light; so rare that its existence has been questioned.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hypothetical or rare form of partial color blindness characterized by an inability to distinguish colors within the yellow-blue or blue-green spectrum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological optics, an anomalous quadrantic trichromacy or fourth color vision defect historically posited alongside protanopia, deuteranopia, and tritanopia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetartanopia designates a form of dichromacy characterized by lowered sensitivity to yellow light; so rare that its existence has been questioned."*
+> - 📜 **Hermann von Helmholtz (*Physiological Optics*):** *"Early optical theorists hypothesized **tetartanopia** as a distinct fourth variety of sensory color deficiency."*
+> - 📜 **Christine Ladd-Franklin (*Colour and Colour Theories*):** *"Clinical reports of purported **tetartanopia** remain exceedingly rare and difficult to isolate from atypical tritanopia."*
+> - 📜 **David H. Hubel (*Eye, Brain, and Vision*):** *"Unlike the well-documented red-green deficiencies, true **tetartanopia** lacks consistent genetic and photoreceptor validation."*

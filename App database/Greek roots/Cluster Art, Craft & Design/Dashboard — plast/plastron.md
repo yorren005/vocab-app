@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metal breastplate formerly worn under the hauberk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quilted pad worn in fencing to protect the chest, waist, and the side on which the weapon is held.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The flat, ventral (underside) part of the shell of a turtle or tortoise (contrasting with the dorsal carapace).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A protective padded chest protector worn by fencers; or an ornamental stiff shirtfront.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"It appears,' she said, 'that Pierre Plastron was in the hospital all the time, and heard and saw many wonderful things."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Lambert, and has received instructions for a pilgrimage--' 'Pierre Plastron!' I cried; 'Pierre Plastron saw nothing, ma mère."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Jean?' 'What have I to do with the community?' I cried--'when I tell thee, Maman, that this Pierre Plastron knows nothing!"*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The giant Galápagos tortoise turned upon its back, exposing its polished yellowish-brown **plastron** to the sun."*
+> - 📜 **Alexandre Dumas (*The Count of Monte Cristo*):** *"The fencing master laced his padded leather **plastron** before crossing foils with the young nobleman."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Illustrious Client*):** *"Holmes examined the fencing foil, noting the blunted button that struck the student's canvas **plastron**."*

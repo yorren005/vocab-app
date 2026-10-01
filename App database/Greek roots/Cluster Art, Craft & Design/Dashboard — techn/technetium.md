@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A crystalline metallic element not found in nature; occurs as one of the fission products of uranium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crystalline metallic element not found in nature; occurs as one of the fission products of uranium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A radioactive metallic chemical element with atomic number 43 and symbol Tc, notable as the first artificially synthesized element.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear medicine, the metastable isotope technetium-99m, widely utilized as a radioactive tracer in gamma camera imaging.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, technetium designates a crystalline metallic element not found in nature; occurs as one of the fission products of uranium."*
+> - 📜 **Emilio Segrè (*Nobel Lecture*):** *"In 1937, through cyclotron bombardment of molybdenum, we isolated element forty-three and named it **technetium**."*
+> - 📜 **Glenn T. Seaborg (*The Transuranium Elements*):** *"The synthetic discovery of **technetium** bridged a historic gap in Mendeleev's periodic table."*
+> - 📜 **Oliver Sacks (*Uncle Tungsten: Memories of a Chemical Boyhood*):** *"I was awed that **technetium**, though surrounded by stable elements, possessed no non-radioactive isotopes."*

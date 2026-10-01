@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or consisting of four similar parts; tetramerous flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or consisting of four similar parts; tetramerous flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In botany, having floral parts or organs arranged in sets or multiples of four (e.g. four petals, four sepals).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology, having tarsi composed of four segments or joints.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetramerous designates having or consisting of four similar parts; tetramerous flowers."*
+> - 📜 **Asa Gray (*Manual of the Botany*):** *"Cruciferous plants possess strictly **tetramerous** flowers, their four petals arranged in the shape of a cross."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The floral envelope is **tetramerous**, alternating with four stamens and a four-celled ovary."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"Certain families of beetles are recognized by their **tetramerous** foot structure."*

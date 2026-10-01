@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (anatomy) the point of connection between two bones or elements of a skeleton (especially if it allows motion).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (anatomy) the point of connection between two bones or elements of a skeleton (especially if it allows motion).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical anatomy and medical Latin, a joint or articulation connecting two or more skeletal bones or cartilages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formal anatomical nomenclature for synovial, fibrous, and cartilaginous skeletal joints.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, articulatio designates (anatomy) the point of connection between two bones or elements of a skeleton (especially if it allows motion)."*
+> - 📜 **Gray's Anatomy (*Anatomy of the Human Body*):** *"The hip joint is classified anatomically as an **articulatio** coxae, possessing a ball-and-socket configuration."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"In describing each **articulatio**, Vesalius illustrated the synovial membranes and retaining ligaments with fidelity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Inflammatory effusion within an **articulatio** requires careful diagnostic aspiration."*

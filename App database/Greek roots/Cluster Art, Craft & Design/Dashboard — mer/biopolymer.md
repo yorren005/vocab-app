@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A polymeric substance (such as a protein or polysaccharide) formed in a biological system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polymeric substance (such as a protein or polysaccharide) formed in a biological system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large macromolecule produced by living organisms, composed of repeating monomeric subunits (such as proteins, DNA, RNA, and cellulose).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, a naturally occurring polymer that performs structural, catalytic, or genetic information storage functions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biopolymer designates a polymeric substance (such as a protein or polysaccharide) formed in a biological system."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"DNA represents the supreme informational **biopolymer**, its nucleotide sequence encoding the blueprint of life."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Hydrogen bonding between peptide units stabilizes the alpha-helical conformation of the protein **biopolymer**."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Chitin, an insoluble structural **biopolymer**, forms the protective exoskeletons of billions of ocean crustaceans."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek plec.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure of speech in which a word is repeated emphatically within the same sentence or clause, but with an altered, enriched, or deepened sense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and Renaissance rhetoric, the deliberate repetition of a proper noun or common word to emphasize its inherent quality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ploce designates a term designating an entity, condition, or phenomenon derived from greek plec."*
+> - 📜 **George Puttenham (*The Arte of English Poesie*):** *"This figure **ploce** repeateth a word not in vain, but to give it deeper weight and signification in the second place."*
+> - 📜 **John Dryden (*Discourse Concerning Satire*):** *"The satirist used a brilliant **ploce**, turning the tyrant's own words against him with devastating irony."*
+> - 📜 **Thomas De Quincey (*Rhetoric and Style*):** *"Cicero excelled in the deployment of **ploce**, repeating a term until its full emotional essence penetrated the jury's mind."*

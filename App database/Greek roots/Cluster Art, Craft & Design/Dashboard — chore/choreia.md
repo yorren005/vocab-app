@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chore.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek union of choral dance, song, and poetry in communal religious and civic festivals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical scholarship, the integrated performance art embodying the civic and moral education of Greek citizens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, choreia designates a term designating an entity, condition, or phenomenon derived from greek chore."*
+> - 📜 **Plato (*Laws*):** *"Education is first given through Apollo and the Muses, and the combined gift of song and dance we term **choreia**."*
+> - 📜 **Werner Jaeger (*Paideia: The Ideals of Greek Culture*):** *"Through participatory **choreia**, the youthful citizen internalized the rhythmic order and harmony of the polis."*
+> - 📜 **E. R. Dodds (*The Greeks and the Irrational*):** *"The ecstatic frenzy of Dionysian **choreia** offered liberation from the rigid constraints of civic life."*

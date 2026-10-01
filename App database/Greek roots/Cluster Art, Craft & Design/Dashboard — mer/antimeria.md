@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek mer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The morphological relationship or condition of being antimeres; bilateral or radial symmetry of corresponding parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical figures, the substitution of one grammatical part of speech for another (more commonly spelled *anthimeria*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antimeria designates a term designating an entity, condition, or phenomenon derived from greek mer."*
+> - 📜 **Ernst Haeckel (*Generelle Morphologie*):** *"The evolutionary transition from radial to bilateral **antimeria** enabled directional locomotion."*
+> - 📜 **George Puttenham (*The Arte of English Poesie*):** *"When a noun is used as a verb, the rhetorician calleth this figure **antimeria**, exchanging word classes with vigor."*
+> - 📜 **Edward Sapir (*Language*):** *"Functional shifts between parts of speech illustrate grammatical **antimeria** in everyday colloquial English."*

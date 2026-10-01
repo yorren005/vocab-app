@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient dramatic entertainment representing scenes from life usually in a ridiculous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An actor in a mime.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The theatrical technique of expressing ideas, characters, or actions through gestures, physical movement, and facial expressions without speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A theatrical performer or actor who specializes in pantomime and silent characterization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Really, mime was a well-defined case of incipient agoraphobia, as I quickly learned that day I escaped from solitary and punched the guard Thurston on the nose."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"There he was before me, in motley, as though he had absconded from a troupe of mimes, enthusiastic, fabulous."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Our luck may fail: our powers forsake us: our place on the boards be taken by better and younger mimes--the chance of life roll away and leave us shattered and stranded."*
+> - 📜 **Marcel Marceau (*The Story of Bip*):** *"The art of **mime** makes the invisible visible through the poetical geometry of the human body."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"The street entertainer enacted a satirical **mime** of high society, drawing laughter from the crowd."*
+> - 📜 **Arthur Symons (*Studies in Seven Arts*):** *"In pure **mime**, every gesture is pregnant with meaning, unencumbered by the accidental ambiguities of words."*

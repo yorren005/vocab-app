@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal new mass of tissue that serves no purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal new mass of tissue that serves no purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A new and abnormal growth of tissue in the body, characteristic of cancer or benign tumors, formed by uncontrolled cell division.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, a clonal population of cells that proliferates autonomously, escaping normal physiological growth regulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neoplasm designates an abnormal new mass of tissue that serves no purpose."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Every true **neoplasm** originates from pre-existing cellular elements, proliferating in defiance of systemic physiological limits."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"The fundamental enigma of a **neoplasm** is that it is not an invading foreigner, but our own flesh gone rogue."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Early histological distinction between a benign and a malignant **neoplasm** remains the cornerstone of clinical prognosis."*

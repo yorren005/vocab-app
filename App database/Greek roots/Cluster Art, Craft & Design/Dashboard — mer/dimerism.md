@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek mer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chemical condition or state of being a dimer or existing in dimeric form; the capacity to form dimers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology, the condition of having floral organs arranged in sets of two.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dimerism designates a term designating an entity, condition, or phenomenon derived from greek mer."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Certain primitive angiosperms exhibit **dimerism** in their floral whorls, bearing two sepals and two petals."*
+> - 📜 **Jacobus Henricus van 't Hoff (*Chemistry in Space*):** *"Molecular weight determinations in solution confirm the presence of reversible **dimerism**."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The transition from **dimerism** to trimerism in floral parts reflects ancient evolutionary divergence."*

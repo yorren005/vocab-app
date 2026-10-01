@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to cataplasia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to cataplasia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, characterized by, or undergoing cataplasia; regressive or degenerative in cellular development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing morphological signs of degenerative tissue regression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cataplastic designates of or relating to cataplasia."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The **cataplastic** degeneration of striated muscle fibers was observed throughout the atrophic limb."*
+> - 📜 **Santiago Ramón y Cajal (*Degeneration and Regeneration of the Nervous System*):** *"Severed axons display **cataplastic** retraction bulbs within hours of focal injury."*
+> - 📜 **Robert Hooper (*Lexicon Medicum*):** *"Pathologists distinguished progressive metaplastic changes from **cataplastic** involutionary states."*

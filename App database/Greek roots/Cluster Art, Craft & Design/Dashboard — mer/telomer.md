@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek mer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A low-molecular-weight polymer formed by telomerization, consisting of a chain capped at both ends by fragments of the chain-transfer agent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial organic chemistry, an oligomer produced by reacting an alkene with a telogen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telomer designates a term designating an entity, condition, or phenomenon derived from greek mer."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Controlled chain transfer terminates radical growth, yielding a low-viscosity **telomer** suitable for lubricants."*
+> - 📜 **Peter Atkins (*Physical Chemistry*):** *"The molecular weight distribution of the **telomer** was analyzed by gel permeation chromatography."*
+> - 📜 **Primo Levi (*The Periodic Table*):** *"The fluorinated **telomer** provided heat-resistant coatings for high-temperature chemical gaskets."*

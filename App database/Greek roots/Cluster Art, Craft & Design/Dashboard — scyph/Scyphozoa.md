@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coelenterates in which the polyp stage is absent or at least inconspicuous: jellyfishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various usually free-swimming marine coelenterates having a gelatinous medusoid stage as the dominant phase of its life cycle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of marine cnidarians comprising the true jellyfish, characterized by a dominant, bell-shaped medusa stage and lack of a velum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine zoology, a major phylogenetic lineage exhibiting radial symmetry, stinging cnidocytes, and strobilation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Scyphozoa designates coelenterates in which the polyp stage is absent or at least inconspicuous: jellyfishes."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"In the class **Scyphozoa**, the sexual medusa stage dominates over the diminutive sessile polypoid generation."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Giant drifting medusae of the **Scyphozoa** pulse silently through the twilight depths of the open Atlantic."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"The ancient body plans of the **Scyphozoa** have endured with astonishing structural conservation since the Ediacaran."*

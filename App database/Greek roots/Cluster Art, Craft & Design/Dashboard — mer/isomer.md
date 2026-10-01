@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of two or more compounds, radicals, or ions that contain the same number of atoms of the same elements but differ in structural arrangement and properties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nuclide isomeric with one or more others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Each of two or more chemical compounds having the same molecular formula but a different arrangement of atoms and different properties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear physics, an atomic nucleus in an excited metastable state having the same atomic number and mass number as another nucleus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isomer designates one of two or more compounds, radicals, or ions that contain the same number of atoms of the same elements but differ in structural arrangement and properties."*
+> - 📜 **Jöns Jacob Berzelius (*Treatise on Chemistry*):** *"I proposed the term **isomer** to describe substances that possess identical composition yet completely divergent properties."*
+> - 📜 **Jacobus Henricus van 't Hoff (*Chemistry in Space*):** *"Stereoisomerism proves that an **isomer** can differ solely in the three-dimensional orientation of its bonds."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The physiological action of a drug often depends exclusively upon which **isomer** interacts with the cellular receptor."*

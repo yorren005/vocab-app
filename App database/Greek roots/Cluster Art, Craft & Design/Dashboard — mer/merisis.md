@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek mer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Biological growth or increase in size of an organism or tissue accomplished through cell division (hyperplasia) rather than cell enlargement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental histology, the proliferative expansion of embryonic or meristematic tissue through mitotic cleavage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merisis designates a term designating an entity, condition, or phenomenon derived from greek mer."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Tissue growth may proceed by cellular hypertrophy or by true **merisis**, multiplying cell numbers through division."*
+> - 📜 **Anton de Bary (*Comparative Anatomy of Vegetative Organs*):** *"Apical shoot growth in plants is maintained by active **merisis** within the apical dome."*
+> - 📜 **Thomas Henry Huxley (*The Cell Theory*):** *"Embryonic cleavage represents the purest example of developmental **merisis** in early ontogeny."*

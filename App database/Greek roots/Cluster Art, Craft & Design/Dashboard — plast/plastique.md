@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek plas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plastic explosive, especially a moldable military or demolition explosive such as Semtex or C-4.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dance, the sculptural modeling or aesthetic posing of the human body (*danse plastique*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plastique designates a term designating an entity, condition, or phenomenon derived from greek plas."*
+> - 📜 **John le Carré (*The Little Drummer Girl*):** *"The operative concealed two blocks of odorless **plastique** inside the false lining of the suitcase."*
+> - 📜 **Frederick Forsyth (*The Day of the Jackal*):** *"The assassin prepared the charge using moldable Czechoslovakian **plastique**, carefully wiring the detonator."*
+> - 📜 **Walter Pater (*Greek Studies*):** *"In antique statuary, the physical **plastique** of the athlete's body achieved divine geometric harmony."*

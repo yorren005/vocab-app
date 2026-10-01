@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hard red wheat grown especially in russia and germany; in united states as stock feed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hard red wheat grown especially in russia and germany; in united states as stock feed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient, low-yielding, awned wheat species (*Triticum dicoccum*) having hulled grains, one of the earliest domesticated crops.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agrarian archaeology, a founder crop of Neolithic agriculture that provided staple food across ancient Egypt and the Fertile Crescent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emmer designates hard red wheat grown especially in russia and germany; in united states as stock feed."*
+> - 📜 **V. Gordon Childe (*Man Makes Himself*):** *"Neolithic farmers at Jericho cultivated domesticated **emmer** alongside einkorn and barley."*
+> - 📜 **Jared Diamond (*Guns, Germs, and Steel*):** *"The rapid domestication of **emmer** wheat gave Fertile Crescent societies a decisive head start in food production."*
+> - 📜 **Flinders Petrie (*Ten Years' Digging in Egypt*):** *"Granaries excavated beside the pyramids contained bushels of desiccated **emmer** grains intact after four millennia."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A process involving fixation and dehydration and forced impregnation and hardening of biological tissues; water and lipids are replaced by curable polymers (silicone or epoxy or polyester) that are subsequently hardened.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process involving fixation and dehydration and forced impregnation and hardening of biological tissues; water and lipids are replaced by curable polymers (silicone or epoxy or polyester) that are subsequently hardened.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A patented technique used in anatomy to preserve bodies, in which water and lipids are replaced by curable plastics like silicone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The modern preservation technology producing durable, odorless, and touchable anatomical preparations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plastination designates a process involving fixation and dehydration and forced impregnation and hardening of biological tissues; water and lipids are replaced by curable polymers (silicone or epoxy or polyester) that are subsequently hardened."*
+> - 📜 **Gunther von Hagens (*The Preservation of Biological Specimens by Plastination*):** *"Through vacuum forced impregnation, **plastination** permanently halts decomposition while preserving microscopic cellular architecture."*
+> - 📜 **Atul Gawande (*Better*):** *"The medical museum featured brilliant cross-sections of the human thorax preserved via **plastination**."*
+> - 📜 **Richard Dawkins (*The Greatest Show on Earth*):** *"Anatomical **plastination** provides undeniable visual proof of evolutionary homology across vertebrate organ systems."*

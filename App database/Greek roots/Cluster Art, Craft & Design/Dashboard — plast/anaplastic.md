@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to anaplasia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to anaplasia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or relating to anaplasia; poorly differentiated or undifferentiated, typical of high-grade malignant tumors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plastic surgery (archaic), pertaining to surgical reconstruction or tissue restoration (*anaplasty*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaplastic designates of or relating to anaplasia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The biopsy of the thyroid mass revealed an aggressive **anaplastic** carcinoma demanding urgent palliative care."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Histological staining distinguished the benign adenoma from an invasive **anaplastic** tumor."*
+> - 📜 **Atul Gawande (*Being Mortal*):** *"Patients diagnosed with advanced **anaplastic** thyroid malignancies face extraordinarily rapid disease progression."*

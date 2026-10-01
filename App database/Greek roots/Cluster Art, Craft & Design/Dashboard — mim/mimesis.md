@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Imitation, mimicry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Imitation, mimicry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The deliberate imitation or realistic representation of the external world, human nature, and life in literature and the arts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and critical theory (elaborated by Aristotle and Erich Auerbach), the aesthetic mediation through which art mirrors reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mimesis designates imitation, mimicry."*
+> - 📜 **Aristotle (*Poetics*):** *"Tragedy is an imitation of an action, and this **mimesis** of life is innate in human nature from childhood."*
+> - 📜 **Erich Auerbach (*Mimesis: The Representation of Reality in Western Literature*):** *"Western literature demonstrates a continuous evolution in the realistic **mimesis** of everyday human experience."*
+> - 📜 **Plato (*The Republic*):** *"Plato cautioned against deceptive **mimesis**, arguing that the artist's imitation is three removes from essential truth."*

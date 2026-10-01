@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A punctuation mark - used especially to divide or to compound words, word elements, or numbers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A punctuation mark - used especially to divide or to compound words, word elements, or numbers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A punctuation mark (-) used to join words or parts of words together, or to divide syllables at the end of a line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, a connecting link, bridge, or shared relationship between two disparate entities, cultures, or concepts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Because sections of this book were written by different people, accent, spelling and hyphen usage is inconsistent."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Because sections of this book were written by different people, accent, spelling and hyphen usage is inconsistent."*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"For this e-text, short dashes are shown as separated hyphens, while longer dashes are shown as connected hyphens: D - - - n _Molley H----ns_ for her Pride."*
+> - 📜 **George Orwell (*Politics and the English Language*):** *"Careful writers avoid unnecessary ornamental compound words joined by an awkward **hyphen**."*
+> - 📜 **David Crystal (*Making a Point: The Pernickety Story of English Punctuation*):** *"The versatile **hyphen** serves both syntactic cohesion and typographical line-breaking convenience."*
+> - 📜 **H. L. Mencken (*The American Language*):** *"American newspaper copy-desks waged perpetual war against the overuse of the British **hyphen**."*

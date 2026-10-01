@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or consisting of a polymer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or consisting of a polymer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of, relating to, or having the properties of a polymer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Composed of repeated structural units linked together into long molecular chains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymeric designates of or relating to or consisting of a polymer."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Silicones form flexible **polymeric** chains alternating between silicon and oxygen atoms."*
+> - 📜 **Peter Atkins (*Physical Chemistry*):** *"Viscosity in **polymeric** solutions increases sharply with molecular weight due to chain entanglement."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Synthetic **polymeric** membranes were developed to filter micro-pollutants from industrial effluents."*

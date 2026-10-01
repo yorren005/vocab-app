@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A molecule (such as an enzyme or a polymer) that consists of four structural subunits (such as peptide chains or condensed monomers).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A molecule (such as an enzyme or a polymer) that consists of four structural subunits (such as peptide chains or condensed monomers).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or relating to a tetramer; composed of four subunits, parts, or monomeric units.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, having floral whorls or organs arranged in sets or multiples of four.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrameric designates a molecule (such as an enzyme or a polymer) that consists of four structural subunits (such as peptide chains or condensed monomers)."*
+> - 📜 **Max Perutz (*Mechanisms of Cooperativity*):** *"The **tetrameric** architecture of hemoglobin allows allosteric communication between the four heme pockets."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Certain evening primroses display a **tetrameric** floral plan with four sepals, four petals, and eight stamens."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Quaternary symmetry stabilizes the **tetrameric** enzyme against thermal denaturation."*

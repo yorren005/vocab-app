@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of australian orchids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of australian orchids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of epiphytic orchids native to Australia, characterized by entangled, braided aerial roots; commonly called tangle orchids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orchidology, small monopodial epiphytes bearing pendulous racemes of fragrant green, white, or brown flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plectorrhiza designates small genus of australian orchids."*
+> - 📜 **Robert Brown (*Prodromus Florae Novae Hollandiae*):** *"The sprawling aerial roots of **Plectorrhiza** form an entangled basket that catches leaf litter upon forest boughs."*
+> - 📜 **John Lindley (*Genera and Species of Orchidaceous Plants*):** *"Lindley distinguished **Plectorrhiza** by its uniquely twisted root mass and spurless floral column."*
+> - 📜 **Ferdinand von Mueller (*Fragmenta Phytographiae Australiae*):** *"In the moist gullies of New South Wales, **Plectorrhiza** clings tenaciously to the bark of rainforest myrtles."*

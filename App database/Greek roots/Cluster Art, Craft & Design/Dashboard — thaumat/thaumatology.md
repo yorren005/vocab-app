@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek thaumat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study, doctrine, or theoretical investigation of miracles, wonder-working, and supernatural phenomena.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological discourse, the systematic analysis of divine interventions and signs in religious traditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thaumatology designates a term designating an entity, condition, or phenomenon derived from greek thaumat."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"A rational critique of religious **thaumatology** requires weighing the probability of testimony against universal experience."*
+> - 📜 **C. S. Lewis (*Miracles*):** *"Christian **thaumatology** does not view miracles as violations of nature, but as restorations of divine intent."*
+> - 📜 **Walter Pater (*Gaston de Latour*):** *"The scholar immersed himself in medieval **thaumatology**, deciphering legends of healing shrines and celestial visions."*

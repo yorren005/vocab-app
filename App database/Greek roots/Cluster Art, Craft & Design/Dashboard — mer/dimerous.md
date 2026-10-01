@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of part.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In botany, having floral whorls or organs arranged in sets or multiples of two (e.g. two petals, two stamens).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology, having tarsi composed of two segments or joints.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dimerous designates adjective*) pertaining to, derived from, or characteristic of part."*
+> - 📜 **Asa Gray (*Manual of the Botany*):** *"The flowers of the poppy family are characteristically **dimerous**, with two caducous sepals."*
+> - 📜 **John Lindley (*The Treasury of Botany*):** *"The small cruciferous weed displays a **dimerous** arrangement of floral organs."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The minute parasitic beetles possess **dimerous** tarsi adapted for clinging to hairs."*

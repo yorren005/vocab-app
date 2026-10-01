@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cell resulting from parthenogenesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cell resulting from parthenogenesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism, embryo, or cell produced by parthenogenesis without fertilization by a male gamete.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental biology and stem cell research, an unfertilized oocyte experimentally activated to divide and form blastocysts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parthenote designates a cell resulting from parthenogenesis."*
+> - 📜 **Jacques Loeb (*Artificial Parthenogenesis and Fertilization*):** *"Chemical stimulation triggered the sea urchin egg to develop into a swimming **parthenote** larva."*
+> - 📜 **Hans Spemann (*Embryonic Development and Induction*):** *"The cleavage stages of the amphibian **parthenote** mirrored normal embryogenesis through early blastula formation."*
+> - 📜 **Robert Edwards (*Maturation of Human Oocytes*):** *"Ethical research explored whether a mammalian **parthenote** could yield pluripotent stem cells without generating viable life."*

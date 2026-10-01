@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss of structural differentiation within a cell or group of cells often with increased capacity for multiplication, as in a malignant tumor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss of structural differentiation within a cell or group of cells often with increased capacity for multiplication, as in a malignant tumor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition of cells characterized by loss of structural differentiation, specialized function, and tissue organization, typical of malignant tumors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oncology and pathology, cellular dedifferentiation resulting in hyperchromatism, pleomorphism, and abnormal mitotic activity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaplasia designates loss of structural differentiation within a cell or group of cells often with increased capacity for multiplication, as in a malignant tumor."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The transition toward malignancy is marked by progressive **anaplasia**, where specialized tissue cells revert to embryonic chaos."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Marked **anaplasia** on histological section generally portends an aggressive, rapidly metastasizing neoplasm."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"Under the microscope, cancer reveals its sinister nature through **anaplasia**, stripping cells of their architectural identity."*

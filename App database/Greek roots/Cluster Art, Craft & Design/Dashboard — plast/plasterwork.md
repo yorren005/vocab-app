@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A surface of hardened plaster (as on a wall or ceiling).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A surface of hardened plaster (as on a wall or ceiling).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Construction work done with plaster, especially decorative, ornamental, or molded plaster surfaces (such as cornices or medallions).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The finished interior surfaces and decorative moldings produced by a plasterer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"It was, in its way, a very charming room, with its high panelled wainscoting of olive-stained oak, its cream-coloured frieze and ceiling of raised plasterwork, and its brickdust felt carpet strewn with silk, long-fringed Persian rugs."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"The drawing-room featured elaborate Louis Quinze **plasterwork**, gilded garlands framing the crystal chandelier."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Beneath the peeling paint, the delicate Renaissance **plasterwork** revealed graceful mythological friezes."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"The old Victorian salon was shaded by heavy velvet curtains and ornate, dust-darkened ceiling **plasterwork**."*

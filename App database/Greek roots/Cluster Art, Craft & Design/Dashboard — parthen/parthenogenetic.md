@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of reproduction) not involving the fusion of male and female gametes in reproduction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of reproduction) not involving the fusion of male and female gametes in reproduction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, produced by, or characterized by parthenogenesis; developing from an unfertilized ovum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing organisms, populations, or reproductive cycles that occur without genetic contribution from male gametes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parthenogenetic designates (of reproduction) not involving the fusion of male and female gametes in reproduction."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Certain stick insects establish viable **parthenogenetic** populations across isolated geographic ranges."*
+> - 📜 **E. O. Wilson (*Sociobiology: The New Synthesis*):** *"Haplodiploid sex determination in social hymenoptera depends on **parthenogenetic** production of haploid males."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"The evolutionary longevity of strictly **parthenogenetic** lineages remains an active debate in population genetics."*

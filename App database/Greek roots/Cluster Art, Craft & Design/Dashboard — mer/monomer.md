@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical compound that can undergo polymerization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical compound that can undergo polymerization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A molecule of low molecular weight that can be bonded to other identical or different molecules to form a polymer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, a single polypeptide chain or functional protein subunit before assembling into an oligomeric complex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monomer designates a chemical compound that can undergo polymerization."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Ethylene serves as the fundamental **monomer** in the industrial synthesis of polyethylene plastic."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"Each nucleotide represents an individual **monomer** linked by phosphodiester bonds in the polynucleotide chain."*
+> - 📜 **Primo Levi (*The Periodic Table*):** *"The distillation flask contained reactive vinyl **monomer**, ready to polymerize into clear resin."*

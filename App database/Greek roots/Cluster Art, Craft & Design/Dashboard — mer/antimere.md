@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek mer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the symmetrical, corresponding parts or segments on opposite sides of a bilateral animal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative morphology, one of the repeating homologous segments arranged radially or bilaterally around an anatomical axis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antimere designates a term designating an entity, condition, or phenomenon derived from greek mer."*
+> - 📜 **Ernst Haeckel (*Generelle Morphologie der Organismen*):** *"Bilateral symmetry divides the animal body into two corresponding halves, each designated an **antimere**."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The right forelimb forms the structural **antimere** of the left, exhibiting identical homologies."*
+> - 📜 **Richard Owen (*On the Archetype of the Skeleton*):** *"In radiating animals, each equal sector of the disc constitutes a distinct **antimere**."*

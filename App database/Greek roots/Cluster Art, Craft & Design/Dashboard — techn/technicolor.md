@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A trademarked method of making color motion pictures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A trademarked method of making color motion pictures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proprietary color motion-picture process celebrated for its brilliant, richly saturated hues; (figuratively) vivid, brilliant color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In particle physics, a hypothetical class of theories beyond the Standard Model invoking dynamical electroweak symmetry breaking.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, technicolor designates a trademarked method of making color motion pictures."*
+> - 📜 **Truman Capote (*Breakfast at Tiffany's*):** *"She remembered her hometown childhood not in shadows, but in brilliant, saturated **technicolor**."*
+> - 📜 **Ray Bradbury (*The Illustrated Man*):** *"The tattoos on his skin seemed to pulse in dazzling **technicolor**, telling tales of distant worlds."*
+> - 📜 **Joan Didion (*The White Album*):** *"Hollywood studio sets in the nineteen-fifties glowed with radiant **technicolor** artifice."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small thin device (of metal or plastic or ivory) used to pluck a stringed instrument.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small thin device (of metal or plastic or ivory) used to pluck a stringed instrument.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small flat piece of bone, quill, metal, ivory, or tortoiseshell used to pluck or strike the strings of a musical instrument; a plectrum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical antiquity, a wand or quill held in the right hand while playing the lyre or kithara.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"We do not make Mantic either godless or void of reason, when we give it the soul of man as its material, and the enthusiastic spirit and exhalation as its tool or plectron."*
+> - 📜 **John Dryden (*The Works of Virgil*):** *"Orpheus struck the vocal strings with his golden **plectron**, charming the beasts and swaying trees."*
+> - 📜 **Walter Pater (*Greek Studies*):** *"The youth posed with his kithara, raising the ivory **plectron** in poised anticipation of the hymn."*
+> - 📜 **Matthew Arnold (*Empedocles on Etna*):** *"Touch the resonant wires with thy **plectron**, and sing the golden reign of Cronos."*

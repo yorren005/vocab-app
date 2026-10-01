@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Old world partridges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Old world partridges.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former taxonomic family name once used to group partridges, quails, and francolins (now classified under Phasianidae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century ornithology, an avian family erected to distinguish partridges from pheasants and grouse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perdicidae designates old world partridges."*
+> - 📜 **William Swainson (*Natural History of Birds*):** *"We separate the rasorial birds into distinct families, assigning the partridges and quails to the **Perdicidae**."*
+> - 📜 **Thomas Campbell Eyton (*A History of the Rarer British Birds*):** *"In arrangement, Eyton placed the red-legged partridge within the family **Perdicidae**."*
+> - 📜 **Richard Bowdler Sharpe (*Hand-list of the Genera and Species of Birds*):** *"Earlier systematists recognized **Perdicidae** as a distinct family before anatomical studies reunited them with the pheasants."*

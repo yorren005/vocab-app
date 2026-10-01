@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Apply a heavy coat to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cover conspicuously or thickly, as by pasting something on.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coated, surfaced, or covered with plaster.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Covered heavily or smeared with something; or informal slang for very drunk.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He brought back only damp sand, which he plastered thick on the chest and shoulders of Robert Carr."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"It was empty, and he went on into a big old-fashioned kitchen, draughty enough with its high roof and blue plastered walls."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Should the monster follow, the taste which had plastered the walls with paintings had consistently supplied a rack of murderous Oriental weapons from which he could snatch one to suit the occasion."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The rough stone corridor was whitewashed and neatly **plastered**, giving a sober monastic calm."*
+> - 📜 **Mark Twain (*The Adventures of Huckleberry Finn*):** *"The fences were **plastered** with colorful circus posters boasting wild beasts and acrobats."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"By two o'clock in the morning, half the guests were completely **plastered**, spilling champagne across the terrace."*

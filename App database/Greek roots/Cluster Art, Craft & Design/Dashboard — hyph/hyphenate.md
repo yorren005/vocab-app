@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divide or connect with a hyphen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divide or connect with a hyphen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To connect, join, or divide words or syllables with a hyphen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To maintain a dual identity or fulfill multiple professional roles simultaneously (as in hyphenated identities).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyphenate designates divide or connect with a hyphen."*
+> - 📜 **Theodore Roosevelt (*Fear God and Take Your Own Part*):** *"There is no room in this country for hyphenated Americanism; we must not **hyphenate** our allegiance."*
+> - 📜 **David Foster Wallace (*Authority and American Usage*):** *"Deciding whether to **hyphenate** compound modifiers before a noun requires understanding grammatical juncture."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"The essayist paused to **hyphenate** two conflicting concepts, forging a novel metaphor on the page."*

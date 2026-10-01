@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of part.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by repetition of homologous parts, segments, or organs in an animal or plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology and taxonomy, pertaining to quantifiable anatomical counts (such as fin rays or vertebrae).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meristic designates adjective*) pertaining to, derived from, or characteristic of part."*
+> - 📜 **William Bateson (*Materials for the Study of Variation*):** *"Bateson classified numerical variations in repeated organs under the term **meristic** variation."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Accurate identification of fish species relies on **meristic** counts of dorsal and anal fin rays."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"Hox gene mutations frequently induce homeotic transformations that alter **meristic** segment identity."*

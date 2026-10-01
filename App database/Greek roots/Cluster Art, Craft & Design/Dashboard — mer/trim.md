@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of arrangement or appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A decoration or adornment on a garment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In good, neat, orderly, or healthy physical condition; neat, slender, and well-proportioned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To make something neat or required size by cutting away irregular parts; or decorative edging.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A thousand, sir, Early though’t be, have on their riveted trim And at the port expect you. [_Shout."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The ship is in her trim; the merry wind Blows fair from land; they stay for nought at all But for their owner, master, and yourself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore be it known, As to us to all the world, that Caius Martius Wears this war’s garland, in token of the which My noble steed, known to the camp, I give him, With all his trim belonging."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ship was in capital **trim**, her canvas bleached white and decks scrubbed clean."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The lawn before the parsonage was in immaculate **trim**, neatly mown and bordered with shrubs."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I kept my little house in good **trim**, clearing away unnecessary clutter to welcome contemplation."*

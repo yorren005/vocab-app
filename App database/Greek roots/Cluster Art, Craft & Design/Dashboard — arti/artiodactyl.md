@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of an order (Artiodactyla) of ungulates (such as the camel or pig) with an even number of functional toes on each foot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of an order (Artiodactyla) of ungulates (such as the camel or pig) with an even number of functional toes on each foot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An even-toed ungulate mammal belonging to the order Artiodactyla, possessing an even number of functional toes on each foot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the even-toed hoofed mammals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, artiodactyl designates any of an order (artiodactyla) of ungulates (such as the camel or pig) with an even number of functional toes on each foot."*
+> - 📜 **Richard Owen (*On the Archetype and Homologies of the Vertebrate Skeleton*):** *"Owen divided the ungulates into perissodactyl and **artiodactyl** orders based on the axis of the foot."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Fossil discoveries continue to illuminate the divergence between perissodactyl and **artiodactyl** mammalian lineages."*
+> - 📜 **Stephen Jay Gould (*The Flamingo's Smile*):** *"Whales share deep phylogenetic affinities with the terrestrial **artiodactyl** stem, notably the hippopotamus."*

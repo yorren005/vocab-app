@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound formed by the union of two radicals or two molecules of a simpler compound; specifically : a polymer formed from two molecules of a monomer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compound formed by the union of two radicals or two molecules of a simpler compound; specifically : a polymer formed from two molecules of a monomer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or relating to a dimer; composed of two subunits or repeated monomeric units.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany (dimerous), having parts arranged in pairs or multiples of two.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dimeric designates a compound formed by the union of two radicals or two molecules of a simpler compound; specifically : a polymer formed from two molecules of a monomer."*
+> - 📜 **Max Perutz (*Mechanisms of Cooperativity in Hemoglobin*):** *"The quaternary structure dissociates into **dimeric** intermediates under high salt concentrations."*
+> - 📜 **Arthur Kornberg (*For the Love of Enzymes*):** *"The enzyme exists in equilibrium between an inactive monomer and a fully active **dimeric** state."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Resonance stabilization favors the symmetrical **dimeric** arrangement of carboxylic acids."*

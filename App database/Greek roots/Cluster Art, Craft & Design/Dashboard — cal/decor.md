@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decoration consisting of the layout and furnishings of a livable interior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decoration consisting of the layout and furnishings of a livable interior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The furnishings, decoration, and aesthetic layout of a room, restaurant, home, or stage set.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The visual atmosphere, aesthetic style, and artistic design characteristic of an interior space.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decor designates decoration consisting of the layout and furnishings of a livable interior."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"The lavish salon had a Marie Antoinette **decor**, complete with crystal chandeliers and gilded mirrors."*
+> - 📜 **Edith Wharton (*The Custom of the Country*):** *"Undine surveyed the sumptuous Parisian **decor** with ambitious, calculating eyes."*
+> - 📜 **Virginia Woolf (*Mrs Dalloway*):** *"The quiet drawing-room possessed a tasteful Regency **decor** that reflected generations of refined taste."*

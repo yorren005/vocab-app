@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek techn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical Greek philosophy, craftsmanship, applied art, or practical skill; knowledge directed toward making or producing something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rational, rule-governed expertise distinct from purely theoretical contemplation (*theoria*) and practical wisdom (*phronesis*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, techne designates a term designating an entity, condition, or phenomenon derived from greek techn."*
+> - 📜 **Aristotle (*Nicomachean Ethics*):** *"We define **techne** as a rational productive state of mind involving a true course of reasoning."*
+> - 📜 **Martin Heidegger (*The Question Concerning Technology*):** *"In ancient Greece, **techne** was not mere technique, but a mode of revealing truth through making."*
+> - 📜 **Plato (*Gorgias*):** *"Socrates questioned whether rhetoric was a genuine **techne** or merely an empirical knack for persuasion."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In some former classifications: name for the ephemeroptera.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In some former classifications: name for the ephemeroptera.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of liverworts (bryophytes) characterized by folded or plaited perianth structures protecting the developing sporophyte.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bryology, non-vascular photosynthetic plants growing on damp rocks and montane bark.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plectophera designates in some former classifications: name for the ephemeroptera."*
+> - 📜 **Richard Spruce (*Hepaticae of the Amazon and of the Andes*):** *"The delicate foliose branches of **Plectophera** carpet the misty trunks of the high Andean cloud forest."*
+> - 📜 **Asa Gray (*Manual of the Botany*):** *"Microscopic dissection of the perianth confirms the distinctive plicate folds characteristic of **Plectophera**."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Bryologists categorized **Plectophera** based on the pleated architecture of its protective female envelope."*

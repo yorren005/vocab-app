@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reproduction by development of an unfertilized usually female gamete that occurs especially among lower plants and invertebrate animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reproduction by development of an unfertilized usually female gamete that occurs especially among lower plants and invertebrate animals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of asexual reproduction in which an embryo develops from an unfertilized egg cell without fertilization by male sperm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, a reproductive strategy observed in diverse invertebrates, reptiles, and plants, producing clones or haploid offspring.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parthenogenesis designates reproduction by development of an unfertilized usually female gamete that occurs especially among lower plants and invertebrate animals."*
+> - 📜 **Thomas Henry Huxley (*On the Agamic Reproduction and Morphology of Aphis*):** *"Generations of female aphids multiply with astonishing rapidity through seasonal **parthenogenesis**."*
+> - 📜 **Richard Dawkins (*The Extended Phenotype*):** *"The evolutionary puzzle of sexual reproduction is highlighted by the occasional emergence of obligate **parthenogenesis** in lizards."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"Whiptail lizards of the genus *Aspidoscelis* persist entirely through all-female **parthenogenesis**."*

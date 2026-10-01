@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: pick.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: pick.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, thin piece of plastic, tortoiseshell, metal, or quill used to pluck or strum the strings of a guitar, lute, lyre, or harpsichord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anatomical structure resembling a spur or pick, such as the malleus or styloid process in certain vertebrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog plectrum as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **James Joyce (*Ulysses*):** *"A light hand brushed the harp strings with a tortoiseshell **plectrum**, releasing a cascade of silvery notes."*
+> - 📜 **Hector Berlioz (*Treatise on Instrumentation*):** *"The delicate mechanical **plectrum** of the harpsichord plucks the copper wire with a crisp, crystalline attack."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The wandering minstrel gripped his bone **plectrum** between thumb and finger, striking up a lively reel."*

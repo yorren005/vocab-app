@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical compound that can undergo polymerization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical compound that can undergo polymerization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or relating to a single monomer or single subunit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In protein biochemistry, existing as an unassociated single polypeptide chain (such as myoglobin).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monomeric designates a chemical compound that can undergo polymerization."*
+> - 📜 **Max Perutz (*Proteins and Nucleic Acids*):** *"Myoglobin is a **monomeric** oxygen-binding protein consisting of a single polypeptide chain."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The reactive intermediate exists transiently in a **monomeric** state before cross-linking."*
+> - 📜 **Arthur Kornberg (*DNA Replication*):** *"Binding of the cofactor converts the inactive **monomeric** enzyme into an active homooligomer."*

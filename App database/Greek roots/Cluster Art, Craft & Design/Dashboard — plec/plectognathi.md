@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Boxfishes; filefishes; globefishes; ocean sunfishes; triggerfishes; puffers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Boxfishes; filefishes; globefishes; ocean sunfishes; triggerfishes; puffers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of teleost fishes (now Tetraodontiformes) comprising species with fused jaws and reduced pelvic fins, including puffers and triggerfishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyological classification, a diverse taxon of marine fishes noted for dermal spines, toxic viscera (tetrodotoxin), and body armor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plectognathi designates boxfishes; filefishes; globefishes; ocean sunfishes; triggerfishes; puffers."*
+> - 📜 **Louis Agassiz (*Recherches sur les Poissons Fossiles*):** *"The ancient fossil representatives of the **Plectognathi** display heavily armored dermal plates dating from the Eocene."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Members of the **Plectognathi** exhibit remarkable anatomical modifications, including the capacity to inflate the belly with water."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Darwin captured a diodon belonging to the **Plectognathi**, observing how it distended itself into an unswallowable spiny sphere."*

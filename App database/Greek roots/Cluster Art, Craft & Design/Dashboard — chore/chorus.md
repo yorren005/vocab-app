@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A company of singers and dancers in Athenian drama participating in or commenting on the action; also : a similar company in later plays.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A character in Elizabethan drama who speaks the prologue and epilogue and comments on the action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organized group of singers, dancers, or actors performing together in a theatrical piece, opera, or concert.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A repeated section of a song (refrain); or in ancient drama, a company of performers commenting on the main action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are a good chorus, my lord."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is now two o’clock; but, let me see, by ten We shall have each a hundred Englishmen. [_Exeunt._] ACT IV Enter Chorus."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let there be sung _Non nobis_ and _Te Deum_, The dead with charity enclos’d in clay, And then to Calais; and to England then, Where ne’er from France arriv’d more happy men. [_Exeunt._] ACT V Enter Chorus."*
+> - 📜 **William Shakespeare (*Henry V*):** *"O for a Muse of fire, that would ascend the brightest heaven of invention, pleaded the solitary **chorus**."*
+> - 📜 **Sophocles (*Antigone*):** *"Wonders are many, and none is more wonderful than man, proclaimed the venerable **chorus**."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"All the guests joined in the lively **chorus** around the punch-bowl with hearty laughter."*

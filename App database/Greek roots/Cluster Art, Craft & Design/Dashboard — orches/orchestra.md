@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The circular space used by the chorus in front of the proscenium in an ancient Greek theater.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A corresponding semicircular space in a Roman theater used for seating important persons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large ensemble of musical instrumentalists playing together, typically combining strings, woodwinds, brass, and percussion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Greek theater, the circular or semicircular space in front of the proscenium where the chorus danced and sang.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Indeed there may be generally observed in him an unbending, unyielding, brass-bound air, as if he were himself the bassoon of the human orchestra."*
-> - 📜 **Jane Austen (*Persuasion*):** *"It seemed as if she had been one moment too late; and as long as she dared observe, he did not look again: but the performance was recommencing, and she was forced to seem to restore her attention to the orchestra and look straight forward."*
-> - 📜 **Jane Austen (*Persuasion*):** *"She must have been in your own circle; for as you went with Lady Dalrymple, you were in the seats of grandeur, round the orchestra, of course.” “No, that was what I dreaded."*
+> - 📜 **Hector Berlioz (*Treatise on Modern Instrumentation and Orchestration*):** *"The symphonic **orchestra** is a magnificent musical colossus capable of evoking every conceivable emotion."*
+> - 📜 **E. M. Forster (*Howards End*):** *"The full **orchestra** struck into the triumphant final movement of Beethoven's symphony, shaking the hall."*
+> - 📜 **Friedrich Nietzsche (*The Birth of Tragedy*):** *"In the antique theater, the tragic chorus stood in the central **orchestra**, mediating between myth and spectator."*

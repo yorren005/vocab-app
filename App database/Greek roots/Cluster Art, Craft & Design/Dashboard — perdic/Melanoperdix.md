@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek perdic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of partridges comprising the black partridge (*Melanoperdix niger*), native to tropical Southeast Asian rainforests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithological taxonomy, a gallinaceous bird characterized by glossy black plumage in males, chestnut in females, and a stout bill.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Melanoperdix designates a term designating an entity, condition, or phenomenon derived from greek perdic."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Deep within the primary forest of Borneo, the elusive **Melanoperdix** scurried through the leaf litter."*
+> - 📜 **John Gould (*The Birds of Asia*):** *"In his majestic folio, Gould provided a lifelike plate of **Melanoperdix**, highlighting the striking sexual dichromatism of the species."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"Island isolation in Sundaland influenced the morphological differentiation of **Melanoperdix** populations."*

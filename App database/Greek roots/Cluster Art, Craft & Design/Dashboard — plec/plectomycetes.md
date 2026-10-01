@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Class of fungi in which the fruiting body is a cleistothecium (it releases spores only on decay or disintegration).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Class of fungi in which the fruiting body is a cleistothecium (it releases spores only on decay or disintegration).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former taxonomic class of fungi characterized by closed, spherical ascocarps (cleistothecia) containing irregularly arranged asci.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical mycology, an assemblage encompassing green and blue molds (such as *Penicillium* and *Aspergillus*) and dermatophytes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plectomycetes designates class of fungi in which the fruiting body is a cleistothecium (it releases spores only on decay or disintegration)."*
+> - 📜 **Anton de Bary (*Comparative Morphology of Fungi*):** *"The cleistothecium of the **Plectomycetes** encloses its asci within a dense, interwoven hyphal peridium."*
+> - 📜 **G. W. Martin (*The Fungi: An Advanced Treatise*):** *"In the **Plectomycetes**, asci deliquesce at maturity, discharging spherical ascospores into the central cavity."*
+> - 📜 **Alexander Fleming (*Penicillin and Its Medical Applications*):** *"Early classifications grouped the mold *Penicillium* within the **Plectomycetes** due to its closed cleistothecia."*

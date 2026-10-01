@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to change into an isomer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change into an isomer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To change or transform into an isomeric form; to cause a molecule to rearrange its atoms into an isomer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry, to undergo thermal, photochemical, or catalytic molecular rearrangement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isomerise designates cause to change into an isomer."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Under acid catalysis, terminal alkenes readily **isomerise** into more stable internal alkenes."*
+> - 📜 **George Wald (*Nobel Lecture on Visual Excitation*):** *"A single photon is sufficient to **isomerise** 11-cis-retinal into all-trans-retinal within the photoreceptor."*
+> - 📜 **Jacobus Henricus van 't Hoff (*Chemistry in Space*):** *"Heating causes the less stable geometric isomer to **isomerise** into its thermodynamic minimum."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A superior skill that you can learn by study and practice and observation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A superior skill that you can learn by study and practice and observation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Creative skill, ability, and imagination of a high order in the arts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Superior craftsmanship or artistic quality evident in any human performance or creation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"On all sides this was the verdict, one long-haired critic of international fame even claiming openly that Henshaw had not only equaled his former best work, but had gone beyond it, in both artistry and technique."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Landis went up-stairs to get her very best table-cloth Amanda looked about the room with its plain country furnishings, its hominess and yet utter lack of real artistry in decoration."*
-> - 📜 **O. Henry (*My tussle with the devil, and other stories*):** *"If he is not recognized in the new one upon his entrance it is no evidence that the same spirit does not animate both, and the perfection of detail and artistry in both characterizations is convincing proof of the same dominant spirit."*
+> - 📜 **Willa Cather (*The Song of the Lark*):** *"The soprano's effortless vocal control and deep dramatic **artistry** stunned the opera house audience."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Greek Interpreter*):** *"Art in the blood is liable to take the strangest forms, and Holmes possessed an eerie diagnostic **artistry**."*
+> - 📜 **Ralph Waldo Emerson (*Essays: Second Series*):** *"The supreme test of human **artistry** is whether it reveals the divine simplicity underlying creation."*

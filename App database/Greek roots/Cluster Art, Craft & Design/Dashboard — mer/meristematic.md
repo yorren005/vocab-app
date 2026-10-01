@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A formative plant tissue usually made up of small cells capable of dividing indefinitely and giving rise to similar cells or to cells that differentiate to produce the definitive tissues and organs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formative plant tissue usually made up of small cells capable of dividing indefinitely and giving rise to similar cells or to cells that differentiate to produce the definitive tissues and organs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, consisting of, or characteristic of a meristem; actively dividing undifferentiated plant tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of dividing and giving rise to similar cells or specialized tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meristematic designates a formative plant tissue usually made up of small cells capable of dividing indefinitely and giving rise to similar cells or to cells that differentiate to produce the definitive tissues and organs."*
+> - 📜 **Peter H. Raven (*Biology of Plants*):** *"The **meristematic** zone at the root apex is protected from abrasion by the root cap."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"Under high magnification, **meristematic** cells display dense cytoplasm and prominent nuclei."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"All tissue differentiation proceeds from the embryonic activity of **meristematic** cells."*

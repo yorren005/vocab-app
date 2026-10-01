@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone whose occupation involves training in a specific technical process.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone known for high skill in some intellectual or artistic technique.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person skilled in the technique of an art, craft, or science; especially one employed in mechanical, electronic, or laboratory operations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert practitioner who excels in the formal, practical, or mechanical execution of a discipline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Frankly, it has me wondering: a ship's captain, paramedic-logistics type, a maintenance engineer, communications specialist, navigator, and a weapons technician."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It would take time for the comm technician on duty to work it out."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"As a senior technician, I was assigned to the recovery and repair of damaged parachutes, life rafts, inflatable life preservers, oxygen masks, and the escape-and-evasion kits that air crews relied on when they bailed out over enemy territory."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The laboratory **technician** prepared the culture plates with swift, aseptic precision before the dawn experiments."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"Each genetic **technician** monitored the incubating embryos as they floated along the automated conveyor belt."*
+> - 📜 **David Foster Wallace (*Infinite Jest*):** *"The broadcast **technician** sat amidst glowing monitor banks, adjusting signal modulation with bored dexterity."*

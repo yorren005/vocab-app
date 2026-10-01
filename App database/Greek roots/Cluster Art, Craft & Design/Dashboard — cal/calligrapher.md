@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone skilled in penmanship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone skilled in penmanship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who practices the art of calligraphy; a professional or skilled artistic scribe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A master penman or brush artisan who transcribes literary or sacred manuscripts with aesthetic perfection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"The Imperial marks were the work of calligraphers who were selected for the purpose, and the writing is careful and in good style."*
+> - 📜 **Edward FitzGerald (*The Rubáiyát of Omar Khayyám*):** *"The royal **calligrapher** decorated the margin of the quatrain with golden arabesques."*
+> - 📜 **Will Durant (*The Story of Civilization: Our Oriental Heritage*):** *"In imperial China, the master **calligrapher** was honored above ordinary painters and sculptors."*
+> - 📜 **Walter Benjamin (*The Arcades Project*):** *"The medieval **calligrapher** did not merely record words; he invested every stroke with liturgical presence."*

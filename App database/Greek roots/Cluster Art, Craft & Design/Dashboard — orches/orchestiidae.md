@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beach fleas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beach fleas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former or historical family name for the beach-dwelling amphipod sandhoppers (now classified within the family Talitridae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In carcinology, an amphipod taxon erected to group supralittoral and terrestrial crustaceans adapted for saltatorial jumping.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orchestiidae designates beach fleas."*
+> - 📜 **William Swainson (*A Treatise on Malacology and Natural History*):** *"In systematic arrangements of Crustacea, naturalists grouped the leaping sandhoppers under the family **Orchestiidae**."*
+> - 📜 **Richard Owen (*Lectures on Comparative Anatomy*):** *"Members of the **Orchestiidae** exhibit modified posterior appendages uniquely structured for spring-like locomotion."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Along the Patagonian coast, species allied to the **Orchestiidae** swarmed beneath every decaying carcass."*

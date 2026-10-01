@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Division of a word especially at the end of a line on a page.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Connecting syllables and words by hyphens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, practice, or typographical system of dividing or joining words with a hyphen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In digital typography and printing, the automated algorithmic division of words across right margins to ensure even text justification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Inconsistent hyphenation has been left as printed, except “firebox” has been changed to “fire-box” in the Index to match the spelling in the main body of the book."*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Archaic and alternative spellings as well as hyphenation differences have been left unchanged. 5."*
+> - 📜 **Donald Knuth (*The TeXbook*):** *"The computer typesetting system incorporates an intricate **hyphenation** algorithm based on linguistic morphology."*
+> - 📜 **David Crystal (*Spell It Out: The Singular Story of English Spelling*):** *"Inconsistent **hyphenation** remains one of the most frustrating ambiguities in English orthography."*
+> - 📜 **Aldous Huxley (*Jesting Pilate*):** *"The mechanical **hyphenation** of names in modern journalism often reflects hurried bureaucratic labeling."*

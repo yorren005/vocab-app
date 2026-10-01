@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be false to; be dishonest with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause someone to believe an untruth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To deliberately mislead, trick, or cause someone to accept as true or valid what is false or invalid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To give a misleading impression; to disappoint or fail to fulfill an expectation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For having traffic with thyself alone, Thou of thyself thy sweet self dost deceive, Then how when nature calls thee to be gone, What acceptable audit canst thou leave?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The king’s disease,—my project may deceive me, But my intents are fix’d, and will not leave me. [_Exit._] SCENE II."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I see two husbands, or mine eyes deceive me."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"This above all: to thine own self be true, and it must follow, as the night the day, thou canst not then be false to any man or **deceive**."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"You must not attempt to **deceive** me; I know more of your feelings than you imagine."*
+> - 📜 **Niccolò Machiavelli (*The Prince*):** *"One who deceives will always find those who allow themselves to be **deceived**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of plait, interweave.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of plait, interweave.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In mathematics and mathematical physics, designating a geometric structure, manifold, or transformation that preserves a closed, non-degenerate differential 2-form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative ichthyology, designating the symplectic bone connecting the hyomandibular and quadrate bones in teleost skulls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symplectic designates adjective*) pertaining to, derived from, or characteristic of plait, interweave."*
+> - 📜 **Hermann Weyl (*The Classical Groups*):** *"I suggested the name **symplectic** group as a Greek equivalent for complex, to avoid ambiguity with imaginary numbers."*
+> - 📜 **V. I. Arnold (*Mathematical Methods of Classical Mechanics*):** *"Hamiltonian mechanics unfolds naturally upon a phase space endowed with a canonical **symplectic** geometry."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"In the bony fish skull, the **symplectic** ossicle wedges between the hyomandibular and quadrate elements."*

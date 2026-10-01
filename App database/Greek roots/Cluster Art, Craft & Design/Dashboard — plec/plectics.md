@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek plec.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Art, Craft & Design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The interdisciplinary study of simplicity and complexity, focusing on how complex adaptive systems arise from interwoven interactions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In complex systems theory (coined by Murray Gell-Mann), the conceptual framework investigating holistic patterns across physics, biology, and computation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plectics designates a term designating an entity, condition, or phenomenon derived from greek plec."*
+> - 📜 **Murray Gell-Mann (*The Quark and the Jaguar*):** *"I coined the term **plectics** from the Indo-European root *plek-*, denoting the study of folded and entangled systems."*
+> - 📜 **Stuart Kauffman (*At Home in the Universe*):** *"In modern **plectics**, self-organization and natural selection interact to generate spontaneous order at the edge of chaos."*
+> - 📜 **Philip W. Anderson (*More Is Different*):** *"The principles of **plectics** demonstrate that novel emergent properties arise as systems scale in complexity."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: apostle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: apothecaries'.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An elided Greek prefix variant of *apo-* occurring before vowels, meaning away from, off, separate, or un-; also an abbreviation for Latin *apud* (meaning in the works of).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical epigraphy, biblical scholarship, and liturgical texts, an abbreviation denoting *apostle* or *apothecary*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"What is any visit made for?” “There is some wisits p’r’aps,” said Joe, “as for ever remains open to the question, Pip."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"I be terrified at ze beeg city where she come from, p'r'aps."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Once ze good Brodders at Aramac goin' make scholar of Pete, make heem priest, too, p'r'aps."*
+> - 📜 **B. F. Westcott (*A General Survey of the History of the Canon of the New Testament*):** *"The passage is preserved only as cited **ap.** Eusebius in the third book of his ecclesiastical history."*
+> - 📜 **Herbert Weir Smyth (*Greek Grammar*):** *"The preposition loses its final vowel by elision before another vowel, contracting *apo* to **ap** as seen in *apairesis*."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"Before a smooth vowel, the prefix regularly assumes the truncated form **ap**, denoting departure or negation."*

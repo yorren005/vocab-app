@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The worship of miracles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The worship of miracles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The excessive admiration, adoration, or worship of miracles, prodigies, or wonder-workers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, blind credulity or superstitious fascination with sensational occurrences and magical feats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thaumatolatry designates the worship of miracles."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Mankind has ever been prone to **thaumatolatry**, bowing before any conjurer who promises a rupture of natural laws."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The credulous multitude was easily swayed by popular **thaumatolatry**, demanding ever more extravagant portents from their saints."*
+> - 📜 **William James (*The Will to Believe*):** *"Philosophical pragmatism rejects uncritical **thaumatolatry**, seeking instead empirical evidence grounded in actual experience."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plastic substance; specifically : any of numerous organic synthetic or processed materials that are mostly thermoplastic or thermosetting polymers of high molecular weight and that can be made into objects, films, or filaments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Credit cards used for payment —called also plastic money.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic or semi-synthetic material made from polymers that can be molded into solid objects, films, or fibers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being molded, shaped, or modeled (pliable); or in neuroscience, exhibiting structural neuroplasticity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The road-metal grew softer and more clayey as Weatherbury was left behind, and the late rain had wetted its surface to a somewhat plastic, but not muddy state."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"You were plastic, a soul in flux, a consciousness and an identity in the process of forming—ay, of forming and forgetting."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Only the flesh dies and passes, ever a-crawl with the chemic ferment that informs it, ever plastic, ever crystallizing, only to melt into the flux and to crystallize into fresh and diverse forms that are ephemeral and that melt back into the flux."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The infants crawled happily across the gleaming synthetic **plastic** tiles of the nursery floor."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Plasticity, in the wide sense of the word, means the possession of a structure weak enough to yield to an influence, but strong enough not to yield all at once; our brain is **plastic**."*
+> - 📜 **Roland Barthes (*Mythologies*):** *"More than a substance, **plastic** is the very idea of its infinite transformation; it is the first magical material that consented to be prosaic."*

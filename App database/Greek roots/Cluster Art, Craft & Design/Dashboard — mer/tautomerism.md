@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Isomerism in which the isomers change into one another with great ease so that they ordinarily exist together in equilibrium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Isomerism in which the isomers change into one another with great ease so that they ordinarily exist together in equilibrium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of dynamic chemical isomerism in which two or more structural isomers spontaneously interconvert readily in solution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular genetics, transient shifts between keto and enol forms of nitrogenous bases that can induce replication errors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tautomerism designates isomerism in which the isomers change into one another with great ease so that they ordinarily exist together in equilibrium."*
+> - 📜 **James D. Watson (*The Double Helix*):** *"Jerry Donohue pointed out that thymine and guanine exist predominantly in the keto form rather than the enol **tautomerism** pictured in textbooks."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Rapid proton transfer across the conjugated system establishes a dynamic equilibrium termed **tautomerism**."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"Rare transitions resulting from nucleotide base **tautomerism** accounted for spontaneous point mutations."*

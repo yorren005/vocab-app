@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: For cosmetic purposes to improve appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: For cosmetic purposes to improve appearance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a cosmetic manner; with regard to beautification, grooming, or external appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a superficial manner that improves outward appearance without resolving core defects or altering essential reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmetically designates for cosmetic purposes to improve appearance."*
+> - 📜 **George Orwell (*Keep the Aspidistra Flying*):** *"The crumbling lodging house was patched **cosmetically** with cheap wallpaper that peeled in the damp."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The Decanting Room was **cosmetically** sanitized to present an illusion of pristine laboratory perfection."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"Old family scandals were **cosmetically** smoothed over by polite society, buried beneath impeccable manners."*

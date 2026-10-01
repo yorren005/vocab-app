@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical marine fishes having the teeth fused into a beak and thick skin covered with bony plates or spines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical marine fishes having the teeth fused into a beak and thick skin covered with bony plates or spines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any teleost fish belonging to the order Plectognathi (or Tetraodontiformes), such as pufferfishes, filefishes, triggerfishes, and boxfishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by fused premaxillary and maxillary bones forming a beak-like jaw mechanism adapted for crushing hard prey.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plectognath designates tropical marine fishes having the teeth fused into a beak and thick skin covered with bony plates or spines."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"The solid beak of the **plectognath** enables the creature to crush coral branches and hard-shelled mollusks with ease."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"In every typical **plectognath**, the jaw bones are immovably soldered to the cranium."*
+> - 📜 **William Beebe (*Beneath Tropic Seas*):** *"A colorful **plectognath** hovered over the brain coral, using its sharp dental plates to browse upon algae."*

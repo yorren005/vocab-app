@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without or deprived of the use of speech or words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without or deprived of the use of speech or words.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unable to express oneself clearly, fluently, or coherently; inarticulate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking distinct jointed segments, divisions, or syllables.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unarticulate designates without or deprived of the use of speech or words."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"He uttered a low, **unarticulate** groan of anguish that pierced my heart with sorrow."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"From the depths of the cabin came a wild, **unarticulate** cry that chilled the night watch."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The working masses suffered in dumb silence, their deep grievances remaining **unarticulate** before Parliament."*

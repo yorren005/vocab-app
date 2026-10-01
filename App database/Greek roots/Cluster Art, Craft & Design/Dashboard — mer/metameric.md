@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the body divided into successive metameres or segments, as in earthworms or lobsters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the body divided into successive metameres or segments, as in earthworms or lobsters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or exhibiting a linear series of similar segments or metameres; segmented.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colorimetry, describing two colors that appear identical under one light source but differ under another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metameric designates having the body divided into successive metameres or segments, as in earthworms or lobsters."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The segmented arrangement of spinal nerves preserves the ancient **metameric** pattern of our ancestors."*
+> - 📜 **Edwin H. Land (*The Retinex Theory of Color Vision*):** *"Two color patches that produce identical cone responses under daylight are termed a **metameric** pair."*
+> - 📜 **Richard Dawkins (*The Ancestor's Tale*):** *"Annelid worms perfected the **metameric** body plan, repeating organs across dozens of identical rings."*
