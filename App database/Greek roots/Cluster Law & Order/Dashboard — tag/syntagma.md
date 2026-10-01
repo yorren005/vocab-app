@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A syntactic element.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A syntactic element.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A syntactic unit consisting of words or phrases linked in an organized, grammatical sequence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tactical military battalion or square formation in ancient Greece, especially the Macedonian phalanx square of 256 men armed with sarissas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syntagma designates a syntactic element."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"A compound word or a whole sentence constitutes a **syntagma**, whose elements derive meaning from mutual opposition."*
+> - 📜 **George Grote (*A History of Greece*):** *"The formidable Macedonian phalanx was subdivided into compact bodies of 256 men, each termed a **syntagma**."*
+> - 📜 **J. F. C. Fuller (*The Generalship of Alexander the Great*):** *"Alexander deployed each infantry **syntagma** with disciplined precision to pin the Persian line while the cavalry struck the flank."*

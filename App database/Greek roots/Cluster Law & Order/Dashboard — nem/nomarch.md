@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek nem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Law & Order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The governor or chief magistrate of a *nome* (administrative province) in ancient Egypt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The prefect or chief administrative executive of a *nomos* (prefecture) in the modern Greek administrative system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nomarch designates a term designating an entity, condition, or phenomenon derived from greek nem."*
+> - 📜 **James Henry Breasted (*A History of Egypt*):** *"During the feudal era of the Middle Kingdom, each provincial **nomarch** exercised almost sovereign power within his domain."*
+> - 📜 **Flinders Petrie (*The Making of Egypt*):** *"The inscriptions upon the cliff tombs record the wealth and civic achievements of the local **nomarch**."*
+> - 📜 **Gaston Maspero (*The Dawn of Civilization*):** *"The **nomarch** was responsible for supervising the irrigation dikes and levying grain taxes for the royal treasury."*

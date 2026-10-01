@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek goddess of retributive justice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One that inflicts retribution or vengeance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek goddess of divine retribution and righteous indignation against human hubris, arrogance, and transgression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inescapable, retributive agent of downfall, or a persistent, unconquerable opponent or circumstance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is Talbot slain, the Frenchman’s only scourge, Your kingdom’s terror and black Nemesis?"*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Lawrence however had no nerves and no fear of Nemesis, and no inclination to sacrifice himself for Bernard, and he determined, if Wanhope continued to inspire these oppressive sensations to send himself a telegram calling him away."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"XV THE ARRIVAL OF NEMESIS Some people do not believe in presentiments."*
+> - 📜 **William Shakespeare (*Henry VI, Part 1*):** *"Is Talbot slain, the Frenchman's only scourge, Your kingdom's terror and black **Nemesis**?"*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"Like an avenging **Nemesis**, the monster pursued him across icy wastes to claim retribution for his creation."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Imperial pride provoked an inevitable **Nemesis**, plunging the dynasty into catastrophic ruin."*

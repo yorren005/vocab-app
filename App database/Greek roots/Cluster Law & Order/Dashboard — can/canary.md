@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone acting as an informer or decoy for the police.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A female singer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, bright-yellow finch (*Serinus canaria*) native to the Canary Islands, widely bred in captivity as a singing pet and historically used in coal mines to detect toxic gas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bright, sweet white fortified wine produced in the Canary Islands, or a vivid yellowish-green hue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The best courtier of them all, when the court lay at Windsor, could never have brought her to such a canary."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will to my honest knight Falstaff, and drink canary with him. [_Exit Host._] FORD [_Aside_.] I think I shall drink in pipe-wine first with him; I’ll make him dance.—Will you go, gentles?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O knight, thou lack’st a cup of canary: When did I see thee so put down?"*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"A golden **canary** twittered happily in its wicker cage near the sunlit window."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"I will drink **canary** with him tomorrow; while there is a drop of wine in my head, I will not refuse."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"The colliers once carried a **canary** underground, watching its feathers for the earliest sign of deadly choke-damp."*

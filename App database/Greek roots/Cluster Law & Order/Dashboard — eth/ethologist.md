@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A zoologist who studies the behavior of animals in their natural habitats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A zoologist who studies the behavior of animals in their natural habitats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A biologist or scientist who specializes in ethology—the comparative and evolutionary study of animal behavior in natural environments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A field naturalist who analyzes the adaptive function, causation, and ontogeny of species-specific behavioral patterns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ethologist designates a zoologist who studies the behavior of animals in their natural habitats."*
+> - 📜 **Konrad Lorenz (*King Solomon's Ring*):** *"The observant **ethologist** discovers that the instinctive displays of waterfowl follow precise hereditary rituals."*
+> - 📜 **Nikolaas Tinbergen (*The Study of Instinct*):** *"A skilled **ethologist** must formulate four questions regarding any behavior: its mechanism, development, adaptive value, and evolutionary history."*
+> - 📜 **Richard Dawkins (*The Selfish Gene*):** *"The field **ethologist** learns to interpret courtship dances as strategic signals calibrated by natural selection."*

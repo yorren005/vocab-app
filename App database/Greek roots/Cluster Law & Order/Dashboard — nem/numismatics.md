@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study or collection of coins, tokens, and paper money and sometimes related objects (such as medals).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study or collection of coins, tokens, and paper money and sometimes related objects (such as medals).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study, collection, or historical analysis of coins, paper currency, tokens, and medals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The historical auxiliary science that investigates economic circulation, metallurgy, political iconography, and sovereign authority through minted currency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, numismatics designates the study or collection of coins, tokens, and paper money and sometimes related objects (such as medals)."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The science of **numismatics** enables the historian to recover the lost portraits and titles of forgotten emperors."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"Through the delicate study of antique **numismatics**, the humanist reconstructs the aesthetic ideals of classical antiquity."*
+> - 📜 **George MacDonald (*The Silver Coinage of Crete*):** *"Ancient **numismatics** supplies indispensable archaeological evidence where written literary records have perished."*

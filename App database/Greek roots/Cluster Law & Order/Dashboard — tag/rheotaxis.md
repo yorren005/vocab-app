@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek tag.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Law & Order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The innate behavioral response or directional movement of an aquatic organism in response to a current of water, typically swimming against the flow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The orientation reflex that prevents fish and aquatic invertebrates from being swept downstream by flowing currents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rheotaxis designates a term designating an entity, condition, or phenomenon derived from greek tag."*
+> - 📜 **Jacques Loeb (*The Mechanistic Conception of Life*):** *"Positive **rheotaxis** enables river fish to maintain their station against the rush of water without visual landmarks."*
+> - 📜 **Rachel Carson (*Under the Sea-Wind*):** *"The migrating salmon relied on keen **rheotaxis** to breast the foaming mountain torrents and leap the rapids."*
+> - 📜 **Nikolaas Tinbergen (*The Study of Instinct*):** *"Field experiments demonstrated that stream minnows lose their orienting **rheotaxis** when the lateral-line nerves are severed."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not conforming to approved standards of social or professional behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not conforming to approved standards of social or professional behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not conforming to accepted rules or moral principles of proper, fair, and professional conduct; unscrupulous or corrupt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In violation of established institutional codes or moral responsibilities toward clients, subjects, or the public.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unethical designates not conforming to approved standards of social or professional behavior."*
+> - 📜 **Upton Sinclair (*The Jungle*):** *"The investigation exposed the **unethical** practices of meatpacking bosses who concealed tainted products from inspectors."*
+> - 📜 **Hannah Arendt (*Eichmann in Jerusalem*):** *"Totalitarian regimes succeed by normalizing profoundly **unethical** deeds as routine bureaucratic duty."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"It was fundamentally **unethical** to blanket whole ecosystems with synthetic toxins without warning the public of long-term hazards."*

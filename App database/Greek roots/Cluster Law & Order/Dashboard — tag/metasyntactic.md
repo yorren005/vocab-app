@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of arrange, order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of arrange, order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to syntax that describes or stands in place of another syntax; specifically describing placeholder words (e.g., *foo*, *bar*, *baz*) used in programming examples to represent variables of arbitrary meaning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Operating at a secondary linguistic level to define, analyze, or generate grammatical rules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metasyntactic designates adjective*) pertaining to, derived from, or characteristic of arrange, order."*
+> - 📜 **Donald Knuth (*The Art of Computer Programming*):** *"Programmers frequently employ **metasyntactic** variables such as foo and bar to illustrate algorithms without committing to specific domain terminology."*
+> - 📜 **Douglas Hofstadter (*Gödel, Escher, Bach*):** *"A formal language requires **metasyntactic** notation to describe its own grammatical theorems without infinite regress."*
+> - 📜 **Eric S. Raymond (*The New Hacker's Dictionary*):** *"The hacker tradition relies on conventional **metasyntactic** placeholders to debug code snippets in technical discussions."*

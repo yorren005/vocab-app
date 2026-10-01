@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or science of good eating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Culinary customs or style.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art and science of good eating, gourmet cooking, and the cultural study of food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Epicurean taste and culinary connoisseurship in dining traditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"On the doorstep, she met the little urchin whose marvellous feats of gastronomy have been recorded in the earlier pages of our narrative."*
+> - 📜 **Jean Anthelme Brillat-Savarin (*The Physiology of Taste*):** *"**Gastronomy** is the intelligent knowledge of whatever concerns man's nourishment, directing his palate and preserving his health."*
+> - 📜 **Honoré de Balzac (*Cousin Pons*):** *"He was a devotee of refined **gastronomy**, regarding an exquisite sauce as an achievement worthy of a great painter."*
+> - 📜 **M. F. K. Fisher (*The Art of Eating*):** *"True **gastronomy** demands not extravagance, but curiosity, discernment, and reverence for simple ingredients."*

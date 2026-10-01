@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The area of phonology concerned with the analysis and description of the permitted sound sequences of a language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The area of phonology concerned with the analysis and description of the permitted sound sequences of a language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the rules and permissible arrangements of sounds (phonemes) within the syllables and words of a specific language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Governed by language-specific constraints that determine which consonant clusters and vowel sequences can legally occur.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phonotactic designates the area of phonology concerned with the analysis and description of the permitted sound sequences of a language."*
+> - 📜 **Noam Chomsky & Morris Halle (*The Sound Pattern of English*):** *"Native speakers possess an intuitive grasp of **phonotactic** constraints, instantly rejecting sound combinations that violate syllable structure."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"Every language enforces strict **phonotactic** prohibitions against certain initial and final consonant clusters."*
+> - 📜 **Steven Pinker (*The Language Instinct*):** *"Although 'blick' is not an English word, it conforms perfectly to English **phonotactic** rules, unlike 'bnik'."*

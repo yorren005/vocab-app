@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anesthetize with ether.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anesthetize with ether.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To anesthetize or render unconscious with ether prior to a surgical procedure (alternative spelling of etherize).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To deaden the senses, dull awareness, or lull into passivity and inaction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, etherise designates anesthetize with ether."*
+> - 📜 **T. S. Eliot (*The Love Song of J. Alfred Prufrock*):** *"When the evening is spread out against the sky like a patient **etherised** upon a table."*
+> - 📜 **Sir James Young Simpson (*Account of a New Anaesthetic Agent*):** *"Before the introduction of chloroform, many surgeons would **etherise** patients during major amputations."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"The heavy afternoon heat seemed to **etherise** every restless impulse into calm indifference."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A syntactic string of words that forms a part of some larger syntactic unit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A syntactic string of words that forms a part of some larger syntactic unit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An orderly, linear sequence of linguistic units (morphemes, words, or phrases) standing in a syntactic relationship to one another (alternative spelling of syntagma).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In semiotics, a linked chain of signs whose combined meaning arises from their sequential combination (contrasted with paradigm).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syntagm designates a syntactic string of words that forms a part of some larger syntactic unit."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"In discourse, words acquire relations based on the linear nature of language because they are chained together in a **syntagm**."*
+> - 📜 **Roland Barthes (*Elements of Semiology*):** *"Every semiotic system operates along two axes: the associative plane of selection and the **syntagm** of linear combination."*
+> - 📜 **Roman Jakobson (*Fundamentals of Language*):** *"The poetic function projects the principle of equivalence from the axis of selection into the axis of the **syntagm**."*

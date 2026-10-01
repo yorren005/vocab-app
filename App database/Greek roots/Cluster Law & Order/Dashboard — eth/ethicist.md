@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A philosopher who specializes in ethics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A philosopher who specializes in ethics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert, theorist, or scholar specializing in ethics and moral philosophy, particularly applied ethics in medicine, science, or law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A consultant or committee member tasked with resolving complex moral quandaries in institutional practice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"On the one hand, Earth ethicists argued, were the rights of the inhabitants of the space colonies."*
+> - 📜 **Peter Singer (*Animal Liberation*):** *"The applied **ethicist** must challenge traditional anthropocentric assumptions regarding the moral status of non-human animals."*
+> - 📜 **Bernard Williams (*Ethics and the Limits of Philosophy*):** *"The modern **ethicist** often errs by reducing the richness of practical life to abstract decision procedures."*
+> - 📜 **Martha Nussbaum (*Creating Capabilities*):** *"As a political **ethicist**, she argued that human dignity requires guaranteed institutional protection for central capabilities."*

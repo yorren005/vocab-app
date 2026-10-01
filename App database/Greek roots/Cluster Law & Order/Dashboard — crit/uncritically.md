@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an uncritical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an uncritical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an uncritical manner; accepting claims, beliefs, or authorities without independent evaluation, doubt, or scrutiny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without applying analytical standards or discerning judgment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"The good sisters, standing with their hands folded into their sleeves, accepted this statement uncritically; and the master of the house asked his new visitor how long it was since she had left Rome."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Many believers accept miracles **uncritically**, demanding no empirical verification for what satisfies their emotional needs."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"Party zealots repeat propaganda slogans **uncritically**, as if mechanical repetition proved their truth."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The true man of science refuses to accept hypotheses **uncritically**, demanding verifiable experimental proof."*

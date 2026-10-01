@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ancient country in northern Africa east of Mauretania, its site being in modern Algeria; chief city Hippo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ancient country in northern Africa east of Mauretania, its site being in modern Algeria; chief city Hippo.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Berber kingdom situated in North Africa (modern-day Algeria and parts of Tunisia and Libya), famed for its agile cavalry and ruled by kings like Masinissa and Jugurtha.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A North African Roman province whose name was traditionally linked by Greek historians to the nomadic pastoralism of its indigenous inhabitants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Numidia designates ancient country in northern africa east of mauretania, its site being in modern algeria; chief city hippo."*
+> - 📜 **Sallust (*The Jugurthine War*):** *"The kingdom of **Numidia** was renowned for hardy horsemen who skirmished across the arid plains with deadly mobility."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The fertile plains of **Numidia** yielded vast grain supplies that nourished the populace of Rome."*
+> - 📜 **Livy (*The History of Rome*):** *"King Masinissa led the auxiliary squadrons of **Numidia** to turn the tide of victory at the battle of Zama."*

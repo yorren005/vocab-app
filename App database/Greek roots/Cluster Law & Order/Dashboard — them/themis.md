@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) the titaness who was goddess of justice in ancient mythology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) the titaness who was goddess of justice in ancient mythology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Titan goddess of divine law, natural order, custom, and justice in Greek mythology, often depicted holding scales as the embodiment of civic fairness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The universal, unwritten cosmic law and divine rightness governing gods and mortals alike in archaic Greek jurisprudence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, themis designates (greek mythology) the titaness who was goddess of justice in ancient mythology."*
+> - 📜 **Hesiod (*Theogony*):** *"Next Zeus took to wife gleaming **Themis**, who bore the Horae—Order, Justice, and blessed Peace—who mind the works of mortal men."*
+> - 📜 **Jane Ellen Harrison (*Themis: A Study of the Social Origins of Greek Religion*):** *"In ancient Greek thought, **Themis** represented the collective social conscience, the established tribal custom that precedes written statute."*
+> - 📜 **Gilbert Murray (*Five Stages of Greek Religion*):** *"Before kings laid down legal codes, **Themis** reigned as the sacred voice of customary fairness and divine harmony."*

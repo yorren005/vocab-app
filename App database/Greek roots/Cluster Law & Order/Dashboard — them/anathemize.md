@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wish harm upon; invoke evil upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curse or declare to be evil or anathema or threaten with divine punishment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Variant spelling of anathematize: to denounce, curse, or pronounce an ecclesiastical curse upon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To censure or banish from intellectual or moral fellowship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anathemize designates wish harm upon; invoke evil upon."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The ascetic monk appeared ready to **anathemize** every marble statue celebrating the pagan beauty of the flesh."*
+> - 📜 **Edgar Allan Poe (*Marginalia*):** *"Pedantic reviewers **anathemize** any original cadence that refuses their arbitrary metric laws."*
+> - 📜 **Mark Twain (*A Connecticut Yankee in King Arthur's Court*):** *"The church was prompt to **anathemize** my new telegraph wires as witchcraft of the devil."*

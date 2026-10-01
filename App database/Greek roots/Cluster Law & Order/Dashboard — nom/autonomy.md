@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being autonomous: as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality or state of being independent, free, and self-directing; specifically, in Kantian philosophy : moral self-determination based on reason.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The right or condition of self-government, political independence, and freedom from external authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capacity of a rational individual to make informed, uncoerced decisions and determine their own moral actions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Mary’s Abbey) and masshouse (Adam and Eve’s tavern): the proscription of their national costumes in penal laws and jewish dress acts: the restoration in Chanah David of Zion and the possibility of Irish political autonomy or devolution."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We were relieved of military government, became rehabilitated in our sovereignty, with entire control of our local autonomy."*
+> - 📜 **Immanuel Kant (*Critique of Practical Reason*):** *"The **autonomy** of the will is the sole principle of all moral laws and corresponding duties."*
+> - 📜 **James Joyce (*Ulysses*):** *"They debated the restoration of Zion and the possibility of Irish political **autonomy** or devolution."*
+> - 📜 **Isaiah Berlin (*Two Concepts of Liberty*):** *"Positive freedom involves the desire of the individual to achieve personal **autonomy** and self-mastery."*

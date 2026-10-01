@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek crit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Law & Order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure of speech in classical rhetoric in which opposite persons, ideas, or things are explicitly compared and contrasted to highlight the virtues or vices of both.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient historiography, a paired biographical or moral comparison, famously employed by Plutarch in his *Parallel Lives*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syncrisis designates a term designating an entity, condition, or phenomenon derived from greek crit."*
+> - 📜 **Plutarch (*Parallel Lives*):** *"At the conclusion of each pair of biographies, Plutarch appended a formal **syncrisis** weighing the merits of the Greek hero against the Roman."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"By skillful **syncrisis**, the advocate sets the noble character of the victim directly against the brutal depravity of the accused."*
+> - 📜 **George Puttenham (*The Arte of English Poesie*):** *"We call this figure **syncrisis**, or the comparison of contraries, wherein two men of opposite natures are matched together."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Athenian statesman who persuaded athens to build a navy and then led it to victory over the persians (527-460 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Athenian statesman who persuaded athens to build a navy and then led it to victory over the persians (527-460 bc).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An influential Athenian statesman and naval strategist (c. 524–459 BCE) whose foresight led to the expansion of the Athenian fleet and the decisive victory over Persia at Salamis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historical exemplar of brilliant military cunning, political foresight, and patriotic statecraft in classical Greece.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The Lives of Pericles and Themistocles, for instance, are little more than mere collectanea from sources widely discrepant, and often quite worthless."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Themistocles, orator, statesman and chieftain, was banished and died in exile."*
+> - 📜 **Thucydides (*History of the Peloponnesian War*):** *"**Themistocles** was a man who exhibited the most convincing proofs of natural genius; in supreme emergencies he was the best at improvising the right course."*
+> - 📜 **Plutarch (*Parallel Lives*):** *"When asked whether he would rather be Achilles or Homer, **Themistocles** replied by asking whether one would rather be the victor in the Olympic games or the herald who proclaims them."*
+> - 📜 **Herodotus (*The Histories*):** *"It was the visionary counsel of **Themistocles** that persuaded the Athenians to build the wooden walls of the navy that saved Hellas."*

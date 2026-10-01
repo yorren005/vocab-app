@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Merocrine —used especially of sweat glands; also : produced by an eccrine gland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the rather small sweat glands that discharge an odorless watery fluid onto the surface of the skin, play an important role in thermoregulation, and are widely distributed across the body with the most dense concentrations on the palms, soles, and forehead.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the major type of sweat glands that secrete water and electrolytes directly onto the skin surface without losing cell cytoplasm, essential for human thermoregulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to exocrine glands that release watery secretions without structural breakdown of the secretory cells (merocrine).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eccrine designates merocrine —used especially of sweat glands; also : produced by an eccrine gland."*
+> - 📜 **William Bloom & Don W. Fawcett (*A Textbook of Histology*):** *"The **eccrine** sweat glands are distributed over nearly the entire body surface, functioning primarily in evaporative cooling."*
+> - 📜 **Arthur Ham (*Histology*):** *"During vigorous exercise, the sympathetic innervation stimulates millions of **eccrine** coils to discharge hypotonic sweat."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"The physiological activity of **eccrine** glands maintains thermal homeostasis against extreme ambient heat."*

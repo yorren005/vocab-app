@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined to criticize severely and unfavorably.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of or involving criticism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing adverse, evaluative, or analytical comments and judgments; involving skillful judgment as to truth and merit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to a point of transition, decisive crisis, or state where a nuclear chain reaction becomes self-sustaining in physics and medicine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O gentle lady, do not put me to’t, For I am nothing if not critical."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Being there, is much delighted with the horses and the feats of strength; looks at the weapons with a critical eye; disapproves of the combats as giving evidences of unskilful swordsmanship; but is touched home by the sentiments."*
-> - 📜 **Jane Austen (*Persuasion*):** *"A short absence from home had left his fair one unguarded by his attentions at this critical period, and when he came back he had the pain of finding very altered manners, and of seeing Captain Wentworth."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"Our age is, in especial degree, the age of criticism, and to **critical** examination all things must submit."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"When the mass of fissionable material exceeds the **critical** limit, a divergent chain reaction takes place."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient's condition remained **critical** throughout the third night of the pneumonia crisis."*

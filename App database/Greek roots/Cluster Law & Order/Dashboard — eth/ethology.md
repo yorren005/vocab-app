@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of knowledge dealing with human character and with its formation and evolution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The scientific and objective study of animal behavior especially under natural conditions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific and objective study of animal behavior, especially under natural conditions, viewed from an evolutionary and ecological perspective.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical philosophy, the study of human character, temperament, and cultural formation as proposed by John Stuart Mill.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ethology designates a branch of knowledge dealing with human character and with its formation and evolution."*
+> - 📜 **Konrad Lorenz (*On Aggression*):** *"Modern **ethology** demonstrated that ritualized combat among social animals serves to preserve rather than destroy the species."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Mill proposed a science of **ethology** dedicated to discovering the laws of the formation of character."*
+> - 📜 **Edward O. Wilson (*Sociobiology: The New Synthesis*):** *"Comparative **ethology** provided the essential observational bedrock upon which sociobiological theories were constructed."*

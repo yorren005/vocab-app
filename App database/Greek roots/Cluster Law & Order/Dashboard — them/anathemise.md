@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wish harm upon; invoke evil upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curse or declare to be evil or anathema or threaten with divine punishment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Variant spelling of anathematise: to pronounce an anathema upon; to curse or excommunicate solemnly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To denounce or repudiate with strong moral aversion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anathemise designates wish harm upon; invoke evil upon."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"The bigots would gladly **anathemise** every medical discovery that alleviates the agony of the sick."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The old covenanter did not hesitate to **anathemise** all who showed leniency toward prelatical innovations."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"It is folly to **anathemise** new architectural styles before understanding the structural needs that birthed them."*

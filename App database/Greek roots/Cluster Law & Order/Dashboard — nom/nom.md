@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: pseudonym.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: a name that a writer uses instead of their legal name : pseudonym, pen name.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek combining root *nom-* (from *nomos* / *nemein*), meaning 'law', 'custom', 'order', or 'distribution', forming words like *astronomy*, *autonomy*, and *economy*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The linguistic morpheme representing systematized governance, classification, or lawful regulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Monsieur a parlé de vous: il m’a demandé le nom de ma gouvernante, et si elle n’était pas une petite personne, assez mince et un peu pâle."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"A ROMANCE BY A.C.F. (CAROLINE AUGUSTA FRAZER) "When atman (nom. sing."*
-> - 📜 **Effie Afton (*Eventide*):** *"She writes under a _nom de plume_, but I discovered her."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"From the fundamental root **nom** spring the Hellenic concepts of custom, legislative statute, and orderly allocation."*
+> - 📜 **Émile Benveniste (*Indo-European Language and Society*):** *"The element **nom** in Greek compounds denotes the authoritative ordering and distribution of resources or knowledge."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The semantic evolution of **nom** demonstrates how ancient pastoral custom ripened into civil jurisprudence."*

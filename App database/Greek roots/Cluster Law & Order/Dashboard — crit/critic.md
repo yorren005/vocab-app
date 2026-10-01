@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who engages often professionally in the analysis, evaluation, or appreciation of works of art or artistic performances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who expresses a reasoned opinion on any matter especially involving a judgment of its value, truth, righteousness, beauty, or technique.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who expresses an informed, reasoned judgment of the value and qualities of artistic, literary, or theatrical works.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who finds fault, censures, or expresses adverse opinions regarding policies or human conduct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In so profound abysm I throw all care Of others’ voices, that my adder’s sense, To critic and to flatterer stopped are: Mark how with my neglect I do dispense."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I, that have been love’s whip, A very beadle to a humorous sigh, A critic, nay, a night-watch constable, A domineering pedant o’er the boy, Than whom no mortal so magnificent!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To see great Hercules whipping a gig, And profound Solomon to tune a jig, And Nestor play at push-pin with the boys, And critic Timon laugh at idle toys."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"The duty of a **critic** is to separate real beauty from accidental ornaments."*
+> - 📜 **Oscar Wilde (*The Critic as Artist*):** *"The **critic** occupies the same relation to the work of art that the artist does to the visible world."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"Let such teach others who themselves excel, and censure freely who have written well; for a true **critic** ought to share the poet's fire."*

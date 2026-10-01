@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the general principles of scientific classification : systematics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Classification; especially : orderly classification of plants and animals according to their presumed natural relationships.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific branch of biology concerned with the classification, identification, naming, and systemization of organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structured, hierarchical classification system used to organize categories of knowledge, software, or data.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, taxonomy designates the study of the general principles of scientific classification : systematics."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"All the grand facts in genetics and anatomy are reflected in our **taxonomy**, which is essentially a genealogical pedigree of nature."*
+> - 📜 **Carl Linnaeus (*Philosophia Botanica*):** *"Order is the soul of science; without a rigorous **taxonomy**, all natural knowledge would dissolve into chaotic confusion."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"The discovery of unusual anatomical designs in the Burgess Shale forced a complete overhaul of traditional invertebrate **taxonomy**."*

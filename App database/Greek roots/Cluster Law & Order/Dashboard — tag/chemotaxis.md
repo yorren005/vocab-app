@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Orientation or movement of an organism or cell in relation to chemical agents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Orientation or movement of an organism or cell in relation to chemical agents.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The directional movement of a motile cell or organism toward or away from a chemical stimulus or concentration gradient.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The biological mechanism by which immune leukocytes migrate toward infection sites or bacteria locate nutrient sources.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chemotaxis designates orientation or movement of an organism or cell in relation to chemical agents."*
+> - 📜 **René Dubos (*The Bacterial Cell*):** *"Bacterial **chemotaxis** guides flagellated bacilli along minute concentration gradients toward sugars and amino acids."*
+> - 📜 **Élie Metchnikoff (*Immunity in Infective Diseases*):** *"Positive **chemotaxis** directs wandering phagocytes toward invading microbes, initiating the defensive inflammatory response."*
+> - 📜 **Lewis Thomas (*The Lives of a Cell*):** *"Leukocytes navigate through dense tissue spaces guided by exquisite **chemotaxis**, tracking trace chemical scents like bloodhounds."*

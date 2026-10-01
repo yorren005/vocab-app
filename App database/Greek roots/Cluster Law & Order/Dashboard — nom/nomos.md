@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek nom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Law & Order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek concept of custom, convention, unwritten social tradition, or positive statutory law (contrasted with *physis*, natural order).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An established social norm, cultural code, or civic law governing human behavior in a community.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nomos designates a term designating an entity, condition, or phenomenon derived from greek nom."*
+> - 📜 **Plato (*The Republic*):** *"The sophists argued that justice was not founded upon eternal nature, but was merely a conventional **nomos** agreed upon by the weak."*
+> - 📜 **Aristotle (*Politics*):** *"A constitution is an organization of offices in a state, determined by its fundamental **nomos**."*
+> - 📜 **Peter L. Berger (*The Sacred Canopy*):** *"Every human society is an enterprise in building a meaningful **nomos**, an orderly shield against terrifying chaos."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the science of ecology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the science of ecology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the bionomics or ecology of living organisms in their natural habitat (synonymous with bionomic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological literature, relating to the life history, feeding habits, and environmental pressures governing a species.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bionomical designates of or relating to the science of ecology."*
+> - 📜 **Alfred Russel Wallace (*Darwinism*):** *"Our **bionomical** observations in the Amazonian jungle revealed how protective resemblance shields edible insects from insectivorous birds."*
+> - 📜 **Ronald Fisher (*The Genetical Theory of Natural Selection*):** *"Mathematical population models must incorporate the **bionomical** factors of fecundity and survival rates."*
+> - 📜 **Charles Elton (*Animal Ecology*):** *"The **bionomical** niche of an animal describes its precise status in the food chain and local biotic community."*

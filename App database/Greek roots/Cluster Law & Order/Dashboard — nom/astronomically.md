@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enormously.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enormously.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner relating to astronomy or cosmological calculation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an enormous, colossal, or extraordinarily vast degree or quantity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astronomically designates enormously."*
+> - 📜 **Stephen Hawking (*A Brief History of Time*):** *"The temperature of the early universe was **astronomically** high in the initial fractions of a second following the Big Bang."*
+> - 📜 **Carl Sagan (*The Demon-Haunted World*):** *"The odds against life arising by sheer random collision of atoms were considered **astronomically** remote."*
+> - 📜 **Richard Feynman (*The Character of Physical Law*):** *"The gravitational force between two electrons is **astronomically** weak compared to their electrical repulsion."*

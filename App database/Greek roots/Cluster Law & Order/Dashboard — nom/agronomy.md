@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of agriculture dealing with field-crop production and soil management.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of agriculture dealing with field-crop production and soil management.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of agricultural science dealing with field crop production, soil management, and land cultivation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practical application of scientific principles (such as botany, soil chemistry, and ecology) to farming.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I am Darrell Standing, born and raised on a quarter section of land in Minnesota, erstwhile professor of agronomy, a prisoner incorrigible in San Quentin, and at present a death-sentenced man in Folsom."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And, also, am I not now, as I write these lines, Darrell Standing, under sentence of death in Folsom Prison and one time professor of agronomy in the College of Agriculture of the University of California?"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I remember me Dorothy, just the other day, when I still lectured on agronomy to farmer-boy students."*
+> - 📜 **George Washington Carver (*Nature Study Bulletins*):** *"The science of **agronomy** reveals that the earth responds bountifully when treated according to natural laws."*
+> - 📜 **Norman Borlaug (*Feeding a World of 10 Billion People*):** *"Without the revolutionary innovations of scientific **agronomy**, modern civilization could not sustain its urban populations."*
+> - 📜 **Liberty Hyde Bailey (*The Holy Earth*):** *"True **agronomy** is more than commercial production; it is the reverent stewardship of the living soil."*

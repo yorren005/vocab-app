@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to numismatics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to currency : monetary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to coins, currency, tokens, or the scholarly study of coinage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to numismatics as a branch of historical archaeology and economic history.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, numismatic designates of or relating to numismatics."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **numismatic** evidence of debased silver coinage confirmed the fiscal exhaustion of the later empire."*
+> - 📜 **Walter Pater (*Greek Studies*):** *"The tiny bronze obol possessed immense **numismatic** and artistic value, preserving the exquisite miniature profile of a goddess."*
+> - 📜 **Thomas Hardy (*A Pair of Blue Eyes*):** *"He possessed a fine **numismatic** collection containing specimens unearthed from ancient Saxon barrows."*

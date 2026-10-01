@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek tag.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Law & Order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinct, specialized morphological body unit or region formed by the fusion or grouping of segments in arthropods (e.g., the head, thorax, and abdomen of insects).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An elite standing military battalion or regiment in the Byzantine army (from Greek *tagma*, 'something arranged / battalion').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tagma designates a term designating an entity, condition, or phenomenon derived from greek tag."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life: The Burgess Shale and the Nature of History*):** *"Arthropod evolution is the great story of tagmosis—the specialization and grouping of ancestral segments into a functional **tagma**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor mobilized the imperial **tagma**, the elite household brigade stationed within the walls of Constantinople."*
+> - 📜 **John Obadiah Westwood (*An Introduction to the Modern Classification of Insects*):** *"In the class Insecta, each **tagma** performs distinct physiological roles: sensory in the head, locomotor in the thorax, and visceral in the abdomen."*

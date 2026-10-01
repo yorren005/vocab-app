@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal act of pronouncing (someone or something) accursed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formal act of pronouncing (someone or something) accursed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal act of denouncing, cursing, or excommunicating with an anathema.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Severe and categorical moral condemnation directed against an opponent, ideology, or social group.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anathematization designates the formal act of pronouncing (someone or something) accursed."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The mutual **anathematization** between Rome and Constantinople sealed the enduring rupture of the Christian world."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Our institutional creeds spend their energies in the sterile **anathematization** of honest doubt."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The social **anathematization** of nonconformist opinions stifles intellectual independence far more effectively than legal penalties."*

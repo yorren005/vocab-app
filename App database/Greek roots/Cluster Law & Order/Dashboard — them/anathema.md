@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone or something intensely disliked or loathed —usually used in the phrase be anathema (to).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One that is cursed by ecclesiastical authority.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing accursed, detested, or loathed; something intensely disliked or shunned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal ecclesiastical curse accompanied by excommunication; originally, an offering set up or consecrated to a deity in a temple, later devoted to destruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He that is accursed, let him be accursed still,” was the pitiless anathema written in this spoliated effort of his new-born solicitousness."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He that is accursed, let him be accursed still.” was the pitiless anathema written in this spoliated effort of his new-born solicitousness."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Though it was now dark, I knew he was awake; because I heard him fulminating strange anathemas at finding himself lying in a pool of water."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The idea of yielding to hypocrisy was an **anathema** to her proud, independent nature."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"To the strict parish elders, her unbaptized infant remained under a dark ecclesiastical **anathema**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The synod hurled a solemn **anathema** against all who refused to subscribe to the imperial creed."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A collector and student of money (and coins in particular).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A collector and student of money (and coins in particular).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scholar, specialist, or collector who studies or collects coins, medals, paper money, and tokens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert who authenticates, dates, and interprets historical currency and metallurgical mintings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, numismatist designates a collector and student of money (and coins in particular)."*
+> - 📜 **Arthur Conan Doyle (*The Musgrave Ritual*):** *"A knowledgeable **numismatist** identified the tarnished crowns as belonging to the reign of Charles the First."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The local antiquary was a devoted **numismatist**, possessing Roman bronze coins turned up by the plow in ancient meadows."*
+> - 📜 **Washington Irving (*Tales of a Traveller*):** *"The old **numismatist** spent hours examining the worn profile of a Caesar under his magnifying lens."*

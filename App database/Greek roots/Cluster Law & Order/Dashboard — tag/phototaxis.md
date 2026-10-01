@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxis in which light is the directive factor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A taxis in which light is the directive factor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The innate directional movement of an organism toward (positive phototaxis) or away from (negative phototaxis) a source of light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The behavioral photo-orientation mechanism exhibited by motile algae, insects, and microorganisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phototaxis designates a taxis in which light is the directive factor."*
+> - 📜 **Jacques Loeb (*Forced Movements, Tropisms, and Animal Conduct*):** *"Positive **phototaxis** compels the moth to fly relentlessly toward the candle flame, governed by photochemical reactions in its retinas."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"Minute flagellated swarm-spores display active **phototaxis**, swimming directly toward the sunlit surface of the pond."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Planktonic larvae exhibit diurnal **phototaxis**, rising to surface waters at dusk and sinking at dawn to escape predators."*

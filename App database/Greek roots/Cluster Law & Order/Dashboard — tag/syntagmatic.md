@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A syntactic element.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A syntactic element.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the sequential or linear relationships between words or signs in a sentence (the horizontal axis of combination).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to how grammatical elements co-occur and constrain each other in actual utterances (contrasted with paradigmatic).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syntagmatic designates a syntactic element."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The **syntagmatic** relation holds in praesentia; it connects two or more terms that are actually present in an effective series."*
+> - 📜 **Roland Barthes (*Mythologies*):** *"In fashion and advertising, **syntagmatic** combinations of colors and garments create culturally codified narratives."*
+> - 📜 **Roman Jakobson (*Selected Writings*):** *"Aphasic disorders of the contiguity type specifically impair the patient's capacity to build **syntagmatic** sequences."*

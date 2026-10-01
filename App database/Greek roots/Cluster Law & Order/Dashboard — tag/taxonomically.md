@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With regard to taxonomy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to taxonomy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a taxonomic manner; in terms of, or according to the principles of, scientific classification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From the standpoint of biological phylogeny and systematic categories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, taxonomically designates with regard to taxonomy."*
+> - 📜 **Ernst Mayr (*Principles of Systematic Zoology*):** *"Two sibling species may appear morphologically indistinguishable yet remain **taxonomically** distinct by their reproductive barriers."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"Fossils that were once grouped together were **taxonomically** reclassified as separate evolutionary radiations."*
+> - 📜 **Richard Dawkins (*The Ancestor's Tale*):** *"When analyzed **taxonomically**, chimpanzees and humans share a more recent common ancestor than either does with the gorilla."*

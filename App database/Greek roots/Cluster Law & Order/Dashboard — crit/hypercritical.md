@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined to judge too severely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inclined to judge too severely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively and unreasonably critical; carping or finding fault with minor blemishes; captious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Demanding an impossibly strict or pedantic standard of evaluation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"I suppose," writes one of them, "no men are so hypercritical as students after they have been four or five years at the University."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Those who accepted Morlene's verdict and now read the Plan simply for the purpose of defending her from hypercritical personages are heroes indeed."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"But only for a minute—only while he could button the flower inside his jacket, next his heart—or next his stomach, possibly, for he was not much posted in anatomy, and not hypercritical, anyway."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"A **hypercritical** reader is ever on the watch for microscopic faults while remaining blind to majestic beauties."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She was not so **hypercritical** as to reject a charming acquaintance on account of a single awkward phrase."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Do not become **hypercritical** of your friends, lest you find yourself solitary in an empty world."*

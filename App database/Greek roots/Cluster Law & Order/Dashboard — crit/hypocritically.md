@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a hypocritical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a hypocritical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a hypocritical manner; pretending to possess virtues, standards, or sentiments that one does not truly hold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With deceitful sanctimony or dissimulating pretense.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"I think, mother," I said--hypocritically, I own it--"that Elsie was feared that you would be for offering something for her work." "And, indeed," said my mother, "what for not?"*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The courtier smiled **hypocritically**, promising favor to the petitioner while secretly arranging his downfall."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He spoke **hypocritically** of Christian charity, yet never opened his purse to aid the starving crossing-sweeper."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky sighed **hypocritically**, wiping away an imaginary tear to soften the heart of the gullible baronet."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or constituting a theme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the stem of a word.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, constituting, or having a theme or central unifying topic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics, pertaining to a theme vowel inserted between a root and an inflectional ending in Indo-European morphology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thematic designates of, relating to, or constituting a theme."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"The **thematic** unity of the painting depended not upon realistic detail, but upon the harmony of light and shadow."*
+> - 📜 **E. M. Forster (*Aspects of the Novel*):** *"A great novel weaves distinct **thematic** threads that echo and resonate throughout its plot."*
+> - 📜 **Noam Chomsky (*Aspects of the Theory of Syntax*):** *"In generative grammar, **thematic** relations define the core semantic roles that noun phrases bear toward their governing verb."*

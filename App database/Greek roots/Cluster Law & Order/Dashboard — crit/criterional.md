@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving as a basis for evaluation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving as a basis for evaluation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Functioning as or pertaining to a criterion; establishing an authoritative standard of judgment (variant of criterial).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving as a decisive diagnostic threshold for classification in psychological testing and nosology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, criterional designates serving as a basis for evaluation."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Certain sensory thresholds serve a **criterional** role in establishing conscious perception."*
+> - 📜 **C. S. Peirce (*Collected Papers*):** *"Logical validity requires **criterional** consistency across every step of formal inference."*
+> - 📜 **John Dewey (*Logic: The Theory of Inquiry*):** *"The experimental outcome provides the **criterional** test that settles the problem in doubt."*

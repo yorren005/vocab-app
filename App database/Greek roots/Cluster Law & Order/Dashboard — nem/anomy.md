@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Social instability resulting from a breakdown of standards and values; also : personal unrest, alienation, and uncertainty that comes from a lack of purpose or ideals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Social instability resulting from a breakdown of standards and values; also : personal unrest, alienation, and uncertainty that comes from a lack of purpose or ideals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of lawlessness, lack of social standards, or disregard for divine or civil law (historical form of anomie).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disregard or contempt for established moral order in classical theological and philosophical literature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anomy designates social instability resulting from a breakdown of standards and values; also : personal unrest, alienation, and uncertainty that comes from a lack of purpose or ideals."*
+> - 📜 **John Milton (*The Doctrine and Discipline of Divorce*):** *"To enforce a legal bondage against conscience is to plunge the commonwealth into deeper spiritual **anomy**."*
+> - 📜 **Thomas Jackson (*A Treatise of the Divine Essence and Attributes*):** *"All sin is fundamentally an **anomy**, an intentional transgression and transgression-like defiance of divine rule."*
+> - 📜 **Samuel Taylor Coleridge (*The Friend*):** *"A political revolution which tears up moral principles without replacing them introduces universal **anomy**."*

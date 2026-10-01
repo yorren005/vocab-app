@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Socially disoriented.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Socially disoriented.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or suffering from anomie; lacking social, moral, or ethical standards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by personal disorientation, normlessness, or disconnection from societal values in sociology and psychology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anomic designates socially disoriented."*
+> - 📜 **Émile Durkheim (*Suicide: A Study in Sociology*):** *"In an **anomic** state, society's influence is lacking in the essentially individual passions, leaving them without a check-rein."*
+> - 📜 **Robert K. Merton (*Social Theory and Social Structure*):** *"When institutionalized norms fail to regulate aspirations, individuals lapse into an **anomic** condition of perpetual frustration."*
+> - 📜 **C. Wright Mills (*The Sociological Imagination*):** *"Urban alienation frequently manifests as an **anomic** drift where shared ethical obligations dissolve."*

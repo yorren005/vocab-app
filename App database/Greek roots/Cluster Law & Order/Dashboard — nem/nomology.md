@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek nem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Law & Order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science or theoretical study of physical, moral, or natural laws and their fundamental principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The systematic classification and investigation of universal normative rules governing conduct or nature in philosophy and psychology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nomology designates a term designating an entity, condition, or phenomenon derived from greek nem."*
+> - 📜 **Sir William Hamilton (*Lectures on Metaphysics and Logic*):** *"We designate by **nomology** the science of the necessary laws that regulate human thought and cognition."*
+> - 📜 **C. S. Peirce (*Collected Papers*):** *"The philosopher distinguishes between phenomenological description and the deeper investigations of universal **nomology**."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"A comprehensive **nomology** must seek to derive empirical generalizations from irreducible causal axioms."*

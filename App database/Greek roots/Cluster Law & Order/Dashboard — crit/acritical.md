@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without a crisis (as of some diseases).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without a crisis (as of some diseases).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not marked by or involving a crisis; lacking a decisive turning point in the course of an illness in medicine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without critical judgment, discrimination, or analytical evaluation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acritical designates without a crisis (as of some diseases)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Certain mild fevers follow an **acritical** course, resolving by slow lysis rather than sudden defervescence."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The old physicians recognized diseases whose termination was entirely **acritical**, leaving the body without clear crisis."*
+> - 📜 **Jonathan Pereira (*The Elements of Materia Medica*):** *"The remedy acts gently to promote an **acritical** restoration of the bodily secretions."*

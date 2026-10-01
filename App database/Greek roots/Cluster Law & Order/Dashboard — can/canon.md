@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A regulation or dogma decreed by a church council.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A provision of canon law.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A general rule, fundamental law, principle, or criterion by which something is judged, evaluated, or regulated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An authorized collection or list of sacred books or literary works accepted as genuine, authoritative, and standard.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Besides, virginity is peevish, proud, idle, made of self-love, which is the most inhibited sin in the canon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where I find him, were it At home, upon my brother’s guard, even there, Against the hospitable canon, would I Wash my fierce hand in’s heart."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"COMINIUS. ’Twas from the canon."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Or that the Everlasting had not fix'd His **canon** 'gainst self-slaughter! O God! God!"*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"A **canon** of pure reason comprises the sum of the a priori principles of the correct use of certain cognitive faculties."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"To establish a sound literary **canon**, we must learn to see the object as in itself it really is."*

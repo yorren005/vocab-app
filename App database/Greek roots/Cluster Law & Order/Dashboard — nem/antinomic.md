@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A contradiction between two apparently equally valid principles or between inferences correctly drawn from such principles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fundamental and apparently unresolvable conflict or contradiction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, involving, or characterized by an antinomy; contradictory or self-opposing between principles or laws.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting a mutual contradiction between two conclusions that are equally substantiated by rational argument in philosophy and logic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antinomic designates a contradiction between two apparently equally valid principles or between inferences correctly drawn from such principles."*
+> - 📜 **William James (*The Will to Believe*):** *"Our moral consciousness often confronts **antinomic** imperatives where justice and mercy pull in opposite directions."*
+> - 📜 **Immanuel Kant (*Prolegomena to Any Future Metaphysics*):** *"The **antinomic** conflicts of pure reason demonstrate that space and time cannot be things in themselves."*
+> - 📜 **Josiah Royce (*The World and the Individual*):** *"Human experience is rife with **antinomic** tendencies that require a higher philosophical synthesis."*

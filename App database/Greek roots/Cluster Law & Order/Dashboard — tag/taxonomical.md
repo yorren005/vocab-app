@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to taxonomy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to taxonomy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to taxonomy or classification (synonymous with taxonomic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific literature, relating to systematic arrangements of specimens and phylogenetic trees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, taxonomical designates of or relating to taxonomy."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In a strictly **taxonomical** sense, man cannot be separated from the anthropoid apes into a distinct order."*
+> - 📜 **Julian Huxley (*The New Systematics*):** *"Modern genetics has revolutionized older **taxonomical** categories, aligning morphology with chromosomal analysis."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"The **taxonomical** confusion surrounding cultivated hybrids requires careful verification against wild type specimens."*

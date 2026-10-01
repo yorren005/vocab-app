@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek nem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Law & Order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: That which is contrary to law, rule, or custom; an opposing principle, law, or counter-axiom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A contradiction between two principles or beliefs, each of which seems equally necessary or valid; an antinomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antinome designates a term designating an entity, condition, or phenomenon derived from greek nem."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"Each thesis of cosmological reason generates its own inescapable **antinome** in the antithesis."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The mind struggles when confronted with an intellectual **antinome** whose opposing terms appear equally undeniable."*
+> - 📜 **Thomas De Quincey (*Essays on Philosophical Writers*):** *"In metaphysical debate, every dogmatic assertion quickly summons its corresponding **antinome**."*

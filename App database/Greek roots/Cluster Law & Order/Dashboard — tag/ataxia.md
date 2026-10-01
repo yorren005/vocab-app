@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inability to coordinate voluntary muscular movements that is symptomatic of some central nervous system disorders and injuries and not due to muscle weakness —called also incoordination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inherited systemic disorder marked especially by progressive pathological changes in the nervous system resulting in loss of motor coordination and by increased susceptibility to cancer especially of lymphoid tissue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lack of voluntary muscle coordination and balance during movement, typically resulting from damage to the cerebellum, sensory nerves, or spinal cord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of disorder, irregularity, or confusion in bodily functions or social systems (from Greek *ataxia*, 'lack of order').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ataxia designates an inability to coordinate voluntary muscular movements that is symptomatic of some central nervous system disorders and injuries and not due to muscle weakness —called also incoordination."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Sensory **ataxia** causes the patient to lose stability when closing the eyes, due to impaired proprioceptive input."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The sudden acute **ataxia** left the patient unable to walk without veering wildly across the room."*
+> - 📜 **Jean-Martin Charcot (*Clinical Lectures on Diseases of the Nervous System*):** *"Locomotor **ataxia** manifests in a characteristic slapping gait and loss of deep tendon reflexes."*

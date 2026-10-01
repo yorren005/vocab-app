@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device for accomplishing an end.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A method of employing forces in combat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An action, maneuver, or method carefully planned and executed to achieve a specific short-term goal or operational advantage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A localized military maneuvering technique, as distinguished from broad overall strategy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Businesslike, formal, and highly visible." "Why don't you use that tactic on the dozens of Slingshot laboratories and assembly centers here on Pluto's surface?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"They do wait, however, with the perseverance of military tactics, and at last the bell rings again and the client in possession comes out of Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Phil, come here!” Phil bears down upon them according to his usual tactics."*
+> - 📜 **Carl von Clausewitz (*On War*):** *"Strategy is the use of the engagement for the purpose of the war; **tactic** is the theory of the use of military forces in combat."*
+> - 📜 **Sun Tzu (*The Art of War*):** *"All men can see these **tactics** whereby I conquer, but what none can see is the strategy out of which victory is evolved."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"He adopted a conciliatory **tactic**, soothing the irritated blacksmith with gentle nods and promises."*

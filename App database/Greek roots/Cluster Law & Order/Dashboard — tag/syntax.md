@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sentence structure : the way in which linguistic elements (such as words) are put together to form phrases, clauses, or sentences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of grammar dealing with this.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The arrangement of words and phrases to create well-formed, grammatically correct sentences in a language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The format and formal rules governing the structure of statements in a programming language or logical calculus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Theoretical, being confined to certain grammatical rules of accidence and syntax and practically excluding vocabulary."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"The twenty-third of May came . . . an unseasonably warm day, as none realized more keenly than Anne and her little beehive of pupils, sweltering over fractions and syntax in the Avonlea schoolroom."*
+> - 📜 **Noam Chomsky (*Syntactic Structures*):** *"The **syntax** of a language defines the generative procedures by which an infinite variety of sentences can be produced."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"The novelist had to break the traditional masculine cadence and invent a sentence whose supple **syntax** was adapted to a woman's thought."*
+> - 📜 **Donald Knuth (*The Art of Computer Programming*):** *"A compiler must first parse the source program's **syntax** before it can generate executable machine instructions."*

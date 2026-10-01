@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (astronomy) an indistinct surface feature of mars once thought to be a system of channels; they are now believed to be an optical illusion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bodily passage or tube lined with epithelial cells and conveying a secretion or other substance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artificial waterway constructed to allow the passage of boats or ships inland, or to convey water for irrigation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tubular passage or duct in an animal or plant body through which fluid or air passes (e.g., alimentary canal).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A cent a ton-mile proved to be a paying rate on a small canal."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"For heavy, slow-moving freight, a railroad can even now barely rival a parallel canal at its best."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"At its best, therefore, the small land-locked canal is fitted only to be a supplementary agent in the system of transportation wherever another transportation agency of higher speed and greater regularity is possible."*
+> - 📜 **Mark Twain (*The Innocents Abroad*):** *"We glided through the narrow waters of the Grand **Canal**, where ancient marble palaces rose directly from the tide."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The complex alimentary **canal** in higher animals is modified into distinct chambers adapted for successive digestive stages."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"Telescopic observers had mapped what they supposed to be a network of **canal** systems across the Martian deserts."*

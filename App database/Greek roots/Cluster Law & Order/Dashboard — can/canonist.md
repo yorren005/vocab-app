@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in canon law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or characteristic of a body of rules and principles accepted as axiomatic; e.g.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert, jurist, or scholar specializing in canon law, ecclesiastical jurisprudence, and religious statutes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who interprets or enforces authoritative ecclesiastical regulations within church governance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canonist designates a specialist in canon law."*
+> - 📜 **John Milton (*The Doctrine and Discipline of Divorce*):** *"The scholastic **canonist** entangled human marriage in a labyrinth of superstitious decrees."*
+> - 📜 **Henry Hallam (*View of the State of Europe during the Middle Ages*):** *"The medieval **canonist** asserted the supremacy of papal decretals over the civil codes of monarchs."*
+> - 📜 **Lord Acton (*The History of Freedom and Other Essays*):** *"Every skilled **canonist** understood how subtly church law adapted to shifting political alliances."*

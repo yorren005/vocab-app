@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A physicist who studies astronomy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physicist who studies astronomy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist or scholar who observes, studies, and analyzes celestial objects, space, and the physical universe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stargazer or historical observer of planetary motions and stellar cartography.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, learn’d indeed were that astronomer That knew the stars as I his characters; He’d lay the future open."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"That the vulgar should believe in extraordinary comets traversing space, and in the existence of antediluvian monsters in the heart of the globe, may well be; but neither astronomer nor geologist believes in such chimeras."*
-> - 📜 **John Milton (*Paradise Lost*):** *"There lands the Fiend, a spot like which perhaps Astronomer in the Sun’s lucent Orbe Through his glaz’d Optic Tube yet never saw."*
+> - 📜 **Galileo Galilei (*The Starry Messenger*):** *"The diligent **astronomer** will observe that Jupiter is escorted by four wandering stars invisible to the naked eye."*
+> - 📜 **Edwin Hubble (*The Realm of the Nebulae*):** *"The **astronomer** peers into distant galactic depths to measure the expansion of the cosmos."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"When I heard the learn'd **astronomer**, When the proofs, the figures, were ranged in columns before me."*

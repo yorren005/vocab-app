@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of critical urgency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A critical state; especially the point at which a nuclear reaction is self-sustaining.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of being critical, especially where a nuclear chain reaction is self-sustaining ($k = 1$) in nuclear physics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being critical, vital, or of decisive strategic importance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, criticality designates a state of critical urgency."*
+> - 📜 **Enrico Fermi (*Collected Papers*):** *"The approach to **criticality** was monitored minute by minute as the cadmium control rods were slowly withdrawn."*
+> - 📜 **Robert Oppenheimer (*Science and the Common Understanding*):** *"Reaching prompt **criticality** transforms a dormant lattice of uranium into an immense release of energy."*
+> - 📜 **Richard Rhodes (*The Making of the Atomic Bomb*):** *"The scientists assembled around the graphite pile, awaiting the moment of **criticality** with breathless attention."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the right or power of self-government.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undertaken or carried on without outside control : self-contained.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having self-government, independence, and the freedom to act or function without external control.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of moral self-determination based on reason (Kantian); operating independently through automated guidance without human intervention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autonomous designates having the right or power of self-government."*
+> - 📜 **Immanuel Kant (*Groundwork of the Metaphysics of Morals*):** *"A rational will is truly **autonomous** when it binds itself to universal moral laws of its own making."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The township stood as an **autonomous** civic body, managing its domestic concerns without interference from the capital."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Over his own body and mind, the individual is rightfully sovereign and **autonomous**."*

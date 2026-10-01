@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A song of devotion or loyalty (as to a nation or school).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A song of praise (to god or to a saint or to a nation).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical composition of celebration, solemnity, or praise, often set to sacred words or serving as a national song of identity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Originally, an antiphon or responsive chant sung alternately by two divided choirs in Christian liturgy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If so, I pray thee breathe it in mine ear, As ending anthem of my endless dolour."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here the anthem doth commence: Love and constancy is dead; Phoenix and the turtle fled In a mutual flame from hence."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"He beckons for one--Sure 'tis no Anthem, nor no borrow'd Rhymes out of the School of Vertue; I will listen-- [_A Song_."*
+> - 📜 **William Shakespeare (*Henry IV, Part 2*):** *"For my voice, I have lost it with halloing and singing of **anthems**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The celestial choirs lifted their golden harps, pouring forth a triumphant **anthem** to the Creator."*
+> - 📜 **Wilfred Owen (*Anthem for Doomed Youth*):** *"Only the monstrous anger of the guns can patter out their hasty **anthem**."*

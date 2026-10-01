@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek crit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Law & Order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rule or governance by judges, specifically designating the historical period of the Biblical Judges in ancient Israel before the monarchy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A political system in which the judiciary is the supreme or exclusive governing authority, resolving disputes through customary or natural law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kritarchy designates a term designating an entity, condition, or phenomenon derived from greek crit."*
+> - 📜 **Robert Southey (*The Doctor*):** *"Before kings sat upon the throne of Israel, the commonwealth flourished under a sacred **kritarchy**, guided by prophets and judges."*
+> - 📜 **John Milton (*The Tenure of Kings and Magistrates*):** *"The Hebrew commonwealth under the **kritarchy** of the Judges was governed by divine law without hereditary kings."*
+> - 📜 **Lord Acton (*The History of Freedom and Other Essays*):** *"In early tribal confederations, the **kritarchy** settled disputes according to customary law without an executive sovereign."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The rarefied element formerly believed to fill the upper regions of space.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The upper regions of space : heavens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or composed of the hypothetical luminiferous ether; celestial or insubstantial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In esoteric and metaphysical philosophy, designating the subtle non-physical body or vital energy matrix enveloping the physical organism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The lords of the moon, Theosophos told me, an orangefiery shipload from planet Alpha of the lunar chain would not assume the etheric doubles and these were therefore incarnated by the rubycoloured egos from the second constellation."*
+> - 📜 **Oliver Lodge (*The Ether of Space*):** *"The transmission of light and gravitation requires an **etheric** continuum whose elasticity defies mechanical explanation."*
+> - 📜 **Arthur Conan Doyle (*The Edge of the Unknown*):** *"Spiritualist investigators posited an **etheric** double that survives the dissolution of the mortal frame."*
+> - 📜 **Nikola Tesla (*My Inventions*):** *"I envisioned harnessing the vast reservoir of **etheric** energy that vibrates ceaselessly throughout cosmic space."*

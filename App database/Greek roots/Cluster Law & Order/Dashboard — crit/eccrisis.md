@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek crit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Law & Order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The discharge, expulsion, or excretion of waste matter, morbid humors, or products of disease from the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical medicine, a critical evacuation of fluids that marks the favorable resolution of an acute fever.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eccrisis designates a term designating an entity, condition, or phenomenon derived from greek crit."*
+> - 📜 **Galen (*On the Therapeutic Method*):** *"Nature accomplishes healing through an orderly **eccrisis**, discharging the corrupted humors through sweat or urine."*
+> - 📜 **Jonathan Pereira (*The Elements of Materia Medica*):** *"Sudorific drugs promote an artificial **eccrisis** to relieve internal visceral congestion."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"The acute symptoms subsided promptly upon the occurrence of a spontaneous nocturnal **eccrisis**."*

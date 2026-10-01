@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With regard to tactics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to tactics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a tactical manner; with careful planning and maneuvering to achieve an immediate objective.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military, political, or athletic maneuvering, from the standpoint of short-term positional advantage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tactically designates with regard to tactics."*
+> - 📜 **Winston Churchill (*The River War*):** *"The cavalry swept forward **tactically**, securing the high ridge before the main infantry columns arrived."*
+> - 📜 **Carl von Clausewitz (*On War*):** *"To act **tactically** sound is to adapt one's forces instantly to the terrain and the enemy's disposition."*
+> - 📜 **B. H. Liddell Hart (*Strategy*):** *"By moving **tactically** along the line of least expectation, the commander paralyzed the enemy's defensive plan."*

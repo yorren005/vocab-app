@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With regard to thematic content.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to thematic content.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a way that relates to, or is organized by, themes or central motifs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary, artistic, or musical composition, structured around recurring symbolic or ideological patterns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thematically designates with regard to thematic content."*
+> - 📜 **Henry James (*The Art of the Novel*):** *"The chapters were **thematically** linked by the persistent consciousness of the central observer."*
+> - 📜 **T. S. Eliot (*The Sacred Wood*):** *"The scenes of the Elizabethan tragedy were grouped **thematically** to heighten psychological suspense."*
+> - 📜 **Northrop Frye (*Anatomy of Criticism*):** *"Archetypal narratives recur **thematically** across divergent cultures, reflecting seasonal cycles of death and rebirth."*

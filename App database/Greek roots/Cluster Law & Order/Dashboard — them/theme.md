@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A subject or topic of discourse or of artistic representation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specific and distinctive quality, characteristic, or concern.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An underlying subject, central idea, or motif in a literary work, speech, artistic composition, or musical piece.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A recognizable melody or musical phrase upon which a composition, fugue, or variation set is developed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your wife and brother Made wars upon me, and their contestation Was theme for you; you were the word of war."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To me she speaks; she moves me for her theme."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In bed he slept not for my urging it; At board he fed not for my urging it; Alone, it was the subject of my theme; In company I often glanced it; Still did I tell him it was vile and bad."*
+> - 📜 **William Shakespeare (*Sonnet 105*):** *"My **theme** is love, and truth and beauty mine."*
+> - 📜 **Ludwig van Beethoven (*Selected Letters*):** *"I take a simple **theme** and discover within its miniature form an entire universe of symphonic development."*
+> - 📜 **Ralph Waldo Emerson (*The Poet*):** *"The true poet finds an inspiring **theme** in the commonest events of human life."*

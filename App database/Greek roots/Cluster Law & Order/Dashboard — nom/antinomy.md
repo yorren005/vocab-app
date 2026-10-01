@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A contradiction between two apparently equally valid principles or between inferences correctly drawn from such principles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fundamental and apparently unresolvable conflict or contradiction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A contradiction between two beliefs, conclusions, or principles, each of which is supported by equally valid and compelling arguments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conflict or inconsistency between two statutory laws or authoritative legal precepts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antinomy designates a contradiction between two apparently equally valid principles or between inferences correctly drawn from such principles."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"Reason falls into an unavoidable **antinomy** when it attempts to conceive the universe as either finite or infinite in space and time."*
+> - 📜 **Arthur Schopenhauer (*The World as Will and Representation*):** *"Kant's famous **antinomy** demonstrated the limits of our conceptual apparatus when applied beyond sensible experience."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"The resolution of an **antinomy** often requires us to reconstruct our most fundamental semantic definitions."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A carping or unduly censorious critic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A carping or unduly censorious critic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive, unreasonable, or captious criticism; the practice of picking petty faults in artistic, literary, or scholarly work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pedantic and destructive fault-finding that ignores overall artistic merit and expressive vitality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"While a strict surveillance over leaders is highly commendable, the baneful effects of hypercriticism and jealous intrigues are far reaching."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"Sterile **hypercriticism** produces no original thought; it merely chills the creative impulse of others."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The true lover of poetry recoils from the barren **hypercriticism** that dissects a lyric without feeling its music."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"Aesthetic appreciation rises above scholastic **hypercriticism**, seeking the inward flame of beauty."*

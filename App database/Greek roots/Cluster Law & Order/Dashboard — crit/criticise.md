@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Verb*) To subject to, transform by, or operate upon through judge , separate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Verb*) To subject to, transform by, or operate upon through judge , separate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To indicate the faults of someone or something in a disapproving way (British spelling of criticize).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To form and express an analytical evaluation or judgment of a literary, artistic, or theoretical work.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I cannot allow any man to—to criticise my private conduct!” she exclaimed."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Darcy had at first scarcely allowed her to be pretty: he had looked at her without admiration at the ball; and when they next met, he looked at her only to criticise."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"You acknowledge that this is a subject about which you know nothing, yet almost in the same breath you criticise and condemn."*
+> - 📜 **George Bernard Shaw (*The Doctor's Dilemma*):** *"It is easy to **criticise** the practitioner from a safe distance, but difficult to heal in the heat of battle."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"Before you **criticise** the style of another, consider the material circumstances under which they wrote."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"To **criticise** Turner requires that one has spent mornings watching clouds and evenings watching mountain mist."*

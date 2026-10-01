@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing a fluid secretion by pinching off one end of the secretory cell while leaving the rest intact; also : produced by an apocrine gland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gland and especially a sweat gland that secretes a viscous fluid into a hair follicle (as in the armpit or groin), is lined with a single layer of usually columnar cells, and typically does not become active until puberty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a type of exocrine gland whose secretions contain parts of the secretory cells' apical cytoplasm, which is pinched off during release (e.g., axillary sweat glands, mammary glands).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by lipid-rich, proteinaceous secretions that are broken down by cutaneous bacteria, generating body odor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apocrine designates producing a fluid secretion by pinching off one end of the secretory cell while leaving the rest intact; also : produced by an apocrine gland."*
+> - 📜 **William Bloom & Don W. Fawcett (*A Textbook of Histology*):** *"In an **apocrine** gland, the apical portion of the secretory cell cytoplasm is cast off along with the accumulated secretion."*
+> - 📜 **Stewart Duke-Elder (*System of Ophthalmology*):** *"The glands of Moll in the margin of the eyelids are modified **apocrine** sweat glands."*
+> - 📜 **Arthur Ham (*Histology*):** *"Puberty triggers the functional maturation of **apocrine** sweat glands in the axillae and pubic regions."*

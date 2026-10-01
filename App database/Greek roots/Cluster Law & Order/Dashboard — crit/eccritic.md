@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of judge , separate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of judge , separate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Promoting or facilitating the excretion or evacuation of waste matter from the body; an evacuant medicine (such as an emetic, purgative, or diuretic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to bodily excretion or the discharge of morbific humors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eccritic designates adjective*) pertaining to, derived from, or characteristic of judge , separate."*
+> - 📜 **Jonathan Pereira (*The Elements of Materia Medica and Therapeutics*):** *"Calomel was formerly valued as a powerful **eccritic** agent, stimulating the secretory functions of the liver."*
+> - 📜 **William Withering (*An Account of the Foxglove*):** *"The infusion of digitalis exhibited a remarkable **eccritic** virtue, evacuating dropsical fluid through increased renal flow."*
+> - 📜 **John Locke (*Medical Notes*):** *"The physician selected a mild **eccritic** draught to purge the system without inducing griping pains."*

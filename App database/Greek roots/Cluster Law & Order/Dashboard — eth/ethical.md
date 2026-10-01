@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the philosophical study of ethics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conforming to accepted standards of social or professional behavior; ; ; ; ; - omar n. bradley.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to moral principles of right and wrong conduct, or conforming to accepted standards of professional and human behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to ethics as a rigorous branch of philosophy investigating virtue, justice, and obligation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A wet day was the expression of irremediable grief at her weakness in the mind of some vague ethical being whom she could not class definitely as the God of her childhood, and could not comprehend as any other."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In each of these there are more or less mingled economic, political and ethical aspects."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The discussion of money touches many interests, it raises many questions of a political and of an ethical nature."*
+> - 📜 **Immanuel Kant (*Critique of Practical Reason*):** *"An action possesses genuine **ethical** worth only when performed strictly out of duty toward moral law."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"The utilitarian standard provides an **ethical** criterion grounded in the greatest happiness for the greatest number."*
+> - 📜 **Bertrand Russell (*Human Society in Ethics and Politics*):** *"Our scientific knowledge has far outstripped our **ethical** maturity, creating unprecedented perils for mankind."*

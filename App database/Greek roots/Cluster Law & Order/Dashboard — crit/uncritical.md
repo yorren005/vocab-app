@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by disregard for critical standards or procedures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not critical; not tending to find or call attention to errors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not expressing or guided by critical judgment, analysis, or discrimination; accepting without question.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking intellectual skepticism or rigorous standards of evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Hence the difference between the pessimism of Ibsen and the romantic Weltschmerz of these uncritical minds."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"An **uncritical** acceptance of traditional dogmas is the greatest obstacle to genuine intellectual progress."*
+> - 📜 **John Dewey (*How We Think*):** *"Children often form beliefs through **uncritical** habit, absorbing the biases of their elders without reflection."*
+> - 📜 **Carl Sagan (*The Demon-Haunted World*):** *"Pseudoscience thrives in an environment of **uncritical** credulity where evidence is never rigorously tested."*

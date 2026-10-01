@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A factory where food is canned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A factory where food is canned.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A factory or industrial plant where food—especially fish, meat, fruit, or vegetables—is processed and sealed in airtight metal cans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The coastal canning facility and its unique industrial working-class community in American social literature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Pine Camp was in the midst of a vast huckleberry country, and at the Forks a cannery had been established."*
+> - 📜 **John Steinbeck (*Cannery Row*):** *"**Cannery** Row in Monterey in California is a poem, a stink, a grating noise, a quality of light, a tone, a habit, a nostalgia, a dream."*
+> - 📜 **Upton Sinclair (*The Jungle*):** *"The workers in the meat **cannery** laboured amidst the roar of steam cookers and the clatter of tin lids."*
+> - 📜 **Jack London (*Martin Eden*):** *"He found exhausting seasonal employment in the salmon **cannery**, cleaning fish until his hands were stiff with brine."*

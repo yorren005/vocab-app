@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of moral principles : a theory or system of moral values —often used in plural but singular or plural in construction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The principles of conduct governing an individual or a group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of moral principles, rules of conduct, or guiding beliefs held by an individual, group, or profession.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to moral character, duty, and virtue; ethical.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"The Mahayanist admits all the Hinayana texts and honours them, though they are to him but an interim ethic; in addition he has his own vast treasury of sutras and other works."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The cursory remarks of the large-minded stranger, of whom he knew absolutely nothing beyond a commonplace name, were sublimed by his death, and influenced Clare more than all the reasoned ethics of the philosophers."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Gambling, lotteries, and speculation cause embezzlement, crime, unhappy homes, and wrecked lives.[6] Here are to be found with difficulty the true boundaries between ethics and expediency."*
+> - 📜 **Aristotle (*Nicomachean Ethics*):** *"The moral or **ethic** virtue is formed by habit, from which circumstance it even took its name."*
+> - 📜 **Max Weber (*The Protestant Ethic and the Spirit of Capitalism*):** *"The worldly ascetic **ethic** instilled an intense dedication to one's vocational calling."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"A land **ethic** changes the role of Homo sapiens from conqueror of the land-community to plain member and citizen of it."*

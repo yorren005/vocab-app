@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Social instability resulting from a breakdown of standards and values; also : personal unrest, alienation, and uncertainty that comes from a lack of purpose or ideals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Social instability resulting from a breakdown of standards and values; also : personal unrest, alienation, and uncertainty that comes from a lack of purpose or ideals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of normlessness or social instability resulting from a breakdown of standards, values, or shared ethical codes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The personal disorientation or anxiety felt by an individual in the absence of societal guidance or moral constraints.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anomie designates social instability resulting from a breakdown of standards and values; also : personal unrest, alienation, and uncertainty that comes from a lack of purpose or ideals."*
+> - 📜 **Émile Durkheim (*The Division of Labour in Society*):** *"Industrial crises occur when economic growth outstrips moral regulation, plunging society into acute **anomie**."*
+> - 📜 **Robert K. Merton (*Social Structure and Anomie*):** *"We define **anomie** as a breakdown in the cultural structure, occurring particularly when there is an acute disjunction between cultural goals and socially structured capacities."*
+> - 📜 **Hannah Arendt (*The Origins of Totalitarianism*):** *"Mass movements recruit individuals who have been atomized and dislodged by profound social **anomie**."*

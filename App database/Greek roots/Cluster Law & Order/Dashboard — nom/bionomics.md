@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: ecology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: ecology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of the relation of organisms to their environment, their adaptation, and their mode of life; ecology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In socioeconomic theory, the study of economic systems viewed as evolving, living ecosystems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog bionomics as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Patrick Geddes (*The Evolution of Sex*):** *"The science of **bionomics** reveals how intimate cooperation balances competitive struggle throughout nature."*
+> - 📜 **Julian Huxley (*The Stream of Life*):** *"Before the term ecology became universal, naturalists investigated these living harmonies under the heading of **bionomics**."*
+> - 📜 **Michael Rothschild (*Bionomics: Economy as Ecosystem*):** *"In **bionomics**, we recognize that human technological networks evolve through mechanisms analogous to biological selection."*

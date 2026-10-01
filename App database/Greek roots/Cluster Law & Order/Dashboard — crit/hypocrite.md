@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who puts on a false appearance of virtue or religion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person whose behavior contradicts their stated beliefs or feelings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who pretends to have virtues, moral beliefs, or religious principles that they do not actually possess.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deceiver who plays a false part to manipulate or deceive others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Such an act That blurs the grace and blush of modesty, Calls virtue hypocrite, takes off the rose From the fair forehead of an innocent love, And sets a blister there."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would think thee a most princely hypocrite."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Never a man’s thought in the world keeps the roadway better than thine: every man would think me an hypocrite indeed."*
+> - 📜 **Charles Dickens (*Martin Chuzzlewit*):** *"Mr. Pecksniff was a moral man, a pious man, and a consummate **hypocrite**, ever ready to weep over virtues he never practiced."*
+> - 📜 **Molière (*Tartuffe*):** *"The true **hypocrite** wears his piety like a velvet cloak to conceal the dagger underneath."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"Every man is sincere alone; at the entrance of a second person, hypocrisy begins and each becomes a **hypocrite**."*

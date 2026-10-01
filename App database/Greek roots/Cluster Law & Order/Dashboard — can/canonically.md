@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a canonical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a canonical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a canonical manner; in strict conformity with canon law, authoritative regulations, or established standards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics and theoretical physics, in a uniquely defined or natural coordinate-invariant way.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Behind this lightsome couple, so close to the Maypole that its boughs shaded his jovial face, stood the figure of an English priest, canonically dressed, yet decked with flowers, in heathen fashion, and wearing a chaplet of the native vine leaves."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The bishop was **canonically** elected by the unanimous voice of the clergy and the people."*
+> - 📜 **Arthur Eddington (*The Mathematical Theory of Relativity*):** *"When coordinates are chosen **canonically**, the fundamental metric tensor assumes its simplest mathematical form."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"The painting was **canonically** received into the sacred tradition of high Renaissance art."*

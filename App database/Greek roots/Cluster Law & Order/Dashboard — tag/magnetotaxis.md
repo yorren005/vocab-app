@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek tag.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Law & Order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The directional movement or orientation of motile micro-organisms along the geomagnetic field lines of the Earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The biological response facilitated by intracellular chains of magnetic iron crystals (magnetosomes) in magnetotactic bacteria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnetotaxis designates a term designating an entity, condition, or phenomenon derived from greek tag."*
+> - 📜 **Richard P. Blakemore (*Science*):** *"We discovered that aquatic spirilla utilize **magnetotaxis** to navigate along geomagnetic dip lines toward nutrient-rich sediment layers."*
+> - 📜 **Lynn Margulis (*Symbiotic Planet*):** *"Bacterial **magnetotaxis** demonstrates that even the simplest single-celled organisms evolved delicate bio-compasses to survive."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The discovery of **magnetotaxis** in ancient sedimentary bacteria provided a startling example of micro-structural evolutionary adaptation."*

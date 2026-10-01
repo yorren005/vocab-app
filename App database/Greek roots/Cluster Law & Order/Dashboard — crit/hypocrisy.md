@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feigning to be what one is not or to believe what one does not : behavior that contradicts what one claims to believe or feel; especially : the false assumption of an appearance of virtue or religion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act or instance of hypocrisy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of claiming to have moral standards, beliefs, or virtues to which one's own behavior does not conform; pretense or dissimulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Originally in ancient Greece, theatrical acting or stage playing (*hypokrisis*), hence assuming a false moral mask.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beshrew me, I would, And venture maidenhead for’t; and so would you, For all this spice of your hypocrisy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"BEROWNE. [_Comes forward_.] Now step I forth to whip hypocrisy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A huge translation of hypocrisy, Vilely compiled, profound simplicity."*
+> - 📜 **Molière (*Tartuffe*):** *"**Hypocrisy** is a fashionable vice, and all fashionable vices pass for virtues in high society."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"O what may man within him hide, though angel on the outward side, where **hypocrisy** masks foulest corruption."*
+> - 📜 **François de La Rochefoucauld (*Maxims*):** *"**Hypocrisy** is the homage that vice pays to virtue."*

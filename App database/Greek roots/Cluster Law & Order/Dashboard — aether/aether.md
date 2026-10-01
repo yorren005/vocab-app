@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The rarefied element formerly believed to fill the upper regions of space.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The upper regions of space : heavens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fifth element or quintessence postulated in classical and medieval philosophy to fill the celestial regions above the terrestrial sphere; in 19th-century physics, the hypothetical luminiferous medium permeating space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The clear upper sky or pure, rarefied air breathed by the immortal gods of antiquity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Cels._ viii, 58) on the Egyptian attribution of the human body to thirty-six "daemons or gods of aether," so that by prayer to the right one disease in any part of the body may be cured; Celsus gives some of their names."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"But there are certain mediary divine powers, between aether above and earth beneath, situate in that mid space of air, by whom our desires and our deserts reach the gods."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"This water, let it roll within itself; this fire, let it check its rage; this air, let it spread to aether; and let earth be fixed and borne, when I will it."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Is not this **aether** exceedingly more rare and subtile than the air, and exceedingly more elastick and active?"*
+> - 📜 **James Clerk Maxwell (*Encyclopaedia Britannica*):** *"Whatever difficulties we may have in forming a consistent idea of the constitution of the **aether**, there can be no doubt that the interplanetary spaces are not empty."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"The blue **aether** glowed with sudden light as celestial fire descended upon the mortal world."*

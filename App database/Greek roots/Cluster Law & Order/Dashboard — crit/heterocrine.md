@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of judge , separate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of judge , separate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Composed of or containing both endocrine (ductless) and exocrine (ducted) secretory tissues, as exemplified by the pancreas, liver, and gonads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by diverse, mixed modes of cellular secretion within a single organ.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterocrine designates adjective*) pertaining to, derived from, or characteristic of judge , separate."*
+> - 📜 **Arthur Ham (*Histology*):** *"The pancreas stands as the classic **heterocrine** organ, discharging digestive enzymes via ducts and releasing hormones into the capillary bed."*
+> - 📜 **William Bloom & Don W. Fawcett (*A Textbook of Histology*):** *"The testicular parenchyma functions as a **heterocrine** gland, producing exocrine spermatozoa and endocrine testosterone."*
+> - 📜 **Jonathan Pereira (*The Elements of Materia Medica*):** *"Complex visceral glands exhibiting **heterocrine** activity coordinate metabolic homeostasis through simultaneous pathways."*

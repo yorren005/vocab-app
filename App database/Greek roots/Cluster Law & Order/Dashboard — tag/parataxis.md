@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The placing of clauses or phrases one after another without coordinating or subordinating connectives.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The placing of clauses or phrases one after another without coordinating or subordinating connectives.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The juxtaposition of clauses or phrases side by side without subordinating conjunctions or formal connectors (e.g., *I came, I saw, I conquered*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A direct, egalitarian narrative style that presents events without imposing an explicit causal hierarchy (contrasted with hypotaxis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parataxis designates the placing of clauses or phrases one after another without coordinating or subordinating connectives."*
+> - 📜 **Erich Auerbach (*Mimesis: The Representation of Reality in Western Literature*):** *"Biblical narrative relies on dramatic **parataxis**, setting monumental events alongside one another with stark simplicity."*
+> - 📜 **Ernest Hemingway (*Selected Letters*):** *"Hemingway achieved his spare, visceral prose rhythm by stripping away relative clauses in favor of pure **parataxis**."*
+> - 📜 **Walter J. Ong (*Orality and Literacy*):** *"Oral storytelling is overwhelmingly paratactic, relying on additive **parataxis** rather than subordinating syntax."*

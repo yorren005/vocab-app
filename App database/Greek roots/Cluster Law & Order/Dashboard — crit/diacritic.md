@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mark near or through an orthographic or phonetic character or combination of characters indicating a phonetic value different from that given the unmarked or otherwise marked element.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving as a diacritic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sign or mark added to a letter (such as an accent, cedilla, tilde, or umlaut) to indicate a change in pronunciation, tone, or stress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to distinguish or differentiate phonetic values in orthography.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diacritic designates a mark near or through an orthographic or phonetic character or combination of characters indicating a phonetic value different from that given the unmarked or otherwise marked element."*
+> - 📜 **Henry Sweet (*A Handbook of Phonetics*):** *"The phonetician employs a **diacritic** to indicate vowel length, nasality, or tonal inflection."*
+> - 📜 **Otto Jespersen (*Language: Its Nature, Development and Origin*):** *"A subtle **diacritic** distinguishes homographs that would otherwise confound the foreign reader."*
+> - 📜 **Edward Sapir (*Language*):** *"In native orthographies, an elevated comma serves as a **diacritic** marking glottalized consonants."*

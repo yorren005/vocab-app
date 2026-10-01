@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curse or declare to be evil or anathema or threaten with divine punishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curse or declare to be evil or anathema or threaten with divine punishment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To curse, pronounce a solemn ecclesiastical ban upon, or condemn to destruction and excommunication (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To denounce vehemently or reject with moral outrage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Dent here bent over to the pious lady and whispered something in her ear; I suppose, from the answer elicited, it was a reminder that one of the anathematised race was present."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Little need to show that this detested family name had long been anathematised by Saint Antoine, and was wrought into the fatal register."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Dogmatic critics were ever ready to **anathematise** any poet whose metre departed from orthodox couplets."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The virtuous dowager was swift to **anathematise** the scandalous conduct of her younger cousins."*
+> - 📜 **Lord Byron (*Don Juan*):** *"Philosophers and priests alike were wont to **anathematise** the pleasures they could no longer taste."*

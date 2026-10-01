@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek nem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Law & Order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Equality of political and civil rights under the law; equal distribution of legal privileges in classical governance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The foundational Athenian principle of equal legal standing among citizens, regarded by ancient historians as the precursor to democracy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isonomy designates a term designating an entity, condition, or phenomenon derived from greek nem."*
+> - 📜 **Herodotus (*The Histories*):** *"The rule of the many has in the first place the fairest of names, **isonomy**, which signifies equality before the law."*
+> - 📜 **Hannah Arendt (*On Revolution*):** *"The ancients praised **isonomy** not as an absence of government, but as a space where men could interact as genuine equals."*
+> - 📜 **Friedrich Hayek (*The Constitution of Liberty*):** *"The ancient ideal of **isonomy**, or equal law for all citizens, is the true historic foundation of modern liberty."*

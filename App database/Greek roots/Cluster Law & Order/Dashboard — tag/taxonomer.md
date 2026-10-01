@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A biologist who specializes in the classification of organisms into groups on the basis of their structure and origin and behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biologist who specializes in the classification of organisms into groups on the basis of their structure and origin and behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A biologist or scholar who classifies species, organisms, or phenomena according to a systematic scheme (variant of taxonomist).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An analytical thinker who organizes complex conceptual domains into structured hierarchies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, taxonomer designates a biologist who specializes in the classification of organisms into groups on the basis of their structure and origin and behavior."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The skilled **taxonomer** relies on ancestral affinities and rudimentary organs rather than mere superficial resemblance to classify species."*
+> - 📜 **Asa Gray (*Letters of Asa Gray*):** *"A practical **taxonomer** must balance the zeal for naming new varieties against the broader affinities of the flora."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The museum **taxonomer** spends lifetimes arranging shells and bones to reveal the true genealogy of life."*

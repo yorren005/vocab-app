@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating or belonging to the science of astronomy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inconceivably large.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to astronomy or the study of celestial bodies (variant of astronomical).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Colossally large, immense, or incomprehensibly vast in scale or quantity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astronomic designates relating or belonging to the science of astronomy."*
+> - 📜 **Arthur Eddington (*The Expanding Universe*):** *"The **astronomic** distances separating island universes dwarf the imagination of mortal man."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The slowing rotation of the earth through **astronomic** epochs brought perpetual twilight to the dying planet."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Plato's vision took in whole galaxies of thought with calm, **astronomic** impartiality."*

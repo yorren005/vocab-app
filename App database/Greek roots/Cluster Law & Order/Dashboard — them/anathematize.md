@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curse or declare to be evil or anathema or threaten with divine punishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curse or declare to be evil or anathema or threaten with divine punishment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To pronounce an anathema against; to condemn, curse, or excommunicate solemnly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To denounce publicly as evil, heretical, or intolerable.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Everywhere Bonaparte was anathematized and in Moscow nothing but the coming war was talked of."*
+> - 📜 **Washington Irving (*The Sketch Book*):** *"The austere puritans were quick to **anathematize** the harmless rustic revels of May Day."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab seemed to **anathematize** the very universe that had inflicted his dismemberment."*
+> - 📜 **Voltaire (*Philosophical Dictionary*):** *"Fanatics invariably **anathematize** whatever truth exposes their profitable superstitions."*

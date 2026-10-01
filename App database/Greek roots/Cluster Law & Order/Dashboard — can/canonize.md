@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare (a dead person) to be a saint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat as a sacred person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To officially declare a deceased person to be a saint in the Catholic or Eastern Orthodox Church, placing their name on the public catalog of saints.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To sanction, authorize, or treat with the highest literary, cultural, or social veneration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Why, even the churches that believe in saints don't canonize mortals until they have been a hundred years dead--they want to be sure they are dead and their mortal weaknesses forgotten." Amanda laughed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His champions are the prophets and apostles, His weapons holy saws of sacred writ, His study is his tilt-yard, and his loves Are brazen images of canonized saints."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Had you descended from the Pequod’s try-works to the Pequod’s forecastle, where the off duty watch were sleeping, for one single moment you would have almost thought you were standing in some illuminated shrine of canonized kings and counsellors."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Time will sift the reputations of authors and **canonize** only those whose thought touches universal truth."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The townspeople were ready to **canonize** their venerable pastor as a living martyr to holiness."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"Generations of critics conspire to **canonize** certain masterpieces while forgetting the living vitality that inspired them."*

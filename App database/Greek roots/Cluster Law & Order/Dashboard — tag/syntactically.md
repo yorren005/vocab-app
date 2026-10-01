@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to syntax.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to syntax.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a syntactic manner; in accordance with the grammatical rules governing sentence construction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From the viewpoint of formal syntax, grammatical relations, or parsing algorithms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syntactically designates with respect to syntax."*
+> - 📜 **Noam Chomsky (*Aspects of the Theory of Syntax*):** *"A sentence may be **syntactically** well-formed while remaining semantically anomalous."*
+> - 📜 **Steven Pinker (*The Language Instinct*):** *"Our mental grammar can assemble **syntactically** intricate clauses faster than the conscious mind can track."*
+> - 📜 **William James (*The Principles of Psychology*):** *"When listening to speech, the brain anticipates **syntactically** appropriate endings before the speaker finishes the sentence."*

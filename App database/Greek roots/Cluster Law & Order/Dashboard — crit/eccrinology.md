@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek crit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Law & Order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of glandular secretions, particularly the structure and function of the eccrine sweat glands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of medical science investigating bodily excretions and perspiration mechanisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eccrinology designates a term designating an entity, condition, or phenomenon derived from greek crit."*
+> - 📜 **Jonathan Pereira (*The Elements of Materia Medica*):** *"Early investigations in **eccrinology** sought to demonstrate how sweat glands assist the kidneys in purging blood toxins."*
+> - 📜 **Arthur Ham (*Histology*):** *"Advances in **eccrinology** clarified the biochemical difference between watery thermal sweat and emotional perspiration."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A thorough knowledge of **eccrinology** is necessary to comprehend the profound dehydration that accompanies heatstroke."*

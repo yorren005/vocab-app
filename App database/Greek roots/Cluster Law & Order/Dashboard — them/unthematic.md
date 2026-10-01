@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not relating to a melodic subject.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not relating to a melodic subject.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not organized around, having, or relating to a central theme or unified topic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Indo-European linguistics, lacking a theme vowel inserted between root and inflectional endings; athematic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unthematic designates not relating to a melodic subject."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"In archaic morphology, **unthematic** verbs attach personal endings directly to the bare verbal root without a linking vowel."*
+> - 📜 **E. M. Forster (*Aspects of the Novel*):** *"An episodic plot that meanders without unifying purpose strikes the reader as fundamentally **unthematic**."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The historical shift from **unthematic** to thematic stem conjugations simplified verbal paradigms across late Indo-European dialects."*

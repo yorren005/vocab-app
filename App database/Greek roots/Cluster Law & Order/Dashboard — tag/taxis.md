@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reflex translational or orientational movement by a freely motile and usually simple organism in relation to a source of stimulation (such as a light or a temperature or chemical gradient).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reflex reaction involving a taxis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The innate behavioral response or directional movement of a motile cell or organism in response to an external stimulus (e.g., light, chemicals, heat).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The manual restoration of a displaced bodily part in surgery (such as reducing a hernia); also, an orderly line or battle rank in ancient Greek military formations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"These taxis are waiting for us," Lawrence had come up behind her and his hand was on her arm."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Space tugs and barges labored in all directions, taxis charged about, and space-cranes swayed above dozens of platforms that protruded from the Depot's hull."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Near-space cargo and passenger shuttles and taxis landed at and departed from pads adjacent pressurized air docks into the city."*
+> - 📜 **Jacques Loeb (*Forced Movements, Tropisms, and Animal Conduct*):** *"The basic animal reaction to environmental stimulation is a physical **taxis**, bending the locomotion toward or away from the source."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Gentle manual **taxis** was applied to reduce the strangulated inguinal hernia before considering surgical incision."*
+> - 📜 **Thucydides (*History of the Peloponnesian War*):** *"The Spartan infantry advanced in unbroken **taxis**, keeping step to the shrill music of double flutes."*

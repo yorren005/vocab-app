@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of nomads.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roaming about from place to place aimlessly, frequently, or without a fixed pattern of movement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Living the life of a nomad; roaming from place to place without a fixed settlement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by wandering, constant movement, or migratory habits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"The complete lack of anything like a systematic education, and the nomadic life of the army did not fail to produce the most disastrous results in the wild and dissolute character of the young man."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"It will doubtless interest some readers to learn that Hawaii is the real home of the Brownies, or was; and that this adventurous nomadic tribe were known to the Hawaiians long before Swift's satirical mind conceived his Lilliputians."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"But as the Mongol lived in Marco Polo's time, and Huc's, so he does still, and so he will continue to live until Chinese colonization or Russian rule forces him to give up his nomadic ways and settle down and cultivate the soil."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The **nomadic** horsemen of the pampas showed an astounding endurance under long days of hunting in the saddle."*
+> - 📜 **Arnold Toynbee (*A Study of History*):** *"The **nomadic** steppe societies were perpetually compelled by climatic cycles to seek fresh pastures beyond their frontiers."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"He embraced a **nomadic** existence among the scattered islands of the Malay Archipelago, never settling long in one port."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek tag.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Law & Order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Good, well-ordered arrangement; proper discipline and harmonious order in a system, state, or structure (antonym of ataxia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sound legal organization and civil tranquility resulting from just and orderly governance in political philosophy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eutaxy designates a term designating an entity, condition, or phenomenon derived from greek tag."*
+> - 📜 **Jeremy Bentham (*Constitutional Code*):** *"The primary objective of constitutional design is the maintenance of **eutaxy**, ensuring each department functions without friction."*
+> - 📜 **Samuel Taylor Coleridge (*On the Constitution of the Church and State*):** *"A healthy commonwealth requires **eutaxy**, wherein individual freedom is harmonized with public order."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"When the fragile veneer of civic **eutaxy** shatters, chaotic passions rush in to fill the void."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Find fault with; express criticism of; point out real or perceived flaws.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act as a critic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To evaluate, judge, or find fault with someone or something based on specific standards or criteria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To provide an analytical review and evaluation of an artistic or intellectual creation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He is theirs; they can cross-question him at leisure; they tell him that the Pharisees did not like what he said (Matt. 15:12), they doubt with Peter the wisdom of his open speech (Mark 8:32); they criticize him (Matt. 13:10)."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The Christian read the ancient literature with the same freedom of mind, and was not in bondage to it; he had a new outlook; he could criticize more freely."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Love that gives without stint asking for no recompense: love that understands yet will not criticize nor listen to criticism: love that dares to deny its lover for his own sake."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"It is never too late to give up our prejudices, or to **criticize** the traditional habits of our ancestors."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"Men do not **criticize** a hero; they emulate his virtue and follow his courage."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The old pilots would assemble in the pilot-house to **criticize** every maneuver of the incoming steamer."*

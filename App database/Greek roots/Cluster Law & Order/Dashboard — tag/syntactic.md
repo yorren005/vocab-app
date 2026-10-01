@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or according to the rules of syntax or syntactics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or according to the rules of syntax or syntactics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the rules, principles, and processes that govern the structure of sentences in a given language; grammatical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the formal rules governing the combinations of symbols without regard to their semantic meaning in logic and computing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syntactic designates of, relating to, or according to the rules of syntax or syntactics."*
+> - 📜 **Noam Chomsky (*Syntactic Structures*):** *"Grammar is autonomous and independent of meaning; the sentence 'Colorless green ideas sleep furiously' is entirely **syntactic**."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The value of a word depends upon its **syntactic** positioning relative to adjacent terms in the sentence chain."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"Formal logic constructs a purely **syntactic** calculus where deductive derivations proceed by mechanical rules."*

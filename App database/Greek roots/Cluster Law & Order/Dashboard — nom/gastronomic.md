@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or science of good eating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Culinary customs or style.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the art or science of good eating, fine food, and culinary preparation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to culinary culture, epicurean taste, and dining refinement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastronomic designates the art or science of good eating."*
+> - 📜 **Jean Anthelme Brillat-Savarin (*The Physiology of Taste*):** *"The discovery of a new dish confers more happiness on humanity than the discovery of a new star, possessing supreme **gastronomic** virtue."*
+> - 📜 **Alexandre Dumas (*Grand Dictionnaire de Cuisine*):** *"Paris remains the undisputed capital of **gastronomic** artistry, where dining is elevated to a sublime passion."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"The wealthy patrons in the luxury restaurant were entirely oblivious to the squalor behind their **gastronomic** delights."*

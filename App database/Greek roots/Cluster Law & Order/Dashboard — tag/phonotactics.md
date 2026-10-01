@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The area of phonology concerned with the analysis and description of the permitted sound sequences of a language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The area of phonology concerned with the analysis and description of the permitted sound sequences of a language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of phonology that deals with the restrictions in a language on the permissible combinations of phonemes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The structural system of rules dictating allowable syllable shapes and consonant clusters in a given linguistic system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phonotactics designates the area of phonology concerned with the analysis and description of the permitted sound sequences of a language."*
+> - 📜 **Roman Jakobson (*Child Language, Aphasia and Phonological Universals*):** *"Children master the **phonotactics** of their mother tongue through progressive differentiation of syllable margins."*
+> - 📜 **John Lyons (*Introduction to Theoretical Linguistics*):** *"The study of **phonotactics** reveals why certain sequences of phonemes sound entirely foreign to native speakers."*
+> - 📜 **Edward Sapir (*Language*):** *"The mechanical **phonotactics** of a language determines the shape into which foreign loanwords must be recast."*

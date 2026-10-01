@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A doctrine that ethics and ethical ideas are valid and important.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A doctrine that ethics and ethical ideas are valid and important.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive devotion to, or dogmatic evaluation of literature, art, and life solely through the lens of ethical and moral criteria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A philosophical system or outlook that regards moral principles as the foundational basis of all human knowledge and civilization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ethicism designates a doctrine that ethics and ethical ideas are valid and important."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The artist should avoid narrow **ethicism**, for an aesthetic creation is neither moral nor immoral, but merely well or poorly made."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"The Hebraic tendency toward strict **ethicism** must be balanced by Hellenic openness to sweetness and light."*
+> - 📜 **Benedetto Croce (*Aesthetic as Science of Expression*):** *"To subordinate art to didactic **ethicism** is to misunderstand the autonomous intuitive nature of artistic expression."*

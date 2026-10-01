@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dexi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Law & Order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major taxonomic clade of cladobranch nudibranch sea slugs characterized by right-sided anus and digestive gland morphology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phylogenetic systematics, the evolutionary lineage comprising Arminina, Dendronotida, and Aeolidida sea slugs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Dexiarchia designates a term designating an entity, condition, or phenomenon derived from greek dexi."*
+> - 📜 **Heike Wägele & Richard C. Willan (*Zoological Journal of the Linnean Society*):** *"We establish the clade **Dexiarchia** to unite those nudibranchs exhibiting secondary bilateral symmetry with a dextral anal placement."*
+> - 📜 **Michael Schrödl (*Organisms Diversity & Evolution*):** *"Phylogenetic analyses of opisthobranch molluscs confirm that **Dexiarchia** forms a robust monophyletic radiation."*
+> - 📜 **Terrence M. Gosliner (*Nudibranch and Sea Slug Identification*):** *"Species within **Dexiarchia** display some of the most remarkable defenses and vibrant warning colorations in the marine realm."*

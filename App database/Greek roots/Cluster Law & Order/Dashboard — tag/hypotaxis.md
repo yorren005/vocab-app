@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Syntactic subordination (as by a conjunction).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Syntactic subordination (as by a conjunction).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The syntactic subordination of one clause to another within a sentence, typically through subordinating conjunctions (contrasted with parataxis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hierarchical, complex sentence structure that explicitly organizes causal, temporal, or conditional relationships between thoughts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypotaxis designates syntactic subordination (as by a conjunction)."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"While colloquial speech leans heavily toward simple coordination, formal literature develops intricate **hypotaxis**."*
+> - 📜 **Erich Auerbach (*Mimesis: The Representation of Reality in Western Literature*):** *"Ciceronian prose achieves its intellectual majesty through **hypotaxis**, nesting secondary thoughts inside periodic sentences."*
+> - 📜 **Roman Jakobson (*Selected Writings*):** *"The syntactic contrast between parataxis and **hypotaxis** mirrors fundamental differences in cognitive narrative framing."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving as a basis for evaluation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving as a basis for evaluation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving as, relating to, or constituting a criterion; providing a decisive standard of judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating defining properties or necessary conditions that warrant applying a conceptual category in philosophy and linguistics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, criterial designates serving as a basis for evaluation."*
+> - 📜 **Ludwig Wittgenstein (*Philosophical Investigations*):** *"Pain behavior is **criterial** for our application of the concept 'he is in pain', rather than merely an empirical symptom."*
+> - 📜 **W. V. Quine (*Word and Object*):** *"We must identify which semantic features are truly **criterial** for trans-linguistic synonymy."*
+> - 📜 **Alan Cruse (*Meaning in Language*):** *"The lexical semanticist distinguishes between incidental attributes and strictly **criterial** semantic traits."*

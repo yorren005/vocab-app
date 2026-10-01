@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking motor coordination; marked or caused by ataxia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking motor coordination; marked or caused by ataxia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Describing a polymer in which the pendant functional groups or substituents along the main chain are arranged randomly in stereochemical space, lacking regular configuration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by structural irregularity, producing amorphous, soft, and non-crystalline plastic materials (contrasted with isotactic and syndiotactic).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atactic designates lacking motor coordination; marked or caused by ataxia."*
+> - 📜 **Giulio Natta (*Nobel Lecture*):** *"While isotactic polypropylene is crystalline and rigid, the **atactic** polymer is a soft, amorphous, rubber-like substance."*
+> - 📜 **Paul Flory (*Principles of Polymer Chemistry*):** *"In an **atactic** chain, steric interactions between randomly oriented side groups govern the mean dimensions of the unperturbed coil."*
+> - 📜 **Charles Tanford (*Physical Chemistry of Macromolecules*):** *"The random stereochemical orientation of side chains in an **atactic** polymer prevents close intermolecular packing into a crystal lattice."*

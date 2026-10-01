@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to taxonomy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to taxonomy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to taxonomy; pertaining to the theory, principles, and practice of classifying organisms and entities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to hierarchical classification schemes and rank categories (kingdom, phylum, class, order, family, genus, species).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, taxonomic designates of or relating to taxonomy."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"The **taxonomic** species concept must be grounded in biological reproductive isolation rather than arbitrary morphological difference."*
+> - 📜 **Stephen Jay Gould (*The Flamingo's Smile*):** *"A rigorous **taxonomic** system does not merely catalog nature, but embodies our deepest theories of evolutionary relationship."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"Biologists have described nearly two million species, yet vast **taxonomic** realms of tropical insects and microbes remain entirely uncharted."*

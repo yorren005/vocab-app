@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek tag.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Law & Order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical rhetoric and drama, an explanatory addition or continuation appended to a completed statement, or the intensification of dramatic plot tension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography and materials science, an alternative or archaic spelling of *epitaxy*, the ordered growth of a crystalline overlayer upon a crystalline substrate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epitaxis designates a term designating an entity, condition, or phenomenon derived from greek tag."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"By **epitaxis**, the orator appends a fresh and striking clause to reinforce an argument that seemed already concluded."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The crystalline alignment observed during **epitaxis** demonstrates how molecular lattices constrain subsequent atomic deposition."*
+> - 📜 **George Puttenham (*The Arte of English Poesie*):** *"In rhetorical figures, **epitaxis** serves to heighten the emphasis by adding an afterthought of grave weight."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of critical urgency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of critical urgency.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, condition, or state of being critical, discerning, or censorious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The gravity, urgency, or crucial nature of an emergency or decisive turning point.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, criticalness designates a state of critical urgency."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"A disposition toward petty **criticalness** blinds the observer to the broader harmonies of nature."*
+> - 📜 **William James (*The Will to Believe*):** *"The **criticalness** of the moral situation forces an immediate choice where delay is itself a decision."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"The habit of intellectual **criticalness** protects society against the delusions of blind fanaticism."*

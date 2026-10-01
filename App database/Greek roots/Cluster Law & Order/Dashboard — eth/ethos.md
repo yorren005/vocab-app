@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The distinguishing character, sentiment, moral nature, or guiding beliefs of a person, group, or institution; also : ethic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The distinguishing character, sentiment, moral nature, or guiding beliefs of a person, group, or institution; also : ethic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic spirit, underlying sentiment, moral values, and guiding beliefs of a community, culture, institution, or historical era.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric, the persuasive appeal based on the speaker's perceived character, authority, credibility, and moral virtue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ethos designates the distinguishing character, sentiment, moral nature, or guiding beliefs of a person, group, or institution; also : ethic."*
+> - 📜 **Aristotle (*Rhetoric*):** *"Persuasion is achieved by the speaker's **ethos** when the speech is spoken in such a way as to make him worthy of credence."*
+> - 📜 **Max Weber (*The Protestant Ethic and the Spirit of Capitalism*):** *"The economic **ethos** of modern capitalism was deeply shaped by the religious devotion of ascetic Calvinism."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The democratic **ethos** of the American township cultivated an active sense of civic duty among its citizens."*

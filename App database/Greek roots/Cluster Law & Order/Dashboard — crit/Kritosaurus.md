@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek crit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Law & Order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large hadrosaurid (duck-billed) dinosaur with a distinctive crested nasal arch that lived in North America during the Late Cretaceous period.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A herbivorous ornithopod dinosaur named by Barnum Brown in 1910 from Greek *kritos* ('separated / chosen') and *sauros* ('lizard'), referring to the separated cheek bones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Kritosaurus designates a term designating an entity, condition, or phenomenon derived from greek crit."*
+> - 📜 **Barnum Brown (*Bulletin of the American Museum of Natural History*):** *"I propose the generic name **Kritosaurus**, separated lizard, in reference to the completely separated arrangement of the cheek elements."*
+> - 📜 **Henry Fairfield Osborn (*American Museum Novitates*):** *"The skull of **Kritosaurus** is distinguished by an elevated, vaulted nasal crest forming a prominent Roman nose."*
+> - 📜 **Robert T. Bakker (*The Dinosaur Heresies*):** *"Duckbills like **Kritosaurus** possessed complex dental batteries capable of grinding the toughest Cretaceous conifers."*

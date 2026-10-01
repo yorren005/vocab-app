@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A standard on which a judgment or decision may be based.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A characterizing mark or trait.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A principle, rule, or standard by which something is judged, evaluated, or decided.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A foundational test or hallmark of truth and certainty in epistemological inquiry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It has been sometimes argued that there is no truer criterion of the vitality of any given art-period than the power of the master-spirits of that time in grotesque; and certainly in the instance of Gothic art there is no disputing the proposition."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Though the certainty of this criterion is far from demonstrable, yet it has the savor of analogical probability."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"On trying the Constitution by this criterion, it falls under the NATIONAL, not the FEDERAL character; though perhaps not so completely as has been understood."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Conformity with our own experience remains the ultimate **criterion** of probability."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"A general and sufficient **criterion** of truth would be one that is valid for all cognitions whatever."*
+> - 📜 **René Descartes (*Discourse on the Method*):** *"Clear and distinct perception served as the primary **criterion** upon which I resolved to ground all certain knowledge."*

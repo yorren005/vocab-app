@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing, being, or relating to a secretion that is released outside its source.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gland (such as a salivary gland or part of the pancreas) that releases a secretion external to or at the surface of an organ by means of a canal or duct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to glands that secrete their chemical products through ducts onto an epithelial surface or into a body cavity (e.g., salivary, sweat, and digestive glands), rather than directly into the bloodstream.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to external secretion in contrast to endocrine (hormonal) regulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exocrine designates producing, being, or relating to a secretion that is released outside its source."*
+> - 📜 **William Bloom & Don W. Fawcett (*A Textbook of Histology*):** *"The pancreas exhibits a dual structure, combining digestive **exocrine** acini with insulin-producing endocrine islets."*
+> - 📜 **Arthur Ham (*Histology*):** *"An **exocrine** gland retains its connection with the overlying surface epithelium via an excretory duct."*
+> - 📜 **Claude Bernard (*Lectures on the Physiology of Digestion*):** *"The secretion of the **exocrine** salivary glands is regulated by reflex arcs involving the cranial nerves."*

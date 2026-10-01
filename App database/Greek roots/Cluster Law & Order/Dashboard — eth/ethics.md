@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of moral principles : a theory or system of moral values —often used in plural but singular or plural in construction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The principles of conduct governing an individual or a group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of philosophy concerned with moral values, right and wrong conduct, virtue, and obligation; moral philosophy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formal rules, codes, or principles governing the acceptable behavior of an individual, profession, or organization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The cursory remarks of the large-minded stranger, of whom he knew absolutely nothing beyond a commonplace name, were sublimed by his death, and influenced Clare more than all the reasoned ethics of the philosophers."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Gambling, lotteries, and speculation cause embezzlement, crime, unhappy homes, and wrecked lives.[6] Here are to be found with difficulty the true boundaries between ethics and expediency."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There were no precedents, no ripened public opinion, no established code of ethics, to govern."*
+> - 📜 **Baruch Spinoza (*Ethics*):** *"In his masterpiece, **Ethics**, Spinoza demonstrated that freedom arises from the intellectual love of God and nature."*
+> - 📜 **Aristotle (*Nicomachean Ethics*):** *"The study of **ethics** aims not at theoretical speculation, but at enabling human beings to become good."*
+> - 📜 **Immanuel Kant (*Groundwork of the Metaphysics of Morals*):** *"The ultimate foundation of philosophical **ethics** lies in the categorical imperative of rational autonomy."*

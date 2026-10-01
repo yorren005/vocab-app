@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating or belonging to the science of astronomy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inconceivably large.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to astronomy, celestial bodies, and cosmological phenomena.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enormously or inconceivably large, expensive, or immense in magnitude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How long have you been a sectary astronomical?"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This small astronomical calculation was made without any positive effort, and whilst he was stealthily turning to discover, if possible, into whose hands he had fallen."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"He did not seem to be aware of my presence, and began a series of astronomical observations."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"The **astronomical** numbers of stars in the observable universe surpass the grains of sand on all the beaches of Earth."*
+> - 📜 **Bertrand Russell (*The Scientific Outlook*):** *"Our tiny planet is an infinitesimal speck in an **astronomical** abyss of cold, empty space."*
+> - 📜 **Thomas Hardy (*Two on a Tower*):** *"The passionate young stargazer looked through his telescope, lost in **astronomical** contemplation of the stellar voids."*

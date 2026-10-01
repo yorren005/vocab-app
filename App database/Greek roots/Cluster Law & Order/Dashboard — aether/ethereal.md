@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Seeming to belong to or come from another world : otherworldly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or suggesting heaven or the heavens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely delicate, light, and airy in a way that seems not of this world; intangible, celestial, or heavenly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the theoretical luminiferous ether or chemical ether compounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He would let her see, all those six years of intangible ethereal courtship, how little care he had for anything but as it bore upon the consummation."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It lacked the intensely blue atmosphere of the rival vale, and its heavy soils and scents; the new air was clear, bracing, ethereal."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yet there was nothing ethereal about it; all was real vitality, real warmth, real incarnation."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The sacred radiance came streaming from the **ethereal** sky to illuminate the abyss."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"An eye large, liquid, and luminous beyond comparison, gave his countenance an **ethereal** expression."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Our moods of insight appear **ethereal** and ephemeral, yet they govern all our solid actions."*

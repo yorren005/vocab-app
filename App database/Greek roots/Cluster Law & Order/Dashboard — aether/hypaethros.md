@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aether.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Law & Order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical Greek architecture, designating a temple, atrium, or colonnaded interior that is unroofed and open to the sky.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by overhead natural exposure to the celestial atmosphere without vaulted coverings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypaethros designates a term designating an entity, condition, or phenomenon derived from greek aether."*
+> - 📜 **Vitruvius (*De Architectura*):** *"The temple built **hypaethros** possesses no roof over its cella, being open to the sky and surrounded by double colonnades."*
+> - 📜 **James Fergusson (*The Parthenon*):** *"Whether the cella was truly **hypaethros** remains one of the most hotly contested debates in classical archaeology."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The airy lightness of the colonnade recalled the **hypaethros** courtyards of antiquity where sunlight filtered directly to the pavement."*

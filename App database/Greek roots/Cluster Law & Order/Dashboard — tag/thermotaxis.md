@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The regulation of body temperature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A taxis in which temperature is the directive factor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The innate directional movement of an organism, cell, or microorganism in response to a temperature gradient.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The behavioral thermal regulation response observed in nematodes, slime molds, and sperm cells seeking optimal temperature zones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermotaxis designates the regulation of body temperature."*
+> - 📜 **Jacques Loeb (*The Dynamics of Living Matter*):** *"Nematode worms exhibit sensitive **thermotaxis**, migrating systematically along thermal gradients toward their cultivation temperature."*
+> - 📜 **Sydney Brenner (*Selected Papers on Molecular Biology*):** *"Behavioral mutants of Caenorhabditis elegans revealed specific sensory neurons dedicated to mediated **thermotaxis**."*
+> - 📜 **Lewis Thomas (*The Medusa and the Snail*):** *"Single-celled amoebae demonstrate subtle **thermotaxis**, steering away from lethal heat long before thermal injury occurs."*

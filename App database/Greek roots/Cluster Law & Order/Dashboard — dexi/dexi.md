@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dexi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Law & Order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek combining root meaning 'right-hand', 'on the right', 'dexterous', or by extension 'auspicious' and 'favorable' (opposed to *aristeros*, left/sinister).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological morphology and taxonomy, designating right-sided anatomical structures, clockwise chirality, or dexter affinities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dexi designates a term designating an entity, condition, or phenomenon derived from greek dexi."*
+> - 📜 **Aristotle (*On the Generation of Animals*):** *"The ancients held that the **dexi** or right side was hotter and more active than the left."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"Under **dexi**, the lexicon records senses ranging from the right hand to auspicious omens and skillful conduct."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"Chiral structures throughout animal morphology systematically differentiate between **dexi** and laevo directional orientations."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The letter ð used in Old English to represent either of the fricatives \th\ or \t͟h\ and in Icelandic and some phonetic alphabets to represent the fricative \t͟h\.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The letter ð used in Old English to represent either of the fricatives \th\ or \t͟h\ and in Icelandic and some phonetic alphabets to represent the fricative \t͟h\.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic Old English, Icelandic, and Faroese letter (ð, uppercase Ð) representing a voiced or unvoiced dental fricative ('th').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The historical grammatical suffix forming archaic third-person singular present tense verbs in Early Modern English (e.g., 'doth', 'sayeth').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The Christian Science God is universal, eter- nal, divine love, which changeth not and caus- 140:27 eth no evil, disease, nor death."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"And the great dragon was cast out, 567:15 that old serpent, called the devil, and Satan, which deceiv- eth the whole world: he was cast out into the earth, and his angels were cast out with him."*
+> - 📜 **Henry Sweet (*A History of English Sounds*):** *"The runic letter thorn was gradually supplanted in early manuscripts by the Irish-derived **eth**."*
+> - 📜 **Otto Jespersen (*A Modern English Grammar*):** *"The Middle English verbal inflection ending in **eth** was gradually replaced in colloquial speech by the northern suffix 's'."*
+> - 📜 **J. R. R. Tolkien (*The Monsters and the Critics*):** *"In Anglo-Saxon poetry, the scribes employed both thorn and **eth** with little phonetic distinction between voiced and unvoiced sounds."*

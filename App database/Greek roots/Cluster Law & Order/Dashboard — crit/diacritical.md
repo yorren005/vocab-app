@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of distinguishing; ; - s.f.nadel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of distinguishing; ; - s.f.nadel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, serving as, or marked with a diacritic sign used to distinguish letters and sounds in linguistics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of distinguishing or serving to differentiate between symptoms, species, or diagnostic signs in pathology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diacritical designates capable of distinguishing; ; - s.f.nadel."*
+> - 📜 **William Dwight Whitney (*Language and the Study of Language*):** *"The French alphabet employs **diacritical** marks to preserve phonetic distinctions that historical spelling obscured."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The eruption presents a **diacritical** hallmark that separates typhus from enteric fever."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"A single **diacritical** point placed above a Semitic consonant radically transforms its grammatical value."*

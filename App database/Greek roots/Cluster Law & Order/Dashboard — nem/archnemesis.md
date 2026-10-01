@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek nem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Law & Order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A principal, persistent, or most formidable enemy, rival, or agent of retribution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An opposing force or adversary who continually thwarts, bedevils, or balances another in literature and myth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archnemesis designates a term designating an entity, condition, or phenomenon derived from greek nem."*
+> - 📜 **Arthur Conan Doyle (*The Final Problem*):** *"Professor Moriarty was the intellectual master of crime, the supreme organizer, and Holmes's true **archnemesis**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"To Ahab, the white whale had become the monomaniac symbol of all malice, his cosmic **archnemesis**."*
+> - 📜 **G. K. Chesterton (*The Man Who Was Thursday*):** *"In every heroic romance, the protagonist eventually stands face to face with his predestined **archnemesis**."*

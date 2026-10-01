@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of reed, rod.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of reed, rod.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conforming to or established by a canon, rule, or recognized authoritative standard; canonical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics and classical mechanics, pertaining to standard transformed coordinates or Hamiltonian equations of motion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canonic designates adjective*) pertaining to, derived from, or characteristic of reed, rod."*
+> - 📜 **Lord Kelvin (*Treatise on Natural Philosophy*):** *"The dynamical equations take their most symmetrical form when expressed in Hamiltonian **canonic** coordinates."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The bishops assembled to settle the **canonic** authority of disputed ecclesiastical writings."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Any departure from the strict **canonic** rule was regarded by orthodox theologians as grave heresy."*

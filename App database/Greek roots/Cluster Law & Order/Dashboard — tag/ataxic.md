@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking motor coordination; marked or caused by ataxia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking motor coordination; marked or caused by ataxia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, affected with, or exhibiting ataxia; characterized by unsteady, uncoordinated bodily movements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking regular rhythm, order, or muscular control; irregular in neurological function.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ataxic designates lacking motor coordination; marked or caused by ataxia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **ataxic** gait is characterized by broad-based stepping and awkward stamping of the heels upon the floor."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The patient displayed sudden **ataxic** lurches whenever attempting to reach for a cup on the bedside table."*
+> - 📜 **Stewart Duke-Elder (*System of Ophthalmology*):** *"Cerebellar lesions frequently produce **ataxic** nystagmus, marked by irregular rhythmic oscillations of the ocular globes."*

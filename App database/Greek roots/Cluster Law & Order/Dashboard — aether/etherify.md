@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change into an ether.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change into an ether.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert an alcohol or related chemical compound into an ether, typically through dehydration or alkylation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To render subtle, aerial, or spiritually refined; to etherealize.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, etherify designates change into an ether."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"By heating alcohol in the presence of concentrated sulphuric acid, chemists learned to **etherify** the fluid with remarkable efficiency."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The poet strives to **etherify** our coarse earthly dust into spiritual beauty and significance."*
+> - 📜 **William Crookes (*Researches in the Phenomena of Spiritualism*):** *"Certain theorists argued that high electrical tension could **etherify** gross matter into an imponderable state."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing or being a secretion resulting from lysis of secretory cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing or being a secretion resulting from lysis of secretory cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to glands whose secretions are produced by the complete disintegration and breakdown of the entire secretory cells (e.g., sebaceous glands of the skin).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by lipid-rich secretions that incorporate the cellular debris of dying epithelial cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holocrine designates producing or being a secretion resulting from lysis of secretory cells."*
+> - 📜 **William Bloom & Don W. Fawcett (*A Textbook of Histology*):** *"In a **holocrine** gland, such as the sebaceous gland, the whole cell disintegrates to become the secretion itself."*
+> - 📜 **Arthur Ham (*Histology*):** *"Because **holocrine** secretion consumes whole cells, rapid mitotic division at the basal lamina is required to replenish the gland."*
+> - 📜 **Stewart Duke-Elder (*System of Ophthalmology*):** *"The Meibomian glands of the tarsal plates are specialized **holocrine** structures that lubricate the cornea with lipid film."*

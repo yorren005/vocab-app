@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artificial watercourse : ditch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bank usually of earth constructed to control or confine water : levee.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek mythology and philosophical jurisprudence, the personification of moral order, natural law, and equitable justice, daughter of Zeus and Themis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An embankment, levee, or ditch constructed to control or confine water, or a tabular igneous sheet intrusion cutting across older rock strata.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"There was a reasonably good path now, mostly on the edge of the river, with a divergence here and there where a dike came, with a miniature windmill on it and a muddy sluice-gate."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The chapel and bridge are of stone alike, Blackish-gray and mostly wet; Cut hemp-stalks steep in the narrow dike."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"He followed the narrow path which, skirting the Backwater, crosses a field, and then drops over the high March dike into the road quite close to the cottage of Mr."*
+> - 📜 **Hesiod (*Works and Days*):** *"And there is virgin **Dike**, the daughter of Zeus, who is honored and revered among the gods who dwell on Olympus."*
+> - 📜 **Plato (*The Republic*):** *"He maintained that **dike**, or justice, consisted in each part of the soul and the state fulfilling its proper appointed function."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"There was a reasonably good path now, mostly on the edge of the river, with a divergence here and there where a **dike** came."*

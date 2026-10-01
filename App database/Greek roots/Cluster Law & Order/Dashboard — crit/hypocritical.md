@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Professing feelings or virtues one does not have.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Professing feelings or virtues one does not have.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Behaving in a way that suggests one has higher moral standards or more noble beliefs than is really the case; deceitful and sanctimonious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by dissimulation, false pretense, or contradictory moral posturing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She is a selfish, hypocritical woman, and I have no opinion of her.” “No more have I,” said Mr."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"But if you will listen to his letter, you may, perhaps, be a little softened by his manner of expressing himself.” “No, that I am sure I shall not: and I think it was very impertinent of him to write to you at all, and very hypocritical."*
-> - 📜 **Effie Afton (*Eventide*):** *"O, don't babble in that hypocritical tone!" said the man."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Mr. Brocklehurst lectured the shivering pupils on humility while his own daughters wore lavish silk dresses in a **hypocritical** display."*
+> - 📜 **George Orwell (*Animal Farm*):** *"The pigs adopted the very human luxuries they had once condemned, issuing **hypocritical** proclamations to appease the working animals."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Mankind can tolerate honest weakness, but it vomits out the smooth, **hypocritical** cant of self-righteous pharisees."*

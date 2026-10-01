@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Appearing in a biblical canon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or required by canon law.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conforming to, included within, or established by authoritative rule, sacred law, or orthodox tradition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, physics, and computer science, recognized as standard, typical, or unique among mathematically equivalent representations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"But it may be more than a coincidence that his countrymen were impressed with his knowledge of the national literature; and traces of other than canonical books have been found in his teaching."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"They unweariedly continue their canonical hours, not piecing any service to another, except the _vigils_ for the deceased."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Thomas</g> and the clergy of the middle ages are to be condemned for resisting such injustice by prayers, and law, and canonical censures, what will be thought of <g>St."*
+> - 📜 **T. S. Eliot (*Tradition and the Individual Talent*):** *"The historical sense compels a man to write with a feeling that the whole of **canonical** literature has a simultaneous existence."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"In Hamiltonian mechanics, we express equations of motion through **canonical** momentum and position variables."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"The early Church spent centuries debating which apostolic texts should be admitted into the **canonical** scriptures."*

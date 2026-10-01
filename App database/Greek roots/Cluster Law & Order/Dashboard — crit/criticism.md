@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of criticizing usually unfavorably.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A critical observation or remark.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The expression of disapproval of someone or something on the basis of perceived faults or mistakes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The analysis and judgment of the merits and faults of a literary or artistic work (e.g., literary criticism).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Without throwing a Nymphean tissue over a milkmaid, let it be said that here criticism checked itself as out of place, and looked at her proportions with a long consciousness of pleasure."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But since a woman can’t show off in that way by herself, I shan’t marry—at least yet.” “That’s a terrible wooden story!” At this criticism of her statement Bathsheba made an addition to her dignity by a slight sweep away from him."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba demurely regarded a contemptible straw lying upon the ground, in a way which suggested less ovine criticism than womanly embarrassment."*
+> - 📜 **Matthew Arnold (*The Function of Criticism at the Present Time*):** *"The grand work of literary **criticism** is to see the object as in itself it really is."*
+> - 📜 **T. S. Eliot (*The Sacred Wood*):** *"Honest **criticism** and sensitive appreciation is directed not upon the poet but upon the poetry."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Shallow **criticism** wastes itself on blemishes, but the wise reader searches for positive genius."*

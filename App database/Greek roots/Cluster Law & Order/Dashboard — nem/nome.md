@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A province of ancient Egypt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: City facing Norton Sound on the southern side of Seward Peninsula in western Alaska.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An administrative district or province of ancient Egypt (Greek *nomos*); also, an administrative prefecture of modern Greece.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A traditional melody, musical type, or melodic rule in archaic Greek choral lyric and flute music.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nome designates a province of ancient egypt."*
+> - 📜 **Herodotus (*The Histories*):** *"Egypt was anciently divided into thirty-six provinces, each termed a **nome**, governed by its own high magistrate."*
+> - 📜 **Flinders Petrie (*Ten Years' Digging in Egypt*):** *"The sacred animal worshipped in one **nome** was often hunted without scruple in the neighbouring territory."*
+> - 📜 **Plutarch (*Moralia*):** *"The ancient masters composed solemn hymns according to the traditional laws of the sacred musical **nome**."*

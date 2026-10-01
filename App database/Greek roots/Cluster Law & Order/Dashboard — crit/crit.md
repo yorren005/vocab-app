@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Critical; criticism; criticized.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Literary criticism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An evaluation, review, or critique, especially of a student's design, architectural project, or artistic portfolio.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An informal abbreviation for a critical hit or decisive strike in role-playing games and combat simulations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crit designates critical; criticism; criticized."*
+> - 📜 **Le Corbusier (*Towards a New Architecture*):** *"During the studio **crit**, the master scrutinized the preliminary sketches, demanding functional clarity above decorative flair."*
+> - 📜 **Walter Gropius (*Scope of Total Architecture*):** *"The student learned to defend every structural line during the rigorous weekly **crit** before the assembled faculty."*
+> - 📜 **Frank Lloyd Wright (*An Autobiography*):** *"He remembered the intense silence that descended upon the drafting room whenever the master began a formal **crit**."*

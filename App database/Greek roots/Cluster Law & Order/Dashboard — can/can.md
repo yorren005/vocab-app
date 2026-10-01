@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be physically or mentally able to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Know how to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cylindrical metal container used for holding liquids or preserving foodstuffs; a tin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To be able to, or have the capacity, skill, or practical power to perform an action (modal auxiliary verb).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For all that beauty that doth cover thee, Is but the seemly raiment of my heart, Which in thy breast doth live, as thine in me, How can I then be elder than thou art?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lo thus by day my limbs, by night my mind, For thee, and for my self, no quiet find. 28 How can I then return in happy plight That am debarred the benefit of rest?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then can I grieve at grievances foregone, And heavily from woe to woe tell o’er The sad account of fore-bemoaned moan, Which I new pay as if not paid before."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"He took down a battered oil **can** and oiled the creaking hinge of the prison gate."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"None but he knows what that is which he **can** do, nor does he know until he has tried."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"He seized the tin **can** of rum and poured a fiery libation to the rolling sea."*

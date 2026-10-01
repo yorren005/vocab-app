@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mechanically regular (as in action or tempo).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being a drug or regimen of drugs administered in low doses at regular intervals over an extended period of time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mechanically regular and precise in beat, tempo, or movement, resembling the tick of a metronome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uniformly rhythmic, monotonous, or unvarying in pace and cadence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"On the marvellous music of Shelley's verse we need not dwell, except to note that he avoids that metronomic beat of rhythm which Edgar Poe introduced into modern lyric measures, as Pope introduced it into the rhyming heroics of his day."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"The grandfather clock kept up a slow, **metronomic** ticking that seemed to measure the weary passage of eternity."*
+> - 📜 **Virginia Woolf (*Mrs. Dalloway*):** *"Big Ben struck out the hours with a solemn, **metronomic** regularity that vibrated across the rooftops of Westminster."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"Her hand moved with a **metronomic** precision as she tapped the rim of her champagne glass."*

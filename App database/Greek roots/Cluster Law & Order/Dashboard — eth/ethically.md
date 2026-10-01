@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ethical manner; from an ethical point of view; according to ethics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ethical manner; from an ethical point of view; according to ethics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner consistent with moral principles of right and fair conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From the standpoint or perspective of ethics and moral philosophy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is only ethically worthless speculations that have always tried to minimize this distinction."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Stafford's theories may be ethically beautiful, but I object to their being carried to extremes."*
+> - 📜 **John Dewey (*Human Nature and Conduct*):** *"To act **ethically** requires an intelligent assessment of how our habits shape collective human welfare."*
+> - 📜 **Peter Singer (*Practical Ethics*):** *"We are **ethically** obliged to give equal consideration to the comparable interests of all sentient beings."*
+> - 📜 **Albert Schweitzer (*Out of My Life and Thought*):** *"A human being is **ethically** healthy only when he yields to the inward impulse to help all life that he can."*

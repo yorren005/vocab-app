@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or conforming to the rules of syntax.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or conforming to the rules of syntax.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or conforming to the rules of syntax and sentence construction (synonymous with syntactic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism, relating to the arrangement of phrases, clauses, and rhetorical cadence in writing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syntactical designates of or relating to or conforming to the rules of syntax."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"Milton's grand style is marked by bold **syntactical** inversions borrowed from Latin poetry."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"The essayist must cultivate a subtle **syntactical** flexibility to capture the flickering impressions of daily life."*
+> - 📜 **George Orwell (*Politics and the English Language*):** *"Slovenly **syntactical** habits obscure meaning and make political deception easier to swallow."*

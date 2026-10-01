@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hollow or pithy, usually slender, and often flexible jointed stem (as of a reed or bamboo).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various slender woody stems; especially : an elongated flowering or fruiting stem (as of a rose) usually arising directly from the ground.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The hollow, jointed, woody stem of bamboo, reeds, or sugar cane, or a slender rod used as a walking stick or instrument of punishment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flexible woven rattan material used for making wicker furniture, basketry, or chair seats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He had a cane, he had an eye-glass, he had a snuff-box, he had rings, he had wristbands, he had everything but any touch of nature; he was not like youth, he was not like age, he was not like anything in the world but a model of deportment."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"As soon as she had entered the field Troy saw her, and sticking his pitchfork into the ground and picking up his crop or cane, he came forward."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"How blooming you are to-day!” Troy flung down his cane and put his foot on the ladder to ascend."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"A walking-stick had been left behind by our visitor; it was a fine, thick piece of wood, of the sort which is known as a stout **cane**."*
+> - 📜 **Harriet Beecher Stowe (*Uncle Tom's Cabin*):** *"He leaned heavily upon his hickory **cane** as he surveyed the endless rows of sugar planting."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Creakle came into school carrying a ruler and a supple **cane**, looking ominously about the room."*

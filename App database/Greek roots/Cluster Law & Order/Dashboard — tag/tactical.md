@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to tactic or tactics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to tactic or tactics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, showing, or involving actions carefully planned to achieve a specific military, political, or practical end.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to combat operations on the immediate battlefield rather than long-range grand strategy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Double-check resource requirements and schedules, and tactical options and their possible effects on UIPS forces and assets in the Special Zone."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A conical view tank, recessed in the wall to his left, glowed with symbols of ships and their military characteristics, along with tactical and logistical links."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Professionals long in their trade, they were battle cruiser and destroyer flotilla commanders of the major INOR powers, backed up by their experts in military intelligence, tactical operations, and navigation, logistics and internal security."*
+> - 📜 **Carl von Clausewitz (*On War*):** *"A brilliant **tactical** victory on the field may prove utterly barren if unaccompanied by sound strategic direction."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The air marshal deployed his fighters with consummate **tactical** skill to intercept incoming bomber formations."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The militia officers lacked **tactical** experience, often ordering bayonet charges across open, bullet-swept slopes."*

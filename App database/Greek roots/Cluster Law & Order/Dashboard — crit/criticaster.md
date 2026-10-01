@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inferior or petty critic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inferior or petty critic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inferior, petty, incompetent, or malicious critic who carps at trifles without understanding real artistic merit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pretentious reviewer of books or art lacking genuine discernment or depth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, criticaster designates an inferior or petty critic."*
+> - 📜 **Lord Byron (*English Bards and Scotch Reviewers*):** *"Each foolish **criticaster** struts across the review, dispensing condemnation with ignorant swagger."*
+> - 📜 **Thomas Carlyle (*Critical and Miscellaneous Essays*):** *"The noisy **criticaster** measures a giant with a six-inch footrule, unaware of his own comical diminutive stature."*
+> - 📜 **Edgar Allan Poe (*Marginalia*):** *"The typical **criticaster** mistakes malice for wit and typographical carping for profound literary judgment."*

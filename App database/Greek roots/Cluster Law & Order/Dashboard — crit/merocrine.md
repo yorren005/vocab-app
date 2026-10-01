@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing a secretion that does not contain cellular components and is discharged without major damage to the secreting cell; also : produced by a merocrine gland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing a secretion that does not contain cellular components and is discharged without major damage to the secreting cell; also : produced by a merocrine gland.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a type of exocrine gland whose secretions are discharged across the cell membrane by exocytosis without any loss of cytoplasm or destruction of the cell (e.g., salivary glands, pancreatic acini).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating the gentlest, non-destructive cellular secretory mechanism (synonymous with eccrine in many contexts).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merocrine designates producing a secretion that does not contain cellular components and is discharged without major damage to the secreting cell; also : produced by a merocrine gland."*
+> - 📜 **William Bloom & Don W. Fawcett (*A Textbook of Histology*):** *"In **merocrine** secretion, secretory granules fuse with the apical plasma membrane, releasing their contents without injury to the cell."*
+> - 📜 **Arthur Ham (*Histology*):** *"Most exocrine glands in the human body utilize the **merocrine** mode of secretion to preserve cellular integrity."*
+> - 📜 **Claude Bernard (*Lectures on the Physiology of Digestion*):** *"The **merocrine** discharge from pancreatic cells proceeds rhythmically under secretin stimulation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek nem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Law & Order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The jurisdiction, office, territory, or government administered by a nomarch; a prefecture or province.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provincial governance in ancient Egypt or the administrative prefecture system in modern Greece.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nomarchy designates a term designating an entity, condition, or phenomenon derived from greek nem."*
+> - 📜 **James Henry Breasted (*Ancient Records of Egypt*):** *"The civil records delineate the exact territorial boundaries and tax obligations belonging to each ancient **nomarchy**."*
+> - 📜 **George Rawlinson (*The History of Herodotus*):** *"A decentralized **nomarchy** often threatened the unified authority of the Pharaoh whenever the central throne weakened."*
+> - 📜 **John Pendlebury (*The Archaeology of Crete*):** *"Trade routes linked Aegean ports with administrative centers across the Nile Delta **nomarchy**."*

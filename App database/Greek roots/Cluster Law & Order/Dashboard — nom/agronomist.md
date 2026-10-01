@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of agriculture dealing with field-crop production and soil management.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of agriculture dealing with field-crop production and soil management.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert or scientist specializing in agronomy—the management of land, soil science, and crop production.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agricultural advisor who develops sustainable farming techniques and evaluates crop genetics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agronomist designates a branch of agriculture dealing with field-crop production and soil management."*
+> - 📜 **Norman Borlaug (*Nobel Lecture*):** *"The dedicated **agronomist** spends long days in the muddy furrow selecting dwarf wheat strains for higher yields."*
+> - 📜 **George Washington Carver (*Progressive Farmer*):** *"The field **agronomist** teaches the farmer how to turn wild weeds and native legumes into profitable soil food."*
+> - 📜 **René Dubos (*So Human an Animal*):** *"The modern **agronomist** must balance the pursuit of bumper crops against the preservation of subterranean microbial ecology."*

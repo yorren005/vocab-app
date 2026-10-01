@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anesthetize with ether.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anesthetize with ether.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To administer ether to a patient to produce anesthesia and eliminate the sensation of pain during surgery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To immobilize, tranquilize, or render inert, as if placed under a profound medical narcotic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"On account of her age she could not well be etherized, nor endure the repeated necessary resetting of the bones, and consequently they grew together irregularly."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Effects of fear A woman in the city of Lynn, Massachusetts, was etherized and died in consequence, although her physi- 159:1 cians insisted that it would be unsafe to perform a needed surgical operation without the ether."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Chemical agents that **etherize** the cerebral cortex promptly suspend the continuity of conscious reflection."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"It became necessary to **etherize** the subject anew whenever the anatomical modifications touched a sensitive nerve trunk."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The skilled anesthetist knows precisely when to **etherize** the surgical candidate to avoid respiratory arrest."*

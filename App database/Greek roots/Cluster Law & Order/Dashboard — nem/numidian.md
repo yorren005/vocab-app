@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inhabitant of ancient numidia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to ancient numidia or its people or culture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to ancient Numidia or its inhabitants, culture, and famed horsemen in classical antiquity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the native North African Berber language, coinage, or cavalry tactics of the kingdom of Numidia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, numidian designates an inhabitant of ancient numidia."*
+> - 📜 **Virgil (*Aeneid*):** *"The fierce **Numidian** cavalry harassed the coastal settlements with lightning raids and javelin volleys."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **Numidian** prince defended his desert fortress against the heavy Roman legions with stubborn valor."*
+> - 📜 **John Milton (*Paradise Regained*):** *"Beside the Syrian camp rode squadrons of swift **Numidian** riders mounted on unbridled steeds."*

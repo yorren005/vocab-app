@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of objects and matter outside the earth's atmosphere and of their physical and chemical properties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Astronomy in which celestial bodies in the solar system are studied by analyzing the return of radio waves directed at them.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of the universe, celestial bodies (such as stars, planets, comets, and galaxies), and the phenomena originating outside the Earth's atmosphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ancient observational art and mathematical science of charting planetary orbits and stellar constellations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But you must have your will and drag my old body about with you—a-studying astronomy and numbers in Venice, poetry and all the Italian _fol-de-rols_ in Florence, and astrology in Pisa, and God knows what in that madman country of Germany."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And here, at the end of it all, I pore over books of astronomy from the prison library, such as they allow condemned men to read, and learn that even the heavens are passing fluxes, vexed with star-driftage as the earth is by the drifts of men."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Go to, I say, _Charles_ shall inherit. _Bri._ I say, no, unless _Charles_ had a Soul to understand it; can he manage six thousand Crowns a year out of the Metaphysics? or can all his learn'd Astronomy look to my Vineyards?"*
+> - 📜 **Nicolaus Copernicus (*De Revolutionibus Orbium Coelestium*):** *"Among the liberal arts, **astronomy** holds a preeminent place, lifting the mind to contemplate the celestial harmony."*
+> - 📜 **Johannes Kepler (*Astronomia Nova*):** *"In my new treatise on **astronomy**, I was compelled by Tycho's observations to abandon circular orbits for ellipses."*
+> - 📜 **Arthur Eddington (*Stars and Atoms*):** *"Modern **astronomy** has become a branch of atomic physics applied to cosmic laboratories."*

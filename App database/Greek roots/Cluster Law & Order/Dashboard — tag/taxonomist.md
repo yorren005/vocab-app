@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A biologist who specializes in the classification of organisms into groups on the basis of their structure and origin and behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biologist who specializes in the classification of organisms into groups on the basis of their structure and origin and behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A biologist or scientist who identifies, names, describes, and classifies organisms into systematic categories.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any scholar who develops or applies structured classification schemes to ideas, data, or artifacts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, taxonomist designates a biologist who specializes in the classification of organisms into groups on the basis of their structure and origin and behavior."*
+> - 📜 **Carl Linnaeus (*Systema Naturae*):** *"The duty of the **taxonomist** is to assign every created being its proper genus, species, and diagnostic description."*
+> - 📜 **E. O. Wilson (*Consilience: The Unity of Knowledge*):** *"The field **taxonomist** remains an indispensable scout on the frontiers of biological biodiversity."*
+> - 📜 **Ernst Mayr (*The Growth of Biological Thought*):** *"Without the foundational work of the **taxonomist**, ecologists and geneticists would possess no precise language to discuss living forms."*

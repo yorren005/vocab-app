@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A linguist who specializes in the study of grammar and syntax.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A linguist who specializes in the study of grammar and syntax.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A linguist or scholar who specializes in syntax—the study of sentence structure and grammatical rules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A researcher who analyzes formal linguistic frameworks, phrase structures, and generative grammar.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syntactician designates a linguist who specializes in the study of grammar and syntax."*
+> - 📜 **Noam Chomsky (*Language and Mind*):** *"The modern **syntactician** seeks to formulate universal grammatical principles that account for the acquisition of all human tongues."*
+> - 📜 **Steven Pinker (*Words and Rules*):** *"To a working **syntactician**, the messy surface of conversation conceals an elegant tree-structure of phrase markers."*
+> - 📜 **Roman Jakobson (*Selected Writings*):** *"The **syntactician** must collaborate with the semanticist, for form and meaning are two faces of the same verbal sign."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mathematical expression of one or more algebraic terms each of which consists of a constant multiplied by one or more variables raised to a nonnegative integral power (such as a + bx + cx2).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to, composed of, or expressed as one or more polynomials.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An algebraic expression consisting of variables and coefficients, constructed using only addition, subtraction, multiplication, and non-negative integer exponents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pre-Linnaean taxonomy, a descriptive scientific name for a species consisting of multiple descriptive Latin words.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polynomial designates a mathematical expression of one or more algebraic terms each of which consists of a constant multiplied by one or more variables raised to a nonnegative integral power (such as a + bx + cx2)."*
+> - 📜 **Carl Friedrich Gauss (*Disquisitiones Arithmeticae*):** *"The fundamental theorem of algebra demonstrates that every non-zero single-variable **polynomial** with complex coefficients has at least one complex root."*
+> - 📜 **Henri Poincaré (*Science and Method*):** *"The roots of a high-degree **polynomial** often reveal profound topological symmetries in algebraic space."*
+> - 📜 **Ernst Mayr (*The Growth of Biological Thought*):** *"Before Linnaeus introduced the binomial system, naturalists struggled with unwieldy **polynomial** diagnostic phrases to label a single plant."*

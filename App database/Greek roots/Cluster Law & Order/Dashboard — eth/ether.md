@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The rarefied element formerly believed to fill the upper regions of space.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The upper regions of space : heavens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A volatile, highly flammable liquid ($C_4H_{10}O$) formerly widely used as an inhalation general anesthetic and solvent in chemical synthesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The hypothetical medium once supposed to permeate all space and transmit electromagnetic waves; synonymous with aether.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Or, if man’s superior might Dare invade your native right, On the lofty ether borne, Man with all his pow’rs you scorn; Swiftly seek, on clanging wings, Other lakes and other springs; And the foe you cannot brave, Scorn at least to be his slave."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"When Politics came there, to mix And make his ether-stane, man!"*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"He runs wild over the fields of ether."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The state of insensibility produced by **ether** opens a new era in the relief of human suffering during surgery."*
+> - 📜 **Albert Einstein (*Sidelights on Relativity*):** *"Recapitulating, we may say that according to the general theory of relativity, space is endowed with physical qualities; in this sense, therefore, there exists an **ether**."*
+> - 📜 **Arthur Conan Doyle (*The Poison Belt*):** *"A faint sweet pungent smell, like that of **ether**, hung heavily in the evening breeze."*
