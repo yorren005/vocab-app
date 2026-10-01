@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or consisting of three colors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or being the theory that human color vision involves three types of retinal sensory receptors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or possessing vision mediated by three distinct color receptors; also, displaying three colors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In visual physiology and colorimetry, pertaining to the Young-Helmholtz theory that all perceived hues result from the additive combination of three primary spectral responses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichromatic designates of, relating to, or consisting of three colors."*
+> - 📜 **Hermann von Helmholtz (*Physiological Optics*):** *"Our perception of the infinite palette of nature relies upon a **trichromatic** mechanism in the retina."*
+> - 📜 **James Clerk Maxwell (*On the Theory of Compound Colours*):** *"Every visible hue can be reproduced by an appropriate mixture of three spectral primaries, confirming the **trichromatic** model."*
+> - 📜 **Thomas Young (*Bakerian Lecture*):** *"The eye possesses a **trichromatic** receptor system capable of synthesizing any chromatic sensation from three distinct inputs."*

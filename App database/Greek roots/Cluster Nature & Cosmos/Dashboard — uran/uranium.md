@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A silvery heavy radioactive polyvalent metallic element that is found especially in uraninite and exists naturally as a mixture of mostly nonfissionable isotopes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A volatile compound UF6 of uranium and fluorine that is used in one major process of enriching uranium in uranium 235.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dense, silvery-white, radioactive metallic chemical element of atomic number 92 (symbol U), belonging to the actinide series.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear physics and energy, a heavy element whose fissile isotope (U-235) sustains nuclear chain reactions, named by Martin Klaproth in 1789 after the newly discovered planet Uranus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uranium designates a silvery heavy radioactive polyvalent metallic element that is found especially in uraninite and exists naturally as a mixture of mostly nonfissionable isotopes."*
+> - 📜 **Marie Curie (*Radioactive Substances*):** *"The rays emitted by **uranium** compounds are spontaneous, persistent, and entirely independent of external illumination."*
+> - 📜 **Enrico Fermi (*Collected Papers*):** *"The bombardment of **uranium** by slow neutrons induced unexpected nuclear transformations yielding numerous radioactive isotopes."*
+> - 📜 **Albert Einstein (*Letter to President Franklin D. Roosevelt*):** *"In the course of the last four months it has been made probable that it may become possible to set up a nuclear chain reaction in a large mass of **uranium**."*

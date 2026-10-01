@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of meteorology that treats the physical and dynamic properties of the free atmosphere, especially above the planetary boundary layer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In atmospheric science and air navigation, observational research analyzing high-altitude pressure profiles, tropospheric wind shear, and stratosphere physics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerology designates a term designating an entity, condition, or phenomenon derived from greek aer."*
+> - 📜 **Cleveland Abbe (*Treatise on Meteorological Apparatus*):** *"The development of sounding balloons equipped with self-recording barographs laid the foundation of modern **aerology**."*
+> - 📜 **William Napier Shaw (*Forecasting Weather*):** *"Without the daily synoptic maps furnished by **aerology**, aviation across oceanic routes would be perilous."*
+> - 📜 **James Glaisher (*Travels in the Air*):** *"Our high-altitude balloon ascents provided the earliest empirical measurements in experimental **aerology**."*

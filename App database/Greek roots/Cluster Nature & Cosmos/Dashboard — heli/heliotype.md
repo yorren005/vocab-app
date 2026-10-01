@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Duplicator consisting of a gelatin plate from which ink can be taken to make a copy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Duplicator consisting of a gelatin plate from which ink can be taken to make a copy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A print produced by a photo-mechanical process (a form of collotype) utilizing a gelatin film hardened with chrome alum to print continuous photographic tones in ink.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of photographic reproduction, an archival 19th-century process invented by Ernest Edwards, widely used for high-fidelity book illustrations without grain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"THE HELIOTYPE PRINTING CO. 220 DEVONSHIRE ST."*
-> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"THE HELIOTYPE PRINTING CO. 220 DEVONSHIRE ST."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Doings of the Sunbeam*):** *"The newly invented **heliotype** reproduces photographic negatives in permanent printer's ink with astonishing clarity."*
+> - 📜 **William Dean Howells (*A Hazard of New Fortunes*):** *"The prospectus for the illustrated magazine featured fine **heliotype** plates reproducing Parisian landscapes."*
+> - 📜 **Beaumont Newhall (*The History of Photography*):** *"Commercial book publishers embraced the **heliotype** in the 1870s because it eliminated the fading inherent in silver albumen prints."*

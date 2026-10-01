@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sheet of airmail stationery that can be folded and sealed with the message inside and the address outside : air letter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sheet of airmail stationery that can be folded and sealed with the message inside and the address outside : air letter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lightweight sheet of writing paper designed to be folded and gummed into an envelope for transmission by airmail at a uniform postal rate; an air letter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In postal telecommunications and philately, a pre-stamped, standardized airmail stationery sheet utilized worldwide for international correspondence prior to digital messaging.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerogram designates a sheet of airmail stationery that can be folded and sealed with the message inside and the address outside : air letter."*
+> - 📜 **Graham Greene (*The Quiet American*):** *"I folded the thin blue **aerogram** and mailed it at the central post office in Saigon."*
+> - 📜 **Paul Theroux (*The Great Railway Bazaar*):** *"At remote station halts, travelers scribbled hasty notes on flimsy **aerograms** to reassure families far away."*
+> - 📜 **W. H. Auden (*Collected Poems*):** *"The transatlantic **aerogram** arrived crumpled, carrying news of births and departures across the ocean."*

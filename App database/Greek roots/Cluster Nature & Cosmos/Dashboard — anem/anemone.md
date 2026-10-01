@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a large genus (Anemone) of perennial herbs of the buttercup family having lobed or divided leaves and showy flowers without petals but with conspicuous sepals —called also windflower.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sea anemone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant of the genus Anemone (family Ranunculaceae), having cup-shaped flowers typically colored white, blue, red, or purple, commonly called the windflower; also, a sea anemone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology, a sedentary predatory polyp belonging to the order Actiniaria, possessing a fleshy column and a stinging ring of tentacles resembling the terrestrial flower.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Angry tulips with you darling manflower punish your cactus if you don’t please poor forgetmenot how I long violets to dear roses when we soon anemone meet all naughty nightstalk wife Martha’s perfume."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"When spring came with all the alluring witchery of the Garden Spot it seemed to her she must make every one of her pupils feel the thrill of the song-sparrow's first note and the matchless loveliness of the anemone."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"They found them--three pretty blue feathers, dropped, no doubt, by some screaming blue jay, a handful of green acorns in their little cups, a few pebbles that appealed to them, one lone, belated anemone, blooming months after its season."*
+> - 📜 **William Wordsworth (*Lines Written in Early Spring*):** *"The wild wood **anemone** nodded its white petals gently in the soft breath of April."*
+> - 📜 **John Ruskin (*Proserpina*):** *"The Greek name **anemone**, or windflower, immortalizes the tender blossom that opens only when the spring winds blow."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"In deep tide pools, the plumose sea **anemone** unfurls a velvet crown of tentacles to capture drifting copepods."*

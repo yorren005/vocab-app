@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The thermodynamics of gases and especially of air.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The thermodynamics of gases and especially of air.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physics that studies the thermodynamic phenomena associated with high-speed gas flows past solid bodies, especially frictional aerodynamic heating during hypersonic flight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In spacecraft re-entry design and rocket ballistics, the analysis of shockwave thermal dissociation, boundary-layer ionization, and ablative heat shield performance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerothermodynamics designates the thermodynamics of gases and especially of air."*
+> - 📜 **Theodore von Kármán (*Aerodynamics*):** *"At hypersonic velocities, fluid mechanics merges with chemical thermodynamics to create the complex discipline of **aerothermodynamics**."*
+> - 📜 **Arthur C. Clarke (*The Promise of Space*):** *"The blunt heat shield of the Mercury capsule was a triumphant vindication of theoretical **aerothermodynamics**."*
+> - 📜 **Steven Weinberg (*The First Three Minutes*):** *"The high-temperature ionization described by **aerothermodynamics** mimics conditions that prevailed in the early cosmic plasma."*

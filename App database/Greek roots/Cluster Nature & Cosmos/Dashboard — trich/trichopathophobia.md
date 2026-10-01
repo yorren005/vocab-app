@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek trich.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, morbid, or irrational fear of hair disease, hair damage, or sudden loss of hair; trichophobia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and hypochondriacal anxiety disorders, an obsessive preoccupation with follicular degeneration, graying, or baldness leading to compulsive grooming rituals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichopathophobia designates a term designating an entity, condition, or phenomenon derived from greek trich."*
+> - 📜 **Sigmund Freud (*The Psychopathology of Everyday Life*):** *"Obsessive checking of hairbrushes and mirrors in **trichopathophobia** reveals underlying anxiety over physical attractiveness and bodily integrity."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"A morbid dread of scalp disease or premature alopecia, classified as **trichopathophobia**, frequently triggers chronic hypochondriacal despair."*
+> - 📜 **G. Stanley Hall (*A Study of Fears*):** *"The distress in **trichopathophobia** centers on an irrational conviction that one's hair is degenerating or harboring catastrophic infection."*

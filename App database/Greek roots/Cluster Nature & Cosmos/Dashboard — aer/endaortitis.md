@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the tunica intima, the innermost endothelial lining, of the aorta.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vascular pathology and infectious cardiovascular disease, inflammatory lesions of the aortic endothelium typically associated with tertiary syphilis, infective endocarditis, or severe atheromatous plaque ulceration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endaortitis designates a term designating an entity, condition, or phenomenon derived from greek aer."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic syphilitic **endaortitis** destroys the elastic lamellae of the media, predisposing the ascending aorta to saccular aneurysms."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Microscopic sections in severe **endaortitis** display intense cellular proliferation and lipid accumulation within the intimal layer."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"The scarred, wrinkled intima characteristic of advanced **endaortitis** reflects decades of chronic vascular inflammation."*

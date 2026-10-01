@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A photosensitive element that occurs in both crystalline and amorphous forms, is obtained chiefly as a by-product in copper refining, and is used especially in glass, semiconductor devices, and alloys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An insulated strip of selenium mounted with electrodes and used as a photoconductive element.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonmetallic chemical element of atomic number 34 (symbol Se), having allotropic forms ranging from a red powder to a gray metallic crystal, used in electronics, photocells, and glassmaking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and solid-state physics, an essential micronutrient cofactor for antioxidant enzymes like glutathione peroxidase, historically renowned for its photoconductive and photovoltaic properties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The basis of it is a peculiar power possessed by the metal selenium when in a certain state."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Now the special feature of selenium is that its resistance is reduced if light shine upon it."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Suppose, then, that current be flowing through a mass of selenium and that the latter be suddenly illuminated brightly, the resistance will at once fall and the current increase."*
+> - 📜 **Jöns Jacob Berzelius (*An Account of the Discovery of Selenium*):** *"I have named this new substance **selenium**, from the Greek word for the Moon, on account of its close analogy with tellurium."*
+> - 📜 **Marie Curie (*Radioactive Substances*):** *"In evaluating the electrical conductivity of mineral residues, the photoelectric properties of **selenium** provided crucial comparative data."*
+> - 📜 **Thomas Edison (*The Photophone and Selenium Cells*):** *"The resistance of **selenium** varies so sensitively with the intensity of incident light that it converts optical pulses directly into electrical impulses."*

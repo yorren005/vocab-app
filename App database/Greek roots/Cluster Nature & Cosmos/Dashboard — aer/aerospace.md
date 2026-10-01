@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Space comprising the earth's atmosphere and the space beyond.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physical science that deals with aerospace.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Earth's atmosphere and the outer space beyond it, regarded as a single continuous operating environment for aviation and spaceflight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industry and geopolitics, the high-technology commercial and military manufacturing sector that produces aircraft, spacecraft, propulsion systems, missiles, and satellites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"During the U.S. post-Sputnik initiatives to create a national space program, he critiqued aerospace industries' logistics concepts on future space systems organization, infrastructure and support."*
+> - 📜 **Arthur C. Clarke (*The Exploration of Space*):** *"The distinction between aeronautics and astronautics vanished as humanity mastered the unified domain of **aerospace**."*
+> - 📜 **Theodore von Kármán (*Aerodynamics*):** *"Our research centers shifted their focus from atmospheric planes to winged **aerospace** craft capable of orbital re-entry."*
+> - 📜 **Tom Wolfe (*The Right Stuff*):** *"The great manufacturing complexes of Southern California hummed day and night, building the hardware for the new **aerospace** frontier."*

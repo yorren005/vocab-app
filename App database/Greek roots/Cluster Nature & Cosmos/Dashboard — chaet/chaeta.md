@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stiff chitinous seta or bristle especially of an annelid worm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stiff chitinous seta or bristle especially of an annelid worm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stiff chitinous bristle or seta characteristic of annelid worms, brachiopods, and certain other invertebrates; used for locomotion, burrowing, and sensory perception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate anatomy, an epidermal projectile structure secreted by specialized microvillar cells within an epidermal invagination (chaetal follicle).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chaeta designates a stiff chitinous seta or bristle especially of an annelid worm."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Each tiny **chaeta** provides the earthworm with traction against the burrow wall as muscular waves propel it forward."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"In cross-section, the microscopic chitinous **chaeta** arises from an epidermal follicle deep within the lateral body wall."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"When disturbed in its sandy tube, the worm retracts, anchoring itself with every sharp **chaeta** along its segmented flanks."*

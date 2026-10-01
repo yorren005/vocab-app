@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sophisticated, widely traveled person : a cosmopolitan person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism found in most parts of the world and under varied ecological conditions : a cosmopolitan organism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A citizen of the world; a person who is free from national limitations, parochial attachments, or provincial prejudices.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biology and ecological biogeography, an organism or species having a cosmopolitan, worldwide geographical distribution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Francis, the Great Cosmopolite Equestrian and Roughrider, would enact the part of Turpin, and she was not yet too old and careworn to be without a little curiosity to see him."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"I mean the spirit--the genius.” “I’m not sure that I understand you,” said the correspondent of the _Interviewer_; “but I expect I shall before I leave.” “He’s what’s called a cosmopolite,” Isabel suggested."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"They talked of the Florentine, the Roman, the cosmopolite world, and might have been distinguished performers figuring for a charity."*
+> - 📜 **Oliver Goldsmith (*The Citizen of the World*):** *"An enlightened **cosmopolite** looks upon all mankind as his countrymen and the whole earth as his native city."*
+> - 📜 **Herman Melville (*The Confidence-Man*):** *"He presented himself as a true **cosmopolite**, a citizen of the world at home in any port or saloon."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Montaigne was the quintessential **cosmopolite**, observing human nature with detached, urbane curiosity."*

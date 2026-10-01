@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek heli.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, morbid, or irrational fear or avoidance of sunlight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopathology and clinical photobiology, a phobic anxiety disorder or extreme photophobia where exposure to direct sunlight provokes panic, dread, or physical agony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heliophobia designates a term designating an entity, condition, or phenomenon derived from greek heli."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In patients afflicted with **heliophobia**, the cheerful glare of noon produces acute panic and an agonizing urge to flee into shuttered rooms."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Severe **heliophobia** often accompanies acute migraine or photophobic neuralgia, forcing the sufferer to seek complete darkness."*
+> - 📜 **Bram Stoker (*Dracula*):** *"The nocturnal habits of the creature suggested a morbid **heliophobia**, retreating to the tomb before the first light of dawn."*

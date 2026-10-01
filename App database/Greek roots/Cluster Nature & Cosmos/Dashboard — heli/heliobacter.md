@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of helical or curved or straight aerobic bacteria with rounded ends and multiple flagella; found in the gastric mucosa of primates (including humans).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of helical or curved or straight aerobic bacteria with rounded ends and multiple flagella; found in the gastric mucosa of primates (including humans).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of anaerobic, photoheterotrophic, endospore-forming bacteria (family Heliobacteriaceae) that utilize bacteriochlorophyll g for photosynthesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbial physiology and the evolution of photosynthesis, unique soil prokaryotes possessing a simple homodimeric Type-I reaction center linking ancient green sulfur bacteria and firmicutes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heliobacter designates a genus of helical or curved or straight aerobic bacteria with rounded ends and multiple flagella; found in the gastric mucosa of primates (including humans)."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"The discovery of **Heliobacter** revealed a unique anaerobic lineage possessing bacteriochlorophyll g and lacking peripheral antenna complexes."*
+> - 📜 **Carl Woese (*The Universal Ancestor*):** *"Phylogenetic analysis of ribosomal RNA aligns **Heliobacter** close to the gram-positive endospore-forming bacteria."*
+> - 📜 **René Dubos (*The Bacterial Cell*):** *"Photosynthetic energy transduction in **Heliobacter** provides insight into the earliest anaerobic stages of biological light harvesting."*

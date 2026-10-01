@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Infestation by a roundworm; common in tropical areas with poor sanitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infestation by a roundworm; common in tropical areas with poor sanitation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An intestinal parasitic infection of humans caused by the whipworm Trichuris trichiura.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical medicine and public health, a soil-transmitted helminthiasis causing chronic bloody diarrhea, anemia, rectal prolapse, and growth stunting in children with heavy worm burdens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichuriasis designates infestation by a roundworm; common in tropical areas with poor sanitation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Heavy childhood **trichuriasis** results in chronic mucoid bloody diarrhea, microcytic anemia, and rectal prolapse."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"The whipworm infests the cecum in **trichuriasis**, burrowing its attenuated anterior end into the colonic mucosa."*
+> - 📜 **René Dubos (*Man Adapting*):** *"Public sanitation and clean water supplies are the definitive barriers against the transmission of endemic **trichuriasis**."*

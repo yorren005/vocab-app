@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A breeze from the west.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gentle breeze.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gentle, mild, or refreshing breeze, traditionally blowing from the west.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and poetical contexts, an airy, delicate, or barely perceptible movement of air; any soft, whisper-light fabric or atmospheric draft.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He felt a zephyr curling about his cheek, and turned."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Euroclydon, nevertheless, is a mighty pleasant zephyr to any one in-doors, with his feet on the hob quietly toasting for bed."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He felt a zephyr curling about his cheek, and turned."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He felt a **zephyr** curling about his cheek, and turned."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Euroclydon, nevertheless, is a mighty pleasant **zephyr** to any one in-doors, with his feet on the hob quietly toasting for bed."*
+> - 📜 **William Shakespeare (*Cymbeline*):** *"They are as gentle / As **zephyrs** blowing below the violet, / Not wagging his sweet head."*

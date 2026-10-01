@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cosm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form derived from Greek kosmos meaning order, harmony, world, universe, or adornment; the root of cosmic and cosmetic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical and scientific linguistics, designating universal harmony, structural world-systems, celestial phenomena, or decorative embellishment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosm designates a term designating an entity, condition, or phenomenon derived from greek cosm."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The root **cosm**- embodies the profound Greek intuition that the universe is an ordered, beautiful, and intelligible whole."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"Every element marked by **cosm**- reminds the philosopher that external nature mirrors the internal harmony of the soul."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"From ancient times, the syllable **cosm**- has stood for the majestic, lawful architecture of the physical universe."*

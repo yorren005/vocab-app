@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chaet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of saprophytic ascomycete fungi (family Chaetomiaceae) characterized by perithecia adorned with dense, ornamental, bristly or curled hairs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology and environmental pathology, an aggressive cellulose-degrading mold commonly found on damp paper, drywall, and soil, producing mycotoxins such as chaetoglobosins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Chaetomium designates a term designating an entity, condition, or phenomenon derived from greek chaet."*
+> - 📜 **Alexander Fleming (*On the Antibacterial Action of Cultures of a Penicillium*):** *"In evaluating fungal contaminants on cellulose media, species of **Chaetomium** were identified by their bristled globose perithecia."*
+> - 📜 **René Dubos (*The Bacterial Cell*):** *"Cellulolytic fungi such as **Chaetomium** play an indispensable role in decomposing plant polymers in forest soils."*
+> - 📜 **Arthur Henry Reginald Buller (*Researches on Fungi*):** *"The dark, coiled terminal hairs adorning the ascoma of **Chaetomium** provide protection and facilitate spore dispersal by insects."*

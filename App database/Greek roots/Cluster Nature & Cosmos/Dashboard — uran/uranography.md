@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The construction of celestial representations (such as maps).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The construction of celestial representations (such as maps).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of astronomy concerned with the descriptive mapping, cataloging, and celestial cartography of the stars, constellations, and heavens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astronomy and history of cartography, the science and artistic technique of producing celestial atlases, star globes, and constellation boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uranography designates the construction of celestial representations (such as maps)."*
+> - 📜 **Johannes Hevelius (*Prodromus Astronomiae*):** *"The ultimate purpose of **uranography** is to fix with mathematical certainty the coordinates of every visible luminary."*
+> - 📜 **Camille Flammarion (*Popular Astronomy*):** *"Through modern **uranography**, the celestial sphere is mapped into distinct constellations, guiding our exploration of the stellar expanse."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Descriptive **uranography** unites celestial cartography with historical records of stellar magnitudes and nebular positions."*

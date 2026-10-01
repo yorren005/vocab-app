@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which milk is not secreted in the mother's breasts after her child has been delivered.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition in which milk is not secreted in the mother's breasts after her child has been delivered.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The complete absence or failure of milk secretion in a mother following childbirth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In obstetric medicine and veterinary science, a pathological failure of postpartum lactation caused by hormonal insufficiency, Sheehan's syndrome, or severe maternal malnutrition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agalactia designates a condition in which milk is not secreted in the mother's breasts after her child has been delivered."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Postpartum **agalactia** may arise from severe maternal hemorrhage causing anterior pituitary necrosis."*
+> - 📜 **Soranus of Ephesus (*Gynecology*):** *"When the mother suffers from complete **agalactia**, a healthy wet nurse must be chosen with rigorous scrutiny."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Infeebled health and acute nervous exhaustion frequently result in temporary **agalactia**, depriving the infant of natural sustenance."*

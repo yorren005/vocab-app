@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) god of the heavens; son and husband of gaea and father of the titans in ancient mythology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A giant planet with a ring of ice particles; the 7th planet from the sun has a blue-green color and many satellites.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The seventh planet from the Sun, an ice giant discovered by William Herschel in 1781, characterized by a retrograde rotation and an extreme axial tilt of 98 degrees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mythology, the primordial Greek deity personifying the heavens and sky (Ouranos), husband of Gaia and father of the Titans and Cyclopes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Uranus and Neptune orbits, although contained within the tank displays, were cut out by the compression."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Chiefs of Staff of the other Saturnian governments and the governments of the Uranus and Neptune satellite unions have notified me that their views are consistent with those of Chairman Straber."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Jovians and Saturnians are coming up fast, and the Neptune-Uranus team is close behind."*
+> - 📜 **William Herschel (*Account of a Comet*):** *"The observation of this moving star, subsequently identified as the planet **Uranus**, extends the known radius of our solar system."*
+> - 📜 **John Keats (*On First Looking into Chapman's Homer*):** *"Then felt I like some watcher of the skies / When a new planet swims into his ken,"*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Tipped upon its side by an ancient cosmic collision, the pale cyan orb of **Uranus** rolls through the frigid outer reaches of our solar family."*

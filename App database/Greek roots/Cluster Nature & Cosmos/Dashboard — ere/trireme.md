@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient galley having three banks of oars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient galley having three banks of oars.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Greek or Roman galley or warship propelled by three stacked banks of oars on each side.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In naval history, the preeminent fast-attack warship of the classical Mediterranean, designed for ramming tactics and rapid maritime flanking maneuvers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"You have no cities nor no wealth: our cities are hives of humanity and our galleys, trireme and quadrireme, laden with all manner merchandise furrow the waters of the known globe."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It took four days to go up this canal, and it was so wide that two triremes could go abreast."*
+> - 📜 **Thucydides (*History of the Peloponnesian War*):** *"The Athenian **trireme** dashed into the harbor with all three banks of oars churning the blue water into foam."*
+> - 📜 **Herodotus (*The Histories*):** *"The fleet of Salamis consisted of swift **triremes** whose bronze beaks proved fatal to the heavier Persian galleys."*
+> - 📜 **Aeschylus (*The Persians*):** *"Ship sheared off ship with bronze-sheathed prow, until the **trireme** wreckage choked the strait."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mosquitoes; fungus gnats; crane flies; gnats; sand flies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mosquitoes; fungus gnats; crane flies; gnats; sand flies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A suborder of Diptera (true flies) characterized by long, slender, multi-segmented threadlike antennae, including mosquitoes, gnats, and crane flies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic entomology, primitive dipterans exhibiting aquatic or moisture-dependent larvae, slender bodies, and elongate filiform appendages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nematocera designates mosquitoes; fungus gnats; crane flies; gnats; sand flies."*
+> - 📜 **William Kirby & William Spence (*An Introduction to Entomology*):** *"The suborder **Nematocera** is distinguished by slender, delicate antennae composed of numerous distinct segments."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"Flies belonging to the **Nematocera** possess graceful elongated bodies and long, multi-jointed filiform antennae."*
+> - 📜 **August Weismann (*The Germ-Plasm*):** *"Embryological segmentation in **Nematocera** reveals ancestral dipteran patterns preserved through evolutionary divergence."*

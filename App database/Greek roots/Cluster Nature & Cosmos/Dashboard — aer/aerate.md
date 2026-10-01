@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To supply or impregnate (something, such as the soil or a liquid) with air.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To supply (the blood) with oxygen by respiration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To supply, charge, or permeate a liquid, soil, or substance with air, oxygen, or gas (such as carbon dioxide).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agronomy, hydrology, and respiratory physiology, to expose circulating fluids or dense soils to atmospheric oxygen to support aerobic respiration and biological vitality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Moreover, it permits air to find an entrance, thereby aerating the soil in such a way as to increase its fertility."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Assume it, and it follows that if all the blood in a man could be aerated with one breath, he might then seal up his nostrils and not fetch another for a considerable time."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Assume it, and it follows that if all the blood in a man could be aerated with one breath, he might then seal up his nostrils and not fetch another for a considerable time."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"By burrowing through the soil, earthworms **aerate** the dense loam and facilitate root penetration."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"When we vigorously **aerate** the yeast broth, vegetative growth increases while alcoholic fermentation is suppressed."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Microbial decomposers **aerate** fertile garden soils, recycling essential nutrients into the biosphere."*

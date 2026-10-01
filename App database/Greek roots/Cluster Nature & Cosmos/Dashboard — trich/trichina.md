@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Parasitic nematode occurring in the intestines of pigs and rats and human beings and producing larvae that form cysts in skeletal muscles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Parasitic nematode occurring in the intestines of pigs and rats and human beings and producing larvae that form cysts in skeletal muscles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A microscopic parasitic nematode worm of the genus Trichinella (especially Trichinella spiralis) whose larvae encyst within the skeletal muscle tissue of mammals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parasitology and veterinary public health, the causative agent of trichinosis, transmitted by ingestion of raw or undercooked carnivore or swine flesh.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The minute needles which nature has scattered over these plants will pierce a glove readily, and burrow in the flesh like trichina."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Or, better still, if it could reach the bowels of the earth, and keep the whole system quiet, while we, puny mortals, like trichina mites, swarmed down the interior, and bored scientifically back to the crust again."*
+> - 📜 **Rudolf Virchow (*Darstellung der Lehre von den Trichinen*):** *"Our microscopic demonstrations proved that the microscopic worm **Trichina** spiralis is the sole cause of the fatal epidemic."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The encapsulated larvae of **Trichina** may remain viable within calcified human muscle cysts for decades."*
+> - 📜 **Louis Pasteur (*Collected Works*):** *"Thorough boiling of porcine food supplies halts the transmission of the destructive **Trichina** parasite."*

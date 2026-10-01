@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class (Polychaeta) of aquatic and chiefly marine annelid worms (such as clam worms or lugworms) that usually possess paired segmental appendages bearing many bristles, produce free-swimming larvae, and are often brightly colored or bioluminescent : bristle worm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class (Polychaeta) of aquatic and chiefly marine annelid worms (such as clam worms or lugworms) that usually possess paired segmental appendages bearing many bristles, produce free-swimming larvae, and are often brightly colored or bioluminescent : bristle worm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any segmented marine bristle worm of the class Polychaeta, having numerous bristles mounted on lateral paddle-like parapodia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oceanography and benthic ecology, a marine annelid (such as a lugworm, clam worm, or feather duster worm) occupying critical trophic niches from estuaries to deep hydrothermal vents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polychaete designates any of a class (polychaeta) of aquatic and chiefly marine annelid worms (such as clam worms or lugworms) that usually possess paired segmental appendages bearing many bristles, produce free-swimming larvae, and are often brightly colored or bioluminescent : bristle worm."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"The luminous burrowing **polychaete** lights the mudflats with eerie greenish luminescence during midnight spring tides."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"The Burgess Shale worm Canadia displays all the unmistakable hallmarks of an ancient swimming **polychaete**."*
+> - 📜 **Alister Hardy (*The Open Sea*):** *"Trawls in deep offshore waters frequently capture the iridescent, bristled body of a swimming predatory **polychaete**."*

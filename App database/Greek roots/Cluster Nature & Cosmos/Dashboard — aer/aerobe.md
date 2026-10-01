@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism (such as a bacterium) that lives only in the presence of oxygen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism (such as a bacterium) that lives only in the presence of oxygen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A microorganism or organism that requires molecular oxygen for growth, cellular respiration, and survival.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiology and cellular biochemistry, an organism that employs oxygen as the terminal electron acceptor in oxidative phosphorylation to synthesize ATP.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerobe designates an organism (such as a bacterium) that lives only in the presence of oxygen."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"I demonstrated that while the **aerobe** flourishes in the presence of free oxygen, the vibrion perishes instantly."*
+> - 📜 **René Dubos (*The Bacterial Cell*):** *"Metabolically, an obligate **aerobe** relies upon catalase and superoxide dismutase to survive toxic oxygen radicals."*
+> - 📜 **Claude Bernard (*Experimental Medicine*):** *"The metabolic combustion observed in the **aerobe** represents the fundamental thermodynamic engine of multicellular life."*

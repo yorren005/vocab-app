@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of loriinae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of loriinae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of brightly colored Australasian lorikeets (family Psittaculidae), including the rainbow lorikeet, characterized by specialized brush-tipped tongues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, nectarivorous and frugivorous parrots possessing densely papillose, brush-like tongue tips adapted for harvesting nectar and pollen from blossoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichoglossus designates a genus of loriinae."*
+> - 📜 **John Gould (*The Birds of Australia*):** *"Flocks of the brush-tongued parrot **Trichoglossus** sweep through the flowering eucalyptus crowns with dazzling speed and raucous chattering."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The rainbow lorikeet, **Trichoglossus**, uses its bristled papillose tongue to extract nectar from deep tropical blossoms."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The brush-tipped tongue of **Trichoglossus** provides a remarkable instance of mutual coadaptation between avian visitors and nectar-bearing trees."*

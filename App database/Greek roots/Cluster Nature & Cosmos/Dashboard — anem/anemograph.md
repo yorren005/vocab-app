@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A recording anemometer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A recording anemometer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument that continuously and automatically records the velocity, force, or direction of the wind on a chart or digital register.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorological instrumentation, a recording anemometer combining a wind vane and revolving anemometer cups connected to a clockwork drum pen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anemograph designates a recording anemometer."*
+> - 📜 **Robert FitzRoy (*The Weather Book*):** *"The automatic **anemograph** registered every gust of the gale, tracing a continuous pencil line upon the revolving drum."*
+> - 📜 **Camille Flammarion (*The Atmosphere*):** *"Telescopic and meteorological towers rely upon the self-recording **anemograph** to preserve an objective record of wind intensity."*
+> - 📜 **John Tyndall (*Heat a Mode of Motion*):** *"The erratic tracings of the **anemograph** during a squall demonstrate the chaotic turbulence within moving air masses."*

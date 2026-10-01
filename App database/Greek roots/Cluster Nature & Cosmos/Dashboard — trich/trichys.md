@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of hystricidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of hystricidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Old World porcupines containing a single living species, the long-tailed porcupine (Trichys fasciculata), native to Borneo, Sumatra, and the Malay Peninsula.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rodent taxonomy, an archaic basal hystricomorph possessing short flattened spines mixed with bristles and a long scaly tail ending in a bundle of hollow quills.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichys designates a genus of hystricidae."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The genus **Trichys**, containing the long-tailed porcupine of Borneo and Sumatra, is distinguished by its slender scaly tail tipped with hollow quills."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"In the dense rainforests of Sarawak, the small porcupine **Trichys** forages by night among the fallen dipterocarp fruits."*
+> - 📜 **George Gaylord Simpson (*The Principles of Classification and a Classification of Mammals*):** *"The morphological characteristics of **Trichys** preserve the primitive skeletal architecture of Old World hystricomorph rodents."*

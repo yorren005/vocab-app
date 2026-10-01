@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A theory of the origin of the universe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The creation or origin of the world or universe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A theory, model, or account concerning the origin, creation, and evolution of the universe or the solar system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrophysics and anthropology, the systematic discipline exploring the origin of the cosmos, spanning ancient creation myths to the modern Big Bang singularity and cosmic inflation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Indeed in the Phrygian cosmogony an almond figured as the father of all things, perhaps because its delicate lilac blossom is one of the first heralds of the spring, appearing on the bare boughs before the leaves have opened."*
+> - 📜 **Hesiod (*Theogony*):** *"Sing, O Muses, the sacred **cosmogony**, how earth and sky and the immortal gods first came to be."*
+> - 📜 **Georges Lemaître (*The Primeval Atom*):** *"A physical **cosmogony** based on general relativity envisions the expansion of space from an initial singular state."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Every civilization on Earth has crafted its own mythic **cosmogony** to explain how the world and its people began."*

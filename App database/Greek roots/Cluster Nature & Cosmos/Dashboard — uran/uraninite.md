@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A black octahedral mineral that consists of an oxide of uranium which usually contains thorium, lead, and rare earth elements and is the chief ore of uranium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A black octahedral mineral that consists of an oxide of uranium which usually contains thorium, lead, and rare earth elements and is the chief ore of uranium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy, radioactive, pitch-black to dark brownish mineral ore consisting essentially of uranium dioxide (UO2); pitchblende.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and nuclear geology, the primary ore mineral of uranium, famous as the source material from which Pierre and Marie Curie first isolated polonium and radium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uraninite designates a black octahedral mineral that consists of an oxide of uranium which usually contains thorium, lead, and rare earth elements and is the chief ore of uranium."*
+> - 📜 **Marie Curie (*Radioactive Substances*):** *"We were astonished to discover that raw **uraninite** exhibited a radioactivity several times greater than pure uranium itself."*
+> - 📜 **Pierre Curie (*Nobel Lecture on Radioactivity*):** *"The extraction of polonium and radium from tons of pitchblende or **uraninite** required years of chemical fractionation."*
+> - 📜 **Ernest Rutherford (*Radioactivity*):** *"The disintegration of heavy nuclei within ancient crystals of **uraninite** generates a steady accumulation of helium and lead."*

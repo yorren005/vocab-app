@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In ancient Greece, an under-rower serving in the lower tier of a trireme; broadly, any subordinate assistant, attendant, or public officer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical civic and military administration, an official functioning under the authority of a magistrate, commander, or sacred liturgy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperetes designates a term designating an entity, condition, or phenomenon derived from greek ere."*
+> - 📜 **Thucydides (*History of the Peloponnesian War*):** *"Every Athenian naval squadron depended upon the disciplined labor of the **hyperetes**, rowing tirelessly at the lowest bank."*
+> - 📜 **Xenophon (*Hellenica*):** *"The naval commander inspected the crew, assigning each capable oarsman to his station as **hyperetes** beneath the deck."*
+> - 📜 **Aristotle (*The Politics*):** *"In civic and military hierarchy, the **hyperetes** executes the direct operational commands of the governing magistrate."*

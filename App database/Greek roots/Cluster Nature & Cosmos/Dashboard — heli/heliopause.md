@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek heli.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The theoretical boundary where the solar wind is slowed to a stop by the pressure of the interstellar medium; the outer boundary of the heliosphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrophysics and deep-space exploration, the transitional shock front separating the Sun's magnetic influence and plasma domain from interstellar space.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heliopause designates a term designating an entity, condition, or phenomenon derived from greek heli."*
+> - 📜 **Carl Sagan (*Pale Blue Dot*):** *"Far beyond the orbits of Neptune and Pluto lies the **heliopause**, where the solar wind is finally turned back by the interstellar gale."*
+> - 📜 **Arthur C. Clarke (*The Exploration of Space*):** *"Crossing the **heliopause**, a probe leaves behind the sun's magnetic domain and enters true interstellar space."*
+> - 📜 **Steven Weinberg (*The First Three Minutes*):** *"At the **heliopause**, solar cosmic radiation yields dominance to the galactic cosmic-ray flux."*

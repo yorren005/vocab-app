@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pollinated by wind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pollinated by wind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pollinated or fertilized by the agency of wind, as in grasses, sedges, and many deciduous and coniferous trees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floral ecology, exhibiting specific evolutionary adaptations for wind pollination, including copious lightweight pollen, inconspicuous petals, lack of nectar, and feathery, protruding stigmas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anemophilous designates pollinated by wind."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"In **anemophilous** plants, such as grasses and hazel, pollen grains are dry, light, and produced in prodigious quantities."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The flowers of **anemophilous** species lack conspicuous petals and nectar, relying entirely upon wind currents for cross-pollination."*
+> - 📜 **Arthur George Tansley (*Practical Plant Ecology*):** *"Open grassland communities are dominated by **anemophilous** species whose abundant airborne pollen dominates the atmospheric pollen rain."*

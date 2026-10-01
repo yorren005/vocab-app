@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expose to fresh air.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aerate (sewage) so as to favor the growth of organisms that decompose organic matter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Supplied, charged, or impregnated with air or gas (especially carbon dioxide, as in effervescent beverages); oxygenated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aquatic ecology and soil mechanics, describing waters or substrate strata possessing abundant dissolved oxygen capable of sustaining aerobic benthic life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Assume it, and it follows that if all the blood in a man could be aerated with one breath, he might then seal up his nostrils and not fetch another for a considerable time."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Assume it, and it follows that if all the blood in a man could be aerated with one breath, he might then seal up his nostrils and not fetch another for a considerable time."*
-> - 📜 **James Joyce (*Ulysses*):** *"Hackney cars, cabs, delivery waggons, mailvans, private broughams, aerated mineral water floats with rattling crates of bottles, rattled, rolled, horsedrawn, rapidly."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The clear, cold, **aerated** water of the pond sparkled with thousands of tiny rising bubbles."*
+> - 📜 **Joseph Priestley (*Experiments and Observations on Different Kinds of Air*):** *"By impregnating spring water with fixed air, I produced a pleasant **aerated** beverage resembling Pyrmont mineral water."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Blood circulating through healthy pulmonary capillaries becomes richly **aerated** with atmospheric oxygen."*

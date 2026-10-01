@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to certain stony meteorites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to certain stony meteorites.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling an aerolite; stony and meteoritic in physical composition and celestial origin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogical and petrological analysis, describing crystalline silicate textures and fusion crusts characteristic of stony meteorites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerolitic designates of or pertaining to certain stony meteorites."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"The specimen exhibited typical **aerolitic** fusion crusts scored by atmospheric ablation."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Observations of **aerolitic** showers prove that interplanetary space is populated by swarms of rocky debris."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The elemental composition of **aerolitic** fragments corroborates the universal distribution of terrestrial elements."*

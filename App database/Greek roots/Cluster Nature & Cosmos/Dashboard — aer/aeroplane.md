@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: airplane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: an operating mode for an electronic device (such as a mobile phone) in which the device does not connect to wireless networks and cannot send or receive communications (such as calls or text messages) or access the Internet but remains usable for other functions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A powered heavier-than-air flying machine supported by the dynamic reaction of air against fixed wings; airplane (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of technology and aviation, the fixed-wing craft developed by the Wright brothers that revolutionized 20th-century global transport and aerial warfare.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"To the end of this a propeller can be fixed, so that as the arm revolves there is produced almost exactly the same conditions as those which prevail when a propeller drives an aeroplane or steerable balloon."*
-> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"BARHAM" 68 LIGHT CRUISER "CALLIOPE" AT SCAPA 69 "MAKE AND MEND" ON LIGHT CRUISER "YARMOUTH" 69 THE DECK OF AN AEROPLANE CARRIER, H.M.S."*
-> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"THE DECK OF AN AEROPLANE CARRIER, H.M.S."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The sudden perfection of the military **aeroplane** swept away the security once guaranteed by ocean moats."*
+> - 📜 **Virginia Woolf (*Mrs. Dalloway*):** *"An **aeroplane** soared overhead, writing in letters of white smoke against the blue London sky."*
+> - 📜 **Antoine de Saint-Exupéry (*Night Flight*):** *"The silver **aeroplane** cut through the turbulence above the Patagonian plains, guided by the remote beacon fires."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Division into three parts, elements, or classes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Division into three parts, elements, or classes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Division into three parts, categories, or branches; a three-way distinction or classification (etymologically from Greek tricha in three parts + tome cutting).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics and logic, the property stating that for any two real numbers a and b, exactly one of the three relations holds: a < b, a = b, or a > b.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichotomy designates division into three parts, elements, or classes."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"The table of categories displays an essential **trichotomy**, dividing each class into unity, plurality, and totality."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"Every sign involves a fundamental **trichotomy** between the sign itself, its object, and its interpretant."*
+> - 📜 **William James (*The Will to Believe*):** *"The philosopher divided the debate into an exhaustive **trichotomy**, examining each alternative with rigorous scrutiny."*

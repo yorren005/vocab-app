@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bront.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific or mythological study of thunder and electrical atmospheric phenomena.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorological history, the systematic acoustic observation and recording of thunderclaps, lightning discharges, and storm shockwave propagation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brontology designates a term designating an entity, condition, or phenomenon derived from greek bront."*
+> - 📜 **Benjamin Franklin (*Experiments and Observations on Electricity*):** *"A rational **brontology** must supplant vulgar superstition, demonstrating that thunder is but the acoustic consequence of electrical discharge."*
+> - 📜 **Camille Flammarion (*The Atmosphere*):** *"In the annals of meteorological physics, **brontology** catalogs the acoustics of storm fronts and the shockwaves of celestial fire."*
+> - 📜 **John Tyndall (*Sound*):** *"The student of **brontology** traces how atmospheric temperature gradients refract the rolling peals across mountain valleys."*

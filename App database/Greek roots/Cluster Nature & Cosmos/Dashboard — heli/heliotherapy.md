@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek heli.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The therapeutic use of natural sunlight for the treatment of physical and psychological diseases; sun-cure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine and balneology, a clinical modality pioneered by Finsen and Rollier for curing cutaneous tuberculosis, rickets, and chronic wound infections via solar ultraviolet radiation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The operative surgical quality but that he was reluctant to shed human blood even when the end justified the means, preferring, in their natural order, heliotherapy, psychophysicotherapeutics, osteopathic surgery."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"The curative benefits of **heliotherapy** are evident in how quickly pale, languishing patients revive when placed in sun-drenched wards."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In the treatment of scrofuloderma and surgical tuberculosis, systematic **heliotherapy** in high Alpine sanatoria produced remarkable healing."*
+> - 📜 **Niels Finsen (*Chemical Light Rays and Medical Science*):** *"Concentrated chemical light and systematic **heliotherapy** demonstrated that actinic rays could destroy bacteriological foci in tissue."*

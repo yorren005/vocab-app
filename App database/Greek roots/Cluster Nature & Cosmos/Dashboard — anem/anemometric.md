@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of measure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of measure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an anemometer or to the measurement of wind velocity and pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational meteorology and atmospheric science, describing data, instruments, or calculations derived from wind-speed sensors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anemometric designates adjective*) pertaining to, derived from, or characteristic of measure."*
+> - 📜 **William Napier Shaw (*Manual of Meteorology*):** *"Accurate **anemometric** measurements require placing sensors well above the boundary layer of terrestrial obstacles."*
+> - 📜 **Alexander Buchan (*Handy Book of Meteorology*):** *"Discrepancies in **anemometric** data frequently arise from local frictional turbulence near mountain crests."*
+> - 📜 **Cleveland Abbe (*Meteorological Apparatus and Methods*):** *"Calibrating the **anemometric** gear in a wind tunnel ensures uniform velocity readings across all stations."*

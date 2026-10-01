@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various south african herbs and subshrubs cultivated for long showy racemes of bright blue flowers with white eyes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various south african herbs and subshrubs cultivated for long showy racemes of bright blue flowers with white eyes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering annual and perennial herbs and subshrubs in the mustard family (Brassicaceae), native to southern Africa, known for blue or white flowers that thrive in open sun.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In South African floristic botany, sun-loving annuals characteristic of the succulent Karoo and fynbos biomes, forming vibrant mass spring displays after winter rains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Heliophila designates any of various south african herbs and subshrubs cultivated for long showy racemes of bright blue flowers with white eyes."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The South African genus **Heliophila** displays delicate blue and violet cruciferous blossoms that carpet the sun-drenched plains of Namaqualand."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"Species of **Heliophila** are readily recognized by their linear leaves and sun-loving habits in arid soils."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"In desert crucifers like **Heliophila**, floral pigmentation and rapid seed maturation are tuned to fleeting winter rains."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chaet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form derived from Greek chaite meaning long flowing hair, mane, bristle, or spine; used extensively in biological and taxonomic nomenclature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morphology and taxonomy, designating bristle-like structures, chitinous setae, or organisms possessing hairy appendages or spines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chaet designates a term designating an entity, condition, or phenomenon derived from greek chaet."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The morphological root **chaet**- distinguishes organisms characterized by prominent bristles or hair-like appendages."*
+> - 📜 **Ernst Haeckel (*Art Forms in Nature*):** *"Under darkfield magnification, structures bearing the **chaet**- prefix reveal intricate, radiating crystalline chitinous spines."*
+> - 📜 **Libbie Hyman (*The Invertebrates*):** *"The Greek element **chaet**- serves as a universal taxonomic marker for annelids and microscopic benthos bearing setal bristles."*

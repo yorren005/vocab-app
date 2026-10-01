@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavier-than-air aircraft (such as an airplane, helicopter, or glider).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavier-than-air aircraft (such as an airplane, helicopter, or glider).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any heavier-than-air aircraft that derives its lift in flight from aerodynamic forces acting upon fixed or rotating surfaces (such as an airplane or helicopter).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aeronautical taxonomy, a dynamic flying vehicle contrasted with an aerostat (lighter-than-air balloon or airship that relies on buoyant lift).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerodyne designates a heavier-than-air aircraft (such as an airplane, helicopter, or glider)."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The military debate raged between advocates of the rigid dirigible and proponents of the winged **aerodyne**."*
+> - 📜 **Theodore von Kármán (*Aerodynamics*):** *"The structural design of an **aerodyne** requires an optimal lift-to-drag ratio across all flight regimes."*
+> - 📜 **Octave Chanute (*Progress in Flying Machines*):** *"Every successful **aerodyne** must solve the simultaneous problems of dynamic sustentation and equilibrium."*

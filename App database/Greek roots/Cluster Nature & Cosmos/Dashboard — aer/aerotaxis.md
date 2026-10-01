@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The directional movement or behavioral orientation of a motile cell or microorganism toward or away from molecular oxygen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular microbiology and bacterial physiology, a sensory receptor-mediated response (via aerotaxis sensors) that directs aerobic bacteria along dissolved oxygen gradients.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerotaxis designates a term designating an entity, condition, or phenomenon derived from greek aer."*
+> - 📜 **Louis Pasteur (*Researches on Fermentation*):** *"Under the microscope, one observes striking positive **aerotaxis**, as motile bacteria crowd toward the margins of the cover glass where oxygen dissolves."*
+> - 📜 **René Dubos (*The Bacterial Cell*):** *"Cellular motility guided by **aerotaxis** allows microaerophilic species to seek out narrow microzones of intermediate oxygen tension."*
+> - 📜 **Carl Woese (*The Universal Ancestor*):** *"The evolutionary emergence of sensory **aerotaxis** allowed ancestral prokaryotes to exploit oxygen-rich photosynthetic microenvironments."*

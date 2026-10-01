@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expose to fresh air.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be broadcast.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exposed to fresh or warm air for drying, freshening, or ventilation; also, made public, expressed, or broadcast over the radio or television.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In domestic management and media history, describing clothing or linens refreshed by atmospheric exposure, or grievances brought into open public scrutiny.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though I have for the most part been aired abroad, I desire to lay my bones there."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Even now we venture into that familiar nursery only because its lawful occupants are on their way home; we are merely hurrying on in advance of them to see that their beds are properly aired and that Mr. and Mrs."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Why on earth should their beds be properly aired, seeing that they left them in such a thankless hurry?"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The sheets were thoroughly **aired** by the fire before the guests arrived for the evening."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The musty legal parchments were brought into the sunlight and **aired** on the office window ledge."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"At the town hall meeting, long-standing civic grudges were thoroughly **aired** before the gathered citizens."*

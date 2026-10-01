@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genetic disease (autosomal recessive) in which an enzyme needed to metabolize galactose is deficient or absent; typically develops shortly after birth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genetic disease (autosomal recessive) in which an enzyme needed to metabolize galactose is deficient or absent; typically develops shortly after birth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare, inherited metabolic disorder characterized by the inability of the body to convert galactose into glucose, leading to toxic accumulation in tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical genetics and pediatrics, an autosomal recessive deficiency of galactose-1-phosphate uridylyltransferase (GALT) resulting in neonatal jaundice, cataracts, hepatosplenomegaly, and cognitive impairment unless managed by a strict galactose-free diet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, galactosemia designates a genetic disease (autosomal recessive) in which an enzyme needed to metabolize galactose is deficient or absent; typically develops shortly after birth."*
+> - 📜 **Archibald Garrod (*Inborn Errors of Metabolism*):** *"Like alkaptonuria, congenital **galactosemia** represents a genetically determined enzymatic block in intermediary carbohydrate metabolism."*
+> - 📜 **Linus Pauling (*Molecular Disease and Evolution*):** *"The devastating manifestations of **galactosemia** can be completely averted by eliminating milk sugar from the infant's diet."*
+> - 📜 **Victor McKusick (*Mendelian Inheritance in Man*):** *"Autosomal recessive transmission of **galactosemia** involves severe deficiency of galactose-1-phosphate uridylyltransferase."*

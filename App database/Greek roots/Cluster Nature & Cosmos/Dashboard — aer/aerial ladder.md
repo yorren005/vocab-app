@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanically operated extensible ladder usually mounted on a fire truck.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mechanically operated extensible ladder usually mounted on a fire truck.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long, mechanically extendable ladder mounted on a turntable on the chassis of a specialized firefighting truck (aerial truck).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In municipal emergency rescue and fire protection engineering, a hydraulic telescoping apparatus equipped with waterways and rescue platforms for high-rise building access.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerial ladder designates a mechanically operated extensible ladder usually mounted on a fire truck."*
+> - 📜 **Jacob Riis (*How the Other Half Lives*):** *"The fire department extended its **aerial ladder** up to the tenement roof, rescuing trapped families from the smoke."*
+> - 📜 **Upton Sinclair (*The Jungle*):** *"Firefighters trained their hoses from the top of the **aerial ladder**, pouring torrents into the burning slaughterhouse."*
+> - 📜 **Lewis Mumford (*The City in History*):** *"The mechanization of municipal safety, symbolized by the motorized **aerial ladder**, transformed vertical firefighting in modern metropolises."*

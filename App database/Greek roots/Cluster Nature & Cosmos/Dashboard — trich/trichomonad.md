@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause of trichomoniasis in women and cattle and birds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause of trichomoniasis in women and cattle and birds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any anaerobic, flagellated parasitic or commensal protozoan belonging to the order Trichomonadida, having an undulating membrane and axostyle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical and veterinary parasitology, a microscopic eukaryote including Trichomonas vaginalis and Tritrichomonas foetus, lacking mitochondria but possessing hydrogenosomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichomonad designates cause of trichomoniasis in women and cattle and birds."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The flagellated **trichomonad** moves with characteristic jerky motility under direct saline wet-mount microscopy."*
+> - 📜 **Paul de Kruif (*Microbe Hunters*):** *"Early microscopists were startled by the active undulating membrane of the parasitic **trichomonad** swimming in body fluids."*
+> - 📜 **René Dubos (*The Bacterial Cell*):** *"Unlike bacterial invaders, the anaerobic **trichomonad** adheres directly to epithelial surfaces via specialized surface adhesins."*

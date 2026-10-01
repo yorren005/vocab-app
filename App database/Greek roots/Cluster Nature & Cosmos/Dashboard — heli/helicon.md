@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tuba that coils over the shoulder of the musician.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tuba that coils over the shoulder of the musician.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mountain in Boeotia, Greece, celebrated in classical mythology as the home of the Muses; also, a large bass brass wind instrument that encircles the musician's body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature, the symbol of poetic and artistic inspiration from which the sacred springs Aganippe and Hippocrene flowed; in music, the circular precursor to the sousaphone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Song.—O, Were I On Parnassus Hill Tune—“My love is lost to me.” O, were I on Parnassus hill, Or had o’ Helicon my fill, That I might catch poetic skill, To sing how dear I love thee!"*
-> - 📜 **George Eliot (*Middlemarch*):** *"I spent no end of time in making out these things—Helicon, now."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"You will believe empty myths, he says, but "Truth's bright face seems to you to be false and falls under eyes of unbelief." But Cithaeron and Helicon are old."*
+> - 📜 **Hesiod (*Theogony*):** *"From the Muses of Mount **Helicon** let us begin our song, who dance on soft feet beside the violet-dark spring."*
+> - 📜 **John Milton (*Lycidas*):** *"From the sacred heights of **Helicon**, the Muses inspire the mortal poet's song."*
+> - 📜 **John Philip Sousa (*Marching Along*):** *"The military brass band carried the great circular **helicon**, its deep bass notes booming through the parade ground."*

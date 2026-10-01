@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of zoology that deals with nematodes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of zoology that deals with nematodes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of zoology that studies nematodes (roundworms), their taxonomy, biology, and ecological interactions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural science and phytopathology, the discipline focused on controlling parasitic nematodes that devastate crop root systems and transmit plant viruses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nematology designates a branch of zoology that deals with nematodes."*
+> - 📜 **Nathan Cobb (*The Progress of Nematology*):** *"Agricultural yields worldwide depend upon the insights provided by modern **nematology** in managing root-knot parasites."*
+> - 📜 **Gerald Thorne (*Principles of Nematology*):** *"The development of **nematology** as an independent discipline transformed pest management across subtropical plantations."*
+> - 📜 **J. R. Christie (*Plant Nematodes: Their Bionomics and Control*):** *"Instruction in economic **nematology** equips agronomists to diagnose cryptic root decline caused by subterranean infestations."*

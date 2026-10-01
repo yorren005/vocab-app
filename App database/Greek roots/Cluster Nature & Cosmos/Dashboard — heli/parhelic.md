@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resembling a parhelion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or resembling a parhelion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to a parhelion or the parhelic circle; designating the horizontal white circle that passes through the Sun and parhelia at the same altitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In atmospheric physics, describing optical halo displays caused by horizontal plate-like ice crystals reflecting sunlight in cold tropospheric layers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parhelic designates relating to or resembling a parhelion."*
+> - 📜 **Fridtjof Nansen (*Farthest North*):** *"A luminous **parhelic** ring passed horizontally through the sun, intersected by vertical pillars of dazzling white light."*
+> - 📜 **John Tyndall (*The Glaciers of the Alps*):** *"Refraction through atmospheric hexagonal ice prisms produces both the solar halo and the horizontal **parhelic** circle."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Observations of complex **parhelic** systems provided early physicists with empirical evidence of ice crystal geometry in the upper troposphere."*

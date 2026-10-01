@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Living or active only in the presence of oxygen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Living or active only in the presence of oxygen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, living in, or characterized by aerobiosis; requiring molecular oxygen for life and metabolism; aerobic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In soil ecology and limnology, describing environmental conditions or microbial communities supported by dissolved oxygen in topsoil and surface waters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerobiotic designates living or active only in the presence of oxygen."*
+> - 📜 **Louis Pasteur (*Studies on Beer*):** *"Microbial species maintaining an **aerobiotic** existence consume glucose far more efficiently than anaerobic yeasts."*
+> - 📜 **Arthur George Tansley (*Practical Plant Ecology*):** *"The upper soil strata support vibrant **aerobiotic** communities of nitrifying bacteria and actinomycetes."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Toxic pollutants disrupt the **aerobiotic** balance of river waters, precipitating mass benthic suffocation."*

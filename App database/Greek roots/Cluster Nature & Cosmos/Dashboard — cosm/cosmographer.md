@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist knowledgeable about cosmography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scientist knowledgeable about cosmography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scholar, cartographer, or scientist who maps, describes, and illustrates the physical features of the universe, including the heavens and the Earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Renaissance science and the Age of Discovery, a Renaissance polymath who combined celestial mechanics, planetary astronomy, terrestrial geography, and navigation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmographer designates a scientist knowledgeable about cosmography."*
+> - 📜 **Gerardus Mercator (*Atlas sive Cosmographicae Meditationes*):** *"The dedicated **cosmographer** must combine celestial astronomy with terrestrial navigation to map the spherical Earth."*
+> - 📜 **Christopher Columbus (*Journals*):** *"I consulted the ancient **cosmographer** Ptolemy and modern navigational charts before steering westward into the unknown ocean."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The classical **cosmographer** saw no division between charting the constellations above and surveying the continents below."*

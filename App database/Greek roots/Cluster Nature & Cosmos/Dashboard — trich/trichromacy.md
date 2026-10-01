@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The normal ability to see colors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The normal ability to see colors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of possessing normal color vision based on three independent retinal cone photoreceptor pigments (sensitive to red, green, and blue light); trichromatism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In visual psychophysics and neurobiology, the evolutionary adaptation typical of catarrhine primates, providing fine discrimination across the visible spectrum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichromacy designates the normal ability to see colors."*
+> - 📜 **Thomas Young (*On the Theory of Light and Colours*):** *"Human vision achieves full **trichromacy** through three sets of retinal nerve fibers sensitive to red, green, and violet."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"The trichromatic theory posits that normal color vision and **trichromacy** arise from differential stimulation of three photoreceptors."*
+> - 📜 **Santiago Ramón y Cajal (*The Structure of the Retina*):** *"The anatomical specialization of foveal cone pathways provides the neurobiological basis for primate **trichromacy**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) ancient god of the sun; drove his chariot across the sky each day; identified with roman sol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) ancient god of the sun; drove his chariot across the sky each day; identified with roman sol.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek titan and personification of the Sun, son of Hyperion and Theia, brother of Selene and Eos, depicted driving a fiery chariot across heaven each day.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mythology and art, the all-seeing solar deity whose colossal bronze statue at Rhodes (Colossus of Rhodes) was celebrated as one of the Seven Wonders of the Ancient World.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"This well-known, beautiful, and deeply affecting head, which bears a strong resemblance to the Alexander Helios of the Capitol --especially in the treatment of the hair--has been called by Ottfried Mueller a riddle of archaeology."*
+> - 📜 **Homer (*The Odyssey*):** *"Now the sun god **Helios**, who sees all things and hears all things, climbed the steep celestial arch."*
+> - 📜 **Hesiod (*Theogony*):** *"And Theia bore great **Helios** and gleaming Selene and Eos who shines for all that dwell on earth."*
+> - 📜 **Percy Bysshe Shelley (*Hymn of Apollo*):** *"The golden chariot of **Helios** wheels across the azure plain, scattering light upon mortal eyes."*

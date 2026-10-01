@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Air : atmosphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Air : atmosphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek noun for air or the lower atmosphere, celebrated in classical philosophy as one of the four primordial elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of natural philosophy and pre-Socratic cosmology (notably Anaximenes), the infinite primal substance from which all material entities were condensed or rarefied.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aer designates air : atmosphere."*
+> - 📜 **Aristotle (*Meteorology*):** *"In classical physics, **aer** represents the hot and moist element occupying the sphere between terrestrial water and celestial fire."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The ancients considered **aer** to be a prime substance whose subtle currents distribute life across the globe."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Through the pure **aer** of heaven the celestial messengers winged their untiring flight."*

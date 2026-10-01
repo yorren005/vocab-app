@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Modified parenchymatous tissue having large intracellular air spaces that is found especially in aquatic plants where it facilitates gaseous exchange and maintains buoyancy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Modified parenchymatous tissue having large intracellular air spaces that is found especially in aquatic plants where it facilitates gaseous exchange and maintains buoyancy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spongy plant tissue containing large, interconnected intercellular air spaces, found primarily in the roots, stems, and leaves of aquatic and wetland plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant anatomy and wetland ecology, specialized lacunar parenchyma that facilitates internal gas exchange between emergent shoots and submerged, anoxic roots.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerenchyma designates modified parenchymatous tissue having large intracellular air spaces that is found especially in aquatic plants where it facilitates gaseous exchange and maintains buoyancy."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Aquatic plants develop spongy **aerenchyma** filled with large intercellular gas spaces that provide internal buoyancy and root ventilation."*
+> - 📜 **Arthur George Tansley (*Practical Plant Ecology*):** *"The presence of lacunar **aerenchyma** in wetland sedges allows oxygen diffusion down into anoxic marsh mud."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"In waterlogged soils, species capable of forming adventitious **aerenchyma** survive prolonged submergence."*

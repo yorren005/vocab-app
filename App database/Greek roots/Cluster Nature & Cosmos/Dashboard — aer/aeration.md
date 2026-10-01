@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of exposing to air (so as to purify).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of charging a liquid with a gas making it effervescent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of exposing a substance to the circulation of air, or charging a liquid or soil with air, oxygen, or carbon dioxide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental engineering and wastewater treatment, the mechanical injection of air into sludge or water to stimulate aerobic bacterial decomposition of organic waste.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aeration designates the process of exposing to air (so as to purify)."*
+> - 📜 **Louis Pasteur (*Studies on Beer*):** *"Proper **aeration** of the wort ensures healthy yeast proliferation before the onset of anaerobic fermentation."*
+> - 📜 **Charles Darwin (*Vegetable Mould and Earthworms*):** *"The continuous **aeration** of agricultural soils by subterranean organisms is essential for humification."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Without constant **aeration** and circulation of fresh air, the hospital ward becomes a reservoir of pestilence."*

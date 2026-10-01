@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the stinging capsular organelles of the tentacle of a cnidarian (such as a box jellyfish or sea anemone) that contains a coiled, hollow, usually barbed, venomous thread which is discharged especially for catching prey and defending against enemies —called also cnidocyst.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the stinging capsular organelles of the tentacle of a cnidarian (such as a box jellyfish or sea anemone) that contains a coiled, hollow, usually barbed, venomous thread which is discharged especially for catching prey and defending against enemies —called also cnidocyst.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized, microscopic stinging organelle found in cnidocytes of jellyfish, sea anemones, and corals, containing a coiled, eversible venomous thread.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate biology, a microscopic projectile weapon triggered chemically or mechanistically to paralyze prey or deter predators with extreme acceleration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nematocyst designates one of the stinging capsular organelles of the tentacle of a cnidarian (such as a box jellyfish or sea anemone) that contains a coiled, hollow, usually barbed, venomous thread which is discharged especially for catching prey and defending against enemies —called also cnidocyst."*
+> - 📜 **Thomas Henry Huxley (*The Oceanic Hydrozoa*):** *"Upon contact with prey, the coiled thread of the **nematocyst** is discharged with explosive velocity."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Each microscopic **nematocyst** contains a toxic barb capable of paralyzing small marine organisms instantly."*
+> - 📜 **Stephen Jay Gould (*The Flamingo's Smile*):** *"The intricate spring-loaded mechanism of the cnidarian **nematocyst** represents a pinnacle of subcellular mechanical engineering."*

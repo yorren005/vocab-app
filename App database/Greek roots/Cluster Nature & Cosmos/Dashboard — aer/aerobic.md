@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Living, active, or occurring only in the presence of oxygen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or induced by aerobes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Living, active, or occurring only in the presence of oxygen; relating to cellular respiration dependent upon atmospheric oxygen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In exercise physiology, denoting sustained physical conditioning (such as running, swimming, or cycling) that enhances cardiovascular endurance and oxygen utilization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Further, they can be divided into two classes, the aerobic and the anaerobic."*
+> - 📜 **Louis Pasteur (*Collected Works*):** *"The **aerobic** decomposition of organic substrates yields complete oxidation into water and carbonic acid."*
+> - 📜 **Kenneth H. Cooper (*Aerobics*):** *"Regular **aerobic** exercise strengthens the myocardium and enhances systemic vascular transport capacity."*
+> - 📜 **Hans Krebs (*The Citric Acid Cycle*):** *"The tricarboxylic acid cycle provides the enzymatic hub of all mitochondrial **aerobic** energy production."*

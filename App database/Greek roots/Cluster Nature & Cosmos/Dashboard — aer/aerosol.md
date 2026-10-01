@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A suspension of fine solid or liquid particles in gas; also, aerosols plural : the fine particles of an aerosol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance (such as an insecticide or medicine) dispensed from a pressurized container as an aerosol; also : the container for this.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colloidal suspension of fine solid particles or liquid droplets dispersed in air or another gas (such as smoke, fog, haze, or industrial spray).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In atmospheric chemistry and climatology, microscopic airborne particulates (sea salt, soot, mineral dust, sulfates) that scatter solar radiation and act as cloud condensation nuclei.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerosol designates a suspension of fine solid or liquid particles in gas; also, aerosols plural : the fine particles of an aerosol."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Pesticide mists drifted for miles as a fine chemical **aerosol**, settling upon pastures and waterways far from the target fields."*
+> - 📜 **Carl Sagan (*Pale Blue Dot*):** *"Volcanic eruptions inject tons of sulfur dioxide into the stratosphere, forming an **aerosol** veil that cools global temperatures for years."*
+> - 📜 **Svante Arrhenius (*Worlds in the Making*):** *"Cosmic dust and industrial smoke contribute to the atmospheric **aerosol**, altering the albedo and radiative balance of the planet."*

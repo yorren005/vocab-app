@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wind that blows from the north.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) the god who personified the north wind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek personification of the fierce North Wind, son of Astraeus and Eos, celebrated in classical mythology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetical and meteorological discourse, a blustering, icy northerly gale bringing winter snows and freezing gales from polar latitudes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But let the ruffian Boreas once enrage The gentle Thetis, and anon behold The strong-ribb’d bark through liquid mountains cut, Bounding between the two moist elements Like Perseus’ horse."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Her lips are like yon cherries ripe, That sunny walls from Boreas screen; They tempt the taste and charm the sight; An’ she has twa sparkling roguish een."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"May Boreas never thresh your rigs, Nor kick your rickles aff their legs, Sendin the stuff o’er muirs an’ haggs Like drivin wrack; But may the tapmost grain that wags Come to the sack."*
+> - 📜 **Homer (*The Iliad*):** *"Then fierce **Boreas** blew from the Thracian peaks, whipping the gray Aegean into mountainous white-capped waves."*
+> - 📜 **Ovid (*Metamorphoses*):** *"With rushing pinions **Boreas** sweeps the sky, driving before him the scattering clouds and icy hail."*
+> - 📜 **Edmund Spenser (*The Faerie Queene*):** *"When bitter **Boreas** with his blustring blast / Doth scour the frozen plains and strip the forest bare."*

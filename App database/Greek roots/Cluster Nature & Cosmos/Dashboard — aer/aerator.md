@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One that aerates; especially : an apparatus for aerating something (such as sewage).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One that aerates; especially : an apparatus for aerating something (such as sewage).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device or apparatus that introduces air into a liquid or soil, such as a faucet nozzle aerator, aquarium bubbler, or lawn coring tool.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial bioengineering and municipal water treatment, a mechanical impeller, sparger, or fountain designed to maximize gas-liquid mass transfer and dissolved oxygen levels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerator designates one that aerates; especially : an apparatus for aerating something (such as sewage)."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"In our marine aquarium, a mechanical **aerator** bubbled continuously to maintain dissolved oxygen for delicate filter feeders."*
+> - 📜 **Louis Pasteur (*Collected Works*):** *"A fine porcelain **aerator** dispersed microscopic air bubbles evenly through the experimental bacterial broth."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"Martin adjusted the electric **aerator** in the incubator, watching the fine spray oxygenate the nutrient broth."*

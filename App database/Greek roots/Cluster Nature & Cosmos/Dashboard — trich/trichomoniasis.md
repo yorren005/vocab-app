@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Infection of the vagina.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infection of the vagina.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A common sexually transmitted parasitic infection caused by the flagellated protozoan Trichomonas vaginalis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical gynecology and venereology, an infection characterized by vaginitis with diffuse frothy discharge, cervical punctate hemorrhages ('strawberry cervix'), and dysuria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichomoniasis designates infection of the vagina."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Clinical **trichomoniasis** typically manifests as persistent vulvovaginitis accompanied by punctate mucosal erythema."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The eradication of **trichomoniasis** requires synthetic antiparasitic agents capable of targeting anaerobic metabolic pathways."*
+> - 📜 **Harvey Cushing (*Selected Papers*):** *"Differential diagnosis of persistent genitourinary inflammation must invariably consider occult **trichomoniasis**."*

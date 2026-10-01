@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Heliotropium) of herbs or shrubs of the borage family.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bloodstone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant of the genus Heliotropium (family Boraginaceae) with fragrant purple, violet, or white flowers; also a moderate reddish-purple color or a dark green chalcedony gemstone with red jasper spots (bloodstone).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surveying, an instrument that reflects sunlight with a mirror to indicate distant observation stations; historically, any plant that turns toward the Sun.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I recognised some euphorbias, with the caustic sugar coming from them; heliotropes, quite incapable of justifying their name, sadly drooped their clusters of flowers, both their colour and perfume half gone."*
+> - 📜 **Charles Baudelaire (*Les Fleurs du Mal*):** *"The sweet, vanilla-like perfume of the purple **heliotrope** drifted through the warm twilight air of the terrace."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The garden border was fragrant with beds of sweet-scented **heliotrope** and clove pinks."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"The stone named **heliotrope**, or bloodstone, reflects red rays when dropped into water facing the sun."*

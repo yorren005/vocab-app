@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) one of a people that the ancient greeks believed lived in a warm and sunny land north of the source of the north wind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) one of a people that the ancient greeks believed lived in a warm and sunny land north of the source of the north wind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek mythology, an inhabitant of a legendary sunlit paradise situated beyond the North Wind (Boreas); hence, extremely northern, frigid, or arctic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and literature, designating an outsider residing in extreme, Olympian intellectual solitude or inhabiting the farthest polar margins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"I’m hyperborean as much as you."*
+> - 📜 **Friedrich Nietzsche (*The Antichrist*):** *"Let us look each other in the face. We are **Hyperboreans**—we know well enough how out of the way we live."*
+> - 📜 **John Keats (*Endymion*):** *"Far in the sunlit spaces of the **Hyperborean** realm, eternal spring preserves the sacred groves of Apollo."*
+> - 📜 **H. P. Lovecraft (*At the Mountains of Madness*):** *"The ancient stone structures suggested an architecture originating in remote, prehistoric **Hyperborean** latitudes."*

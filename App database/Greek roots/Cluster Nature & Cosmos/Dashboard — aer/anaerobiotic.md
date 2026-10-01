@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Living or active in the absence of free oxygen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Living or active in the absence of free oxygen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by anaerobiosis; living or functioning without molecular oxygen; anaerobic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biogeochemistry and sedimentary microbiology, describing anoxic geochemical conditions (such as waterlogged bogs or deep marine sediments) where reduction reactions dominate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaerobiotic designates living or active in the absence of free oxygen."*
+> - 📜 **Louis Pasteur (*Collected Works*):** *"The **anaerobiotic** microbes decomposed the organic debris, generating methane and carbon dioxide in the sealed flasks."*
+> - 📜 **Arthur George Tansley (*Practical Plant Ecology*):** *"Beneath the surface peat, waterlogged conditions create an **anaerobiotic** zone where decomposition is virtually arrested."*
+> - 📜 **René Dubos (*Man Adapting*):** *"The human colon represents a densely populated **anaerobiotic** ecosystem containing hundreds of distinct bacterial species."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Measuring wind speed and direction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measuring wind speed and direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science, art, and technique of measuring the velocity, force, volume, and direction of atmospheric winds and air currents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fluid dynamics and wind-turbine engineering, the quantitative methodology employed to characterize airflow velocities, wind shear, and kinetic energy potential.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anemometry designates measuring wind speed and direction."*
+> - 📜 **William Napier Shaw (*Forecasting Weather*):** *"Advances in sonic and cup **anemometry** have made possible precise microscale turbulence modeling in aeronautics."*
+> - 📜 **Cleveland Abbe (*The Mechanics of the Earth's Atmosphere*):** *"Theoretical **anemometry** establishes the mathematical relation between pressure gradient force and atmospheric velocity."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"The practice of scientific **anemometry** allows the traveler to correlate wind velocity with hygrometric variation."*

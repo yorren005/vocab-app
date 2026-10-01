@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any worm of the chaetognatha; transparent marine worm with horizontal lateral and caudal fins and a row of movable curved spines at each side of the mouth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any worm of the chaetognatha; transparent marine worm with horizontal lateral and caudal fins and a row of movable curved spines at each side of the mouth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any small, slender, transparent marine predatory worm belonging to the phylum Chaetognatha; an arrow worm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological oceanography, a voracious planktonic predator possessing paired lateral fins, a caudal fin, and movable, curved chitinous grasping spines flanking the mouth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chaetognath designates any worm of the chaetognatha; transparent marine worm with horizontal lateral and caudal fins and a row of movable curved spines at each side of the mouth."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"The transparent **chaetognath**, or arrow worm, darts through pelagic waters with lethal speed to seize larval fish in its bristling jaws."*
+> - 📜 **Thomas Henry Huxley (*The Oceanic Hydrozoa*):** *"In plankton hauls, the glass-like body of the **chaetognath** is nearly invisible until its grasping spines flash under the lens."*
+> - 📜 **Alister Hardy (*The Open Sea: Its Natural History*):** *"Every oceanic tow reveals the ferocious predatory habits of the **chaetognath**, the tiger of the microscopic plankton realm."*

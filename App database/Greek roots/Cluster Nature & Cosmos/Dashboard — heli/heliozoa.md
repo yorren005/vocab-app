@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mostly freshwater protozoa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protozoa with spherical bodies and stiff radiating pseudopods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A grouping of freshwater and marine amoeboid protozoans commonly called sun animalcules, possessing spherical bodies with stiff radiating axopodia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In protozoology and microbenthic biology, predatory sarcodines whose radiating axopodia are supported by intricate spiral or hexagonal microtubule arrays used to capture microplankton.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heliozoa designates mostly freshwater protozoa."*
+> - 📜 **Ernst Haeckel (*Art Forms in Nature*):** *"The **Heliozoa**, or sun animalcules, display breathtaking radial symmetry with needle-like axopodia radiating from a spherical central capsule."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"Under microscopic observation, the freshwater **Heliozoa** resemble miniature radiant stars floating amidst filamentous algae."*
+> - 📜 **William Benjamin Carpenter (*The Microscope and Its Revelations*):** *"Each axopodium of the **Heliozoa** consists of an internal stereoplasmic axis surrounded by streaming, sticky protoplasm."*

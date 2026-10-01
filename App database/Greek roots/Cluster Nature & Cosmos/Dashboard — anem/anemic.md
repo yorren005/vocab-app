@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking vigor or energy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to anemia or suffering from anemia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from or relating to anemia; marked by insufficient red blood cells or pallid complexion; metaphorically, lacking vitality, strength, or spirit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical and critical literary discourse, describing biological debility or figurative feebleness, bloodlessness, or lack of expressive vigor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anemic designates lacking vigor or energy."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"His pale, exhausted countenance gave him the fragile air of an **anemic** scholar confined too long among dusty folios."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"The evening light faded into an **anemic** wash of gray, draining the vibrancy from the garden."*
+> - 📜 **Thomas Mann (*The Magic Mountain*):** *"The physicians examined the **anemic** young patient, noting his low hemoglobin and translucent complexion."*

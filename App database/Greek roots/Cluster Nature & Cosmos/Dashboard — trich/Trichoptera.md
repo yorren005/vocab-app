@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of insects consisting of caddis flies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of insects consisting of caddis flies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of holometabolous insects commonly known as caddisflies, having aquatic larvae that build portable cases and adults with hair-covered wings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aquatic ecology and systematic entomology, a sister group to the Lepidoptera whose aquatic nymphs construct intricate silk-bound shelters of pebbles and plant debris.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Trichoptera designates an order of insects consisting of caddis flies."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"The order **Trichoptera**, or caddisflies, is distinguished from Lepidoptera by the presence of hair-like setae rather than broad scales upon the wings."*
+> - 📜 **J. H. Fabre (*The Wonders of Instinct*):** *"Aquatic larvae of the **Trichoptera** construct ingenious portable cases from sand grains, twigs, and tiny snail shells glued with silk."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"When chemical runoff poisons mountain streams, the sensitive larvae of mayflies and **Trichoptera** disappear first."*

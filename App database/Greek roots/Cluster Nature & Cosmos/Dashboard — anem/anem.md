@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: wind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: wind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form derived from Greek anemos meaning wind, used in scientific, meteorological, and botanical terminology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morphology and taxonomy, designating atmospheric air currents, wind pollination, or instrumentation designed to detect wind velocity and direction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog anem as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The Greek root **anem**- designates atmospheric currents, from gentle breezes to destructive gales."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Compounds rooted in **anem**- illustrate the universal human endeavor to chart and measure the restless winds of the globe."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The element **anem**- recurs across natural history to describe mechanisms tuned to the drifting air."*

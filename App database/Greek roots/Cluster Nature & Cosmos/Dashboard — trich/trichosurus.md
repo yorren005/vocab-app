@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of phalangeridae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of phalangeridae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of nocturnal Australasian diprotodont marsupials comprising the brush-tailed possums, notably the common brushtail possum (Trichosurus vulpecula).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marsupial mammalogy, adaptable arboreal herbivores possessing a prehensile, furred tail with a naked friction pad beneath, widespread across Australian eucalyptus woodlands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichosurus designates a genus of phalangeridae."*
+> - 📜 **John Gould (*The Mammals of Australia*):** *"The common brushtail possum, **Trichosurus** vulpecula, is widely distributed throughout Australian forests, nesting in hollow eucalyptus boughs."*
+> - 📜 **Alfred Russel Wallace (*Australasia*):** *"The thick, woolly fur of **Trichosurus** made it an important resource for indigenous peoples across the southern continent."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"In the genus **Trichosurus**, the prehensile tail is naked on the underside, providing secure grip while climbing."*

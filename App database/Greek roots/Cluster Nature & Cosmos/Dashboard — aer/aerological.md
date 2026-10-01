@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to aerology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to aerology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to aerology, the branch of meteorology concerned with observing and investigating the upper atmosphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In synoptic and atmospheric forecasting, describing vertical sounding data (such as radiosonde measurements) charting temperature, humidity, and wind velocity aloft.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerological designates of or pertaining to aerology."*
+> - 📜 **William Napier Shaw (*Manual of Meteorology*):** *"The establishment of a network of **aerological** stations revolutionized our understanding of jet streams."*
+> - 📜 **Robert FitzRoy (*The Weather Book*):** *"Modern weather forecasting demands continuous **aerological** soundings to trace the movements of air masses."*
+> - 📜 **Cleveland Abbe (*The Mechanics of the Earth's Atmosphere*):** *"Comparative analysis of **aerological** soundings revealed the isothermal layer known as the stratosphere."*

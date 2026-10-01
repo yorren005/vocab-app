@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Caddis fly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Caddis fly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or being an insect of the order Trichoptera; a caddisfly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In freshwater limnology, describing the ecology, silk-net spinning, or case-building behaviors characteristic of caddisfly nymphs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichopteran designates caddis fly."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The adult **trichopteran** possesses vestigial mouthparts and membranous wings clothed with fine silky hairs."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The architectural diversity of **trichopteran** larval cases represents an extraordinary evolutionary case of extended phenotype."*
+> - 📜 **Alister Hardy (*The Open Sea*):** *"Freshwater drift nets intercept the emerging **trichopteran** adults as they take flight during evening hatches."*

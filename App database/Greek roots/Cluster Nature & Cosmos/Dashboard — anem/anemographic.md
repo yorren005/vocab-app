@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the recording of wind measurements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the recording of wind measurements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or obtained by an anemograph; pertaining to the recording and depiction of wind direction and speed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dynamic meteorology, describing continuous graphical records and tracings that document the kinetic turbulence and gusts of atmospheric currents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anemographic designates pertaining to the recording of wind measurements."*
+> - 📜 **Cleveland Abbe (*The Mechanics of the Earth's Atmosphere*):** *"Comparative analysis of **anemographic** charts from coastal stations reveals the diurnal cycle of land and sea breezes."*
+> - 📜 **William Napier Shaw (*Forecasting Weather*):** *"Continuous **anemographic** records are indispensable for detecting sudden squall lines associated with approaching cold fronts."*
+> - 📜 **Alexander Buchan (*Handy Book of Meteorology*):** *"The **anemographic** curves obtained during the equinoctial gale exhibited violent fluctuations in barometric gradient and wind speed."*

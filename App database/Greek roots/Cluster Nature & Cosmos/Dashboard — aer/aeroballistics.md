@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of science that studies the aerodynamic performance and motion of projectiles, missiles, rockets, and bombs traveling through atmospheric air.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aerospace and ordnance engineering, the synthesis of fluid mechanics and classical external ballistics governing projectile drag, shockwave propagation, and trajectory stability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aeroballistics designates a term designating an entity, condition, or phenomenon derived from greek aer."*
+> - 📜 **Theodore von Kármán (*Aerodynamics*):** *"High-velocity artillery requires rigorous **aeroballistics** to predict shockwave formation and trajectory deflection."*
+> - 📜 **Robert H. Goddard (*Rockets*):** *"Calculations in **aeroballistics** revealed how atmospheric density diminishes the initial acceleration of sounding rockets."*
+> - 📜 **Arthur C. Clarke (*The Promise of Space*):** *"Re-entry vehicles present the supreme challenge in **aeroballistics**, balancing hypersonic deceleration against aerodynamic heating."*

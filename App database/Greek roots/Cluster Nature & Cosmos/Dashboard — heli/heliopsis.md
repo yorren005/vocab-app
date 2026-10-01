@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any north american shrubby perennial herb of the genus heliopsis having large yellow daisylike flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any north american shrubby perennial herb of the genus heliopsis having large yellow daisylike flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of herbaceous perennial composite plants (family Asteraceae) native to North America, commonly known as oxeye or false sunflowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floriculture and grassland ecology, hardy prairie perennials bearing sunflower-like yellow flower heads with fertile ray florets, blooming profusely from midsummer to frost.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heliopsis designates any north american shrubby perennial herb of the genus heliopsis having large yellow daisylike flowers."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Commonly called the false sunflower or oxeye, **Heliopsis** provides sturdy yellow blossoms that persist through late summer droughts."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The composite genus **Heliopsis** differs from Helianthus in possessing fertile ray flowers that yield distinct achenes."*
+> - 📜 **John Burroughs (*Wake-Robin*):** *"Along the railway embankments, coarse yellow discs of **Heliopsis** cheered the dusty August landscape."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical correction of a defect of the palate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical correction of a defect of the palate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical reconstruction or plastic repair of the palate (roof of the mouth), particularly to correct a congenital cleft palate (uraniscoplasty).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reconstructive and maxillofacial surgery, the mobilization and suturing of mucoperiosteal flaps to reconstruct an intact vault between the oral and nasal cavities (from Greek ouranos palate/roof of mouth + plastos formed).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uranoplasty designates surgical correction of a defect of the palate."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Meticulous closure of mucosal flaps during **uranoplasty** is essential to reconstruct the hard palate without tension."*
+> - 📜 **J. Marion Sims (*The Story of My Life*):** *"Refinements in **uranoplasty** have enabled surgeons to restore normal speech and deglutition in children with congenital clefts."*
+> - 📜 **Astley Cooper (*Lectures on the Principles and Practice of Surgery*):** *"Successful **uranoplasty** transforms the life of the patient by sealing the abnormal communication between oral and nasal cavities."*

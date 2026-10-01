@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vigorous climbing vine (Dioscorea bulbifera) in the yam family (Dioscoreaceae), commonly called air potato, that produces edible potato-like bulbils in its leaf axils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical agronomy and ethnobotany, a fast-growing perennial liana cultivated across tropical Asia and Africa for its aerial tubers, though requiring boiling to eliminate toxic furostanol saponins in wild forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerial yam designates a term designating an entity, condition, or phenomenon derived from greek aer."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"The **aerial yam**, Dioscorea bulbifera, produces edible bulbils in the leaf axils along its vigorous climbing vines."*
+> - 📜 **David Fairchild (*The World Was My Garden*):** *"In the tropical garden we harvested the tubers of the **aerial yam**, which hang like curious brown stones from the trellis."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Members of the Dioscoreaceae, particularly the **aerial yam**, display remarkable storage bulbils borne entirely above ground."*

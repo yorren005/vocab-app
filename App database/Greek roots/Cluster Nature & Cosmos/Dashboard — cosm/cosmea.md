@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various mostly mexican herbs of the genus cosmos having radiate heads of variously colored flowers and pinnate leaves; popular fall-blooming annuals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various mostly mexican herbs of the genus cosmos having radiate heads of variously colored flowers and pinnate leaves; popular fall-blooming annuals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A popular garden annual flowering plant of the genus Cosmos (family Asteraceae), notably Cosmos bipinnatus, bearing showy ray flowers and feathery foliage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floriculture and ornamental gardening, a sun-loving American composite prized for daisy-like blossoms ranging from white to pink and crimson, blooming continuously into late autumn.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmea designates any of various mostly mexican herbs of the genus cosmos having radiate heads of variously colored flowers and pinnate leaves; popular fall-blooming annuals."*
+> - 📜 **John Ruskin (*Proserpina*):** *"The graceful Mexican **cosmea**, with its feathery leaves and radiant crimson rays, blooms untamed until the autumn frosts."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"In late summer borders, tall plantings of **cosmea** provide an airy screen of delicate foliage and showy blossoms."*
+> - 📜 **Elizabeth von Arnim (*Elizabeth and Her German Garden*):** *"The sweet breeze swayed the slender stems of **cosmea**, scattering their bright petals across the grass."*

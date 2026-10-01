@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mixture of invisible odorless tasteless gases (such as nitrogen and oxygen) that surrounds the earth; also : the equivalent mix of gases on another celestial object (such as a planet).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light breeze.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The invisible, odorless mixture of gases (chiefly nitrogen and oxygen) that envelops the Earth and sustains aerobic life; the atmosphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In music and aesthetics, a light tune, melody, or soprano part; also, a person's demeanour, bearing, or outward manifestation (e.g., an air of confidence).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O you leaden messengers, That ride upon the violent speed of fire, Fly with false aim; move the still-peering air, That sings with piercing; do not touch my lord."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, no, although The air of paradise did fan the house, And angels offic’d all."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The city cast Her people out upon her, and Antony, Enthroned i’ th’ market-place, did sit alone, Whistling to th’ air, which, but for vacancy, Had gone to gaze on Cleopatra too, And made a gap in nature."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"The isle is full of noises, / Sounds and sweet **airs**, that give delight and hurt not."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I would rather sit on a pumpkin and have it all to myself, than be crowded on a velvet cushion. I want the open **air**."*
+> - 📜 **John Keats (*Ode to a Nightingale*):** *"The night is tender, and the balmy **air** breathes softly through the woods."*

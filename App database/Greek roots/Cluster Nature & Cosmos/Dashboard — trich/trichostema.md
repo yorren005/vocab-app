@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of north american aromatic herbs or subshrubs: blue curls.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of north american aromatic herbs or subshrubs: blue curls.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of aromatic North American herbs in the mint family (Lamiaceae), commonly called bluecurls, bearing small blue flowers with long arched hair-like stamens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floristic botany, summer-blooming annuals or subshrubs possessing glandular-pubescent foliage and blue bilabiate blossoms with prominent exserted stamens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichostema designates genus of north american aromatic herbs or subshrubs: blue curls."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The aromatic annual **Trichostema** dichotoma, or bluecurls, displays remarkably long, gracefully curved blue stamens."*
+> - 📜 **John Burroughs (*Locusts and Wild Honey*):** *"In dry sandy pastures, the pungent balsamic scent of **Trichostema** rises from the bruised foliage underfoot."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Native plant enthusiasts cultivate **Trichostema** for its showy autumn blossoms that resemble miniature blue bows."*

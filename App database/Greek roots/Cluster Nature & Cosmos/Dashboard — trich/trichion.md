@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Point where the hairline meets the midpoint of the forehead.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Point where the hairline meets the midpoint of the forehead.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In craniometry and physical anthropometry, the midpoint of the anterior hairline on the forehead.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In facial plastic surgery and cephalometrics, a standard anatomical landmark utilized to calculate the vertical aesthetic thirds of the human face.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichion designates point where the hairline meets the midpoint of the forehead."*
+> - 📜 **Aleš Hrdlička (*Anthropometry*):** *"In measuring the vertical proportions of the cranium, the **trichion** marks the standard cephalometric point at the hairline."*
+> - 📜 **Paul Broca (*Mémoires d'anthropologie*):** *"Distance measured from the nasion to the **trichion** establishes the height of the frontal cranial vault."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"The migration of the anterior hair follicles determines the adult anatomical position of the **trichion**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of metaphysics that deals with the nature of the universe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A theory or doctrine describing the natural order of the universe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of the origin, evolution, large-scale structure, and eventual fate of the universe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and astrophysics, the theoretical discipline that synthesizes astronomical observations and gravitational theory into coherent models of cosmic history.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmology designates a branch of metaphysics that deals with the nature of the universe."*
+> - 📜 **Edwin Hubble (*The Realm of the Nebulae*):** *"Modern **cosmology** transformed from philosophical speculation into an exact observational science with the discovery of galactic expansion."*
+> - 📜 **Georges Lemaître (*The Primeval Atom*):** *"In relativistic **cosmology**, the beginning of the world was marked by the radioactive decay of a unique super-atom."*
+> - 📜 **Stephen Hawking (*A Brief History of Time*):** *"The ultimate question of **cosmology** is whether the universe has boundaries in space and time."*

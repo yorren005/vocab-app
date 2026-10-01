@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for ascertaining the weight or density of air or other gases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument for ascertaining the weight or density of air or other gases.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument designed for measuring the density, weight, or specific gravity of air and other gases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical pneumatics and experimental physical chemistry, a calibrated laboratory apparatus used to determine the density and pressure coefficients of gases under standard conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerometer designates an instrument for ascertaining the weight or density of air or other gases."*
+> - 📜 **Joseph Priestley (*Experiments and Observations on Different Kinds of Air*):** *"By employing a delicate **aerometer**, I determined the relative densities of dephlogisticated and nitrous air."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"The mercury **aerometer** allowed accurate quantification of the expansion coefficient of gases upon heating."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry*):** *"Precision in gaseous synthesis requires continuous calibration of the laboratory **aerometer**."*

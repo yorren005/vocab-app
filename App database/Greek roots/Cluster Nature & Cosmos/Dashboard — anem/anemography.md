@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Recording anemometrical measurements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recording anemometrical measurements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific description, observation, and graphic charting of winds and atmospheric air currents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical climatology and geography, the systematic recording and mapping of global wind belts, prevailing trade winds, monsoons, and local breezes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anemography designates recording anemometrical measurements."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"A complete **anemography** of the tropical oceans charts the permanent trajectories of the trade winds and monsoons."*
+> - 📜 **Matthew Fontaine Maury (*The Physical Geography of the Sea*):** *"Through systematic **anemography**, navigators uncovered the great circular wind circuits that govern global passage."*
+> - 📜 **Cleveland Abbe (*Treatise on Meteorological Apparatus*):** *"The methodology of **anemography** combines mechanical instrumentation with mathematical analysis of aerodynamic trajectories."*

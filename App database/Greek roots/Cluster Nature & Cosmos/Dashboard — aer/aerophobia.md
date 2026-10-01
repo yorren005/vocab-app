@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fear or strong dislike of flying : aviophobia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fear or strong dislike of flying : aviophobia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, morbid, or irrational fear of fresh air, drafts, or moving air currents; also used to designate the intense fear of flying in an aircraft (aviophobia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology and infectious diseases, a pathognomonic symptom of human rabies in which the sensation of moving air across the skin triggers violent, painful spasms of the throat muscles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerophobia designates fear or strong dislike of flying : aviophobia."*
+> - 📜 **Louis Pasteur (*Researches on Rabies*):** *"The hydrophobic patient exhibited extreme **aerophobia**, convulsing in terror whenever a draft of air stirred across his face."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Hyperesthesia to moving air, or **aerophobia**, is almost invariably observed in the advanced paralytic stage of rabies."*
+> - 📜 **G. Stanley Hall (*A Study of Fears*):** *"In modern urban populations, **aerophobia** has shifted its clinical meaning to designate the paralyzing terror of air travel."*

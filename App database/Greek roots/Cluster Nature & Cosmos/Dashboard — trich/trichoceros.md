@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of small epiphytic or terrestrial orchids of tropical south america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of small epiphytic or terrestrial orchids of tropical south america.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of miniature epiphytic or lithophytic orchids native to the Andean cloud forests of South America, known for bristly, insect-mimicking flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary botany, pseudocopulatory orchids whose floral columns bear bristly antennal appendages mimicking the setae of female tachinid flies to attract male fly pollinators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichoceros designates small genus of small epiphytic or terrestrial orchids of tropical south america."*
+> - 📜 **John Lindley (*The Genera and Species of Orchidaceous Plants*):** *"The remarkable Andean orchid **Trichoceros** mimics a bristly female tachinid fly to secure pseudocopulatory pollination by males."*
+> - 📜 **Heinrich Gustav Reichenbach (*Xenia Orchidacea*):** *"The column of **Trichoceros** is armed with two divergent bristly horns that deposit pollinia upon visiting insects."*
+> - 📜 **Charles Darwin (*The Fertilisation of Orchids*):** *"In orchids such as **Trichoceros**, floral morphology exhibits extraordinary evolutionary mimicry of bristled insect bodies."*

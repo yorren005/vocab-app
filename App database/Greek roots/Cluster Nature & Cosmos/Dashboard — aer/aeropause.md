@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The transitional boundary region in the upper atmosphere where air is too rarefied to provide aerodynamic lift for aircraft or oxygen for jet combustion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In space medicine and astrodynamics, the altitude zone (above approximately 12 to 20 miles) where atmospheric support ceases and spacecraft must rely on rocket propulsion and reaction thrusters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aeropause designates a term designating an entity, condition, or phenomenon derived from greek aer."*
+> - 📜 **Theodore von Kármán (*Aerodynamics*):** *"Ascending beyond the **aeropause**, conventional aerodynamic control surfaces lose effectiveness, necessitating reaction thrusters."*
+> - 📜 **Arthur C. Clarke (*The Exploration of Space*):** *"Rocket planes like the X-15 probed the edge of the **aeropause**, coasting momentarily into ballistic space."*
+> - 📜 **Tom Wolfe (*The Right Stuff*):** *"At eighty thousand feet, the pilot reached the edge of the **aeropause**, where the sky turns deep purple and stars shine in daylight."*

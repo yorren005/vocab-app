@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the aorta.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the aorta.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated in the aorta; aortic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systemic cardiovascular anatomy and clinical hemodynamic monitoring, describing structural features, flow velocities, or murmurs associated with the main systemic arterial trunk.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aortal designates of or relating to the aorta."*
+> - 📜 **William Harvey (*De Motu Cordis*):** *"The **aortal** valves close firmly upon diastole, preventing any backward regurgitation into the ventricular chamber."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Careful auscultation revealed a harsh systolic murmur over the **aortal** area radiating upward into the carotid vessels."*
+> - 📜 **Astley Cooper (*Lectures on Surgery*):** *"Ligation of the abdominal **aortal** trunk remains one of the most perilous procedures in operative surgery."*

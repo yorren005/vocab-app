@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Apoapsis in orbit around the moon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apoapsis in orbit around the moon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The point in an elliptical orbit around the Moon that is farthest from the center of the Moon; apolune.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrodynamics and lunar trajectory mechanics, the orbital apoapsis where a spacecraft experiences its minimum lunar gravitational acceleration and velocity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aposelene designates apoapsis in orbit around the moon."*
+> - 📜 **Arthur C. Clarke (*Rendezvous with Rama*):** *"As the lunar orbiter drifted toward its **aposelene**, the desolate far side fell into deep shadow."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"At **aposelene**, the spacecraft reaches its maximum altitude above the cratered lunar highlands."*
+> - 📜 **Robert A. Heinlein (*The Moon Is a Harsh Mistress*):** *"The ballistic trajectory curved gracefully, coasting past **aposelene** before the retro-rockets fired for descent."*

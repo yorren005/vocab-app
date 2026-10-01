@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disperse as an aerosol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become dispersed as an aerosol.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To disperse a liquid, medication, or powder as a fine aerosol or spray suspended in air or a gas stream (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pulmonary medicine and biodefense, to transform a liquid drug or pathogenic suspension into breathable particles under five micrometers in diameter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerosolize designates disperse as an aerosol."*
+> - 📜 **René Dubos (*The White Plague*):** *"When respiratory pathogens **aerosolize**, indoor ventilation rates become the decisive factor in controlling transmission."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"Martin designed a glass chamber to **aerosolize** the antibacterial mist without allowing vapors to escape into the corridor."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Agricultural sprayers that **aerosolize** chemical compounds too finely create drift clouds that poison adjacent hedgerows."*

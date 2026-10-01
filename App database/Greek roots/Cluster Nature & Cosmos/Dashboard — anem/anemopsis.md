@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One species: yerba mansa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species: yerba mansa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of perennial wetland herbs in the lizard's-tail family (Saururaceae), native to southwestern North America, notably Anemopsis californica (yerba mansa).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnobotany and desert riparian botany, a stoloniferous aromatic herb with basal leaves and conical flower spikes surrounded by white petaloid bracts, traditionally valued for medicinal astringent rhizomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anemopsis designates one species: yerba mansa."*
+> - 📜 **Asa Gray (*Plantae Wrightianae*):** *"The singular genus **Anemopsis**, known locally as yerba mansa, carpets alkaline marshes of the desert Southwest."*
+> - 📜 **John Charles Frémont (*Report of the Exploring Expedition*):** *"Along the moist margins of the salt spring we collected specimens of **Anemopsis** californica, prized by native tribes for its aromatic root."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"In bog gardens of arid climates, **Anemopsis** forms vigorous aromatic groundcover adorned with white anemone-like petaloid bracts."*

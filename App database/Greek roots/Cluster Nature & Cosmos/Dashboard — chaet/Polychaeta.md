@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marine annelid worms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marine annelid worms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major class of predominantly marine annelid worms, commonly called bristle worms, characterized by fleshy lateral appendages (parapodia) bearing numerous chaetae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine zoology, an extraordinarily diverse group of segmented worms encompassing free-swimming errant predators, crawling benthos, and sedentary tubeworms with feathery feeding crowns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Polychaeta designates marine annelid worms."*
+> - 📜 **Thomas Henry Huxley (*The Oceanic Hydrozoa*):** *"The marine **Polychaeta** exhibit an astonishing morphological diversity, from sedentary fanworms in calcareous tubes to swift pelagic swimmers."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Nowhere is the architectural variety of life more evident than among the **Polychaeta** inhabiting the rocky intertidal reefs."*
+> - 📜 **Libbie Hyman (*The Invertebrates*):** *"The class **Polychaeta** contains the ancestral annelid stock, retaining well-developed parapodia and cephalic sensory organs."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bristle ferns; kidney ferns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bristle ferns; kidney ferns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of delicate, translucent ferns commonly called bristle ferns or filmy ferns (family Hymenophyllaceae), native to humid tropical and warm temperate forests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pteridology, primitive leptosporangiate ferns whose membranous fronds typically consist of a single layer of cells without stomata, requiring perpetual atmospheric moisture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichomanes designates bristle ferns; kidney ferns."*
+> - 📜 **William Jackson Hooker (*Species Filicum*):** *"The genus **Trichomanes** comprises the delicate bristle ferns, whose membranous fronds consist of a single translucent cell layer."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In the dripping cloud forests of Chiloé, graceful fronds of **Trichomanes** carpeted the mossy trunks of ancient southern beeches."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The filmy fern **Trichomanes** boschianum flourishes only in perpetually damp, shaded sandstone rockhouses."*

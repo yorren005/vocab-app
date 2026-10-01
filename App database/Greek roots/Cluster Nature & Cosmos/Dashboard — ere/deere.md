@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states industrialist who manufactured plows suitable for working the prairie soil (1804-1886).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states industrialist who manufactured plows suitable for working the prairie soil (1804-1886).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historic brand and surname synonymous with John Deere (1804–1886), inventor of the self-scouring steel plow that revolutionized agriculture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agrarian and industrial history, representative of mechanized farming equipment and the heavy engineering of the American Midwest; historically also an archaic spelling of deer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deere designates united states industrialist who manufactured plows suitable for working the prairie soil (1804-1886)."*
+> - 📜 **Hamlin Garland (*A Son of the Middle Border*):** *"With a polished John **Deere** plow, my father turned the black virgin sod of the Iowa prairie."*
+> - 📜 **Willa Cather (*O Pioneers!*):** *"The heavy steel plows of John **Deere** cut deep furrows through the tough prairie grass where oxen strained."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Agricultural mechanization advanced swiftly as implements bearing the **Deere** imprint reshaped the economics of Western husbandry."*

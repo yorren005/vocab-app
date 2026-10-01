@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Huge quadrupedal herbivorous dinosaur common in north america in the late jurassic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Huge quadrupedal herbivorous dinosaur common in north america in the late jurassic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A popular and colloquial term for the Brontosaurus or any massive sauropod dinosaur resembling it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleontology and popular science culture, the iconic archetype of herbivorous quadrupedal Mesozoic giants with long necks and pillarlike limbs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"We ran short of plaster of Paris, or we’d have built a brontosaur that could sit down beside the Stratford Shakespeare and none but an expert could tell which was biggest or contained the most plaster."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"He is a brontosaur: nine bones and six hundred barrels of plaster of Paris."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"There upon the primeval plateau we beheld the giant **brontosaur**, wading through the marshy reedy waters."*
+> - 📜 **Stephen Jay Gould (*Bully for Brontosaurus*):** *"For generations of museum visitors, no creature captured the prehistoric imagination quite like the beloved **brontosaur**."*
+> - 📜 **Ray Bradbury (*A Sound of Thunder*):** *"The great **brontosaur** loomed like a sculptured mountain above the steaming Jurassic cycads."*

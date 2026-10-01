@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn into gas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn into gas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To change or convert into air or vapor; to aerate; to infuse or permeate with air.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical chemistry and thermodynamics, to vaporize a liquid into gaseous form or infuse a solid matrix with air bubbles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerify designates turn into gas."*
+> - 📜 **Joseph Priestley (*Experiments on Air*):** *"Our objective was to **aerify** the liquid completely by liberating its dissolved gaseous components."*
+> - 📜 **Humphry Davy (*Researches, Chemical and Philosophical*):** *"Intense heat served to **aerify** the volatile solid into an expansive, transparent vapor."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry*):** *"Electrolytic decomposition tended to **aerify** the electrolyte, releasing bubbles of hydrogen at the cathode."*

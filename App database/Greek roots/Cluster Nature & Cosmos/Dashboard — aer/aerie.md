@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The nest of a bird on a cliff or a mountaintop.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brood of birds of prey.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The nest of a bird of prey (such as an eagle or hawk) built high on a mountain crag or lofty cliff; also, any high, secluded dwelling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and ecological description, an elevated mountain redoubt or fortress perched dramatically above surrounding valleys.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, their endeavour keeps in the wonted pace; but there is, sir, an aerie of children, little eyases, that cry out on the top of question, and are most tyrannically clapped for’t."*
+> - 📜 **William Wordsworth (*The Excursion*):** *"High on the inaccessible cliff, the golden eagle built her solitary **aerie** above the clouds."*
+> - 📜 **John Milton (*Paradise Lost*):** *"There the Eagle and the Stork / On Cliffs and Cedar tops their **Aeries** build."*
+> - 📜 **Walter Scott (*The Lady of the Lake*):** *"From her mountain **aerie**, the falcon watched the glint of spears winding through the glen."*

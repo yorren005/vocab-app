@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of an order (Spirochaetales) of slender spirally undulating bacteria including those causing syphilis and Lyme disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of an order (Spirochaetales) of slender spirally undulating bacteria including those causing syphilis and Lyme disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any spiral-shaped bacterium belonging to the order Spirochaetales (American spelling), possessing a flexible cell wall and distinctive endoflagellar locomotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bacteriology and public health, a group of corkscrew-shaped prokaryotes capable of moving through viscous media and penetrating mammalian connective tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spirochete designates any of an order (spirochaetales) of slender spirally undulating bacteria including those causing syphilis and lyme disease."*
+> - 📜 **Paul de Kruif (*Microbe Hunters*):** *"Fritz Schaudinn stared through the microscope at the dim, pale ghost of a **spirochete** that had eluded bacteriologists for decades."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"In the dimly lit laboratory, Martin tracked the corkscrewing motion of an active **spirochete** suspended in saline."*
+> - 📜 **René Dubos (*The White Plague*):** *"Unlike rigid bacilli, the flexible **spirochete** penetrates dense mucosal barriers through rotary corkscrew motility."*

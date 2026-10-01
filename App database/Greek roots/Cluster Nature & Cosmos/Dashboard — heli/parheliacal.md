@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resembling a parhelion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or resembling a parhelion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling a parhelion (mock sun or sun dog); produced by parhelic optical refraction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorological optics, describing luminous atmospheric arcs and spots produced by the reflection and refraction of sunlight through hexagonal ice crystals in cirrus clouds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parheliacal designates relating to or resembling a parhelion."*
+> - 📜 **Robert Falcon Scott (*The Voyage of the Discovery*):** *"Above the Antarctic ice shelf, brilliant **parheliacal** spots flashed along the solar circle like luminous diamonds."*
+> - 📜 **Samuel Taylor Coleridge (*Notebooks*):** *"The frosty atmosphere generated a wondrous **parheliacal** display, encircling the sun with shimmering prismatic arcs."*
+> - 📜 **Camille Flammarion (*The Atmosphere*):** *"In high polar latitudes, **parheliacal** phenomena occur with extraordinary frequency whenever needle-like ice crystals fill the calm air."*

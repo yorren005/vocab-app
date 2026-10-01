@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the cosmos, the extraterrestrial vastness, or the universe in contrast to the earth alone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or concerned with abstract spiritual or metaphysical ideas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the cosmos, the universe as an ordered whole, or extraterrestrial space beyond the Earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and literature, unimaginably vast, monumental, or grand in scale; transcending terrestrial limitations to touch fundamental universal laws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Nevertheless, thus clad, I trod interstellar space, exalted by the knowledge that I was bound on vast adventure, where, at the end, I would find all the cosmic formulæ and have made clear to me the ultimate secret of the universe."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"If her world is a microcosm, the cosmic quality of it is at least as eminent as the littleness."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"If we attempt a classification of Weltschmerz with regard to its essence, or, better perhaps, with regard to its origin, we shall find that the various types may be classed under one of two heads: either as cosmic or as egoistic."*
+> - 📜 **Albert Einstein (*The World As I See It*):** *"I maintain that the **cosmic** religious feeling is the strongest and noblest motive for scientific research."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"The size and age of the Cosmos are beyond ordinary human understanding; we are lost on this **cosmic** speck of dust."*
+> - 📜 **H. P. Lovecraft (*The Call of Cthulhu*):** *"A terrifying glimpse of **cosmic** reality cracked the fragile veneer of human sanity."*

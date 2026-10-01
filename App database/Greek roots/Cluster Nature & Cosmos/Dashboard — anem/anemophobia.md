@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek anem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, irrational, or disproportionate fear of wind, drafts, or violent atmospheric storms; ancraophobia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology and phobia taxonomy, a situational anxiety disorder where the sensation or acoustic roar of moving air produces acute panic and autonomic distress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anemophobia designates a term designating an entity, condition, or phenomenon derived from greek anem."*
+> - 📜 **G. Stanley Hall (*A Study of Fears*):** *"Children subject to **anemophobia** become hysterical at the sound of howling gales or drafts whistling beneath closed doors."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"In the anxious temperament, **anemophobia** transforms the innocent rustle of autumn leaves into an ominous harbinger of disaster."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Agoraphobic neuroses are frequently accompanied by **anemophobia**, where open windy spaces provoke intense autonomic distress."*

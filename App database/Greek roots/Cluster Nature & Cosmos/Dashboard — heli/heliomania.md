@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek heli.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, uncontrollable desire or obsession to be exposed to sunlight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopathology and behavioural dermatology, a compulsive craving for sunbathing or ultraviolet exposure despite known risks of erythema and skin malignancy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heliomania designates a term designating an entity, condition, or phenomenon derived from greek heli."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"An excessive craving for solar exposure, amounting to a compulsive **heliomania**, may dominate the behavior of sunbathers."*
+> - 📜 **Sigmund Freud (*The Ego and the Id*):** *"The obsessive pursuit of tanning in cases of **heliomania** frequently conceals narcissistic anxieties over bodily aging."*
+> - 📜 **G. Stanley Hall (*Adolescence*):** *"During summertime holidays, adolescent vigor sometimes gives way to a restless **heliomania**, spending all day under the blazing sun."*

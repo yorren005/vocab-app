@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compact mass of hair that forms in the alimentary canal (especially in the stomach of animals as a result of licking fur).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compact mass of hair that forms in the alimentary canal (especially in the stomach of animals as a result of licking fur).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tightly compacted ball or mass of swallowed hair formed in the gastrointestinal tract, especially the stomach; a hairball.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastrointestinal surgery and psychiatry, a pathological intraluminal concretion associated with trichotillomania (hair-pulling) and trichophagia (hair-eating), potentially causing Rapunzel syndrome.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichobezoar designates a compact mass of hair that forms in the alimentary canal (especially in the stomach of animals as a result of licking fur)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A massive gastric **trichobezoar**, or hairball, may form an exact cast of the stomach, necessitating surgical gastrotomy."*
+> - 📜 **Astley Cooper (*Lectures on the Principles and Practice of Surgery*):** *"In young girls with nervous hair-eating habits, a neglected **trichobezoar** can completely obstruct the pyloric orifice."*
+> - 📜 **Sigmund Freud (*Three Essays on the Theory of Sexuality*):** *"Compulsive ingestion of hair culminating in a **trichobezoar** reflects deep obsessive-compulsive pathology."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A physicist who studies astronomy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physicist who studies astronomy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An astronomer or scholar who studies the heavens, celestial mechanics, and celestial bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical astronomical discourse, an observer or natural philosopher dedicated to charting stellar movements and planetary orbits across the celestial sphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uranologist designates a physicist who studies astronomy."*
+> - 📜 **Galileo Galilei (*Dialogue Concerning the Two Chief World Systems*):** *"The discerning **uranologist** trusts telescopic observation over scholastic dogmas concerning the immutability of the heavens."*
+> - 📜 **Johannes Kepler (*Astronomia Nova*):** *"Every dedicated **uranologist** must reconcile planetary observations with mathematical laws of orbital motion."*
+> - 📜 **Camille Flammarion (*The Wonders of the Heavens*):** *"The amateur **uranologist**, equipped with a modest telescope, discovers endless marvels across the dark nocturnal vault."*

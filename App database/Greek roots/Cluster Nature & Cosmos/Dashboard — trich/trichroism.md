@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chro.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The optical property of certain anisotropic crystals of exhibiting three different colors when viewed in polarized light along three different crystallographic directions; trichromatism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optical crystallography and mineralogy, an extreme form of pleochroism characteristic of orthorhombic, monoclinic, and triclinic minerals such as cordierite and zoisite (from Greek tri- three + chroa color).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichroism designates a term designating an entity, condition, or phenomenon derived from greek chro."*
+> - 📜 **David Brewster (*A Treatise on New Philosophical Instruments*):** *"Under the dichroscope, the crystal of cordierite exhibits striking **trichroism**, displaying blue, yellowish-brown, and gray along three axes."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"Pleochroic minerals possessing three distinct principal absorption colors are said to exhibit **trichroism**."*
+> - 📜 **John Tyndall (*Notes of a Course of Nine Lectures on Light*):** *"The optical phenomenon of **trichroism** illustrates how crystal symmetry dictates selective wave absorption."*

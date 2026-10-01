@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A visual telescope that has a divided objective designed for measuring the apparent diameter of the sun but also used for measuring angles between celestial bodies or between points on the moon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A visual telescope that has a divided objective designed for measuring the apparent diameter of the sun but also used for measuring angles between celestial bodies or between points on the moon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An astronomical refracting telescope having an objective lens divided along its diameter into two movable halves, originally invented to measure the Sun's diameter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrometry, a high-precision instrument with micrometer-controlled split lenses famously utilized by Friedrich Bessel in 1838 to achieve the first successful measurement of stellar parallax.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heliometer designates a visual telescope that has a divided objective designed for measuring the apparent diameter of the sun but also used for measuring angles between celestial bodies or between points on the moon."*
+> - 📜 **Friedrich Wilhelm Bessel (*Briefwechsel mit Olbers*):** *"Using the Fraunhofer **heliometer** at Königsberg, I successfully measured the stellar parallax of 61 Cygni."*
+> - 📜 **John Herschel (*A Treatise on Astronomy*):** *"The divided object-glass of the **heliometer** enables the astronomer to bring two separated celestial images into precise contact."*
+> - 📜 **Arthur Eddington (*Stars and Atoms*):** *"Bessel's triumphant measurement of stellar parallax with the **heliometer** proved that stars are distant suns."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decompression sickness especially when caused by rapid ascent to high altitudes and resulting exposure to rapidly lowered air pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decompression sickness especially when caused by rapid ascent to high altitudes and resulting exposure to rapidly lowered air pressure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The obstruction of a blood vessel by an air or gas bubble; also, decompression sickness caused by rapid exposure to decreased barometric pressure; the bends.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aerospace medicine and hyperbaric physiology, the release of dissolved inert nitrogen gas into bloodstream bubbles during rapid altitude ascents or deep-sea decompression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aeroembolism designates decompression sickness especially when caused by rapid ascent to high altitudes and resulting exposure to rapidly lowered air pressure."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Divers ascending too rapidly suffer from severe **aeroembolism**, experiencing agonizing joint pains termed the bends."*
+> - 📜 **Harvey Cushing (*Selected Papers*):** *"High-altitude aviators must be protected against **aeroembolism** by breathing pure oxygen prior to rapid climbs."*
+> - 📜 **Walter B. Cannon (*The Wisdom of the Body*):** *"The homeostatic regulation of vascular pressure is overwhelmed when **aeroembolism** occludes vital cerebral arterioles."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One species: rue anemone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species: rue anemone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A delicate North American woodland perennial herb (Anemonella thalictroides or Thalictrum thalictroides), commonly called rue anemone, bearing clusters of small white or pale pink flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floristic taxonomy and spring ephemerals, a monotypic genus closely allied to Thalictrum and Anemone, distinguished by tuberous roots, thalictrum-like compound leaves, and petaloid sepals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anemonella designates one species: rue anemone."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The delicate **Anemonella** thalictroides, or rue anemone, blooms profusely on rocky wooded hillsides in early spring."*
+> - 📜 **John Burroughs (*Wake-Robin*):** *"Beside the hepaticas, the slender blossoms of **Anemonella** tremble upon wiry stems at the slightest woodland breeze."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"In native woodland gardens, **Anemonella** is prized for its exquisite white and blush-pink sepals resembling miniature buttercups."*

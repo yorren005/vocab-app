@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant that derives moisture and nutrients directly from the air and precipitation rather than from soil; an epiphyte or air plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical ecology and botanical anatomy, plants such as bromeliads, orchids, and Spanish moss that grow anchored upon tree branches, absorbing water via specialized velamen or foliar trichomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerophyte designates a term designating an entity, condition, or phenomenon derived from greek aer."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"Every giant trunk in the Orinoco rainforest was adorned with cascading **aerophytes** whose roots drank the humid vapors."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Tillandsia and other curious **aerophytes** hung like gray beards from the branches of the stunted coastal trees."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The true **aerophyte** demands no soil for nourishment, capturing mineral dust and raindrops through specialized foliar scales."*

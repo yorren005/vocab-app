@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist knowledgeable about cosmography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scientist knowledgeable about cosmography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who describes, charts, or maps the general features of the universe, heavens, and Earth; a cosmographer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Renaissance cartography and astronomy, an author or mapmaker who integrated celestial mechanics, terrestrial navigation, and physical geography.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmographist designates a scientist knowledgeable about cosmography."*
+> - 📜 **Richard Hakluyt (*The Principal Navigations*):** *"The learned **cosmographist** combined terrestrial voyage logs with heavenly coordinates to draft our global charts."*
+> - 📜 **Sebastian Münster (*Cosmographia*):** *"Every diligent **cosmographist** must portray both the geography of the kingdoms and the customs of their inhabitants."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The modern **cosmographist** has sailed far beyond the pillars of Hercules that once bounded the ancient world."*

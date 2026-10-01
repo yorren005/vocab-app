@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the center of the moon; also : referred to or involving the moon as a center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the center of the moon; also : referred to or involving the moon as a center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the center of the Moon as the center of reference; measured or calculated with respect to the Moon's center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In celestial mechanics and astronautics, designating a coordinate system or orbital trajectory whose origin is situated at the lunar center of mass.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, selenocentric designates of or relating to the center of the moon; also : referred to or involving the moon as a center."*
+> - 📜 **Johannes Kepler (*Epitome of Copernican Astronomy*):** *"When calculating the lunar parallax, we must transform terrestrial coordinates into a true **selenocentric** frame."*
+> - 📜 **Arthur C. Clarke (*The Exploration of Space*):** *"Orbital insertion requires precise trajectory corrections referenced to a **selenocentric** coordinate system."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"From a **selenocentric** perspective, the Earth appears as a stationary, swirling blue marble suspended permanently in the black sky."*

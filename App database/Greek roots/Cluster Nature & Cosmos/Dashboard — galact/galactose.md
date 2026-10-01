@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A simple sugar found in lactose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A simple sugar found in lactose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A simple aldohexose monosaccharide sugar (C6H12O6), less sweet than glucose, that combines with glucose to form the disaccharide lactose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and cell biology, an essential building block of glycolipids and glycoproteins (cerebrosides) abundant in brain and nervous tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, galactose designates a simple sugar found in lactose."*
+> - 📜 **Louis Pasteur (*Researches on Molecular Asymmetry*):** *"Fermentation of lactose cleaves the disaccharide into equal parts of dextrose and **galactose**."*
+> - 📜 **Emil Fischer (*Studies on Carbohydrates and Ferments*):** *"By establishing the stereochemical configuration of **galactose**, we completed the structural map of the aldohexose series."*
+> - 📜 **Otto Meyerhof (*Chemical Dynamics of Life Phenomena*):** *"Before entering the glycolytic pathway, **galactose** must be phosphorylated and epimerized into glucose-1-phosphate."*

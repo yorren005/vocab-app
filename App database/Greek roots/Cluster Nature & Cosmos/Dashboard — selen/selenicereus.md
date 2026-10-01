@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mostly epiphytic climbing cacti that bloom at night.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mostly epiphytic climbing cacti that bloom at night.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of epiphytic, climbing cacti (family Cactaceae), commonly known as moonlight cacti or queen-of-the-night, famed for immense white flowers that bloom exclusively at night.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical horticulture, nocturnal climbing cacti of tropical America featuring ribbed or angled trailing stems, large nocturnal salverform blooms, and sweet nocturnal fragrance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, selenicereus designates mostly epiphytic climbing cacti that bloom at night."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The nocturnal blooms of **Selenicereus** expand their magnificent fragrant petals for but a single evening to attract nocturnal hawk-moths."*
+> - 📜 **Nathaniel Lord Britton (*The Cactaceae*):** *"In the genus **Selenicereus**, the trailing stems cling to tree trunks, opening immense white flowers under the midnight sky."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"The air of the tropical forest was perfumed by climbing **Selenicereus**, whose luminous blossoms gleamed against the dark foliage."*

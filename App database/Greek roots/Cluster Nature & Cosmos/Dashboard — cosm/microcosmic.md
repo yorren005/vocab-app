@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of a microcosm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of a microcosm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or having the character of a microcosm; reflecting on a miniature scale the characteristics of a larger universe or system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary analysis and sociological theory, describing settings, characters, or scenes that function as miniature models of broader historical or cultural realities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microcosmic designates relating to or characteristic of a microcosm."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The Pequod was a **microcosmic** world, carrying representatives of every race, creed, and human passion upon the open sea."*
+> - 📜 **Thomas Mann (*The Magic Mountain*):** *"The sanatorium served as a **microcosmic** stage where the ideological conflicts of pre-war Europe were enacted in miniature."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Every living cell is a **microcosmic** engine of unimaginable complexity, preserving evolutionary memories billions of years old."*

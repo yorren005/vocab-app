@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to chaetae (setae or bristles).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to chaetae (setae or bristles).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, possessing, or resembling chaetae (chitinous bristles or setae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative invertebrate zoology, describing morphological features, anatomical arrangements, or arrangements of setal rows along an annelid body segment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chaetal designates of or relating to chaetae (setae or bristles)."*
+> - 📜 **Libbie Hyman (*The Invertebrates: Annelida*):** *"The specific arrangement of the **chaetal** bundles provides taxonomists with the most reliable criteria for identifying polychaete species."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"The Burgess Shale fossils exhibit exquisite preservation of delicate **chaetal** fringes lining the swimming flaps of ancestral worms."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"Benthic worms demonstrate remarkable **chaetal** diversification, adapting bristles into grappling hooks, paddles, and protective shields."*

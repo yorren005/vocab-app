@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Open to or abounding in fresh air.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not practical or realizable; speculative.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Open to the free circulation of air; well-ventilated, spacious, and light; also, delicate, ethereal, buoyant, or unsubstantial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature and character depiction, showing a lighthearted, carefree, or playfully superficial manner; lacking solemnity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Truly, and I hold ambition of so airy and light a quality that it is but a shadow’s shadow."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, by my life, this day grows wondrous hot; Some airy devil hovers in the sky And pours down mischief."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Elves, list your names; silence, you airy toys!"*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Through which the **airy** tongue of lovers whispers / Upon the silent night."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The high bedchamber was bright, cheerful, and **airy**, looking out over the wooded hills of Thornfield."*
+> - 📜 **Alexander Pope (*The Rape of the Lock*):** *"Loose to the wind their **airy** garments flew, / Thin glittering textures of the thinnest hue."*

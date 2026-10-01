@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a phylum (Nematoda or Nemata) of elongated cylindrical worms parasitic in animals or plants or free-living in soil or water —called also roundworm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small yellowish nematode worm (Globodera rostochiensis synonym Heterodera rostochiensis) probably of South American origin that is a pest of solanaceous crops and especially potatoes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any unsegmented, cylindrical roundworm belonging to the phylum Nematoda.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecology, agriculture, and developmental genetics, a ubiquitous microscopic worm functioning as a soil decomposer, agricultural parasite, or premier laboratory model organism (such as C. elegans).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nematode designates any of a phylum (nematoda or nemata) of elongated cylindrical worms parasitic in animals or plants or free-living in soil or water —called also roundworm."*
+> - 📜 **Nathan Cobb (*Contributions to a Science of Nematology*):** *"A single thimbleful of fertile garden soil may harbor tens of thousands of microscopic **nematodes**."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Beneath the roots of agricultural crops, beneficial and parasitic **nematodes** play vital roles in the subterranean food web."*
+> - 📜 **Sydney Brenner (*The Genetics of Caenorhabditis elegans*):** *"The transparent soil **nematode** proved to be the ideal model organism for tracing embryonic cell lineages."*

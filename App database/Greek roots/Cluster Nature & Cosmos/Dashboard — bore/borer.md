@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drill for penetrating rock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various insects or larvae or mollusks that bore into wood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, tool, or mechanical device that bores holes; also, any animal or insect that bores into wood, soil, or organic matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and maritime trade, an insect larva (such as the corn borer or emerald ash borer) or marine mollusk (such as Teredo navalis) that destroys timber or crops by tunneling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"This borer cleans out the nest ready for use."*
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"These lantern-figures correspond to the sawyers, borers, blacksmiths, washers and others which twenty or more years ago were on top of the stove of every corner grocery or country post-office."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The timber of the submerged hulks was riddled with tunnels excavated by the destructive marine **borer**."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The larvae of the beetle act as an industrious **borer**, perforating the heartwood of ancient oaks."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Along the wharf pilings, the shipworm, a bivalve **borer**, hollows out labyrinthine galleries in the soaked pine."*

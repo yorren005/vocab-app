@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: milk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: related to galactose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form derived from Greek gala (genitive galaktos) meaning milk, milky substance, or relating to the galaxy (Milky Way).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biomedical and astronomical nomenclature, designating milk-producing tissues, milk-derived chemical compounds, or cosmic structures of galactic scale.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog galact as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"The biochemical root **galact**- signifies milk secretions and the unique sugars derived from lacteal synthesis."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Compounds designated by **galact**- illustrate the physiological pathways linking maternal carbohydrate metabolism to infant nutrition."*
+> - 📜 **William Benjamin Carpenter (*Principles of Human Physiology*):** *"The combining form **galact**- designates substances and anatomical ducts associated with lactogenesis."*

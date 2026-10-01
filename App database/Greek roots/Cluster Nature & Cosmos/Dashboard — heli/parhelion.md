@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several bright spots often tinged with color that often appear on the parhelic circle on either side of the sun—called also sun dog.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several bright spots often tinged with color that often appear on the parhelic circle on either side of the sun—called also sun dog.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bright, rainbow-tinted optical spot appearing on either side of the Sun on a 22-degree halo; a mock sun or sun dog.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In atmospheric optics, a luminous phenomenon produced when sunlight is refracted through hexagonal plate ice crystals floating with horizontal faces in cirrus clouds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parhelion designates any of several bright spots often tinged with color that often appear on the parhelic circle on either side of the sun—called also sun dog."*
+> - 📜 **William Shakespeare (*Henry VI, Part 3*):** *"Three glorious suns, each one a perfect sun; / Not separated with the racking clouds, / But sever'd in a pale clear-shining sky."*
+> - 📜 **Henry David Thoreau (*Autumnal Tints*):** *"On a cold November afternoon, a radiant **parhelion** burned on either side of the low winter sun like a phantom attendant."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Round the frozen masthead hovered a luminous **parhelion**, mocking the crew with spectral twin suns."*

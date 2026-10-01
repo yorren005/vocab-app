@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: thread.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: nematode.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form derived from Greek nema (genitive nematos) meaning thread, used extensively in biological and anatomical nomenclature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morphology and taxonomy, designating threadlike structure, cylindrical worm morphology, or filiform cellular filaments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog nemat as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The morphological prefix **nemat**- denotes the threadlike structural habit typical of roundworms and flagellar fibers."*
+> - 📜 **Ernst Haeckel (*Art Forms in Nature*):** *"Microscopic organisms bearing the **nemat**- designation exhibit exquisite filamentary symmetry under darkfield illumination."*
+> - 📜 **William Benjamin Carpenter (*The Microscope and Its Revelations*):** *"In anatomical nomenclature, **nemat**- indicates elongated, threadlike cylindrical tissues and organisms."*

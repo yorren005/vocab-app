@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to arrowworms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to arrowworms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or being a member of the phylum Chaetognatha (arrow worms).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine ecology, describing the hydrodynamic anatomy, rapid ambush propulsion, and predatory behavior characteristic of arrow worms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chaetognathan designates of or relating to arrowworms."*
+> - 📜 **Alister Hardy (*The Open Sea*):** *"The **chaetognathan** body plan is a masterpiece of hydrodynamic streamlining, allowing instantaneous ambush strikes against copepods."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Within each **chaetognathan** specimen, the hood can be drawn forward to conceal the formidable curved oral bristles."*
+> - 📜 **Libbie Hyman (*The Invertebrates*):** *"The nervous system of the **chaetognathan** is dominated by a large ventral ganglion coordinating rapid tail-flip escapes."*

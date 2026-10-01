@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of noctuidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of noctuidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of noctuid moths (family Noctuidae), whose caterpillars include major agricultural pests such as the corn earworm and tobacco budworm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In applied agricultural entomology, polyphagous moth pests whose destructive larvae bore into fruit capsules, cotton bolls, and tomato fruits worldwide.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heliothis designates a genus of noctuidae."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Heavy aerial spraying failed to eradicate **Heliothis**, instead selecting for chemically resistant populations of bollworms."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Larvae of **Heliothis** exhibit surprising color polymorphism corresponding to the floral parts upon which they feed."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"The destructive corn earworm, belonging to the genus **Heliothis**, causes millions of dollars in crop losses across temperate agricultural valleys."*

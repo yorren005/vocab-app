@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek uran.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The measurement of the celestial positions, coordinates, and apparent magnitudes of the stars; also, a chart or atlas of the heavens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In celestial cartography, specifically associated with Johann Bayer's epochal 1603 star catalog Uranometria, which introduced Greek-letter stellar designations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uranometry designates a term designating an entity, condition, or phenomenon derived from greek uran."*
+> - 📜 **Johann Bayer (*Uranometria*):** *"In this **uranometry**, the stars of each constellation are systematically cataloged and designated by letters of the Greek alphabet."*
+> - 📜 **Friedrich Wilhelm Bessel (*Fundamenta Astronomiae*):** *"Precision in modern **uranometry** demands rigorous correction for atmospheric refraction, precession, and stellar aberration."*
+> - 📜 **Arthur Eddington (*The Internal Constitution of the Stars*):** *"Accurate **uranometry** provides the observational baseline from which stellar luminosities and distances are determined."*

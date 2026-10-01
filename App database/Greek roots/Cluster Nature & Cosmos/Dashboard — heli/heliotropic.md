@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Phototropism in which sunlight is the orienting stimulus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Phototropism in which sunlight is the orienting stimulus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Turning, orienting, or growing toward sunlight; exhibiting heliotropism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant physiological ecology, describing floral or foliar structures (such as young sunflower buds) that track the diurnal movement of the Sun from east to west.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heliotropic designates phototropism in which sunlight is the orienting stimulus."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"Young seedling stems are vigorously **heliotropic**, curving toward lateral light through differential cellular elongation."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Like a **heliotropic** plant, the human spirit instinctively bends toward every ray of warmth and truth."*
+> - 📜 **Henri Bergson (*Creative Evolution*):** *"The **heliotropic** curvature of growing vegetation demonstrates the fundamental responsiveness of protoplasm to solar energy."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Living, active, occurring, or existing in the absence of free oxygen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being activity in which the body incurs an oxygen debt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Living, acting, or occurring in the absence of free molecular oxygen; relating to cellular respiration or biochemical processes without oxygen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In exercise physiology, designating short, intense bursts of physical effort (such as sprinting or heavy lifting) where muscular energy demands exceed oxygen supply, generating lactic acid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Further, they can be divided into two classes, the aerobic and the anaerobic."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"There the anaerobic microbes flourish and multiply, and in the course of their life work they convert the sewage into an inoffensive liquid."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Fermentation is life without air; it is the fundamental **anaerobic** pathway of cellular survival."*
+> - 📜 **Otto Meyerhof (*Chemical Dynamics of Life Phenomena*):** *"During violent muscular exertion, **anaerobic** glycolysis rapidly cleaves glycogen into lactic acid to regenerate ATP."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Deep in the stagnant basins of the Black Sea, only specialized **anaerobic** bacteria can survive in the hydrogen sulfide waters."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sun worship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sun worship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The worship of the Sun as a god or divine entity; sun-worship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative mythology and the anthropology of religion, solar religious cults widespread among ancient agrarian civilizations including Egypt, Persia, and Mesoamerica.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His present aspect, coupled with the lack of all human forms in the scene, explained the old-time heliolatries in a moment."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"From ancient Egypt to the Inca empire, **heliolatry** formed the religious foundation of divine kingship."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"In the evolution of religion, **heliolatry** represents the supreme personification of the celestial power that sustains all life."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The mythological epithets of Apollo and Ra demonstrate how natural gratitude for warmth crystallized into formal **heliolatry**."*

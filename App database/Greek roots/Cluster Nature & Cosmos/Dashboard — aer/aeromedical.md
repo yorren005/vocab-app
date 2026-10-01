@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to aviation medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to aviation medicine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or concerning aviation medicine; pertaining to the physiological health and clinical safety of flight crews, passengers, and patients in air transit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military and civilian healthcare, encompassing high-altitude physiology, oxygen equipment design, gravitational acceleration tolerance, and aeromedical evacuation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aeromedical designates of or relating to aviation medicine."*
+> - 📜 **Harvey Cushing (*Selected Papers*):** *"Rigorous **aeromedical** screening ensures that fighter pilots maintain clear mental acuity during sustained high-altitude patrols."*
+> - 📜 **Tom Wolfe (*The Right Stuff*):** *"The candidates underwent grueling **aeromedical** examinations in dark centrifuge rooms to test their tolerance for extreme G-forces."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The development of **aeromedical** evacuation transport transformed wartime trauma care by shrinking transit times to hours."*

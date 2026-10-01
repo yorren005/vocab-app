@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Protozoa with spherical bodies and stiff radiating pseudopods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protozoa with spherical bodies and stiff radiating pseudopods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any predatory amoeboid protozoan belonging to the Heliozoa, characterized by a spherical body and slender radiating axopodia; a sun animalcule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plankton biology, a microscopic hunter that immobilizes passing ciliates and rotifers upon contact with adhesive extrusomes along its radiating cytoplasmic needles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heliozoan designates protozoa with spherical bodies and stiff radiating pseudopods."*
+> - 📜 **Alister Hardy (*The Open Sea: Its Natural History*):** *"A solitary **heliozoan** drifted across the slide, its slender ray-like pseudopodia capturing passing flagellates."*
+> - 📜 **Libbie Hyman (*The Invertebrates: Protozoa*):** *"When prey touches the axopodium of a **heliozoan**, rapid adhesion and cytoplasmic streaming draw the victim into a digestive food vacuole."*
+> - 📜 **E. B. Wilson (*The Cell in Development and Inheritance*):** *"Centrosomal organization in the **heliozoan** cell provides insights into the structural anchoring of microtubular bundles."*

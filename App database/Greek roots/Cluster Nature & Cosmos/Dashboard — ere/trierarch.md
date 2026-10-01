@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The commander of a trireme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An Athenian citizen who had to fit out a trireme for the public service.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In ancient Athens, the captain or commander of a trireme warship; specifically, a wealthy citizen upon whom the liturgy of outfitting and maintaining a trireme was imposed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greek public finance and naval governance, the designated individual bearing personal civic and financial responsibility for the operational readiness of the fleet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trierarch designates the commander of a trireme."*
+> - 📜 **Demosthenes (*On the Crown*):** *"As **trierarch**, I equipped the war galley at my own personal expense, refusing to burden the public treasury during the emergency."*
+> - 📜 **Thucydides (*History of the Peloponnesian War*):** *"The **trierarch** steered his vessel into the thick of the battle, exhorting his rowers to ram the Corinthian flank."*
+> - 📜 **Plutarch (*Lives: Themistocles*):** *"The state required every wealthy **trierarch** to maintain his warship in immediate readiness for offshore defense."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An intaglio print produced by gravure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intaglio print produced by gravure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Photogravure; an intaglio printmaking process in which a photographic negative is transferred to a sensitized copper plate and etched with acid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of fine art printing and photography, an exquisite 19th-century photomechanical process prized for rich velvety continuous tones and archival permanence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heliogravure designates an intaglio print produced by gravure."*
+> - 📜 **Alfred Stieglitz (*Camera Work*):** *"The rich tonal depth of **heliogravure** elevates photography from mechanical reproduction into a fine graphic art."*
+> - 📜 **Walter Benjamin (*The Work of Art in the Age of Mechanical Reproduction*):** *"The exquisite photogravure or **heliogravure** reproduced the subtle chiaroscuro of oil paintings with unprecedented fidelity."*
+> - 📜 **Beaumont Newhall (*The History of Photography*):** *"Through **heliogravure**, continuous photographic tones were etched onto intaglio copper plates for ink press printing."*

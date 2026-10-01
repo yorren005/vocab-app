@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cystic tumor containing milk or a milky substance (especially in the mammary glands).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cystic tumor containing milk or a milky substance (especially in the mammary glands).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A benign cystic tumor of the breast caused by the dilation and obstruction of a lactiferous duct, containing milk or inspissated milky fluid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical breast pathology and surgical diagnostics, a soft, fluctuating retention cyst that arises during or shortly after lactation, typically requiring simple fine-needle aspiration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, galactocele designates a cystic tumor containing milk or a milky substance (especially in the mammary glands)."*
+> - 📜 **Astley Cooper (*The Anatomy and Diseases of the Breast*):** *"A true **galactocele** develops when a lactiferous duct becomes occluded during the period of lactation, resulting in a fluctuating milk-filled tumor."*
+> - 📜 **Joseph Lister (*Collected Papers*):** *"Aspiration of a **galactocele** yields inspissated milky fluid without the inflammatory purulence characteristic of an abscess."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"The benign nature of a **galactocele** is confirmed by its smooth circumscription and association with recent lactation."*

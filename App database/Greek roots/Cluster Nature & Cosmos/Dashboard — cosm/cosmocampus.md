@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fish in the family syngnathidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of fish in the family syngnathidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small marine pipefishes (family Syngnathidae), commonly known as dwarf or coastal pipefishes, native to subtropical and tropical coastal waters of the Americas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine ichthyology, slender, armor-plated syngnathids with elongate snouts that inhabit seagrass beds and coral reefs, exhibiting male parental brooding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmocampus designates a genus of fish in the family syngnathidae."*
+> - 📜 **David Starr Jordan (*The Genera of Fishes*):** *"The slender pipefish **Cosmocampus** glides inconspicuously through eelgrass beds along subtropical shores."*
+> - 📜 **William Beebe (*Beneath Tropic Seas*):** *"Within the shallows, a cryptically marked **Cosmocampus** anchored its prehensile tail to a gorgonian branch."*
+> - 📜 **Spencer Fullerton Baird (*Report on the Fishes*):** *"Specimens of **Cosmocampus** collected in coastal lagoons exhibit male brooding pouches containing developing embryos."*

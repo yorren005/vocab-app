@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stargazers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stargazers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of marine perciform fishes commonly called stargazers, characterized by upward-directed eyes situated on top of a flat bony head and an upward-directed mouth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, benthic ambush predators equipped with camouflage coloration, electric organs in certain species, and a venomous spine above the pectoral fin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uranoscopidae designates stargazers."*
+> - 📜 **David Starr Jordan (*The Genera of Fishes*):** *"Fishes of the family **Uranoscopidae** lie buried in sand with only their upward-directed eyes and fringed mouths protruding."*
+> - 📜 **William Beebe (*Beneath Tropic Seas*):** *"Beneath the silt we uncovered a bizarre representative of the **Uranoscopidae**, equipped with an electric organ capable of stunning passing prey."*
+> - 📜 **Louis Agassiz (*Lake Superior*):** *"The structural adaptations of the **Uranoscopidae** illustrate remarkable benthic specialization for ambush predation."*

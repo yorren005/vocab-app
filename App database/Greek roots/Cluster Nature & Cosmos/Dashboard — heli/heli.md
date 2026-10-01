@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: sun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: helicopter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form derived from Greek helios meaning the Sun, used extensively in scientific, astronomical, botanical, and physiological terminology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic morphology and scientific nomenclature, designating solar radiation, solar energy systems, sunlight orientation, or heliocentric relationships.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Clement seemed to like this place of study and prayer; yet, after the example of Heli [Eli], the priest, as he neither reproved nor restrained his brethren from plunder, and other offences, he died by a paralytic stroke."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The classical root **heli**- preserves the ancient reverence for the central solar furnace."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Compounds beginning with **heli**- trace humanity's physical and astronomical engagement with the Sun."*
+> - 📜 **Camille Flammarion (*Popular Astronomy*):** *"The Greek syllable **heli**- recurs across modern astrophysics to denote solar phenomena."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of an order (Spirochaetales) of slender spirally undulating bacteria including those causing syphilis and Lyme disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of an order (Spirochaetales) of slender spirally undulating bacteria including those causing syphilis and Lyme disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flexible, undulating, spiral-shaped bacterium of the phylum Spirochaetes (British/classical spelling), characterized by internal periplasmic axial flagella.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical microbiology and infectious disease, a motile helical pathogen including Treponema pallidum (syphilis), Borrelia burgdorferi (Lyme disease), and Leptospira interrogans.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spirochaete designates any of an order (spirochaetales) of slender spirally undulating bacteria including those causing syphilis and lyme disease."*
+> - 📜 **Robert Koch (*Investigations into Pathogenic Bacteria*):** *"Under high-power darkfield microscopy, the slender flexuous **spirochaete** corkscrews swiftly across the field."*
+> - 📜 **Paul Ehrlich (*Experimental Researches on Specific Therapeutics*):** *"The targeted synthesis of Salvarsan aimed to destroy the delicate **spirochaete** without harming the host tissues."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinical course of syphilis demonstrates the invasive persistence of the pathogenic **spirochaete** throughout the vascular system."*

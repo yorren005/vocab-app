@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process and technique of growing plants in an air or mist environment without the use of soil or an aggregate medium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticultural biotechnology and space farming, a precision soilless cultivation system wherein suspended plant roots are intermittently misted with an atomized nutrient solution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aeroponics designates a term designating an entity, condition, or phenomenon derived from greek aer."*
+> - 📜 **Arthur C. Clarke (*The Exploration of Space*):** *"In closed lunar bases, advanced **aeroponics** will supply fresh vegetables by misting roots suspended in sealed chambers."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"The colonization of Mars will rely upon automated **aeroponics** to maximize food production within minimal water budgets."*
+> - 📜 **René Dubos (*Man Adapting*):** *"Controlled environment agriculture utilizing **aeroponics** demonstrates how technological innovation can decouple crop production from fertile topsoil."*

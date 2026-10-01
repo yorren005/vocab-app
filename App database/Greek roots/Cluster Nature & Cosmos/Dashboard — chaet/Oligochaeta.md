@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Earthworms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Earthworms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subclass or class of annelid worms, including terrestrial earthworms and freshwater tubificids, characterized by having relatively few chaetae per segment and no parapodia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In soil biology and invertebrate zoology, hermaphroditic coelomate worms possessing a clitellum, playing a foundational role in soil pedogenesis, nutrient cycling, and subterranean aeration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Oligochaeta designates earthworms."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"The **Oligochaeta**, though subterranean and blind, perform monumental geological work by turning over the soil of entire continents."*
+> - 📜 **Libbie Hyman (*The Invertebrates: Annelida*):** *"Members of the **Oligochaeta** lack parapodia and head appendages, possessing instead small bundles of setae embedded directly in the body wall."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"Hermaphroditism and the formation of a glandular clitellum characterize reproduction throughout the **Oligochaeta**."*

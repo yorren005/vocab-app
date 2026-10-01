@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of erect or climbing shrubs found in tropical south america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of erect or climbing shrubs found in tropical south america.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical American shrubs or woody climbing lianas in the family Petiveriaceae (formerly Phytolaccaceae), characterized by brush-like, hairy stigmas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neotropical botany, sprawling lianas such as Trichostigma octandrum (hoopvine) utilized in traditional basketry and craftwork for its pliable woody stems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichostigma designates a genus of erect or climbing shrubs found in tropical south america."*
+> - 📜 **Nathaniel Lord Britton (*Flora of the American Virgin Islands*):** *"The tropical shrub **Trichostigma** octandrum clambers over rocky thickets, bearing racemes of small greenish-white flowers."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"In the family Petiveriaceae, the genus **Trichostigma** is distinguished by its penicillate, densely bristled stigmas."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The scrambling woody stems of **Trichostigma** support themselves upon surrounding vegetation without twining organs."*

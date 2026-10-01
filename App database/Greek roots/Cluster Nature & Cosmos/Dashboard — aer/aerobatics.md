@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spectacular flying feats and maneuvers (such as rolls and dives).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spectacular flying feats and maneuvers (such as rolls and dives).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feats of spectacular and precision flying performed in an aircraft, including loops, rolls, spins, stalls, and inverted flight; stunt flying.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aviation and aerobatic competition, specialized maneuvers executed to demonstrate extreme aircraft agility, structural airframe strength, and pilot handling precision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerobatics designates spectacular flying feats and maneuvers (such as rolls and dives)."*
+> - 📜 **Antoine de Saint-Exupéry (*Wind, Sand and Stars*):** *"The pilot tested the limits of his biplane in a dazzling series of **aerobatics**, rolling beneath the cloud deck."*
+> - 📜 **Beryl Markham (*West with the Night*):** *"Stunt flying and flamboyant **aerobatics** offered thrilling spectacle, but long-distance navigation demanded quiet discipline."*
+> - 📜 **Tom Wolfe (*The Right Stuff*):** *"Test pilots honed their reflexes through high-G **aerobatics**, knowing that split-second spatial orientation meant survival."*

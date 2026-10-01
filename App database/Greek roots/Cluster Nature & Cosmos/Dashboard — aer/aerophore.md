@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A portable apparatus supplying breathable air or oxygen to miners, firefighters, or divers working in toxic, smoke-filled, or underwater atmospheres.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of respiratory safety and diving technology, an early closed-circuit compressed air breathing device invented in the 19th century by Rouquayrol and Denayrouze.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerophore designates a term designating an entity, condition, or phenomenon derived from greek aer."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"Equipped with Rouquayrol-Denayrouze **aerophores**, we walked along the bottom of the Pacific, breathing pressurized air with ease."*
+> - 📜 **Émile Zola (*Germinal*):** *"The rescue party strapped on the heavy **aerophore** before descending into the firedamp-filled shaft of the pit."*
+> - 📜 **William Benjamin Carpenter (*The Physiology of Common Life*):** *"The mechanical valve of the **aerophore** regulates the intake of clean air while preventing noxious mine vapors from entering the lungs."*

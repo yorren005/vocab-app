@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprising only the manatees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprising only the manatees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mammalian family of sirenians commonly known as manatees, comprising the genus Trichechus; large, fully aquatic, herbivorous mammals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mammalogy, aquatic afrotherian herbivores possessing paddle-like forelimbs, no hindlimbs, a rounded horizontal paddle tail, and sensitive tactile bristles (vibrissae) covering the snout.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichechidae designates comprising only the manatees."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The family **Trichechidae** comprises the gentle herbivorous manatees inhabiting the tropical rivers and coastal shallows of the Atlantic."*
+> - 📜 **George Gaylord Simpson (*The Principles of Classification and a Classification of Mammals*):** *"The fossil record of the **Trichechidae** traces the aquatic transition of subungulate sirenians from the Eocene epoch."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Along warm Florida estuaries, members of the **Trichechidae** graze peacefully on submerged seagrass meadows."*

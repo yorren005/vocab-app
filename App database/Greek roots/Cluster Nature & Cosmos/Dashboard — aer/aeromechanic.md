@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to aerodynamics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to aerodynamics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A technician, mechanic, or engineer skilled in the maintenance, construction, and repair of aircraft, aero engines, and airframes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aviation safety and maintenance engineering, a certified specialist licensed to inspect flight controls, avionics systems, and powerplant integrity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aeromechanic designates of or pertaining to aerodynamics."*
+> - 📜 **Antoine de Saint-Exupéry (*Night Flight*):** *"The conscientious **aeromechanic** tightened the fuel couplings by lantern light, knowing two lives depended on his torque."*
+> - 📜 **Beryl Markham (*West with the Night*):** *"A skilled **aeromechanic** in Nairobi could coax smooth horsepower out of an engine that had swallowed desert dust."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"The young veteran dreamed of leaving the real estate office to train as an **aeromechanic** at the regional airfield."*

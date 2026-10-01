@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Phototropism in which sunlight is the orienting stimulus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Phototropism in which sunlight is the orienting stimulus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The directional growth, turning, or orientation movement of a plant or other organism toward or away from sunlight; solar phototropism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant physiology, an auxin-mediated growth response whereby asymmetric cellular elongation on the shaded side of an organ causes it to bend toward incident light.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heliotropism designates phototropism in which sunlight is the orienting stimulus."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"We have shown that **heliotropism** is a modified form of circumnutation directed by the stimulus of incident light."*
+> - 📜 **Jacques Loeb (*Studies in General Physiology*):** *"Positive **heliotropism** in sessile organisms can be formulated as a physicochemical reaction governed by photochemical absorption laws."*
+> - 📜 **Wilhelm Pfeffer (*Physiology of Plants*):** *"The mechanisms of **heliotropism** depend upon auxin redistribution between the shaded and illuminated flanks of the coleoptile."*

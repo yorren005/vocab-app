@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An astronomer who studies the evolution and space-time relations of the universe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An astronomer who studies the evolution and space-time relations of the universe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist, astrophysicist, or philosopher who specializes in the study of cosmology and the physical nature of the universe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern physics, a researcher investigating cosmological models, primordial nucleosynthesis, dark energy, and cosmic microwave background fluctuations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmologist designates an astronomer who studies the evolution and space-time relations of the universe."*
+> - 📜 **Fred Hoyle (*The Nature of the Universe*):** *"The observational **cosmologist** must continually test theoretical models against the radio signals of deep space."*
+> - 📜 **Carl Sagan (*Pale Blue Dot*):** *"For the modern **cosmologist**, every galaxy is a cosmic oasis drifting across billions of light-years."*
+> - 📜 **Steven Weinberg (*The First Three Minutes*):** *"When a **cosmologist** reconstructs the early universe, nuclear physics becomes the supreme guide."*

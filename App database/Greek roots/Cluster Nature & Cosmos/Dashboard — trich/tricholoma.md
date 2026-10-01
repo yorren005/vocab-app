@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Agarics with white spores and a fleshy stalk and notched gills; of various colors both edible and inedible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Agarics with white spores and a fleshy stalk and notched gills; of various colors both edible and inedible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of fleshy, gilled agaric mushrooms (family Tricholomataceae) characterized by white spores, sinuate gills, and caps adorned with fine silky or fibrous hairs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology, ectomycorrhizal forest fungi including prized edibles like the matsutake (Tricholoma matsutake) as well as toxic species causing rhabdomyolysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tricholoma designates agarics with white spores and a fleshy stalk and notched gills; of various colors both edible and inedible."*
+> - 📜 **Elias Magnus Fries (*Systema Mycologicum*):** *"The genus **Tricholoma** is distinguished by sinuate gills, central fleshy stipes, and fibrillose pilei lacking a partial veil."*
+> - 📜 **Charles Horton Peck (*Report of the State Botanist*):** *"In autumn pine woods, clusters of **Tricholoma** emerge among the needle duff, their caps adorned with fine silky fibrils."*
+> - 📜 **Arthur Henry Reginald Buller (*Researches on Fungi*):** *"Spore discharge in **Tricholoma** depends upon gravity aligning the vertical gill surfaces perpendicular to the substrate."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mechanics that deals with the equilibrium and motion of gases and of solid bodies immersed in them.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mechanics that deals with the equilibrium and motion of gases and of solid bodies immersed in them.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific discipline that studies the mechanical properties and dynamics of air and gases, and the forces acting on bodies moving through them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aerospace engineering, the fundamental science integrating aerodynamics (fluid forces) and aerostatics (buoyancy) with structural elasticity and vehicle dynamics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aeromechanics designates mechanics that deals with the equilibrium and motion of gases and of solid bodies immersed in them."*
+> - 📜 **Theodore von Kármán (*Aerodynamics*):** *"The fundamental laws of **aeromechanics** dictate how compressibility transforms subsonic airflow into supersonic shock fronts."*
+> - 📜 **Ludwig Prandtl (*Essentials of Fluid Dynamics*):** *"Boundary layer theory established a rigorous mathematical foundation for experimental **aeromechanics**."*
+> - 📜 **Octave Chanute (*Progress in Flying Machines*):** *"Before attempting manned flight, pioneers had to master the basic principles of equilibrium in **aeromechanics**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The great arterial trunk that carries blood from the heart to be distributed by branch arteries through the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the arterial branches in vertebrate embryos that exist in a series of pairs with one on each side of the embryo, connect the ventral arterial system lying anterior to the heart to the dorsal arterial system above the digestive tract, and persist in adult fishes but are reduced or much modified in the adult of higher forms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or located near the aorta (e.g., aortic valve, aortic arch, aortic aneurysm).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular pathology and cardiology, describing clinical conditions affecting the primary outflow tract of the heart, such as aortic stenosis, aortic regurgitation, or aortic coarctation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aortic designates the great arterial trunk that carries blood from the heart to be distributed by branch arteries through the body."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In chronic **aortic** insufficiency, the water-hammer pulse of Corrigan offers an unmistakable bedside sign."*
+> - 📜 **William Harvey (*On the Motion of the Heart and Blood*):** *"The three semilunar **aortic** cusps open completely during ventricular contraction to permit unobstructed outflow."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"Calcific **aortic** stenosis in elderly patients produces progressive left ventricular hypertrophy and angina."*

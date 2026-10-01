@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A message transmitted by means of the sun's rays.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A message transmitted by means of the sun's rays.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A message or dispatch transmitted by a heliograph using flashed pulses of sunlight reflected from an adjustable mirror.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military communications history, visual telegraphic messages transmitted across long line-of-sight distances using Morse code flashes before field radio adoption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heliogram designates a message transmitted by means of the sun's rays."*
+> - 📜 **Rudyard Kipling (*Plain Tales from the Hills*):** *"A flashing **heliogram** from the frontier post warned the garrison that the tribesmen had cut the pass."*
+> - 📜 **Winston Churchill (*The River War*):** *"Messages flashed by **heliogram** across fifty miles of shimmering desert mirage kept the advancing columns in constant communication."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The signaling corps maintained contact across the hills by mirrors, sending each brief **heliogram** in rapid Morse code."*

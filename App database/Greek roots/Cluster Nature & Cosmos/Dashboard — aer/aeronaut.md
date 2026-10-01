@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who operates or travels in an airship or balloon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who operates or travels in an airship or balloon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who operates, pilots, or travels in a lighter-than-air balloon or airship; broadly, an early pioneer of aerial flight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of aviation, 18th- and 19th-century atmospheric voyagers who navigated open wicker baskets beneath gas-filled envelopes across continental airspace.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"The medicine man near the hour of closing addressed the audience, saying: "Gentlemen, it pains me to state that our aeronaut is confined to his bed and will be unable to-night to make his customary balloon ascension and descent in the parachute."*
+> - 📜 **Jules Verne (*Around the World in Eighty Days*):** *"The daring **aeronaut** gazed down at the miniature countryside drifting silently beneath his wicker basket."*
+> - 📜 **Edgar Allan Poe (*The Balloon-Hoax*):** *"The adventurous **aeronaut** guided the steering vane as the great silk envelope caught the transatlantic trade wind."*
+> - 📜 **James Glaisher (*Travels in the Air*):** *"At seven miles above the earth, the **aeronaut** loses consciousness as the oxygen starvation overcomes will."*

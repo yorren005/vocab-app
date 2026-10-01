@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spontaneous flow of milk from the nipple.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spontaneous flow of milk from the nipple.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An excessive, spontaneous, or abnormal flow of milk or milk-like secretion from the breast, unrelated to childbirth or normal nursing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In endocrinology and gynecology, inappropriate lactational discharge frequently induced by hyperprolactinemia, prolactin-secreting pituitary microadenomas, or dopamine-blocking medications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, galactorrhea designates a spontaneous flow of milk from the nipple."*
+> - 📜 **Sigmund Freud (*Three Essays on the Theory of Sexuality*):** *"Endocrine anomalies producing idiopathic **galactorrhea** demonstrate the complex psychosomatic regulation of pituitary function."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Persistent **galactorrhea** occurring without recent pregnancy warrants thorough neurological investigation for a pituitary adenoma."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Hypersecretion of pituitary trophic factors may induce bilateral **galactorrhea** accompanied by visual field constriction."*

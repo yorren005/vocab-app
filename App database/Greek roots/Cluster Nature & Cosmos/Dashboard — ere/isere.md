@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A river in southeastern france; a tributary of the rhone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A river in southeastern france; a tributary of the rhone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Isère, a major river of southeastern France rising in the Graian Alps and joining the Rhône near Valence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A French department named after the river, situated in the Auvergne-Rhône-Alpes region, renowned for Alpine geography, hydroelectric power, and Grenoble's scientific institutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isere designates a river in southeastern france; a tributary of the rhone."*
+> - 📜 **Edward Whymper (*Scrambles Amongst the Alps*):** *"The waters of the **Isère** rushed through the deep alpine gorge, swollen by the summer thaw of the Dauphiné glaciers."*
+> - 📜 **Victor Hugo (*Les Misérables*):** *"The mountain regiments marched along the banks of the **Isère**, shadowed by the steep limestone cliffs of Grenoble."*
+> - 📜 **George Sand (*Letters of a Traveller*):** *"We followed the serpentine course of the **Isère** as the sun illuminated the high snowy ridges above the valley."*

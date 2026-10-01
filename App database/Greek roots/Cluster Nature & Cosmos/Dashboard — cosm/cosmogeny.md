@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cosm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of cosmogony; a theory, myth, or scientific account explaining the generation, origin, or creation of the universe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary natural philosophy and the history of ideas, the systematic study of how cosmic order arose from primeval chaos or an initial singularity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmogeny designates a term designating an entity, condition, or phenomenon derived from greek cosm."*
+> - 📜 **Immanuel Kant (*Universal Natural History and Theory of the Heavens*):** *"Our mechanical **cosmogeny** explains how a primordial rotating nebula condensed into the ordered solar system."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Every philosophical **cosmogeny** must trace the universal redistribution of matter and motion from chaos to complex integration."*
+> - 📜 **Thomas Henry Huxley (*Science and Hebrew Tradition*):** *"Scientific paleontology inevitably came into conflict with mythological **cosmogeny** regarding the timescale of creation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Carpet moths.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carpet moths.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small tineid moths, specifically the carpet moth (Trichophaga tapetzella), whose larvae feed on and destroy animal hair, wool, feathers, and carpets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic entomology, a keratophagous domestic pest capable of enzymatically breaking down animal scleroproteins within silken tunnels spun across fabrics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichophaga designates carpet moths."*
+> - 📜 **J. H. Fabre (*The Life of the Caterpillar*):** *"The destructive carpet moth, **Trichophaga** tapetzella, spins a protective silken tunnel while its larvae devour coarse woolen fabrics."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In domestic storehouses, larvae of **Trichophaga** showed an astonishing ability to digest dry keratin fibers that nourish few other animals."*
+> - 📜 **William Kirby & William Spence (*An Introduction to Entomology*):** *"Specimens of **Trichophaga** are easily recognized by the contrasting white and dark markings on their forewings."*

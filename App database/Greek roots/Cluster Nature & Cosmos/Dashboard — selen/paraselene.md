@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek selen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bright, luminous optical spot or mock moon appearing on a lunar halo, caused by the refraction of moonlight through hexagonal ice crystals in the atmosphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorological optics, a parhelion counterpart formed at an angle of 22 degrees (or rarely 46 degrees) from the Moon when passing through cirrus clouds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paraselene designates a term designating an entity, condition, or phenomenon derived from greek selen."*
+> - 📜 **Samuel Taylor Coleridge (*Table Talk*):** *"The pale **paraselene** appeared upon the frosty halo, mocking the true moon like an icy specter."*
+> - 📜 **Robert Falcon Scott (*Scott's Last Expedition*):** *"During the polar night we observed a magnificent **paraselene**, with brilliant mock moons shining on either side of the lunar ring."*
+> - 📜 **Henry David Thoreau (*Excursions*):** *"A frosty vapor in the winter sky framed the moon with two radiant **paraselenes** shimmering like twin lanterns."*

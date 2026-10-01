@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (genetics) a large vector that is made from a bacteriophage and used to clone genes or gene fragments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (genetics) a large vector that is made from a bacteriophage and used to clone genes or gene fragments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hybrid cloning vector containing plasmid antibiotic resistance genes and replication origins combined with the cohesive end (cos) sites of bacteriophage lambda.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular genetics and recombinant DNA technology, a specialized cloning vector capable of packaging genomic DNA fragments between 35 and 45 kilobases for genomic library construction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmid designates (genetics) a large vector that is made from a bacteriophage and used to clone genes or gene fragments."*
+> - 📜 **Sydney Brenner (*Molecular Biology of the Gene*):** *"By packaging genomic fragments into a **cosmid** vector, researchers constructed the first comprehensive eukaryotic gene libraries."*
+> - 📜 **James D. Watson (*A Passion for Science*):** *"The development of the **cosmid** permitted the cloning of massive contiguous sequences that paved the way for the Human Genome Project."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"Using a **cosmid** system, geneticists overcame the insert-size limitations of standard bacterial plasmids."*

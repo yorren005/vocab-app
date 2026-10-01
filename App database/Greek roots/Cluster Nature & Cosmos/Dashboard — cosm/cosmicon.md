@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cosm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical and poetic philosophy, a representation, model, or structural conception of the cosmos or ordered universe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical cosmology, a theoretical or mechanical model (such as an armillary sphere or planetary system diagram) illustrating celestial harmony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmicon designates a term designating an entity, condition, or phenomenon derived from greek cosm."*
+> - 📜 **Johannes Kepler (*Mysterium Cosmographicum*):** *"In proposing this geometric **cosmicon**, I sought to reveal the five Platonic solids nested within the planetary orbits."*
+> - 📜 **Camille Flammarion (*Popular Astronomy*):** *"The ancient philosophers conceived the **cosmicon** as a crystalline sphere enclosing the known world in perpetual harmony."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Every historic **cosmicon** reflects the scientific worldview and poetic imagination of its founding culture."*

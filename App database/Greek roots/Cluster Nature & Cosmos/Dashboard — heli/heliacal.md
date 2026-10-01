@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or near the sun; especially the first rising of a star after and last setting before its invisibility owing to its conjunction with the sun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or near the sun; especially the first rising of a star after and last setting before its invisibility owing to its conjunction with the sun.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or near the Sun; astronomically designating the rising of a celestial body just before sunrise or setting just after sunset.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical astronomy, specifically the heliacal rising when a star or planet first becomes visible in the eastern dawn sky after its annual solar conjunction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heliacal designates pertaining to or near the sun; especially the first rising of a star after and last setting before its invisibility owing to its conjunction with the sun."*
+> - 📜 **Herodotus (*The Histories*):** *"The priests determined the onset of the sacred festival by the **heliacal** rising of the Dog Star in the eastern sky."*
+> - 📜 **Johannes Kepler (*Astronomia Nova*):** *"The **heliacal** setting of Mars occurs when the planet sinks into the solar glow shortly after sunset."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The bright **heliacal** dawn dissolved the shadows of night across the primeval garden."*

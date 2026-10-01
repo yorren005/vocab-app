@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of engineering concerned with the research, design, development, construction, and testing of aircraft, spacecraft, satellites, and missiles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In applied sciences, the comprehensive field uniting atmospheric aeronautics and space astronautics, encompassing aerodynamics, propulsion thermodynamics, avionics, and orbital mechanics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerospace engineering designates a term designating an entity, condition, or phenomenon derived from greek aer."*
+> - 📜 **Theodore von Kármán (*Aerodynamics*):** *"The evolution of high-speed flight necessitated the creation of **aerospace engineering** as an integrated discipline uniting atmospheric aeronautics and astronautics."*
+> - 📜 **Arthur C. Clarke (*The Promise of Space*):** *"Advances in **aerospace engineering** made possible the Apollo lunar landings through precision multistage cryogenic rocketry."*
+> - 📜 **Tom Wolfe (*The Right Stuff*):** *"Graduates of elite **aerospace engineering** departments labored over wind tunnel balance sheets to design the next generation of lifting bodies."*

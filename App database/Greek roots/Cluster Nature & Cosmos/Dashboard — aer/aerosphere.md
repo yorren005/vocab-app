@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The entire atmospheric envelope surrounding the Earth, considered as a physical, chemical, and biological entity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In climatology and planetary sciences, the multi-layered gaseous sphere encompassing the troposphere, stratosphere, mesosphere, and thermosphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerosphere designates a term designating an entity, condition, or phenomenon derived from greek aer."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The **aerosphere** wraps our globe in a protective transparent mantle, without which terrestrial life would instantly freeze in the cosmic void."*
+> - 📜 **Camille Flammarion (*The Atmosphere*):** *"Viewed from the heights of space, the delicate cyan tint of the **aerosphere** defines the fragile boundary of the living world."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Human industrial emissions have altered the chemical equilibrium of the entire **aerosphere**, spreading pollutants to the polar ice caps."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek heli.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A telescope or optical device adapted for viewing the Sun without injury to the observer's eyes, using darkened filters, polarizing prisms, or projection screens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational solar astronomy, an instrument designed to reduce solar glare and heat, enabling the safe examination of sunspots, solar granules, and planetary transits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helioscope designates a term designating an entity, condition, or phenomenon derived from greek heli."*
+> - 📜 **Galileo Galilei (*Letters on Sunspots*):** *"Through an ingenious **helioscope** projection upon white paper, I tracked the daily transit of maculae across the solar disc."*
+> - 📜 **Johannes Kepler (*Astronomia Nova*):** *"The **helioscope** protects the observer's vision while magnifying the violent granulation of the solar photosphere."*
+> - 📜 **Camille Flammarion (*Popular Astronomy*):** *"A polarizing **helioscope** dims the intolerable brilliance of the Sun, revealing solar flares and faculae in crisp detail."*

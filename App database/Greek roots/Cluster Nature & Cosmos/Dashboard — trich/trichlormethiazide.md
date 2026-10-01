@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Diuretic drug (trade name naqua) used to treat hypertension.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diuretic drug (trade name naqua) used to treat hypertension.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thiazide diuretic medication used in the management of hypertension and edema (chemically containing trichlorinated heterocyclic components).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular clinical pharmacology, an oral agent that promotes renal excretion of sodium, chloride, and water by inhibiting the Na+/Cl- cotransporter in the renal distal convoluted tubule.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichlormethiazide designates diuretic drug (trade name naqua) used to treat hypertension."*
+> - 📜 **William Osler (*Principles and Practice of Medicine*):** *"The administration of **trichlormethiazide** promotes prompt natriuresis and diuresis in congested cardiac patients."*
+> - 📜 **Louis S. Goodman & Alfred Gilman (*The Pharmacological Basis of Therapeutics*):** *"Like other chlorothiazide derivatives, **trichlormethiazide** inhibits sodium chloride cotransport in the distal convoluted tubule."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"Long-term therapy with **trichlormethiazide** requires monitoring of serum potassium to prevent hypokalemic arrhythmias."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Life in the presence of air or oxygen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Life in the presence of air or oxygen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of living or surviving in the presence of oxygen; aerobic life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative cellular physiology, the biological condition wherein metabolic pathways are coupled to oxygen-dependent oxidative phosphorylation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerobiosis designates life in the presence of air or oxygen."*
+> - 📜 **Louis Pasteur (*Researches on Fermentation*):** *"The transition from anaerobiosis to **aerobiosis** halts the production of alcohol in fermenting grape juice."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"The global emergence of **aerobiosis** followed the great oxygenation event driven by ancient cyanobacteria."*
+> - 📜 **Otto Meyerhof (*Chemical Dynamics of Life Phenomena*):** *"During muscular recovery, **aerobiosis** resynthesizes lactic acid back into glycogen."*

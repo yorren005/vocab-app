@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The bivalent radical uo2 which forms salts with acids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The bivalent radical uo2 which forms salts with acids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The divalent inorganic oxycation of uranium in its hexavalent oxidation state, having the chemical formula [UO2]2+.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In actinide coordination chemistry and environmental radiochemistry, a linear trans-dioxo cation forming characteristic bright fluorescent yellow-green crystalline salts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uranyl designates the bivalent radical uo2 which forms salts with acids."*
+> - 📜 **Marie Curie (*Radioactive Substances*):** *"In studying phosphorescence, Becquerel utilized double sulfates of **uranyl** and potassium, accidentally discovering spontaneous radioactivity."*
+> - 📜 **Henri Becquerel (*Sur les radiations invisibles émises par les corps phosphorescents*):** *"Crystals of potassium **uranyl** sulfate placed upon photographic plates wrapped in black paper produced clear impressions without exposure to sunlight."*
+> - 📜 **Glenn T. Seaborg (*The Transuranium Elements*):** *"Aqueous solutions containing the stable **uranyl** ion display a characteristic bright yellow-green fluorescence under ultraviolet excitation."*

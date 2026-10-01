@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek selen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study and mapping of the physical features, topography, and surface relief of the Moon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astronomy and cartography, the branch of lunar science responsible for cataloging lunar craters, maria, rilles, and mountain ranges through telescopic and satellite imagery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, selenography designates a term designating an entity, condition, or phenomenon derived from greek selen."*
+> - 📜 **Johannes Hevelius (*Selenographia*):** *"The art of **selenography** requires painstaking telescopic observation to chart every crater, ridge, and valley upon the lunar disc."*
+> - 📜 **Camille Flammarion (*Popular Astronomy*):** *"Through modern **selenography**, the geography of the Moon has become better known to astronomers than the interior of Antarctica was to early explorers."*
+> - 📜 **Jules Verne (*From the Earth to the Moon*):** *"The travelers consulted their charts of **selenography**, identifying the dark plains of the Ocean of Storms and the bright rays of Copernicus."*

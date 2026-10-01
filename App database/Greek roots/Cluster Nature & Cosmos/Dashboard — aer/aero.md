@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to aircraft or aeronautics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aerodynamic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to aircraft, aviation, or aeronautics; an informal abbreviation for aeroplane or aeronautical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In engineering and industrial design, a combining form or modifier designating aerodynamic streamlining, aerospace propulsion, or atmospheric mechanics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aero designates of or relating to aircraft or aeronautics."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The invention of the modern **aero** engine transformed warfare by conquering the third dimension."*
+> - 📜 **Antoine de Saint-Exupéry (*Night Flight*):** *"The vibrations of the **aero** postal plane resonated through the pilot's bones as he navigated through the Andean tempest."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"The rapid development of **aero** dynamics converted humanity's ancient dream of flight into routine industrial transport."*

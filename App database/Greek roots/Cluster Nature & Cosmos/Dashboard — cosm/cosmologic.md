@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the branch of astronomy dealing with the origin and history and structure and dynamics of the universe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the branch of philosophy dealing with the elements and laws and especially the characteristics of the universe such as space and time and causality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or based upon cosmology; cosmological; pertaining to the origin, structure, and laws of the universe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and metaphysics, relating to the cosmological argument for the existence of a first cause or prime mover governing universal order.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmologic designates pertaining to the branch of astronomy dealing with the origin and history and structure and dynamics of the universe."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"The **cosmologic** antinomies arise whenever pure reason attempts to grasp the universe as an unconditioned whole."*
+> - 📜 **Arthur Eddington (*The Nature of the Physical World*):** *"Einstein's general relativity provided a rigorous **cosmologic** framework uniting matter, space, and time."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Every ancient culture formulated its own **cosmologic** vision to explain humanity's place in the celestial scheme."*

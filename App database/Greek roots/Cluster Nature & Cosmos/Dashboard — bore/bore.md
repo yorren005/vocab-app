@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who evokes boredom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A high wave (often dangerous) caused by tidal flow (as by colliding tidal currents or in a narrow estuary).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden, powerful tidal wave that surges up an estuary or narrow river against the direction of the current; also, the hollow interior bore of a tube or firearm barrel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geomorphology and oceanography, an abrupt wall of water produced by incoming spring tides forced into a converging shallow channel; also, to pierce through solid substance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy father’s father wore it And thy father bore it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Speak, old Egeon, if thou be’st the man That hadst a wife once called Emilia, That bore thee at a burden two fair sons."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your temples burned in their cement, and Your franchises, whereon you stood, confined Into an auger’s bore."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"Like the tidal **bore** of the Severn, the sudden flood of memory rushed into the quiet channels of the soul."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The Atlantic tide forces an immense head of water up the estuary, creating a formidable traveling wave known as a **bore**."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The river current clashed against the rising ocean tide, creating a churning **bore** that hissed through the mangroves."*

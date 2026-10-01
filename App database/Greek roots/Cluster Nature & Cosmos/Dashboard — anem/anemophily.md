@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek anem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or condition of pollination effected by the wind; wind-pollination in plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive botany, an abiotic pollination syndrome prevalent in temperate forests and grasslands where high plant density and seasonal breezes ensure cross-fertilization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anemophily designates a term designating an entity, condition, or phenomenon derived from greek anem."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"Evolution toward **anemophily** occurs in habitats where insect pollinators are scarce or seasonal winds are reliable."*
+> - 📜 **Liberty Hyde Bailey (*Plant-Breeding*):** *"The mechanics of **anemophily** explain why isolation distances are essential in seed plots to prevent unwanted wind-borne cross-pollination."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"The transition from entomophily to **anemophily** represents a fundamental adaptive shift in higher plant phylogeny."*

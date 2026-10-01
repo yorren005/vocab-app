@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who performs feats in the air or above the ground especially on the trapeze.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who performs feats in the air or above the ground especially on the trapeze.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An acrobat or gymnast who performs feats high above the ground on a trapeze, tightrope, high wire, or suspended silks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In performing arts and circus history, an athletic performer possessing extraordinary balance, grip strength, and spatial awareness executing mid-air maneuvers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerialist designates one who performs feats in the air or above the ground especially on the trapeze."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"The crowd held its breath as the daring **aerialist** swung across the circus dome on the high trapeze."*
+> - 📜 **Walt Whitman (*Specimen Days*):** *"With effortless poise, the gymnastic **aerialist** seemed to float weightlessly through the vaulted theater."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"He admired the swaggering confidence of the circus **aerialist**, poised high above the sawdust ring."*

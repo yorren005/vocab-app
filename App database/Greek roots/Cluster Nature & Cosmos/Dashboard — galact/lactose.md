@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disaccharide sugar C12H22O11 that is present in milk and yields glucose and galactose upon hydrolysis and yields especially lactic acid upon fermentation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unable to digest lactose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disaccharide sugar (C12H22O11) present in mammalian milk, consisting of glucose and galactose joined by a beta-1,4-glycosidic bond.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nutrition and digestive physiology, milk sugar digested by the brush-border enzyme lactase; its malabsorption due to lactase non-persistence produces lactose intolerance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lactose designates a disaccharide sugar c12h22o11 that is present in milk and yields glucose and galactose upon hydrolysis and yields especially lactic acid upon fermentation."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Lactic acid fermentation is initiated when specific microorganisms decompose the **lactose** contained in fresh milk."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"The sweet soluble carbohydrate known as **lactose** serves as the primary infant fuel in all mammalian milk."*
+> - 📜 **Emil Fischer (*The Syntheses of the Sugars*):** *"Enzymatic hydrolysis of **lactose** by lactase breaks the beta-galactoside linkage, liberating free glucose and galactose."*

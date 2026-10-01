@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: milkwort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: milkwort.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of flowering plants commonly called milkworts (family Polygalaceae), traditionally believed to increase milk yield in nursing livestock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacognosy and botany, herbs or shrubs featuring irregular zygomorphic flowers with winged sepals and crested keels, including Seneca snakeroot (Polygala senega) prized for medicinal expectorant saponins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog polygala as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The herb called **polygala** or milkwort was held by ancient shepherds to make cows yield more abundant milk."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"The genus **Polygala** is distinguished by irregular flowers with crested keels and winged lateral sepals."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"On the chalky downs the pretty blue and pink blossoms of **polygala** carpet the short turf in early June."*

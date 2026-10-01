@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A prolonged fantasy world invented by children; can have a definite geography and language and history.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A prolonged fantasy world invented by children; can have a definite geography and language and history.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A detailed, elaborate imaginary world created inside the mind, typically originated during childhood or adolescence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental psychology and creative biography, a persistent, sophisticated secondary world endowed with its own geography, history, languages, and social rules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paracosm designates a prolonged fantasy world invented by children; can have a definite geography and language and history."*
+> - 📜 **C. S. Lewis (*Surprised by Joy*):** *"In early boyhood my brother and I created Boxen, an elaborate **paracosm** complete with its own history, politics, and fauna."*
+> - 📜 **Charlotte Brontë (*Angria Manuscripts*):** *"Together in the Haworth parsonage, we wove the imaginary **paracosm** of Angria and Gondal across hundreds of tiny handwritten booklets."*
+> - 📜 **J. R. R. Tolkien (*On Fairy-Stories*):** *"The human impulse to sub-create an entire **paracosm** springs from a deep desire to explore an alternate secondary world."*

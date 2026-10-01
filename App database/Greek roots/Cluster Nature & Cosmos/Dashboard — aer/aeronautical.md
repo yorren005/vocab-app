@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to aeronautics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to aeronautics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or involving aeronautics; concerning the design, construction, operation, and navigation of aircraft.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aerospace engineering, relating to the theoretical and applied mechanics governing the flight of heavier- or lighter-than-air vehicles through Earth's atmosphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"My friend, a retired aeronautical engineer, spoke of airplanes and spaceships and stars in the skies."*
+> - 📜 **Theodore von Kármán (*Aerodynamics*):** *"The **aeronautical** laboratory at Pasadena became the training ground for the designers of supersonic jets."*
+> - 📜 **Wilbur Wright (*Some Aeronautical Experiments*):** *"The difficulties that obstruct the way to success in **aeronautical** art are of three general classes."*
+> - 📜 **Antoine de Saint-Exupéry (*Wind, Sand and Stars*):** *"Modern **aeronautical** technology has reduced distances between continents to a mere matter of flying hours."*

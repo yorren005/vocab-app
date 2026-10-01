@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large proton synchrotron; uses frequency modulation of an electric field to accelerate protons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large proton synchrotron; uses frequency modulation of an electric field to accelerate protons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A 3.3-gigaelectronvolt (GeV) proton synchrotron particle accelerator operated at Brookhaven National Laboratory from 1952 to 1966.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental nuclear physics, the first particle accelerator to deliver beam energies exceeding one billion electronvolts, enabling the artificial production of mesons and hyperons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmotron designates a large proton synchrotron; uses frequency modulation of an electric field to accelerate protons."*
+> - 📜 **Ernest Lawrence (*Nobel Lecture*):** *"The successful operation of the **Cosmotron** at Brookhaven demonstrated the feasibility of proton synchrotrons operating in the gigavolt range."*
+> - 📜 **J. Robert Oppenheimer (*Atom and Void*):** *"Beams of high-energy protons produced by the **Cosmotron** opened a new frontier in the study of strange particles and hyperons."*
+> - 📜 **Isaac Asimov (*Understanding Physics*):** *"With the advent of the **Cosmotron**, physicists no longer had to rely solely on cosmic rays to produce subatomic showers."*

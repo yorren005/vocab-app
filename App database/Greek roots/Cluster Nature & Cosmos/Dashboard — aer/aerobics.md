@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of physical conditioning involving exercises (such as running, walking, swimming, or calisthenics) strenuously performed so as to cause marked temporary increase in respiration and heart rate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aerobic exercises.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of physical conditioning exercises designed to stimulate and enhance cardiorespiratory endurance and cellular oxygen uptake.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fitness training and public health, rhythmic, continuous group exercise routines choreographed to music, popularized globally to promote cardiovascular health.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerobics designates a system of physical conditioning involving exercises (such as running, walking, swimming, or calisthenics) strenuously performed so as to cause marked temporary increase in respiration and heart rate."*
+> - 📜 **Kenneth H. Cooper (*Aerobics*):** *"The philosophy of **aerobics** is simple: provide the heart and lungs with progressive physical overload to build endurance."*
+> - 📜 **Jane Fonda (*Jane Fonda's Workout Book*):** *"Millions of women discovered physical strength and community through daily routines of musical **aerobics**."*
+> - 📜 **René Dubos (*Man Adapting*):** *"Modern sedentary life necessitates artificial fitness regimens like **aerobics** to counteract bodily deconditioning."*

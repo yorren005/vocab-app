@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bront.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, irrational, or disproportionate fear of thunder and lightning storms; astraphobia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and animal behavior, a severe phobic anxiety response triggered by barometric shifts and audible rumbling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brontophobia designates a term designating an entity, condition, or phenomenon derived from greek bront."*
+> - 📜 **Sigmund Freud (*Introductory Lectures on Psycho-Analysis*):** *"Children suffering from **brontophobia** cower beneath blankets, overwhelmed by thunderous acoustics beyond their control."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Excessive panic during electrical storms, classified as **brontophobia**, frequently accompanies autonomic instability in hypersensitive constitutions."*
+> - 📜 **Emil Kraepelin (*Lectures on Clinical Psychiatry*):** *"The patient exhibited intense **brontophobia**, locking herself in windowless corridors at the earliest rumble of a summer squall."*

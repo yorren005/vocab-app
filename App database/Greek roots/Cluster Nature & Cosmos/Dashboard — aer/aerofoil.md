@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: airfoil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: airfoil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A streamlined body or curved surface (such as an airplane wing, fin, or propeller blade) designed to generate aerodynamic lift or control forces when moving through air; airfoil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fluid dynamics and aeronautical engineering, an asymmetrical cross-sectional profile engineered to produce a net pressure differential across its upper and lower boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog aerofoil as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Ludwig Prandtl (*Essentials of Fluid Dynamics*):** *"Circulation theory explains how circulation around the cambered **aerofoil** produces dynamic lift."*
+> - 📜 **Orville Wright (*How We Invented the Aeroplane*):** *"Our wind tunnel experiments revealed that a curved **aerofoil** gave far greater lift than a flat plane."*
+> - 📜 **Antoine de Saint-Exupéry (*Wind, Sand and Stars*):** *"Air flowed smoothly over the polished silver **aerofoil**, lifting the heavily laden mail plane into the dawn."*

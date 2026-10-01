@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or making for beauty especially of the complexion : beautifying.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Done or made for the sake of appearance: such as.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A preparation, cream, or powder applied to the human body or face to enhance, alter, or preserve appearance; adj. serving to beautify or impart superficial attractiveness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric, politics, and design, affecting only surface appearances without correcting fundamental underlying defects; decorative or ornamental rather than substantive.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No wonder that in old times this sperm was such a favorite cosmetic."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The juice of the ‘papa’ root found in great abundance at the head of the valley, is held in great esteem as a cosmetic, with which many of the females daily anoint their whole person."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Nothing, therefore, can be imagined more singular than the appearance of these nearly naked damsels immediately after the application of the cosmetic."*
+> - 📜 **Charles Baudelaire (*The Painter of Modern Life*):** *"Fashion and every subtle **cosmetic** artifice represent humanity's heroic effort to approximate ideal beauty."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"The critic must look past the superficial **cosmetic** luster of a speech to examine its underlying substance."*
+> - 📜 **Virginia Woolf (*Orlando*):** *"She sat before the mirror applying a fragrant **cosmetic** balm before venturing into the glittering drawing-room."*

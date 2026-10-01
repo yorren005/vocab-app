@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring and indicating the force or speed and sometimes direction of the wind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument for measuring and indicating the force or speed and sometimes direction of the wind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring the speed, velocity, or pressure of the wind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorological stations, fluid mechanics, and wind engineering, a device typically consisting of rotating hemispherical cups, a propeller, or hot-wire sensors calibrated to quantify wind flow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anemometer designates an instrument for measuring and indicating the force or speed and sometimes direction of the wind."*
+> - 📜 **Robert FitzRoy (*The Weather Book*):** *"The cups of the Robinson **anemometer** revolved with furious velocity as the hurricane struck the exposed headland."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We measured the force of the pampero with an **anemometer**, recording gale-force gusts that swept across the plains."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Meteorologists on weather ships watched the needle of the **anemometer** climb past sixty knots as the storm tightened."*

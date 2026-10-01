@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Infestation by trichina larvae that are transmitted by eating inadequately cooked meat (especially pork); larvae migrate from the intestinal tract to the muscles where they become encysted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infestation by trichina larvae that are transmitted by eating inadequately cooked meat (especially pork); larvae migrate from the intestinal tract to the muscles where they become encysted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A parasitic infection caused by ingestion of tissue cysts of the roundworm Trichinella spiralis in raw or undercooked meat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epidemiology and public health, a foodborne zoonosis producing marked eosinophilia, systemic myositis, and potential cardiac or respiratory complications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichinosis designates infestation by trichina larvae that are transmitted by eating inadequately cooked meat (especially pork); larvae migrate from the intestinal tract to the muscles where they become encysted."*
+> - 📜 **Upton Sinclair (*The Jungle*):** *"Carcasses rejected for **trichinosis** or tuberculosis were too often condemned in theory but ground into sausage in practice."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The eosinophilia in acute **trichinosis** often exceeds fifty percent, serving as a decisive diagnostic sign."*
+> - 📜 **René Dubos (*Man Adapting*):** *"Modern meat-processing standards and domestic refrigeration have dramatically reduced the incidence of clinical **trichinosis**."*

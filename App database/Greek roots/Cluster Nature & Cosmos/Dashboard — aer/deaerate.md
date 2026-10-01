@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove air or gas from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove air or gas from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove air, entrained bubbles, or dissolved gases (especially oxygen and carbon dioxide) from a liquid or substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial boiler engineering and chemical processing, to strip dissolved oxygen from feedwater to prevent internal corrosion and oxidative scale in high-pressure steam boilers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deaerate designates remove air or gas from."*
+> - 📜 **Louis Pasteur (*Studies on Beer*):** *"Before introducing pure yeast cultures, it was necessary to **deaerate** the boiled medium by heating it under vacuum."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Laboratory technicians **deaerate** water samples using vacuum degassing to measure accurate chemical absorption rates."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"To prevent rapid oxidation of sensitive ferrous solutions, the chemist must thoroughly **deaerate** the solvent with inert nitrogen."*

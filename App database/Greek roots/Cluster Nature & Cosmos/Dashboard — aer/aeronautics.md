@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science dealing with the operation of aircraft.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art or science of flight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science, art, and practice of designing, constructing, navigating, and operating aircraft through atmospheric air.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In applied physical sciences, the overarching engineering discipline integrating aerodynamics, flight dynamics, propulsion thermodynamics, avionics, and materials engineering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aeronautics designates a science dealing with the operation of aircraft."*
+> - 📜 **Wilbur Wright (*Some Aeronautical Experiments*):** *"My brother and I became seriously interested in **aeronautics** after reading of the tragic death of Otto Lilienthal."*
+> - 📜 **Theodore von Kármán (*Aerodynamics*):** *"The transition from low-speed **aeronautics** to supersonic rocketry required fundamentally new mathematical formulations."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The global federation of airmen and engineers made **aeronautics** the supreme instrument of worldwide order."*

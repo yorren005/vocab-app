@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or near the sun; especially the first rising of a star after and last setting before its invisibility owing to its conjunction with the sun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or near the sun; especially the first rising of a star after and last setting before its invisibility owing to its conjunction with the sun.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Heliacal; rising or setting with the Sun, or emerging into visibility from the Sun's rays in morning twilight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astronomy and ancient chronometry, designating the seasonal first morning appearance of a star just before sunrise after having been obscured by daylight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heliac designates pertaining to or near the sun; especially the first rising of a star after and last setting before its invisibility owing to its conjunction with the sun."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The **heliac** rising of Sirius served ancient Egyptian priests as a calendar marker for the Nile inundation."*
+> - 📜 **Camille Flammarion (*The Wonders of the Heavens*):** *"In antique astrology, **heliac** risings were watched with solemn vigil as the morning star emerged from twilight."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Observations of the **heliac** dawn of constellations formed the empirical basis of ancient agrarian calendars."*

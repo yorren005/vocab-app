@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Huge quadrupedal herbivorous dinosaur common in north america in the late jurassic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Huge quadrupedal herbivorous dinosaur common in north america in the late jurassic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of gigantic sauropod dinosaurs of the late Jurassic period, characterized by a massive quadrupedal body, long whip-like tail, and long neck.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomic history, a famous genus name ('thunder lizard') coined by O. C. Marsh in 1879, famously synonymized with Apatosaurus for a century before being resurrected in 2015.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"Further in the gallery was the huge skeleton barrel of a Brontosaurus."*
-> - 📜 **F. H. Costello (*Sure-dart*):** *"THUNDER-BEAST Atlantosaurus, or “gigantic lizard.” A dinosaur of the brontosaurus or “thunder lizard” family, and the largest land animal known."*
+> - 📜 **Othniel Charles Marsh (*Notice of New Jurassic Reptiles*):** *"For this genus and species the name **Brontosaurus** excelsus is proposed, in allusion to the enormous size of the animal."*
+> - 📜 **Henry Fairfield Osborn (*Skeletons of Sauropodous Dinosaurs*):** *"The mounting of the **Brontosaurus** skeleton in the American Museum established a new landmark in vertebrate paleontology."*
+> - 📜 **Adrian Desmond (*The Hot-Blooded Dinosaurs*):** *"The public imagination embraced **Brontosaurus** as the archetype of peaceful reptilian gigantism roaming primeval lagoons."*

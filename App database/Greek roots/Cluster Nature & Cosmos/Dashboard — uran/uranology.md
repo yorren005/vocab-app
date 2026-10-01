@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek uran.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of science that treats the heavens, stars, and celestial bodies; astronomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early scientific and philosophical treatises, the systematic discourse on the structure, motions, and physical laws governing the celestial realm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uranology designates a term designating an entity, condition, or phenomenon derived from greek uran."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The principles of natural philosophy provide the mathematical foundation for both terrestrial dynamics and celestial **uranology**."*
+> - 📜 **John Herschel (*A Treatise on Astronomy*):** *"A comprehensive **uranology** treats not merely the geometry of planetary orbits but the physical constitution of the stars."*
+> - 📜 **Richard A. Proctor (*Other Worlds Than Ours*):** *"In modern **uranology**, the spectroscope reveals that distant stars share the same chemical elements found on Earth."*

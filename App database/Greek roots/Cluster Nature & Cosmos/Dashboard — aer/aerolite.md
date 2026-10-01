@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stony meteorite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stony meteorite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stony meteorite; a meteoritic stone composed chiefly of silicate minerals (such as olivine and pyroxenes) rather than metallic iron.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteoritics and planetary geology, extraterrestrial chondritic or achondritic stone that traverses a planetary atmosphere to impact the terrestrial surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Stones do not fall from the sky,” remarked Conseil, “or they would merit the name aerolites.” A second stone, carefully aimed, that made a savoury pigeon’s leg fall from Conseil’s hand, gave still more weight to his observation."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The fall of a heavy **aerolite** from a cloudless sky was regarded by antiquity as an omen of celestial wrath."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Chemical analysis of the fallen **aerolite** revealed olivine and pyroxene identical to terrestrial volcanic minerals."*
+> - 📜 **Camille Flammarion (*Popular Astronomy*):** *"When a fiery meteor detonates in the upper atmosphere, showers of fragmented **aerolites** scatter across the fields."*

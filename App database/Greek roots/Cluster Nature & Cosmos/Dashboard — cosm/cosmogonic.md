@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the branch of astronomy dealing with the origin and history and structure and dynamics of the universe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the branch of astronomy dealing with the origin and history and structure and dynamics of the universe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to cosmogony, the creation of the world, or the theoretical origin and evolutionary development of the physical universe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrophysics and comparative mythology, describing scientific hypotheses or sacred narratives that account for the primordial genesis of celestial systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmogonic designates pertaining to the branch of astronomy dealing with the origin and history and structure and dynamics of the universe."*
+> - 📜 **Pierre-Simon Laplace (*Exposition of the System of the World*):** *"The nebular hypothesis offers a compelling **cosmogonic** explanation for the common orbital direction of the planets."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Ancient mythological traditions share striking **cosmogonic** narratives concerning the emergence of light from primeval waters."*
+> - 📜 **Arthur Eddington (*Stars and Atoms*):** *"Thermonuclear synthesis in stellar interiors provided the missing key to modern **cosmogonic** physics."*

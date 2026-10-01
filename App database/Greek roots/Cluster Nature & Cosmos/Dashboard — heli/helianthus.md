@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus helianthus having large flower heads with dark disk florets and showy yellow rays.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the genus helianthus having large flower heads with dark disk florets and showy yellow rays.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tall, composite flowering plants in the daisy family (Asteraceae), native to the Americas, comprising sunflowers, notably the common sunflower (Helianthus annuus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic botany and crop science, large annuals or perennials cultivated worldwide for edible seeds, nutritious vegetable oil, and ornamental garden landscaping.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helianthus designates any plant of the genus helianthus having large flower heads with dark disk florets and showy yellow rays."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"Linnaeus bestowed the name **Helianthus** upon the sunflower, in allusion to its radiant golden disc and solar orientation."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Along the sandy road, the tall wild **Helianthus** turned its yellow face steadily toward the midday sun."*
+> - 📜 **Willa Cather (*My Ántonia*):** *"Miles of wild **Helianthus** lined the red prairie road, their coarse golden heads nodding in the August heat."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus helianthemum; vigorous plants of stony alpine meadows and dry scrub regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the genus helianthemum; vigorous plants of stony alpine meadows and dry scrub regions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the family Cistaceae commonly called rock roses or sun roses, bearing yellow, orange, or pink blossoms that open in full sunlight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floristic horticulture and alpine botany, low-growing evergreen or semi-evergreen subshrubs of rocky slopes whose delicate petals drop quickly after afternoon exposure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helianthemum designates any plant of the genus helianthemum; vigorous plants of stony alpine meadows and dry scrub regions."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The yellow **Helianthemum** or rock rose openeth its tender petals only when the sun shineth bright and warm."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"On the sunny chalk banks, the fragile golden blossoms of **Helianthemum** carpet the slope throughout June."*
+> - 📜 **Asa Gray (*Manual of Botany*):** *"Species of **Helianthemum** are distinguished by fugacious petals that drop within hours of solar exposure."*

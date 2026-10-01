@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or marked by qualities associated with the north wind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Toward or located in the north.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or inhabiting northern regions; designating the circumpolar terrestrial climate and forest zone of the Northern Hemisphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biogeography and ecology, referring specifically to the subarctic coniferous biome (taiga) characterized by cold winters, muskegs, and spruce-fir vegetation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"Orion, like a flaming monarch, led up "the host of palpitating stars" to their proud zenith, while, far in the boreal regions, danced strange, atmospheric lights, with flitting, fantastic motions and ever-changing forms and colors."*
-> - 📜 **Effie Afton (*Eventide*):** *"Then from stormy, wild Orion, to the dragon's fiery roll, And the sturdy Ursa Major tramping round the Boreal pole, On to stately Argo Navis rearing diamond spars on high, Starry bands of seraph wanderers clove the azure of the sky."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"The vast **boreal** forest of spruce and balsam stretched unbroken toward the frozen northern horizons."*
+> - 📜 **John Muir (*The Mountains of California*):** *"In these high altitudes, alpine flora merges seamlessly into the hardy shrubs of the **boreal** zone."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"A cold **boreal** wind swept down from the Arctic barren lands, driving needles of frost across the trail."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cutlassfishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cutlassfishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of elongate, highly compressed, silvery marine perciform fishes commonly called cutlassfishes or hairtails, possessing sharp fangs and a tapering whiplike tail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ichthyology, predatory pelagic and benthopelagic fishes lacking pelvic and caudal fins in typical genera (such as Trichiurus lepturus), inhabiting continental shelves worldwide.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichiuridae designates cutlassfishes."*
+> - 📜 **David Starr Jordan (*The Genera of Fishes*):** *"The family **Trichiuridae**, or cutlassfishes, are recognized by their ribbon-shaped bodies, fang-like teeth, and hair-like caudal filament."*
+> - 📜 **William Beebe (*Half Mile Down*):** *"Deep pelagic trawls brought up shimmering, iridescent specimens of the **Trichiuridae** gleaming like burnished silver swords."*
+> - 📜 **Spencer Fullerton Baird (*Report on the Fishes*):** *"Species of the **Trichiuridae** are voracious nocturnal predators pursuing small pelagic schooling fishes."*

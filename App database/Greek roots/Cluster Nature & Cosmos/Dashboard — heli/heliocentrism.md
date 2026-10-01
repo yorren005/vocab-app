@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek heli.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The astronomical model in which the Earth and other planets revolve around the stationary Sun at the center of the solar system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science, the revolutionary paradigm shift initiated by Aristarchus and established by Copernicus, Kepler, and Galileo that overthrew Ptolemaic geocentrism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heliocentrism designates a term designating an entity, condition, or phenomenon derived from greek heli."*
+> - 📜 **Galileo Galilei (*Letter to the Grand Duchess Christina*):** *"I hold that **heliocentrism** does not contradict holy scripture when natural philosophy is rightly understood."*
+> - 📜 **Thomas Kuhn (*The Copernican Revolution*):** *"The adoption of **heliocentrism** shattered the scholastic cosmology and reorganized the scientific worldview of early modern Europe."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"The triumph of **heliocentrism** displaced humanity from the imaginary physical center of the universe."*

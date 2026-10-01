@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of air, atmosphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of air, atmosphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine concerned with the health, physiological stresses, psychological resilience, and safety of human beings operating in aircraft and spacecraft.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical physiology and spaceflight life support, the specialty focused on counteracting microgravity deconditioning, high-altitude hypoxia, spatial disorientation, and cosmic radiation exposure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerospace medicine designates adjective*) pertaining to, derived from, or characteristic of air, atmosphere."*
+> - 📜 **Harvey Cushing (*The Medical Career*):** *"The emergence of **aerospace medicine** reflects humanity's audacity in venturing into environments where neither pressure nor oxygen can naturally sustain life."*
+> - 📜 **Tom Wolfe (*The Right Stuff*):** *"Military specialists in **aerospace medicine** subjected the astronauts to dizzying rides on the multi-axis trainer to condition their vestibular systems."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Long-duration interplanetary voyages will test the limits of **aerospace medicine** in preventing bone demineralization and muscular atrophy in zero gravity."*

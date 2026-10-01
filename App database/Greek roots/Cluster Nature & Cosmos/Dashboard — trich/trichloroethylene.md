@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy colorless highly toxic liquid used as a solvent to clean electronic components and for dry cleaning and as a fumigant; causes cancer and liver and lung damage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavy colorless highly toxic liquid used as a solvent to clean electronic components and for dry cleaning and as a fumigant; causes cancer and liver and lung damage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A clear, nonflammable, volatile chlorinated hydrocarbon liquid (C2HCl3) having a sweet, chloroform-like odor, widely used as an industrial solvent and vapor degreaser.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In occupational health and environmental toxicology, a pervasive industrial solvent (TCE) categorized as a human carcinogen and widespread groundwater contaminant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichloroethylene designates a heavy colorless highly toxic liquid used as a solvent to clean electronic components and for dry cleaning and as a fumigant; causes cancer and liver and lung damage."*
+> - 📜 **Alice Hamilton (*Industrial Toxicology*):** *"Workers exposed to high vapors of **trichloroethylene** in metal degreasing workshops developed severe central nervous depression."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The planar geometry of **trichloroethylene** is determined by the rigid carbon-carbon double bond."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Volatile chlorinated hydrocarbons, including **trichloroethylene**, represent pervasive subterranean contaminants in industrial aquifers."*

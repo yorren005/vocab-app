@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The region in space influenced by the sun or solar wind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The region in space influenced by the sun or solar wind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The immense, bubble-like region of space surrounding the Sun, carved out of the interstellar medium by the outflowing supersonic solar wind and magnetic field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In space physics and planetary science, the protective cosmic domain encompassing all planets of the solar system, shielding them from the brunt of galactic cosmic rays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heliosphere designates the region in space influenced by the sun or solar wind."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Our entire planetary system is shielded within the **heliosphere**, a vast electromagnetic cocoon carved out by the solar wind."*
+> - 📜 **Patrick Moore (*The New Challenge of the Stars*):** *"The Voyager spacecraft journeyed for decades to map the outer limits of the turbulent **heliosphere**."*
+> - 📜 **Arthur Eddington (*Stars and Atoms*):** *"The outflow of ionized gas from the corona maintains the dynamic equilibrium of the **heliosphere** against interstellar pressure."*

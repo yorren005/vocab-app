@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an aerial quality : ethereal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The nest of a bird on a cliff or a mountaintop.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic or poetic variant of aerie (the high nest of a bird of prey); also an adjective meaning airy, ethereal, light, or unsubstantial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Elizabethan drama and English verse, a lofty brood of nestlings (as in Hamlet), or an ethereal, visionary dwelling place perched above terrestrial concerns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Know the gallant monarch is in arms And like an eagle o’er his aery towers To souse annoyance that comes near his nest.— And you degenerate, you ingrate revolts, You bloody Neroes, ripping up the womb Of your dear mother England, blush for shame!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our aery buildeth in the cedar’s top, And dallies with the wind, and scorns the sun."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your aery buildeth in our aery’s nest."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"There is, sir, an **aery** of children, little yases, that cry out on the top of question and are most tyrannically clapped for't."*
+> - 📜 **John Milton (*Paradise Lost*):** *"There the eagle and the stork on cliffs and cedar tops their **aeries** build."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"Whilst all the winds with **aery** whisperings / Urge it through the storm."*

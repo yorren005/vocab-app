@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: universe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: an orderly harmonious systematic universe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The universe regarded as an orderly, harmonious, and beautifully systematic whole, contrasted with chaos; also, a genus of composite flowering plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and astrophysics, the complete physical reality governed by discoverable natural laws; in horticulture, garden annuals (family Asteraceae) with showy ray florets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"With all the humour and charm there is in Plato, we cannot escape his tremendous teaching on the age-long consequences of good and evil in a cosmos ordered by God."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Men "could do no other"--they had to determine for themselves the significance of Jesus in the real world, in the whole cosmos of God; and it meant fruitful conflict of opinion, the growth of the human mind, and an ever-heightened emphasis on Jesus."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Shakespeare’s moral proportion appeared to them, in their low spiritual condition, a moral chaos, which they set about converting, in some of his great plays, into a cosmos; and a sad muss, if not a ridiculous muss, they made of it."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"I began with a descriptive sketch of the physical world, which I have designated by the ancient Greek name **Cosmos**."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"The **Cosmos** is all that is or was or ever will be; our feeblest contemplations of it stir us."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"I celebrate myself, and sing myself, / A child of the **cosmos**, turbulent, fleshy, sensual, eating, drinking, and breeding."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An aurora that occurs in earth's northern hemisphere —called also northern lights.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A northern constellation between Hercules and Boötes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Northern; used as a Latin/Greek specific epithet in scientific, botanical, and astronomical designations (most notably in Aurora Borealis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In atmospheric physics and astronomy, designating radiant luminous displays occurring in northern polar ionospheric latitudes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Searchlight. _(He stands at Cormack’s corner, watching.)_ BLOOM: _Aurora borealis_ or a steel foundry?"*
-> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"In few places does one see such wonderful sunsets and cloud effects as in Orkney, followed often a little later by the "searchlight" rays of the Aurora Borealis."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"The luminous appearance of the Aurora Borealis, or Northern Lights, in the firmament, foretells the approach of stormy and boisterous weather."*
+> - 📜 **Henry Wadsworth Longfellow (*The Song of Hiawatha*):** *"And the northern lights, the **borealis**, / Flashed across the purple midnight."*
+> - 📜 **Robert Louis Stevenson (*In the South Seas*):** *"Even under equatorial stars, memory recalled the flickering ribbons of the aurora **borealis** over Scottish hills."*
+> - 📜 **Fridtjof Nansen (*Farthest North*):** *"The aurora **borealis** streamed across the zenith like a shimmering curtain of electric green and violet fire."*

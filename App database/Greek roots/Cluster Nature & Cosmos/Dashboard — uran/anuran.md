@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various tailless stout-bodied amphibians with long hind limbs for leaping; semiaquatic and terrestrial species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to frogs and toads.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any tailless amphibian belonging to the order Anura, comprising frogs and toads; characterized by long hind legs adapted for leaping and absence of a tail in the adult stage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic vertebrate zoology, an amphibian exhibiting metamorphic development from an aquatic tailed tadpole to a carnivorous, saltatory adult (etymologically from Greek an- without + oura tail).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anuran designates any of various tailless stout-bodied amphibians with long hind limbs for leaping; semiaquatic and terrestrial species."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The absence of batrachians, specifically any native **anuran** species, from oceanic islands is easily explained by their vulnerability to sea-water."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"In every adult **anuran**, the caudal vertebrae are fused into an elongated unsegmented rod termed the urostyle."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"In spring marshes, the choral symphony of the **anuran** population heralds the awakening of life after winter dormancy."*

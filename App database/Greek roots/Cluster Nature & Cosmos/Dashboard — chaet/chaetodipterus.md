@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of ephippidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of ephippidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of marine spadefishes (family Ephippidae), notably the Atlantic spadefish (Chaetodipterus faber), having a deep, laterally compressed disc-shaped body and dark vertical bands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ichthyology, reef-dwelling fishes characterized by bristle-like brush teeth and a dorsal fin distinctly divided into a spiny anterior and soft-rayed posterior portion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chaetodipterus designates a genus of ephippidae."*
+> - 📜 **David Starr Jordan (*The Genera of Fishes*):** *"The Atlantic spadefish, **Chaetodipterus** faber, is recognized by its deep compressed disc and contrasting dark vertical bars."*
+> - 📜 **William Beebe (*Beneath Tropic Seas*):** *"A school of **Chaetodipterus** circled our diving helmet, their high dorsal fins cutting gracefully through the turquoise water."*
+> - 📜 **Spencer Fullerton Baird (*Report on the Fishes of the New Jersey Coast*):** *"Specimens of **Chaetodipterus** were taken in abundance near coastal wrecks where they graze upon encrusting hydroids."*

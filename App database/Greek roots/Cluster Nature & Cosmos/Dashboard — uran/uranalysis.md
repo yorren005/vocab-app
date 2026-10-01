@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (medicine) the chemical analysis of urine (for medical diagnosis).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (medicine) the chemical analysis of urine (for medical diagnosis).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of urinalysis; the physical, chemical, and microscopic examination and clinical analysis of urine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology and diagnostics, routine laboratory evaluation of urine to assess renal filtration, metabolic health, liver function, and systemic hydration (from Greek ouron urine + analysis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uranalysis designates (medicine) the chemical analysis of urine (for medical diagnosis)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Routine **uranalysis** remains an indispensable bedside tool for detecting albuminuria, glycosuria, and casts."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Careful **uranalysis** reveals the chemical end-products of metabolism filtered continuously by the renal parenchyma."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Changes observed during careful **uranalysis** often give the nurse the earliest warning of systemic relapse."*

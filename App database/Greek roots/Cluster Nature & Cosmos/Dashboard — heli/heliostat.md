@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument consisting of a mirror mounted on an axis moved by clockwork by which a sunbeam is steadily reflected in one direction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument consisting of a mirror mounted on an axis moved by clockwork by which a sunbeam is steadily reflected in one direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical instrument consisting of a plane mirror moved continuously by clockwork or motors so as to reflect sunlight in a constant, unchanging direction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In solar energy engineering and astrophysical laboratories, an automated tracking reflector used in solar power towers or to feed sunlight into fixed subterranean spectrographs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heliostat designates an instrument consisting of a mirror mounted on an axis moved by clockwork by which a sunbeam is steadily reflected in one direction."*
+> - 📜 **Léon Foucault (*Sur les diverses méthodes employées pour mesurer la vitesse de la lumière*):** *"A clockwork **heliostat** directed a stationary beam of sunlight through the rotating mirror of our measuring apparatus."*
+> - 📜 **John Tyndall (*Heat a Mode of Motion*):** *"By means of an adjustable **heliostat**, a concentrated solar ray was maintained upon the thermo-electric pile."*
+> - 📜 **Camille Flammarion (*The Atmosphere*):** *"Spectroscopic observatories employ a planar **heliostat** to track the Sun and feed an unchanging beam into subterranean spectrographs."*

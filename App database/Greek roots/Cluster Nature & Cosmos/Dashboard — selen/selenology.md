@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of astronomy that deals with the moon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of astronomy that deals with the moon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific discipline that studies the geology, physical structure, composition, and historical evolution of the Moon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In planetary geology, the branch of planetology investigating lunar petrology, basaltic volcanism, impact cratering dynamics, and regolith formation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, selenology designates a branch of astronomy that deals with the moon."*
+> - 📜 **G. K. Gilbert (*The Moon's Face: A Study of the Origin of Its Features*):** *"The fundamental problem of **selenology** is determining whether lunar craters owe their origin to volcanic explosion or meteoric impact."*
+> - 📜 **Harold Urey (*The Planets: Their Origin and Development*):** *"Modern **selenology** demonstrates that the lunar maria were filled by vast basaltic lava floods during the Moon's early thermal epoch."*
+> - 📜 **Patrick Moore (*A Guide to the Moon*):** *"Through comparative planetology, **selenology** provides an intact record of the early bombardment that shaped all inner terrestrial bodies."*

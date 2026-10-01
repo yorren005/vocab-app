@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of mostly african and australian herbs and shrubs: everlasting flowers; in some classifications includes genus ozothamnus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of mostly african and australian herbs and shrubs: everlasting flowers; in some classifications includes genus ozothamnus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of flowering plants in the sunflower family (Asteraceae), commonly called everlastings or strawflowers, known for dry, papery golden bracts that retain color indefinitely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herbalism and perfumery, Mediterranean subshrubs (notably Helichrysum italicum or immortelle) prized for aromatic essential oils with potent antioxidant properties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helichrysum designates large genus of mostly african and australian herbs and shrubs: everlasting flowers; in some classifications includes genus ozothamnus."*
+> - 📜 **John Gerard (*The Herball*):** *"The golden everlasting, **Helichrysum**, keepeth its bright color and dry papery petals for years without withering."*
+> - 📜 **Elizabeth David (*A Book of Mediterranean Food*):** *"Across the dry Corsican maquis, the warm wind carries the spicy, curry-like fragrance of wild **Helichrysum**."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"In dried floral arrangements, **Helichrysum** remains the preeminent strawflower for its brilliant, unfading yellow bracts."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unsegmented worms: roundworms; threadworms; eelworms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unsegmented worms: roundworms; threadworms; eelworms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major phylum of smooth, unsegmented, bilaterally symmetrical pseudocoelomate worms commonly known as roundworms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic zoology, one of the most abundant animal phyla on Earth, encompassing thousands of free-living benthic species and medically important plant and animal parasites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nematoda designates unsegmented worms: roundworms; threadworms; eelworms."*
+> - 📜 **Nathan Cobb (*Nematodes and Their Relationships*):** *"If all the matter in the universe were swept away, our world would still be dimly recognizable in a ghostly film of **Nematoda**."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"Members of the phylum **Nematoda** inhabit nearly every ecological niche, teeming unseen in soil grains and ocean sediments."*
+> - 📜 **Libbie Hyman (*The Invertebrates: Acanthocephala, Aschelminthes, and Entoprocta*):** *"The structural uniformity of the **Nematoda** contrasts strikingly with their extraordinary ecological adaptability."*

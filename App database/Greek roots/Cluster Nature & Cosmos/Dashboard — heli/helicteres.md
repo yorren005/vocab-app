@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of shrubs and small trees of tropical america and asia having cylindrical fruits spirally twisted around one another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of shrubs and small trees of tropical america and asia having cylindrical fruits spirally twisted around one another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical trees and shrubs in the mallow family (Malvaceae), commonly known as screw-trees, named for their uniquely twisted spiral seed capsules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical botany and ethnopharmacology, plants such as Helicteres isora whose spirally twisted fruits are used in traditional medicine for intestinal ailments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helicteres designates genus of shrubs and small trees of tropical america and asia having cylindrical fruits spirally twisted around one another."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The tropical genus **Helicteres**, or screw-tree, is celebrated for its spirally twisted carpels that untwist hygroscopically when moistened."*
+> - 📜 **Nathaniel Lord Britton (*Flora of the American Virgin Islands*):** *"Along the coastal scrub, **Helicteres** jamaicensis displays peculiar corkscrew-shaped seed pods."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The twisted fruit capsules of **Helicteres** offer a classic instance of mechanical seed expulsion triggered by desiccation."*

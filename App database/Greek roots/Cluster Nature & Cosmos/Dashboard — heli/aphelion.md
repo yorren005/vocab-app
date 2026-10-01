@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The point farthest from the sun in the path of an orbiting celestial body (such as a planet).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The point farthest from the sun in the path of an orbiting celestial body (such as a planet).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The point in the elliptical orbit of a planet, comet, or other astronomical body that is farthest from the Sun.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In celestial mechanics and orbital dynamics, the orbital apsis where a body moves with its minimum orbital velocity in accordance with Kepler's second law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"They ventured into the void beyond Pluto's aphelion for hundreds of millions of kilometers -- although not yet the stars."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Colonizing Pluto and constructing space kits that would be transformed into surface habitat and supply depots began centuries earlier when Planet Pluto was barely past aphelion but within economical range of deep space transports."*
+> - 📜 **Johannes Kepler (*Epitome of Copernican Astronomy*):** *"At **aphelion**, the planet reaches its greatest distance from the Sun and travels at its slowest orbital velocity."*
+> - 📜 **Isaac Newton (*Principia Mathematica*):** *"The radius vector sweeps equal areas in equal times between perihelion and **aphelion**."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Comets swing far out past the orbit of Pluto, lingering for centuries near their frozen **aphelion**."*

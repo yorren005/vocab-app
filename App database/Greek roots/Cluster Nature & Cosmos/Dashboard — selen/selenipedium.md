@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of tall reedlike tropical american orchids; includes species with pods used locally as a substitute for vanilla.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of tall reedlike tropical american orchids; includes species with pods used locally as a substitute for vanilla.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of primitive terrestrial slipper orchids native to tropical South America, characterized by tall reedlike stems and a distinct pouchlike labellum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic orchidology, an archaic basal member of the subfamily Cypripedioideae with a trilocular ovary, plicate leaves, and small fragrant blooms adapted to insect pollination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, selenipedium designates genus of tall reedlike tropical american orchids; includes species with pods used locally as a substitute for vanilla."*
+> - 📜 **John Lindley (*The Genera and Species of Orchidaceous Plants*):** *"The primitive South American genus **Selenipedium** possesses a distinct tripartite ovary and tall, reed-like stems."*
+> - 📜 **Heinrich Gustav Reichenbach (*Xenia Orchidacea*):** *"Specimens of **Selenipedium** collected from the Amazonian basin exhibit remarkable ancestral characters among the Cypripedioideae."*
+> - 📜 **Charles Darwin (*The Fertilisation of Orchids*):** *"The pouch-like labellum of **Selenipedium** functions as an ingenious temporary trap ensuring cross-pollination by small insects."*

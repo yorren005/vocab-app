@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Butterfly fishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Butterfly fishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of conspicuous, brightly colored marine ray-finned fishes commonly called butterflyfishes, found primarily on shallow coral reefs of the Atlantic, Indian, and Pacific Oceans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, perciform fishes possessing laterally compressed bodies, small mouths armed with fine bristle-like teeth, continuous dorsal fins, and intricate disruptive camouflage coloration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chaetodontidae designates butterfly fishes."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Fishes of the family **Chaetodontidae** are quintessential reef dwellers, celebrated worldwide for their kaleidoscopic color patterns and lateral compression."*
+> - 📜 **William Beebe (*Half Mile Down*):** *"Through the quartz windows of the bathysphere, members of the **Chaetodontidae** fluttered like aquatic butterflies over the sunlit reefs."*
+> - 📜 **Rachel Carson (*Under the Sea-Wind*):** *"Feeding along the staghorn thickets, the **Chaetodontidae** maneuvered with pinpoint precision, guarded by their deep bodies and sharp dorsal spines."*

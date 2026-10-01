@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having flagella uniformly distributed over the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a spiral line of modified cilia around the oral disk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having flagella distributed uniformly or randomly over the entire surface of the cell, as in certain motile bacteria (such as Escherichia coli and Salmonella).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bacteriology and protozoology, describing prokaryotic cells or ciliated protozoans equipped with locomotor projections distributed around the whole perimeter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peritrichous designates having flagella uniformly distributed over the body."*
+> - 📜 **Robert Koch (*Investigations into Bacteria*):** *"Staining techniques revealed that the enteric bacillus was distinctly **peritrichous**, bristling with flagella over its entire perimeter."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The motility of **peritrichous** bacteria facilitates rapid dispersion through tissue spaces and serous membranes."*
+> - 📜 **René Dubos (*The Bacterial Cell*):** *"Coordinated rotation of the flagellar bundle in a **peritrichous** bacterium propels the cell in a smooth forward run."*

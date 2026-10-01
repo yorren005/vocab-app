@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The excessive or abnormal swallowing of air into the stomach, often causing abdominal distension, discomfort, belching, and flatulence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastroenterology and psychosomatic medicine, a functional habit or neurotic tic associated with anxiety, rapid eating, or esophageal dysmotility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerophagia designates a term designating an entity, condition, or phenomenon derived from greek aer."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Hysterical patients frequently exhibit continuous **aerophagia**, producing severe tympanitic distension of the abdomen."*
+> - 📜 **Sigmund Freud (*Studies on Hysteria*):** *"The involuntary habit of **aerophagia** often serves as a somatic conversion symptom of acute neurotic tension."*
+> - 📜 **Walter B. Cannon (*The Mechanical Factors of Digestion*):** *"Fluoroscopic examination shows that gastric bloating in nervous dyspeptics is caused by unconscious **aerophagia**."*

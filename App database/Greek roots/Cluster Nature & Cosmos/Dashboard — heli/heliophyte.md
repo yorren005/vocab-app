@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek heli.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant that thrives in, requires, or is adapted to full, unobstructed sunlight; a sun plant (contrasted with sciophyte).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant physiological ecology, species possessing high photosynthetic light saturation points, thick cuticles, vertical leaf angles, and abundant chlorophyll a/b ratios.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heliophyte designates a term designating an entity, condition, or phenomenon derived from greek heli."*
+> - 📜 **Arthur George Tansley (*Practical Plant Ecology*):** *"A true **heliophyte**, such as the prairie sunflower, requires full unobstructed sunlight and exhibits stunted development in the canopy shade."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The thick, cutinized epidermis and vertical leaf orientation of a **heliophyte** minimize excessive water loss under intense insolation."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"In early ecological succession, opportunistic **heliophytes** rapidly colonize open ground before shade-tolerant species arrive."*

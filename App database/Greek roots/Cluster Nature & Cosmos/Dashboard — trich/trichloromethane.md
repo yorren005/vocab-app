@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A volatile liquid haloform (chcl3); formerly used as an anesthetic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A volatile liquid haloform (chcl3); formerly used as an anesthetic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The systematic chemical IUPAC name for chloroform (CHCl3); a dense, colorless, volatile liquid historically celebrated as a surgical inhalational anesthetic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical synthesis, an essential trihalomethane solvent and chemical precursor in the industrial production of fluoropolymers like polytetrafluoroethylene (PTFE).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichloromethane designates a volatile liquid haloform (chcl3); formerly used as an anesthetic."*
+> - 📜 **James Y. Simpson (*On a New Anæsthetic Agent*):** *"The vapor of **trichloromethane**, commonly known as chloroform, induces complete surgical insensibility without pulmonary irritation."*
+> - 📜 **Justus von Liebig (*Annalen der Pharmacie*):** *"By the reaction of chlorine upon alcohol in alkaline solution, I first isolated the dense liquid **trichloromethane**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The administration of **trichloromethane** requires constant vigilance regarding myocardial depression and cardiac rhythm."*

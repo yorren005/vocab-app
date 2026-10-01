@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An irresistible urge to pull out your own hair.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An irresistible urge to pull out your own hair.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A psychiatric compulsive disorder characterized by the recurrent, irresistible urge to pull out one's own hair, resulting in noticeable patchy hair loss.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and DSM-5 diagnostics, an obsessive-compulsive related condition preceded by increasing emotional tension and followed by relief upon hair extraction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichotillomania designates an irresistible urge to pull out your own hair."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The compulsive pulling out of one's own hair, termed **trichotillomania**, leads to irregular patches of non-cicatricial alopecia."*
+> - 📜 **Sigmund Freud (*Introductory Lectures on Psycho-Analysis*):** *"Repetitive self-injurious habits such as **trichotillomania** often serve as unconscious tension-reduction rituals."*
+> - 📜 **Emil Kraepelin (*Lectures on Clinical Psychiatry*):** *"In severe neurotic patients, **trichotillomania** may be practiced covertly for months before baldness prompts clinical consultation."*

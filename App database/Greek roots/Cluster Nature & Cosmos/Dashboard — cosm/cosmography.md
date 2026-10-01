@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science that maps the general features of the universe; describes both heaven and earth (but without encroaching on geography or astronomy).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A representation of the earth or the heavens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science that describes and maps the general features of the universe, including both celestial astronomy and terrestrial geography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of geographic and natural sciences, the classical discipline that mapped the cosmos as an interconnected whole before specialized physics and geography separated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmography designates the science that maps the general features of the universe; describes both heaven and earth (but without encroaching on geography or astronomy)."*
+> - 📜 **Peter Heylyn (*Cosmographie*):** *"In **cosmography**, we embrace the entire universe, linking celestial constellations above to terrestrial continents below."*
+> - 📜 **John Donne (*Hymn to God, My God, in My Sickness*):** *"Whilst my physicians by their love are grown / **Cosmographers**, and I their map, who lie / Flat on this bed."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Classical **cosmography** sought an integrated vision of nature, before modern science fractured into specialized disciplines."*

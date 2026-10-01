@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek nemat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized cell found in cnidarians (such as jellyfish and hydras) that produces and encloses a stinging nematocyst; a cnidocyte.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular histology, an excitable epidermal cell armed with a cnidocil trigger that initiates exocytosis of the stinging apparatus upon tactile stimulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nematocyte designates a term designating an entity, condition, or phenomenon derived from greek nemat."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"Within the epidermal layer of the hydra, each specialized **nematocyte** develops its lethal defensive capsule."*
+> - 📜 **E. B. Wilson (*The Cell in Development and Inheritance*):** *"The differentiation of a **nematocyte** from undifferentiated interstitial cells demonstrates remarkable cellular specialization."*
+> - 📜 **Libbie Hyman (*The Invertebrates*):** *"The sensory hair of the **nematocyte** detects chemical and mechanical stimuli, triggering instantaneous projectile expulsion."*

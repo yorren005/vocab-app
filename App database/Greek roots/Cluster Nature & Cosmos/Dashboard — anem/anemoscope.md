@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek anem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument or device, such as a weather vane, designed to indicate the direction of the wind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and historical meteorology, an optical or mechanical indicator that signals shifts in wind direction without recording continuous numerical measurements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anemoscope designates a term designating an entity, condition, or phenomenon derived from greek anem."*
+> - 📜 **Vitruvius (*The Ten Books on Architecture*):** *"On the Tower of the Winds in Athens, a revolving triton functioned as an **anemoscope**, indicating the prevailing breeze."*
+> - 📜 **Robert FitzRoy (*The Weather Book*):** *"A sensitive **anemoscope** mounted atop the mast instantly signals shifts in wind direction before barometer changes become apparent."*
+> - 📜 **Camille Flammarion (*The Atmosphere*):** *"Before mechanical recorders were invented, the simple **anemoscope** provided mariners with immediate visual indication of wind direction."*

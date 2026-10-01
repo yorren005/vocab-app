@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek heli.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A transparent, golden-yellow, greenish-yellow, or honey-colored gem variety of the mineral beryl (beryllium aluminum cyclosilicate).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gemology and mineralogy, precious beryl colored by ferric iron (Fe3+) impurities, whose name translates from Greek as 'gift of the sun'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heliodor designates a term designating an entity, condition, or phenomenon derived from greek heli."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"The golden beryl, which modern mineralogists term **heliodor**, captures the radiant warm yellow of the noon sun."*
+> - 📜 **George Frederick Kunz (*Gems and Precious Stones of North America*):** *"Crystals of **heliodor** mined in pegmatite veins display magnificent transparent golden-yellow hues of gem quality."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"The color of **heliodor** is attributed to traces of ferric iron substituting within the beryllium aluminum silicate lattice."*

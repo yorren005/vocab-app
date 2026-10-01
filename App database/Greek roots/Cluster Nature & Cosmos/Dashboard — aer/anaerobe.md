@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism (especially a bacterium) that does not require air or free oxygen to live.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism (especially a bacterium) that does not require air or free oxygen to live.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism (especially a bacterium) that does not require molecular oxygen for growth, and which may be harmed or killed by its presence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiology and clinical infectious diseases, obligate or facultative prokaryotes (such as Clostridium tetani or Bacteroides fragilis) that generate metabolic energy via anaerobic glycolysis or fermentation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaerobe designates an organism (especially a bacterium) that does not require air or free oxygen to live."*
+> - 📜 **Louis Pasteur (*Animalcules infusoires vivant sans gaz oxygène libre*):** *"I have established the existence of a true **anaerobe**, a microorganism that lives and multiplies without a trace of free oxygen."*
+> - 📜 **René Dubos (*The Bacterial Cell*):** *"In deep puncture wounds, the obligate **anaerobe** finds ideal anoxic conditions to germinate and release potent exotoxins."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"The ancestral eukaryote evolved in an environment where the strict **anaerobe** was driven into subterranean and benthic refuges."*

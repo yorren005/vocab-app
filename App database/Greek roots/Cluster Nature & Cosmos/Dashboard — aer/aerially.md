@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of aircraft.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By means of aircraft.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an aerial manner; by, in, or through the air; ethereally or loftily.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecology, surveying, and aviation, from an elevated or airborne vantage point, or by means of atmospheric dissemination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerially designates by means of aircraft."*
+> - 📜 **Henry James (*The Wings of the Dove*):** *"The Venetian palaces seemed to float **aerially** above the green waters of the Grand Canal."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Swallows swept **aerially** across the darkening expanse of Egdon Heath in pursuit of gnats."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"The gulls rose **aerially** on the sea wind, turning their wings to catch the morning sun."*

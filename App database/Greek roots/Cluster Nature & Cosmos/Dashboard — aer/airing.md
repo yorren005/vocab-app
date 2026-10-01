@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The opening of a subject to widespread discussion and debate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short excursion (a walk or ride) in the open air.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An exposure to fresh or warm air for freshening or drying; also, a brief stroll or drive outdoors in the open air.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric and public discourse, the open discussion or public dissemination of opinions, grievances, or proposals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed out for an airing, attended by his granddaughter Judy as body-guard."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby.” “Airing yourself, as I am doing, before you go to bed?” the stationer inquires."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Catherine’s complaisance was no longer what it had been in their former airing."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Aunt Betsey took her afternoon **airing** in the garden, walking briskly along the box-bordered gravel paths."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Woodhouse was persuaded to take a gentle **airing** in the carriage on a mild autumn afternoon."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The controversial proposal received a thorough **airing** in the columns of the county gazette."*

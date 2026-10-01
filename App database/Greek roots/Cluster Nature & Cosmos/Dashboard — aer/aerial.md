@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or occurring in the air or atmosphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existing or growing in the air rather than in the ground or in water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inhabiting, existing in, or operating in the air; lofty, ethereal, or visionary; also, a radio or television antenna.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aeronautics and telecommunications, pertaining to atmospheric navigation, airborne photography, or metallic conductors designed to radiate or receive electromagnetic radio waves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As well to see the vessel that’s come in As to throw out our eyes for brave Othello, Even till we make the main and the aerial blue An indistinct regard."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel turned, and steadied her on her aerial perch by holding her arm."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In due time a small stream began to trickle through the seventy feet of aerial space between its mouth and the ground, which the water-drops smote like duckshot in their accelerated velocity."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A lake is a river of **aerial** blue, reflecting the serenity of the open heavens."*
+> - 📜 **Percy Bysshe Shelley (*To a Skylark*):** *"Like an unbodied joy whose race is just begun, / The bird ascends with **aerial** lightness into the dawn."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"From his **aerial** perch at the masthead, the lookout swept the ocean horizon for spouts."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The secretion of milk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The secretion of milk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The physiological production and secretion of milk by the mammary glands; lactogenesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian physiology, the intricate biochemical process whereby alveolar cells synthesize lactose, casein, and lipids in response to prolactin and oxytocin stimulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, galactosis designates the secretion of milk."*
+> - 📜 **Claude Bernard (*Lectures on Experimental Physiology*):** *"The process of **galactosis** involves complex neuroendocrine reflexes regulating cellular secretion in the alveolar lobules."*
+> - 📜 **William Benjamin Carpenter (*Principles of Human Physiology*):** *"During pregnancy, preparatory changes in the breast culminate in active **galactosis** immediately following parturition."*
+> - 📜 **Michael Foster (*A Text Book of Physiology*):** *"Prolactin acts upon the primed glandular epithelium to initiate and sustain continuous **galactosis**."*

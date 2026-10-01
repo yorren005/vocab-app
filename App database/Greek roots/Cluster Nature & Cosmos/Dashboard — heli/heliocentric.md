@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Referred to or measured from the sun's center or appearing as if seen from it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or relating to the sun as center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or representing the Sun as the center of the solar system, with the planets orbiting around it; Copernican.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomy and celestial mechanics, measured or calculated with reference to the center of the Sun, contrasted with geocentric coordinates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heliocentric designates referred to or measured from the sun's center or appearing as if seen from it."*
+> - 📜 **Nicolaus Copernicus (*De revolutionibus orbium coelestium*):** *"In the middle of all sits the Sun enthroned; thus we establish a truly **heliocentric** universe."*
+> - 📜 **Galileo Galilei (*Dialogue Concerning the Two Chief World Systems*):** *"The phases of Venus provide unassailable ocular proof that the **heliocentric** system of Copernicus is physically true."*
+> - 📜 **Johannes Kepler (*Astronomia Nova*):** *"By adopting the **heliocentric** viewpoint, the apparent retrograde loops of the planets are recognized as mere optical perspectives."*

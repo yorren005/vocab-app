@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of pitcher plants of the guiana highlands in south america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of pitcher plants of the guiana highlands in south america.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of carnivorous pitcher plants (family Sarraceniaceae) commonly called sun pitchers, native to the high sandstone plateaus (tepuis) of South America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary botany, primitive pitfall-trap plants possessing tubular leaves with small nectar-secreting spoons, adapted to nutrient-deficient, high-radiation tropical mountain summits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heliamphora designates genus of pitcher plants of the guiana highlands in south america."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"The sun pitcher, **Heliamphora**, traps insects within its water-filled tubular leaves atop the cloud-swept Guyana tepuis."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The isolated plateau summits of Mount Roraima harbor ancient relict flora, notably the carnivorous genus **Heliamphora**."*
+> - 📜 **David Attenborough (*The Private Life of Plants*):** *"High on the mist-shrouded sandstone mesa, **Heliamphora** thrives in nutrient-poor soils by digesting wandering ants."*

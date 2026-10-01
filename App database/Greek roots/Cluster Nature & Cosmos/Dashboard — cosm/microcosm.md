@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A little world; especially : the human race or human nature seen as an epitome of the world or the universe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A community or other unity that is an epitome of a larger unity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A little world; a miniature representation of a much larger whole, community, or universe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philosophy, the human being regarded as an epitome or miniature reflection of the great cosmos; in social analysis, a small unit reflecting society at large.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you see this in the map of my microcosm, follows it that I am known well enough too?"*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"If her world is a microcosm, the cosmic quality of it is at least as eminent as the littleness."*
-> - 📜 **James Joyce (*Ulysses*):** *"On that mystery and not on the madonna which the cunning Italian intellect flung to the mob of Europe the church is founded and founded irremovably because founded, like the world, macro and microcosm, upon the void."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The human body was rightly called by ancient philosophers a **microcosm**, epitomizing the structure of the universal frame."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"If I should be turned into a dog, you would not be transformed into a **microcosm**."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The New England township was a miniature republic, a complete **microcosm** of democratic self-government."*

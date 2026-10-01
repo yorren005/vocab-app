@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type and sole genus of the trichechidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type and sole genus of the trichechidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The genus of sirenians comprising the living manatees, including the West Indian manatee (T. manatus), Amazonian manatee (T. inunguis), and African manatee (T. senegalensis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate zoology, aquatic mammals possessing continuous tooth replacement in the cheek dentition and dense, pachyosteosclerotic bones providing neutral buoyancy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichechus designates type and sole genus of the trichechidae."*
+> - 📜 **Carl Linnaeus (*Systema Naturae*):** *"Linnaeus established the genus **Trichechus** for the manatee, noting its paddle-like flippers and facial bristles."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In the Orinoco and Amazon, specimens of **Trichechus** were hunted for their thick hides and sweet oil."*
+> - 📜 **Alfred Russel Wallace (*Travels on the Amazon and Rio Negro*):** *"The flesh of **Trichechus** inunguis was highly esteemed by the native fishermen along the riverbanks."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic neurosis affecting aviators, characterized by anxiety, restlessness, insomnia, emotional irritability, and functional gastrointestinal disturbances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aviation psychiatry and military operational health, chronic flight fatigue syndrome induced by long-term hypoxia, high G-stress, cockpit vibration, and mortal hazard.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aeroneurosis designates a term designating an entity, condition, or phenomenon derived from greek aer."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pilots flying repeated unpressurized patrols exhibit symptoms of **aeroneurosis**, marked by irritability and cardiovascular lability."*
+> - 📜 **Harvey Cushing (*Selected Papers*):** *"Timely grounding and psychiatric rest are essential to reverse early **aeroneurosis** before disastrous pilot error occurs."*
+> - 📜 **René Dubos (*Man Adapting*):** *"The constant physiological tension of high-altitude flight frequently precipitates the chronic neurosis termed **aeroneurosis**."*

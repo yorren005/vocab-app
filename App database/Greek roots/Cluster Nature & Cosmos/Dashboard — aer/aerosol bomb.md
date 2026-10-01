@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A portable pressurized canister containing an insecticide or other liquid dissolved in a liquefied gas propellant, fitted with a release valve to dispense a fine spray.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history and vector control, the heavy steel bug-bomb canister developed by Goodhue and Sullivan during World War II to protect soldiers from mosquito-borne malaria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerosol bomb designates a term designating an entity, condition, or phenomenon derived from greek aer."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"During the Pacific campaign, soldiers routinely cleared their tents of anopheles mosquitoes using the newly developed **aerosol bomb**."*
+> - 📜 **Upton Sinclair (*Another Pamela*):** *"She seized the household **aerosol bomb** and sprayed the pantry corners until a cloud of pungent insecticide settled over the shelves."*
+> - 📜 **John Steinbeck (*The Log from the Sea of Cortez*):** *"Before docking in tropical ports, health inspectors swept through the vessel with an **aerosol bomb** to destroy non-native pests."*

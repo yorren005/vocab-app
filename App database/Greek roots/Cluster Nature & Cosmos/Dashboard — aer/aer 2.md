@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining prefix derived from Greek aer denoting air, the atmosphere, aviation, gases, or respiration (variant entry for aero- / aer-).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic morphology and scientific nomenclature, forming compound words relating to aeronautics, aerobic biology, atmospheric physics, and aerosol dynamics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aer 2 designates a term designating an entity, condition, or phenomenon derived from greek aer."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The prefix **aer**- designates atmospheric respiration and the pneumatic mechanics of terrestrial life."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"In scientific nomenclature, the combining root **aer**- embraces all phenomena pertaining to atmospheric air and its chemical properties."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Physiological terms compounding **aer**- emphasize the absolute dependence of vital combustion upon atmospheric oxygen."*

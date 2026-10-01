@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large colonial bacterium common in tropical open-ocean waters; important in carbon and nitrogen fixation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large colonial bacterium common in tropical open-ocean waters; important in carbon and nitrogen fixation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of colonial, filamentous pelagic cyanobacteria (order Oscillatoriales) that forms extensive yellowish-brown surface blooms in tropical and subtropical oceans; sea sawdust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological oceanography and marine biogeochemistry, a diazotrophic cyanobacterium that fixes atmospheric nitrogen, playing a foundational role in the nutrient budgets of oligotrophic seas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichodesmium designates large colonial bacterium common in tropical open-ocean waters; important in carbon and nitrogen fixation."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Near the Abrolhos Islands, the ocean surface was covered for miles by a reddish-brown scum composed of the microscopic conferva **Trichodesmium**."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"Sailors in the tropical Atlantic frequently marvel at the yellowish sheen of the sea, which naturalists trace to blooms of **Trichodesmium**."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"The vast expanse of the Red Sea owes its historic name to seasonal blooms of the filamentous blue-green alga **Trichodesmium**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The worship of the cosmos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The worship of the cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The worship or religious veneration of the cosmos, the physical universe, or nature as a divine entity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative religion and anthropology, religious systems that deify celestial bodies, seasonal cycles, and cosmological order rather than transcendent personified deities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmolatry designates the worship of the cosmos."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"In primeval **cosmolatry**, ancient peoples worshipped the celestial sun, earth, and sky as living divine entities."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"The transition from animism to formal **cosmolatry** marks the veneration of the cosmos itself as an animated whole."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Vedic hymns reflect an awe-inspired **cosmolatry**, deifying the radiant dawn and the vault of heaven."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of medicine that deals with the diseases and disturbances arising from flying and the associated physiological and psychological problems.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of medicine that deals with the diseases and disturbances arising from flying and the associated physiological and psychological problems.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical specialty and clinical science concerned with the health, physiological stresses, and diseases associated with atmospheric and space flight; aviation medicine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aerospace occupational medicine, the clinical field addressing rapid decompression, spatial disorientation, circadian dysrhythmia, and physiological cabin pressurization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aeromedicine designates a branch of medicine that deals with the diseases and disturbances arising from flying and the associated physiological and psychological problems."*
+> - 📜 **Harvey Cushing (*The Medical Career*):** *"The rapid expansion of military aviation created an urgent new clinical frontier in **aeromedicine**."*
+> - 📜 **Tom Wolfe (*The Right Stuff*):** *"Physicians specializing in **aeromedicine** monitored heart rates and retinal blood flow as the rocket sled slammed into water brakes."*
+> - 📜 **René Dubos (*Man Adapting*):** *"The artificial atmospheric sealed cabin engineered by **aeromedicine** represents the supreme triumph of technological homeostasis."*

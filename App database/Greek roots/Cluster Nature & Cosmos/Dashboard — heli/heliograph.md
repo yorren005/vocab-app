@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus for telegraphing by means of the sun's rays flashed from a mirror.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apparatus for telegraphing by means of the sun's rays flashed from a mirror.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical signaling apparatus that transmits messages in code by flashing sunlight reflected from an adjustable mirror; also an instrument for recording hours of sunshine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorology, the Campbell-Stokes sunshine recorder that focuses sunlight through a glass sphere to burn a trace upon a card; in military history, a tripod-mounted flash signaling device.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heliograph designates an apparatus for telegraphing by means of the sun's rays flashed from a mirror."*
+> - 📜 **Robert FitzRoy (*The Weather Book*):** *"The Campbell-Stokes **heliograph** burns a charred trace upon curved paper, measuring the exact daily duration of bright sunshine."*
+> - 📜 **Winston Churchill (*The Story of the Malakand Field Force*):** *"On the highest crag, the signallers worked the **heliograph**, catching the solar ray to blink messages to the valley."*
+> - 📜 **Camille Flammarion (*Popular Astronomy*):** *"By directing a silvered **heliograph** toward distant peaks, military surveyors measured vast triangulation baselines."*

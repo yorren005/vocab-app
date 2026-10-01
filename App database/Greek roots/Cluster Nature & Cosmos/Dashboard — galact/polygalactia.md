@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek galact.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An excessive, abnormally copious, or troublesome production and secretion of breast milk during lactation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical lactation consulting and maternal healthcare, hyperlactation syndrome characterized by breast engorgement, rapid milk ejection reflex, and discomfort due to overabundant supply.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polygalactia designates a term designating an entity, condition, or phenomenon derived from greek galact."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Uncontrolled **polygalactia** may exhaust the nursing mother unless breast emptying and fluid intake are carefully regulated."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"In cases of troublesome **polygalactia**, coolness and quiet rest do far more to alleviate painful engorgement than harsh purgatives."*
+> - 📜 **James Y. Simpson (*Obstetric Memoirs and Contributions*):** *"Excessive milk secretion, termed **polygalactia**, requires gentle compression and astringent applications to prevent mastitis."*

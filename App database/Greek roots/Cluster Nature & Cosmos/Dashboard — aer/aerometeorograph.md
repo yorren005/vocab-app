@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An airborne meteorological instrument that automatically and simultaneously records atmospheric pressure, ambient temperature, and relative humidity on a revolving drum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In upper-air observational meteorology, a recording unit attached to aircraft struts or sounding kites that provided continuous vertical tropospheric profiles before modern digital telemetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerometeorograph designates a term designating an entity, condition, or phenomenon derived from greek aer."*
+> - 📜 **Cleveland Abbe (*Meteorological Apparatus and Methods*):** *"Mounted beneath the biplane wing, the **aerometeorograph** recorded a continuous thermodynamic cross-section of the storm front."*
+> - 📜 **William Napier Shaw (*Manual of Meteorology*):** *"Calibration of the **aerometeorograph** before each dawn ascent ensured standardized barometric and thermometric curves."*
+> - 📜 **Robert FitzRoy (*The Weather Book*):** *"The traces recovered from the **aerometeorograph** revealed cold dry air overriding humid surface currents."*

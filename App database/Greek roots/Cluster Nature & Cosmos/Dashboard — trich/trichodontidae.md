@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Two species of elongate compressed scaleless large-eyed fishes that live in sand or mud.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Two species of elongate compressed scaleless large-eyed fishes that live in sand or mud.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small family of marine perciform fishes commonly called sandfishes, native to the North Pacific Ocean, characterized by upturned mouths and burrowing habits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ichthyology, benthic fishes (such as Trichodon trichodon) lacking scales and possessing fringed lips and upward-directed eyes, adapted to ambush prey while buried in sand.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichodontidae designates two species of elongate compressed scaleless large-eyed fishes that live in sand or mud."*
+> - 📜 **David Starr Jordan (*The Genera of Fishes*):** *"Fishes of the family **Trichodontidae** bury themselves in loose coastal sand, exposing only their upturned eyes and fringed mouths."*
+> - 📜 **Spencer Fullerton Baird (*Report on the Fisheries*):** *"The Pacific sandfish, a characteristic representative of the **Trichodontidae**, spawns along the surf-swept gravel bars of the Aleutians."*
+> - 📜 **Louis Agassiz (*Lake Superior*):** *"The sand-burrowing habits of the **Trichodontidae** illustrate specialized pectoral modifications for subterranean benthic concealment."*

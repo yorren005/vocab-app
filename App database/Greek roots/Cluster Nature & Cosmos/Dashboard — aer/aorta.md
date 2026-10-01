@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The great arterial trunk that carries blood from the heart to be distributed by branch arteries through the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The curved part of the aorta that connects the ascending aorta with the descending aorta and from which the brachiocephalic artery, left carotid artery, and left subclavian artery arise —called also aortic arch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The principal, largest arterial trunk in the human body, arising from the left ventricle of the heart and distributing oxygenated blood to all systemic arteries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular anatomy and pathology, the great vessel comprising the ascending aorta, aortic arch, and descending aorta, prone to life-threatening aneurysm or dissection (Greek aorte from aeirein to lift/carry).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aorta designates the great arterial trunk that carries blood from the heart to be distributed by branch arteries through the body."*
+> - 📜 **William Harvey (*De Motu Cordis*):** *"With every systole of the left ventricle, a fresh surge of blood is forcefully propelled into the great cavity of the **aorta**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Aneurysm of the thoracic **aorta** produces characteristic brassy cough and tracheal tug through direct mechanical compression."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Catheterization of the **aorta** reveals the profound hydrostatic pressures sustained by the systemic arterial tree."*

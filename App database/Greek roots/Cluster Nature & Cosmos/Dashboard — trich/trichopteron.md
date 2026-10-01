@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Caddis fly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Caddis fly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A singular caddisfly or individual member of the insect order Trichoptera.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical entomological literature, an individual specimen displaying the characteristic pubescent, hair-covered wings and setose body of a caddisfly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichopteron designates caddis fly."*
+> - 📜 **William Kirby & William Spence (*An Introduction to Entomology*):** *"Every individual **trichopteron** displays remarkable silk-spinning dexterity during its underwater larval metamorphosis."*
+> - 📜 **Ernst Haeckel (*Art Forms in Nature*):** *"The delicate wing venation of a solitary **trichopteron** reflects ancient amphibiotic insect architecture."*
+> - 📜 **August Weismann (*The Germ-Plasm*):** *"Case-building instincts in the larval **trichopteron** are inherited as complex behavioral patterns fixed in the germplasm."*

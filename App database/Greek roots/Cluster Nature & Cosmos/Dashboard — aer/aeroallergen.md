@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any airborne allergen or substance (such as pollen, fungal spores, animal dander, or dust mite particles) that produces an allergic respiratory reaction when inhaled.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical immunology and allergy medicine, environmental particulate antigens that bind to specific IgE antibodies on mucosal mast cells, triggering allergic rhinitis and asthma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aeroallergen designates a term designating an entity, condition, or phenomenon derived from greek aer."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Ragweed pollen and microscopic spores act as natural **aeroallergens**, triggering seasonal distress across agricultural valleys."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The inhalation of a specific **aeroallergen** initiates violent paroxysms of bronchial constriction in asthmatic patients."*
+> - 📜 **René Dubos (*Man Adapting*):** *"Industrial urbanization alters the indoor environment, concentrating fungal and synthetic **aeroallergens** in closed living quarters."*

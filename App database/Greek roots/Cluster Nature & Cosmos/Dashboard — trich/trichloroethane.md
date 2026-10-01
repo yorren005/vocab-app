@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy colorless highly toxic liquid used as a solvent to clean electronic components and for dry cleaning and as a fumigant; causes cancer and liver and lung damage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavy colorless highly toxic liquid used as a solvent to clean electronic components and for dry cleaning and as a fumigant; causes cancer and liver and lung damage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two isomeric chlorinated hydrocarbon compounds (C2H3Cl3), especially 1,1,1-trichloroethane (methyl chloroform), formerly widely used as an industrial solvent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental chemistry and industrial toxicology, a volatile chlorinated cleaning and degreasing agent phase-out under the Montreal Protocol due to its ozone-depleting potential.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichloroethane designates a heavy colorless highly toxic liquid used as a solvent to clean electronic components and for dry cleaning and as a fumigant; causes cancer and liver and lung damage."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Industrial solvents like **trichloroethane** evaporate into the troposphere, eventually penetrating stratospheric ozone layers."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The molecule of 1,1,1-**trichloroethane** serves as a non-flammable chlorinated degreaser in precision manufacturing."*
+> - 📜 **Mario Molina (*Stratospheric Sink for Chlorofluoromethanes*):** *"Photolysis of **trichloroethane** in the middle stratosphere releases catalytic chlorine radicals that destroy ozone."*

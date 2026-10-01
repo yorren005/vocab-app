@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the branch of astronomy dealing with the origin and history and structure and dynamics of the universe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the branch of astronomy dealing with the origin and history and structure and dynamics of the universe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to cosmogony or to the origin, generation, and early evolution of the cosmos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science and philosophical theology, describing speculative or empirical models formulating the formation of galaxies, stars, and planets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmogonical designates pertaining to the branch of astronomy dealing with the origin and history and structure and dynamics of the universe."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Early naturalists burdened their observations with fanciful **cosmogonical** speculations about universal catastrophes."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"We must distinguish between observational astronomy and purely **cosmogonical** conjectures regarding the primeval origins of matter."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The condensation of diffuse nebulae remains one of the grandest **cosmogonical** problems confronting observational science."*

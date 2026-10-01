@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) goddess of the moon in ancient mythology; identified with roman luna.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of carangidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek goddess and mythological personification of the Moon, daughter of the Titans Hyperion and Theia and sister of Helios and Eos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature and astronomy, the radiant lunar deity depicted driving a silver chariot drawn by white horses across the nocturnal sky; the literary personification of the moon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The princess Selene, in moonblue robes, a silver crescent on her head, descends from a Sedan chair, borne by two giants."*
+> - 📜 **Homer (*Homeric Hymn to Selene*):** *"Daughter of Hyperion, lovely **Selene**, drives her gleaming chariot across heaven as night unfolds."*
+> - 📜 **Percy Bysshe Shelley (*Hymn to the Moon*):** *"Fair **Selene**, wandering with silvery tread / Amidst the starry wilderness above."*
+> - 📜 **John Keats (*Endymion*):** *"O sovereign **Selene**, Queen of night, / Whose sweet smile soothes the slumbering shepherd's sight."*

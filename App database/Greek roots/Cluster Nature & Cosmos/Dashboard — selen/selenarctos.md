@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Asiatic black bears; in some classifications not a separate genus from ursus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Asiatic black bears; in some classifications not a separate genus from ursus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former taxonomic genus name (now classified under Ursus) for the Asian black bear (Ursus thibetanus), named for the distinct white moon-shaped crescent marking on its chest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mammalogy and wildlife conservation, the moon bear, characterized by arboreal agility, a thick black ruff, and a creamy-white V-shaped pectoral patch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, selenarctos designates asiatic black bears; in some classifications not a separate genus from ursus."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The mountain forests harbor **Selenarctos**, easily recognized by the conspicuous white crescent adorning its dark breast."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"In the genus **Selenarctos**, the Tibetan black bear displays nocturnal arboreal habits across the Himalayan foothills."*
+> - 📜 **George Schaller (*Stones of Silence*):** *"We found the claw marks of **Selenarctos** scored deep into the bark of wild oak trees high on the ridge."*

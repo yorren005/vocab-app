@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek anem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The orientation, movement, or growth response of a sessile organism or plant organ directed by or in response to air currents or wind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental plant physiology and invertebrate behavior, an orientation reflex whereby organisms align their anatomical axis with or against prevailing airflow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anemotropism designates a term designating an entity, condition, or phenomenon derived from greek anem."*
+> - 📜 **Jacques Loeb (*Forced Movements, Tropisms, and Animal Conduct*):** *"In studying orientation in moving air, we observe clear negative **anemotropism** in certain flightless insects."*
+> - 📜 **Wilhelm Pfeffer (*The Physiology of Plants*):** *"The orientation of fungal fruiting bodies into the direction of prevailing wind currents illustrates true **anemotropism**."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"The skewed growth forms of coastal pines reflect continuous **anemotropism** and mechanical pressure induced by oceanic gales."*

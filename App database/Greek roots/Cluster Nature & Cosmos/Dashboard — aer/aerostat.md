@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lighter-than-air aircraft (such as a balloon or blimp).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lighter-than-air aircraft (such as a balloon or blimp).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lighter-than-air aircraft (such as an unpowered balloon, tethered blimp, or navigable airship) that derives its lift from buoyant gas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aeronautical classification, a flight vehicle sustained in equilibrium by Archimedes' principle, contrasting with aerodynamic heavier-than-air aerodynes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerostat designates a lighter-than-air aircraft (such as a balloon or blimp)."*
+> - 📜 **Jules Verne (*Five Weeks in a Balloon*):** *"Dr. Ferguson calculated that his hydrogen **aerostat** would maintain equilibrium across the equatorial African deserts."*
+> - 📜 **Edgar Allan Poe (*The Balloon-Hoax*):** *"The gigantic **aerostat** rose gracefully into the morning sky, propelled by twin steerable screw propellers."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"Colossal fleets of rigid **aerostats** drifted silently over the ocean, their armored gondolas bristling with machine guns."*

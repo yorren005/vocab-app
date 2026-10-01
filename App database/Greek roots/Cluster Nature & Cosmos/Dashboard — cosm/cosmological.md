@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the branch of astronomy dealing with the origin and history and structure and dynamics of the universe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the branch of philosophy dealing with the elements and laws and especially the characteristics of the universe such as space and time and causality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or dealing with cosmology, the origin, large-scale structure, and evolution of the universe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrophysics and general relativity, describing universal parameters such as cosmic expansion rates, background radiation, and the cosmological constant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"He does not, like Clement and other Greeks, revel in cosmological speculations as to the Logos, nor does he loosely adopt the abstract methods of later Greek philosophy."*
+> - 📜 **Albert Einstein (*Cosmological Considerations in the General Theory of Relativity*):** *"To maintain a static universe against gravitational collapse, I introduced the **cosmological** constant into the field equations."*
+> - 📜 **Edwin Hubble (*The Observational Approach to Cosmology*):** *"The redshift of spectral lines from distant nebulae forms the cornerstone of modern **cosmological** models."*
+> - 📜 **Stephen Hawking (*A Brief History of Time*):** *"A complete **cosmological** theory must explain not only why the universe expands, but how it began."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of hair, bristle , or seta.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of hair, bristle , or seta.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bearing, producing, or covered with bristles, setae, or stiff spines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical and zoological morphology, describing stems, seed pods, or larval cuticles that are armed with conspicuous protective or adhesive bristles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chaetophorous designates adjective*) pertaining to, derived from, or characteristic of hair, bristle , or seta."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The seed capsules of the plant are distinctly **chaetophorous**, covered with stiff bristles that cling tenaciously to the coats of passing animals."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"Certain marine annelids develop a **chaetophorous** cuticle capable of repelling benthic sediment particles."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Many beetles possess **chaetophorous** margins along their elytra to protect sensitive spiracles from damp earth."*

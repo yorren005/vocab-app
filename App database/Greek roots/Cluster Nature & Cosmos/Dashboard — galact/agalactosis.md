@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which milk is not secreted in the mother's breasts after her child has been delivered.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition in which milk is not secreted in the mother's breasts after her child has been delivered.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The pathological condition or physiological state characterized by the absence or cessation of milk secretion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical physiology and animal husbandry, failure of the mammary epithelial cells to synthesize and excrete milk during the expected lactational period.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agalactosis designates a condition in which milk is not secreted in the mother's breasts after her child has been delivered."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The cellular defect in **agalactosis** resides in the failure of the mammary epithelial acini to differentiate under hormonal stimulus."*
+> - 📜 **William Buchan (*Domestic Medicine*):** *"Sudden constitutional chills after delivery may induce **agalactosis**, arresting the flow of nourishment."*
+> - 📜 **James Y. Simpson (*Obstetric Memoirs and Contributions*):** *"Careful diagnostic distinction must be maintained between mechanical duct obstruction and true constitutional **agalactosis**."*

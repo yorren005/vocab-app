@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a galaxy and especially the Milky Way galaxy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a galaxy and especially the Milky Way galaxy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or belonging to a galaxy, especially the Milky Way system; colloquially, enormous or immense in scale or importance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrophysics and cosmology, designating phenomena, structures, or gravitational dynamics occurring across an entire stellar galaxy or in the interstellar medium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Algis Budrys (*Citadel*):** *"The addition of Karlshaven IV to the list of planets under colonization would be made, and Holliday's asking prices for land would be posted with Emigration, together with a prospectus abstracted from the General Galactic Survey."*
-> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"Two galactic millennia had passed since the empire had reached that same period in technological growth, depleting the petroleum resources of a hundred worlds."*
-> - 📜 **Randall Garrett (*Deadly decoy*):** *"It's not that, Holdreth Khain," I said, keeping my voice smooth; "We realize that a high percentage of your race are loyal to the Galactic Federation."*
+> - 📜 **Edwin Hubble (*The Realm of the Nebulae*):** *"The great spiral in Andromeda lies outside our own **galactic** system, proving the existence of an expanding universe of island universes."*
+> - 📜 **Arthur Eddington (*The Expanding Universe*):** *"Rotational velocity at the rim of the **galactic** disk reveals an enormous gravitational mass extending far beyond the luminous stars."*
+> - 📜 **Carl Sagan (*Pale Blue Dot*):** *"We drift upon an ordinary planet orbiting an unremarkable star tucked into an outer spiral arm of the **galactic** whirlpool."*

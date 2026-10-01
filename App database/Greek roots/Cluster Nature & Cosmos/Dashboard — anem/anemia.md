@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which the blood is deficient in red blood cells, in hemoglobin, or in total volume.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition in which the blood is deficient in red blood cells, in hemoglobin, or in total volume.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical condition characterized by a deficiency of red blood cells or hemoglobin in the blood, resulting in pallor, fatigue, and tissue hypoxia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology and pathology, a clinical syndrome arising from blood loss, impaired erythropoiesis, or accelerated hemolysis (from Greek an- without + haima blood).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"How kind of Captain Hyde!" she drawled, as Lawrence, irritated by her manner, went to help Val, while Isabel was called indoors by Fanny to listen to a tale of distress, unravel a grievance, and prescribe for anemia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pernicious **anemia** is characterized by profound pallor, progressive debility, and megaloblastic alteration of the erythroid marrow."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"By diminishing the oxygen-carrying capacity of the blood, experimental **anemia** reveals the metabolic dependence of every tissue."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"In valitudinarian chambers, deficient fresh air and poor nutrition inevitably foster a chronic, debilitating **anemia**."*

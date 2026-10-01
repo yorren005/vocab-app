@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chaet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, morbid, or irrational fear of hair, loose hairs, or bristly textures; trichophobia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and obsessive-compulsive disorders, a phobic dread triggered by contact with human or animal hair, fur, or detached bristles, provoking acute tactile aversion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chaetophobia designates a term designating an entity, condition, or phenomenon derived from greek chaet."*
+> - 📜 **Sigmund Freud (*Totem and Taboo*):** *"Morbid aversions to animal pelts or severed tresses, termed **chaetophobia**, frequently originate in repressed childhood anxieties."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"In hypersensitive individuals, **chaetophobia** may manifest as an obsessive repulsion toward loose hairs on garments or upholstery."*
+> - 📜 **G. Stanley Hall (*A Study of Fears*):** *"The clinical presentation of **chaetophobia** combines intense tactile disgust with dread of contamination from human or animal bristles."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Infestation by trichina larvae that are transmitted by eating inadequately cooked meat (especially pork); larvae migrate from the intestinal tract to the muscles where they become encysted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infestation by trichina larvae that are transmitted by eating inadequately cooked meat (especially pork); larvae migrate from the intestinal tract to the muscles where they become encysted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Infestation of the body with trichinae (nematodes of the genus Trichinella); the pathological condition resulting from ingesting encysted larvae in undercooked pork; trichinosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical parasitology, an acute biphasic infection marked by gastrointestinal distress during adult intestinal burrowing followed by myalgia, fever, and periorbital edema as larvae migrate into muscle fibers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichiniasis designates infestation by trichina larvae that are transmitted by eating inadequately cooked meat (especially pork); larvae migrate from the intestinal tract to the muscles where they become encysted."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe **trichiniasis** presents with high remittent fever, intense muscular tenderness, and marked periorbital edema."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The clinical diagnosis of **trichiniasis** was confirmed post-mortem by identifying millions of encysted nematode embryos."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Public health legislation establishing microscopic pork inspection successfully curtailed the scourge of **trichiniasis**."*

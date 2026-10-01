@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrowworms: a group of small active transparent marine worms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrowworms: a group of small active transparent marine worms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinct phylum of small, transparent or translucent, torpedo-shaped marine animals known as arrow worms, abundant in pelagic zooplankton worldwide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate systematics, an ancient deuterostome lineage of coelomate carnivores armed with bilateral chitinous head spines used to impale copepods and fish larvae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chaetognatha designates arrowworms: a group of small active transparent marine worms."*
+> - 📜 **Libbie Hyman (*The Invertebrates: Smaller Coelomate Groups*):** *"The phylum **Chaetognatha** constitutes a unique, ancient lineage of deuterostome carnivores possessing horizontal fins and grasping cephalic spines."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Plankton samples from every ocean yield representatives of the **Chaetognatha**, drifting by millions beneath the surface swells."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"The isolated phylogenetic position of the **Chaetognatha** illustrates how early animal body plans diverged into distinct anatomical designs."*

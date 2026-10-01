@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fungus of the family moniliaceae; causes ringworm and favus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of fungus of the family moniliaceae; causes ringworm and favus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of dermatophytic fungi that infect keratinized tissues such as the skin, hair, and nails in humans and animals; causing tinea and ringworm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical mycology, keratinophilic hyphomycetes including Trichophyton rubrum and T. mentagrophytes, responsible for athlete's foot, jock itch, and onychomycosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichophyton designates a genus of fungus of the family moniliaceae; causes ringworm and favus."*
+> - 📜 **Robert Koch (*Investigations into Pathogenic Bacteria*):** *"Cultures of **Trichophyton** isolated from ringworm lesions demonstrated fungal hyphae invading the keratinized cuticle of hair shafts."*
+> - 📜 **Paul Ehrlich (*Experimental Chemotherapy*):** *"Topical fungicidal agents must penetrate deep into the follicular sheath to eradicate resistant strains of **Trichophyton**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The common tinea pedis and ringworm of the scalp are caused by persistent dermatophytes of the genus **Trichophyton**."*

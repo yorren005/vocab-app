@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English novelist; youngest of three bronte sisters (1820-1849).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English novelist; one of three bronte sisters (1818-1848).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A literary surname made world-renowned by the Brontë sisters; historically and etymologically also used in mythological contexts for personified thunder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary history and cultural biography, designating the impassioned Romantic and Victorian works, themes, or biographical legend of Charlotte, Emily, and Anne Brontë.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Sir Walter Scott Charles Bronte Alfred the Great and Johnson were the first great novelists."*
+> - 📜 **Elizabeth Gaskell (*The Life of Charlotte Brontë*):** *"The genius of Charlotte **Brontë** was nurtured amidst the wild, desolate Yorkshire moors of Haworth."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"Emily **Brontë** looked out upon a world cleft into gigantic disorder and felt within her the power to unite it in a book."*
+> - 📜 **Matthew Arnold (*Haworth Churchyard*):** *"Round the moist stones of the graves, / Rest the gifted sisters of the house of **Brontë**."*

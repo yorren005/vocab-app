@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek styg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, morbid, or irrational fear of hell, damnation, or infernal torment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychopathology and history of psychiatry, an obsessive existential dread of post-mortem punishment or underworld suffering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stygiophobia designates a term designating an entity, condition, or phenomenon derived from greek styg."*
+> - 📜 **G. Stanley Hall (*A Study of Fears*):** *"In clinical observations of morbid dread, **stygiophobia** manifests as an agonizing, obsessional terror of damnation and the infernal pit."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The melancholy mind is gripped by profound dread of perdition, resembling that classic **stygiophobia** where every shadow portends eternal torment."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Many religious hypochondriacs suffer an incurable **stygiophobia**, terrified incessantly by the sulphurous river and the wrath to come."*

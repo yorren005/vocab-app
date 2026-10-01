@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chaet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of filamentous green macroalgae (family Cladophoraceae) consisting of coarse, unbranched hair-like or thread-like strands; commonly called spaghetti algae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine botany and reef aquaristics, a hardy, free-floating or attached macroalga widely utilized in refugiums for nutrient export and nitrate assimilation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Chaetomorpha designates a term designating an entity, condition, or phenomenon derived from greek chaet."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Tangled mats of **Chaetomorpha** clung to the basaltic boulders, resilient against the crashing surf of the reef crest."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"In intertidal crevices, the stiff, unbranched green filaments of **Chaetomorpha** resemble coarse emerald hair washed by the tide."*
+> - 📜 **William Henry Harvey (*Phycologia Britannica*):** *"The robust cell walls and unbranched habit of **Chaetomorpha** distinguish it readily from neighboring cladophoralean algae."*

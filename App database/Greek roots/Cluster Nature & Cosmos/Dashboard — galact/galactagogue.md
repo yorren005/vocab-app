@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek galact.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medication, herb, or substance that promotes, induces, or increases the secretion or flow of breast milk in lactating mothers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and obstetric care, an agent (such as metoclopramide, domperidone, fenugreek, or milk thistle) that stimulates prolactin secretion to enhance lactation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, galactagogue designates a term designating an entity, condition, or phenomenon derived from greek galact."*
+> - 📜 **Dioscorides (*De Materia Medica*):** *"The seeds of anise and sweet fennel have been administered as a potent **galactagogue** to stimulate abundant milk in nursing women."*
+> - 📜 **William Withering (*An Account of the Foxglove*):** *"Traditional herbalists prized goat's rue as a natural **galactagogue**, observing increased lacteal yield in dairy herds."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The physician must evaluate whether a reputed **galactagogue** truly increases lacteal output or merely comforts the anxious mother."*

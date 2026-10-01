@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bront.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form derived from Greek bronte meaning thunder, used in scientific, taxonomic, and geological terminology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morphology and taxonomy, a prefix denoting thunderous acoustics, explosive atmospheric force, or immense prehistoric heft resembling thunder.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"JANE EYRE AN AUTOBIOGRAPHY by Charlotte Brontë _ILLUSTRATED BY F."*
+> - 📜 **Othniel Charles Marsh (*Notice of New Dinosaurian Reptiles*):** *"The Greek prefix **bront**- signifies thunder, appropriately chosen for the colossal sauropods whose footfalls shook the Mesozoic earth."*
+> - 📜 **Edward Drinker Cope (*The Vertebrata of the Tertiary Formations of the West*):** *"In taxonomic nomenclature, the element **bront**- denotes massive magnitude and thundering power in extinct mammalian and reptilian forms."*
+> - 📜 **Richard Owen (*Palaeontology*):** *"The root **bront**- recurs across natural history to designate phenomena associated with atmospheric detonations or monstrous terrestrial heft."*

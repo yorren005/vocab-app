@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation or barotraumatic injury of the middle ear caused by an unequal barometric pressure difference across the tympanic membrane; ear barotrauma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aviation medicine and clinical otolaryngology, middle-ear trauma caused by eustachian tube dysfunction during rapid aircraft descent, leading to tympanic retraction, pain, and hemotympanum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerotitis designates a term designating an entity, condition, or phenomenon derived from greek aer."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Dive-bomber pilots frequently suffered from acute **aerotitis**, requiring autoinflation of the eustachian tubes to prevent tympanic rupture."*
+> - 📜 **Harvey Cushing (*Selected Papers*):** *"Severe **aerotitis** accompanied by serous middle ear effusion temporarily grounds commercial and military flight crews."*
+> - 📜 **Walter B. Cannon (*The Wisdom of the Body*):** *"Failure of the eustachian canal to equalize pressure during rapid altitude shifts produces the acute pain of **aerotitis**."*

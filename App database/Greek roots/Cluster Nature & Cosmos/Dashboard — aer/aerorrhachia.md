@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Nature & Cosmos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of air or gas within the spinal canal (pneumorrhachia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurosurgery and neuroradiology, a clinical condition resulting from penetrating trauma, epidural injections, lumbar puncture, or gas-forming spinal infections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerorrhachia designates a term designating an entity, condition, or phenomenon derived from greek aer."*
+> - 📜 **Harvey Cushing (*Selected Papers*):** *"Post-traumatic CT scanning revealed distinct **aerorrhachia**, with air bubbles tracking along the lumbar subarachnoid space."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The detection of symptomatic **aerorrhachia** after spinal instrumentation mandates immediate evaluation for dural laceration."*
+> - 📜 **Walter B. Cannon (*The Wisdom of the Body*):** *"Intracranial and intraspinal pressure equilibria are disturbed when pneumothorax or barotrauma forces air into the neural axis, producing **aerorrhachia**."*

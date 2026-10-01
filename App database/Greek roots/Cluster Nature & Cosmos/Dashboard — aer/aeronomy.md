@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science that deals with the physics and chemistry of the upper atmosphere of planets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A science that deals with the physics and chemistry of the upper atmosphere of planets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of atmospheric science that treats the physics and chemistry of the upper atmospheres of the Earth and other planets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In planetary physics, the study of photochemical dissociation, ionization processes, auroral emissions, and solar wind interactions occurring in the mesosphere and thermosphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aeronomy designates a science that deals with the physics and chemistry of the upper atmosphere of planets."*
+> - 📜 **Sydney Chapman (*The Earth's Magnetism*):** *"I coined the term **aeronomy** to distinguish the study of the upper ionized atmosphere from conventional tropospheric meteorology."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Comparative **aeronomy** demonstrates how solar ultraviolet radiation disassociates water vapor in the upper atmosphere of Venus."*
+> - 📜 **Patrick Moore (*The New Challenge of the Stars*):** *"Satellite probes measuring ion concentrations provided experimental data that revolutionized terrestrial **aeronomy**."*

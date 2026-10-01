@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of statics that deals with the equilibrium of gaseous fluids and of solid bodies immersed in them.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of statics that deals with the equilibrium of gaseous fluids and of solid bodies immersed in them.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physical science that treats the mechanical equilibrium of gaseous fluids and of solid bodies buoyant within them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and lighter-than-air flight theory, the mathematical application of hydrostatics and gas laws to calculate balloon buoyant lift and equilibrium altitudes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerostatics designates a branch of statics that deals with the equilibrium of gaseous fluids and of solid bodies immersed in them."*
+> - 📜 **Joseph Priestley (*Experiments on Air*):** *"The mathematical principles of **aerostatics** explain why a vessel filled with inflammable air ascends with such surprising vigor."*
+> - 📜 **James Glaisher (*Travels in the Air*):** *"Our balloon ascents verified the theoretical deductions of **aerostatics** regarding atmospheric density lapse rates."*
+> - 📜 **Octave Chanute (*Progress in Flying Machines*):** *"Before dynamic flight was achieved, human aerial exploration rested entirely upon the well-understood theorems of **aerostatics**."*

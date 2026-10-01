@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to arrowworms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to arrowworms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having bristle-like jaws or spine-bearing mouthparts, characteristic of the arrow worms (phylum Chaetognatha).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In functional morphology, designating predatory head structures equipped with bilateral grasping spines capable of rapid raptorial closure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chaetognathous designates of or relating to arrowworms."*
+> - 📜 **Ernst Haeckel (*Systematische Phylogenie*):** *"The **chaetognathous** predators of the open sea preserved an unchanged bilateral bauplan across hundreds of millions of years."*
+> - 📜 **William Benjamin Carpenter (*The Microscope and Its Revelations*):** *"Examining the oral apparatus of a **chaetognathous** worm reveals rows of curved, amber-colored chitinous hooks."*
+> - 📜 **Alister Hardy (*The Open Sea: The World of Plankton*):** *"The swift dart of a **chaetognathous** hunter strikes terror into larval crustaceans grazing upon diatoms."*

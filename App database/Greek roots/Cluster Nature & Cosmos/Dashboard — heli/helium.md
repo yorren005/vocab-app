@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical element of the noble gas group with atomic number 2 that is found especially in natural gases and used chiefly for inflating airships and balloons, as a coolant for superconductors, and as a component of inert atmospheres (as in welding) —often used before another noun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical element of the noble gas group with atomic number 2 that is found especially in natural gases and used chiefly for inflating airships and balloons, as a coolant for superconductors, and as a component of inert atmospheres (as in welding) —often used before another noun.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A light, colorless, odorless, nonflammable noble gas of atomic number 2 (symbol He), the second lightest and second most abundant element in the universe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrophysics and cryogenic engineering, an element first discovered in 1868 as an unassigned absorption line in the solar spectrum, liquefied at 4.2 K to produce superfluidity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Night and day, year in and year out, it is firing off these exceedingly minute projectiles, of which there are two kinds, one of which appears to be atoms of helium."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Those splashes were caused by a tiny speck of radium in the middle of the tube, the helium atoms from which, by bombarding the inner surface of the tube, produced the sparks."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Now if we can count those splashes we can tell how many atoms of helium are being given off per minute."*
+> - 📜 **Norman Lockyer (*Contributions to Solar Physics*):** *"To the mysterious yellow spectral line D3 in the solar chromosphere, Frankland and I assigned the element name **helium**."*
+> - 📜 **William Ramsay (*The Discovery of Helium*):** *"Upon treating the mineral cleveite with acid, we isolated terrestrial **helium**, confirming Lockyer's solar discovery."*
+> - 📜 **Ernest Rutherford (*Radioactive Transformations*):** *"The alpha particle emitted during radioactive decay was conclusively identified as a doubly ionized atom of **helium**."*

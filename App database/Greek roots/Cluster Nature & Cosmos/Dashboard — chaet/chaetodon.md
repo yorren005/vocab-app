@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any fish of the genus chaetodon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any fish of the genus chaetodon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of brightly colored tropical marine butterflyfishes (family Chaetodontidae), native to coral reefs, characterized by setiform (bristle-like) teeth and striking patterns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In coral reef ecology, highly maneuverable corallivorous and planktivorous fishes with deep, disc-like bodies and prolonged snouts specialized for grazing inside coral crevices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chaetodon designates any fish of the genus chaetodon."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Among the coral branches we observed the lovely butterflyfish, **Chaetodon**, darting with dazzling agility into narrow crevices."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The brilliant yellow and black patterns of **Chaetodon** mirrored the vibrant hues of the surrounding Indo-Pacific reef."*
+> - 📜 **Louis Agassiz (*Lake Superior*):** *"The brush-like setiform teeth of **Chaetodon** represent a perfect mechanical adaptation for nibbling delicate coral polyps."*

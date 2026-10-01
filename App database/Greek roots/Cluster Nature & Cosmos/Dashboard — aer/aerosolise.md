@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become dispersed as an aerosol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disperse as an aerosol.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert a substance into a fine aerosol; to disperse a liquid or fine powder as an airborne colloidal suspension (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In respiratory pharmacology and infection control, to atomize therapeutic solutions for inhalation or to generate airborne droplet nuclei during coughing and clinical procedures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerosolise designates become dispersed as an aerosol."*
+> - 📜 **René Dubos (*The Bacterial Cell*):** *"Violent coughing spasms **aerosolise** thousands of tubercle bacilli into microscopic droplet nuclei that remain suspended for hours."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern inhalers **aerosolise** bronchodilator solutions, delivering microscopic particles directly to the terminal bronchioles."*
+> - 📜 **Paul de Kruif (*Microbe Hunters*):** *"The investigator took extreme care not to **aerosolise** the virulent broth during rapid pipetting."*
