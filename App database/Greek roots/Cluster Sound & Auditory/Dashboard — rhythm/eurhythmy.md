@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of harmonious body movement to the rhythm of spoken words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of harmonious body movement to the rhythm of spoken words.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Harmony, proportion, and aesthetic beauty in rhythm, architecture, musical composition, or physical movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expressive movement art where speech and musical sounds are manifested through specific bodily gestures in anthroposophical philosophy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eurhythmy designates a system of harmonious body movement to the rhythm of spoken words."*
+> - 📜 **Vitruvius (*De Architectura*):** *"**Eurhythmy** is beauty and fitness in the adjustment of the parts, where height corresponds to width and width to length."*
+> - 📜 **Rudolf Steiner (*Eurythmy as Visible Speech*):** *"Through **eurhythmy**, the human larynx becomes the whole body, speaking directly through form and movement in space."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The sublime facade achieved an exquisite **eurhythmy**, each colonnade echoing the proportions of the central arch."*

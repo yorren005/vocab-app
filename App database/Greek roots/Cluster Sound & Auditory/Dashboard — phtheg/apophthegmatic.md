@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of utter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of utter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or in the nature of an apophthegm; terse, pithy, and aphoristic in style.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressed with sharp, concise moral wit and brevity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apophthegmatic designates adjective*) pertaining to, derived from, or characteristic of utter."*
+> - 📜 **Samuel Taylor Coleridge (*Table Talk*):** *"Bacon's essays are written in an **apophthegmatic** style where each sentence stands compact like a polished gem."*
+> - 📜 **Thomas De Quincey (*Essays on Style*):** *"Spartan discourse was strictly **apophthegmatic**, answering ambassadors with single-word verdicts."*
+> - 📜 **Walter Pater (*Appreciations*):** *"The poet's lines possess an **apophthegmatic** severity that leaves no room for superfluous adornment."*

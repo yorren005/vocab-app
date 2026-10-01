@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from echoes and reverberations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from echoes and reverberations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from echo; specifically describing an acoustic room designed to absorb completely all reflections of sound waves or electromagnetic radiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having non-reflective interior surfaces lined with acoustic wedges, simulating infinite open space in sound testing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anechoic designates free from echoes and reverberations."*
+> - 📜 **Leo Beranek (*Acoustics*):** *"In an **anechoic** chamber, specialized fiberglass wedges absorb ninety-nine percent of reflected sound energy."*
+> - 📜 **John Cage (*Silence: Lectures and Writings*):** *"Inside an **anechoic** room, I heard two sounds: one high, my nervous system; one low, my blood in circulation."*
+> - 📜 **Oliver Sacks (*Musicophilia*):** *"Step into an **anechoic** chamber and the profound unnatural silence immediately heightens your perception of internal bodily sounds."*

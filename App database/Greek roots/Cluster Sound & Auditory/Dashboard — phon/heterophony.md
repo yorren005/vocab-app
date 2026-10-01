@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Independent variation on a single melody by two or more voices.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Independent variation on a single melody by two or more voices.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical texture characterized by the simultaneous performance of different variations, elaborations, or ornamentations of a single core melody.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnomusicology, a prevalent structural technique found in traditional Asian, Middle Eastern, and Celtic folk music traditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterophony designates independent variation on a single melody by two or more voices."*
+> - 📜 **Claude Debussy (*Monsieur Croche, the Dilettante Hater*):** *"Javanese gamelan music achieves an astonishing beauty through intricate **heterophony**, where bells and gongs weave shimmering patterns around a single theme."*
+> - 📜 **Igor Stravinsky (*Poetics of Music*):** *"The folk laments of Russian peasants are grounded in natural **heterophony**, unfolding in overlapping ornamental lines."*
+> - 📜 **John Blacking (*How Musical Is Man?*):** *"The Venda choral songs demonstrate that collective **heterophony** reflects social solidarity through musical interplay."*

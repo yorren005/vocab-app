@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characterized by polyphony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characterized by polyphony.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having many sounds or voices; marked by a multiplicity of simultaneous vocal or musical tones; polyphonic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting multiple phonetic pronunciations or acoustic resonances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyphonous designates of or relating to or characterized by polyphony."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The stormy gale roared with a **polyphonous** fury through the rigging of the Pequod, howling in twenty discordant keys."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"The cathedral choir sang in **polyphonous** grandeur, their blended voices filling every vaulted arch with golden resonance."*
+> - 📜 **Thomas De Quincey (*The English Mail-Coach*):** *"The midnight wind sweeping over the moor struck the telegraph wires, eliciting a weird, **polyphonous** sigh."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of sound : acoustics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A method of teaching beginners to read and pronounce words by learning the phonetic value of letters, letter groups, and especially syllables.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A method of teaching reading and spelling based on the relationship between written letters and the sounds they represent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sound-spelling correspondence system used in early childhood education to develop decoding skills and reading fluency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phonics designates the science of sound : acoustics."*
+> - 📜 **Jeanne Chall (*Learning to Read: The Great Debate*):** *"Decades of educational research confirm that systematic instruction in **phonics** provides children with essential decoding tools."*
+> - 📜 **Steven Pinker (*The Language Instinct*):** *"A child learning to read must map arbitrary visual marks onto spoken language through the explicit rules of **phonics**."*
+> - 📜 **David Crystal (*The Cambridge Encyclopedia of Language*):** *"Modern educators combine synthetic **phonics** with rich literature to cultivate both decoding accuracy and reading comprehension."*

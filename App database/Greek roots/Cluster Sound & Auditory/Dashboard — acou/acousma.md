@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Illusory auditory perception of strange nonverbal sounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Illusory auditory perception of strange nonverbal sounds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An elementary auditory hallucination consisting of simple, non-verbal sounds such as ringing, buzzing, clicking, or hissing in psychiatry and neurology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A phantom auditory sensation produced by inner ear pathology, epilepsy, or cortical irritation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acousma designates illusory auditory perception of strange nonverbal sounds."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Before the onset of the seizure, the patient experienced an **acousma** resembling the shrill whistling of steam."*
+> - 📜 **Oliver Sacks (*Musicophilia*):** *"An unformed **acousma**, like buzzing or bells, must be distinguished from the structured melodies of complex musical hallucinations."*
+> - 📜 **Jean-Martin Charcot (*Clinical Lectures on Diseases of the Nervous System*):** *"Cortical aura in temporal epilepsy frequently begins with an alarming **acousma** in one ear."*

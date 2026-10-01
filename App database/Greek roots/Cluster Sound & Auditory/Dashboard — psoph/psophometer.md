@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek psoph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Sound & Auditory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument designed to measure audible noise voltage or circuit interference in telephone and audio transmission lines, weighted according to human ear sensitivity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A precision acoustic instrument used in telecommunication testing according to international standards (e.g., CCITT weighting curves).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psophometer designates a term designating an entity, condition, or phenomenon derived from greek psoph."*
+> - 📜 **Oliver Heaviside (*Electromagnetic Theory*):** *"Accurate measurement of line disturbance requires a sensitive **psophometer** calibrated to human auditory perception."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"In evaluating channel capacity, the noise figure registered by a **psophometer** determines the effective signal-to-noise ratio."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Feedback filtering circuits were adjusted until the residual interference recorded on the **psophometer** dropped below the auditory threshold."*

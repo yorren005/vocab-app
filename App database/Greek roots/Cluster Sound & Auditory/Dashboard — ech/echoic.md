@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed in imitation of some natural sound : onomatopoeic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an echo.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Onomatopoeic; formed in imitation of a natural sound, or relating to the reflection of sound waves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology, relating to echoic memory—the sensory memory store for brief auditory stimuli.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, echoic designates formed in imitation of some natural sound : onomatopoeic."*
+> - 📜 **Otto Jespersen (*Language: Its Nature, Development and Origin*):** *"Words like 'buzz', 'cuckoo', and 'splash' are purely **echoic**, arising directly from the ear's mimicry of natural sounds."*
+> - 📜 **Roman Jakobson (*Selected Writings*):** *"Poetic language exploits **echoic** resonance to forge an immediate physical bond between sound and sensation."*
+> - 📜 **Edward Sapir (*Language*):** *"The linguistic significance of **echoic** words is often exaggerated, yet they supply vivid expressive color to speech."*

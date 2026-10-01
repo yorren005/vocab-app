@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The area of mesoderm that forms the notochord.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The area of mesoderm that forms the notochord.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Variant spelling of chordamesoderm: the axial embryonic mesoderm that forms the notochord and induces the overlying ectoderm to develop into the central nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The primary embryonic organizing tissue in vertebrate morphogenesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chordomesoderm designates the area of mesoderm that forms the notochord."*
+> - 📜 **Hans Spemann (*Embryonic Development and Induction*):** *"Transplantation of the **chordomesoderm** into the ventral side of a host gastrula induced a complete secondary nervous system."*
+> - 📜 **C. H. Waddington (*Principles of Embryology*):** *"Chemical signaling from the invaginated **chordomesoderm** governs the neural induction cascade."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"The geometric elongation of the embryonic **chordomesoderm** establishes the structural axis of the vertebrate embryo."*

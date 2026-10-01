@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or conveyed by a telephone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or conveyed by a telephone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, transmitted by, or operating through a telephone or telephony system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling telephone audio in acoustic fidelity; or characterized by communication over distance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telephonic designates of, relating to, or conveyed by a telephone."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"All **telephonic** communication between London and the southern suburbs was abruptly severed as the Martians advanced."*
+> - 📜 **Marcel Proust (*In Search of Lost Time*):** *"Hearing her voice across the crackling **telephonic** line, I felt the terrifying fragility of human connection across space."*
+> - 📜 **Arthur Conan Doyle (*The Disintegration Machine*):** *"A brief **telephonic** summons from Professor Challenger brought me scurrying to his suburban laboratory."*

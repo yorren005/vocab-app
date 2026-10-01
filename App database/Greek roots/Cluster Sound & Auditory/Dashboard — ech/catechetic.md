@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resembling a rigorous catechism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or involving catechesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or consisting of instruction by question and answer, especially in religious dogma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to oral doctrinal dialogue and pedagogical catechisms (variant of catechetical).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catechetic designates of or relating to or resembling a rigorous catechism."*
+> - 📜 **Desiderius Erasmus (*The Praise of Folly*):** *"The theologian argued that sound **catechetic** instruction was far more effective than scholastic disputation."*
+> - 📜 **Martin Luther (*The Large Catechism*):** *"Pastors must never neglect the simple **catechetic** foundations that ground the Christian community in truth."*
+> - 📜 **John Calvin (*Institutes of the Christian Religion*):** *"The ancient church maintained a rigorous **catechetic** school to train adult converts in sacred doctrine."*

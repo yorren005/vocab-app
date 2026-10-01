@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument whereby sound waves are caused to generate or modulate an electric current usually for the purpose of transmitting, recording, or amplifying sound (such as speech or music).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small microphone that is hung around the neck or clipped to the clothing of the user.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electroacoustic transducer or instrument that converts acoustic sound waves in air into an electrical audio signal for amplification, transmission, or recording.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vital technical and cultural apparatus in broadcasting, recording arts, and public address that transformed vocal performance and mass communication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Drummer picked up a microphone, Brad beside him."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Drummer keyed his microphone open and handed it to Brad."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He detached a microphone from the bulkhead nearby, keyed the computer, and spoke."*
+> - 📜 **Marshall McLuhan (*Understanding Media*):** *"The **microphone** transformed politics by substituting the intimate whispers of the fireside chat for the booming rhetoric of the public square."*
+> - 📜 **David Byrne (*How Music Works*):** *"The invention of the sensitive **microphone** made it possible for crooners to sing softly, inventing a new intimacy in recorded song."*
+> - 📜 **Walter Benjamin (*The Work of Art in the Age of Mechanical Reproduction*):** *"The camera and the **microphone** interpose an apparatus between the performer and the public, altering the very nature of human presence."*

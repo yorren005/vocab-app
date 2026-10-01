@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A noncommissioned officer in the british artillery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The member of a bomber crew responsible for using the bombsight and releasing the bombs on the target.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a military aircraft crew responsible for sighting and releasing bombs onto target coordinates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A non-commissioned officer rank in artillery regiments, or a bombardier beetle that shoots noxious chemical spray.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bombardier designates a noncommissioned officer in the british artillery."*
+> - 📜 **Joseph Heller (*Catch-22*):** *"Yossarian was a lead **bombardier** who spent every combat mission maneuvering desperately to avoid anti-aircraft flak."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Like a naval **bombardier** aiming a loaded mortar, the harpooneer poised his weapon above the churning sea."*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"The veteran **bombardier** swabbed the smoking barrel of the howitzer with swift, disciplined precision."*

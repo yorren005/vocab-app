@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A trap for catching mice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (american football) a play in which a defensive player is allowed to cross the line of scrimmage and then blocked off as the runner goes through the place the lineman vacated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical trap or device designed to catch or kill mice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clever scheme, ambush, or contrivance designed to catch someone unawares (as in Shakespeare's *Hamlet*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"HAMLET. _The Mousetrap._ Marry, how?"*
+> - 📜 **William Shakespeare (*Hamlet*):** *"What do you call the play? The **Mousetrap**. Marry, how? Tropically."*
+> - 📜 **Ralph Waldo Emerson (*Miscellanies*):** *"If a man can write a better book, preach a better sermon, or make a better **mousetrap** than his neighbor, the world will make a beaten path to his door."*
+> - 📜 **Agatha Christie (*The Mousetrap*):** *"The detective realized that the isolated guest house had become a deadly **mousetrap** with no way out."*

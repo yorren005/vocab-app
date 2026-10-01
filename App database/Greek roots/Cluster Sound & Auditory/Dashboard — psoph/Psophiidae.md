@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Trumpeters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trumpeters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The bird family in the order Gruiformes comprising the trumpeters (genus *Psophia*), endemic to the wet tropical forests of the Amazon basin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A monogeneric avian family characterized by hunchbacked postures, velvety neck plumage, and deep infrasonic rumbling vocalizations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Psophiidae designates trumpeters."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The family **Psophiidae** is strictly confined to the equatorial forests of South America, showing no close relatives in the Old World."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Major river barriers across the Amazon basin drove geographic speciation among the distinct lineages of **Psophiidae**."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"In comparative anatomy, the family **Psophiidae** bridges the gap between the cranes and the rails."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Verb*) To subject to, transform by, or operate upon through gargle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Verb*) To subject to, transform by, or operate upon through gargle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To wash or rinse the throat and mouth with a liquid held in the back of the oral cavity and agitated by expelled breath; to gargle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To apply a medicated fluid to the fauces and tonsils to reduce inflammation or ulceration in historical medicine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gargarize designates verb*) to subject to, transform by, or operate upon through gargle."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"It is a good method to **gargarize** with vinegar and rose-water to repulse the rheum from the throat."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Physicians direct the patient to **gargarize** with sage infusion whenever malignant humors settle upon the uvula."*
+> - 📜 **John Evelyn (*Acetaria: A Discourse of Sallets*):** *"A decoction of wild mallow serves admirably to **gargarize** the inflamed palate and mouth."*

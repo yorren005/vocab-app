@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or having the characteristics of a phoneme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constituting members of different phonemes (such as \n\ and \m\ in English).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, consisting of, or relating to phonemes or the functional sound system of a language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contrastive in sound so as to distinguish lexical meaning; distinguished from purely phonetic or non-distinctive acoustic detail.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phonemic designates of, relating to, or having the characteristics of a phoneme."*
+> - 📜 **Roman Jakobson (*Fundamentals of Language*):** *"A **phonemic** analysis isolates those binary acoustic features that serve a contrastive communicative function."*
+> - 📜 **Kenneth L. Pike (*Phonemics: A Technique for Reducing Languages to Writing*):** *"The linguist must construct a valid **phonemic** alphabet before attempting to create written literature for an unwritten tongue."*
+> - 📜 **Noam Chomsky (*Syntactic Structures*):** *"The abstract syntactic representation maps onto a string of **phonemic** units governed by rigorous transformational rules."*

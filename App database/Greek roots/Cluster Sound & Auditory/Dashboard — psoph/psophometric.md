@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of noise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of noise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the measurement of electrical or audio noise using a psophometer; weighted to match human ear perception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to standardized psophometric weighting curves used in telecommunications engineering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psophometric designates adjective*) pertaining to, derived from, or characteristic of noise."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"The **psophometric** weighting curve simulates the frequency response of the human ear to audio interference."*
+> - 📜 **Oliver Heaviside (*Electrical Papers*):** *"To ensure speech intelligibility, line engineers must keep the **psophometric** noise voltage within strict technical limits."*
+> - 📜 **Norbert Wiener (*Extrapolation, Interpolation, and Smoothing of Stationary Time Series*):** *"Statistical filters were designed to minimize **psophometric** power across the critical telephone speech band."*

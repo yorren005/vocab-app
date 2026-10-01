@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek psoph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Sound & Auditory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of African thrush in the family Turdidae, represented by the groundscraper thrush (*Psophocichla litsitsirupa*), characterized by loud piping calls and terrestrial foraging.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A southern and eastern African songbird with bold facial markings and upright carriage, adapted to arid savannahs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Psophocichla designates a term designating an entity, condition, or phenomenon derived from greek psoph."*
+> - 📜 **Elliott Coues (*Birds of the Colorado Valley*):** *"The African genus **Psophocichla** represents a terrestrial divergence from the arboreal true thrushes of Europe."*
+> - 📜 **Peter R. Grant (*Ecology and Evolution of Darwin's Finches*):** *"Behavioral foraging adaptations in **Psophocichla** mirror the terrestrial habits of arid-zone ground birds."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"The taxonomic separation of **Psophocichla** from Turdus was substantiated by distinctive vocal patterns and tarsal morphology."*

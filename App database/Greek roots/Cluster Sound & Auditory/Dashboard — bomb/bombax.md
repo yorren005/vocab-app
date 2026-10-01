@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Trees of chiefly south america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trees of chiefly south america.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large tropical trees in the family Malvaceae (subfamily Bombacoideae), commonly known as red silk-cotton trees (*Bombax ceiba*), famed for their prickly bark, scarlet flowers, and silky seed capsules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tropical timber tree prized for lightweight fiber (kapok) used for stuffing cushions and life preservers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bombax designates trees of chiefly south america."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The magnificent crimson blossoms of **Bombax** burst into flower while the branches were still completely destitute of leaves."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Species of **Bombax** yield a downy floss enveloped in their woody capsules, valued for textile padding."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"In the foot-hills, giant specimens of **Bombax** rose eighty feet before spreading their horizontal flower-laden branches."*

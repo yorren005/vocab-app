@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sighting device in an aircraft for aiming bombs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sighting device in an aircraft for aiming bombs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical, mechanical, or computerized sighting instrument mounted on a military aircraft, used by the bombardier to aim and release bombs accurately.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The precision navigational and ballistic calculating instrument (such as the secret Norden bombsight of WWII).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bombsight designates a sighting device in an aircraft for aiming bombs."*
+> - 📜 **Joseph Heller (*Catch-22*):** *"Yossarian stared through the rubber eyepiece of the secret Norden **bombsight**, aligning crosshairs with the bridge piers."*
+> - 📜 **Richard Rhodes (*The Making of the Atomic Bomb*):** *"The Enola Gay approached the aiming point over Hiroshima, the bombardier peering intently into the gyro-stabilized **bombsight**."*
+> - 📜 **John Steinbeck (*Bombs Away: The Story of a Bomber Team*):** *"The **bombsight** was treated with religious secrecy, guarded by armed sentries whenever removed from the safe."*

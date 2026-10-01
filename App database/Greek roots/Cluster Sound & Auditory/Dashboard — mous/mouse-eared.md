@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having ears like a mouse's.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having ears like a mouse's.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having small, rounded, velvety leaves resembling the ears of a mouse, as in mouse-ear chickweed (*Cerastium*) or mouse-ear hawkweed (*Pilosella*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having ears cropped or rounded like a mouse's ears, historically applied to horses with small, neat ears.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mouse-eared designates having ears like a mouse's."*
+> - 📜 **John Gerard (*The Herball*):** *"The **mouse-eared** chickweed groweth upon dry ditch banks, having little soft hairy leaves."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Plants of this genus bear small **mouse-eared** foliage covered in silvery down."*
+> - 📜 **William Withering (*A Botanical Arrangement of British Plants*):** *"The **mouse-eared** hawkweed spreads by runners over the dry gravelly pasture."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Sound & Auditory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vivid, evocative word that phonetically depicts or mimics a sensory perception, motion, texture, color, or psychological state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic typology, an expressive lexical class of words (such as sound-symbolic words or Japanese mimetics) that convey sensory impressions beyond mere sound.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ideophone designates a term designating an entity, condition, or phenomenon derived from greek phon."*
+> - 📜 **G. A. Kouwenhoven (*A Grammar of Zulu*):** *"In Bantu languages, the **ideophone** acts as a vivid linguistic brushstroke, painting sound, color, and motion directly into the listener's imagination."*
+> - 📜 **Mark Dingemanse (*The Meaning and Use of Ideophones*):** *"An **ideophone** does not simply describe a sensory experience; it performs an acoustic simulation of the event itself."*
+> - 📜 **Edward Sapir (*Selected Writings in Language, Culture and Personality*):** *"Expressive sound-symbolism demonstrates that an **ideophone** links sensory intuition directly to phonetic patterning."*

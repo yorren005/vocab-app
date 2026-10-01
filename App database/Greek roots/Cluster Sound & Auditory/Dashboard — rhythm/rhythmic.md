@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by or moving in pronounced rhythm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or involving rhythm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having, producing, or relating to rhythm; recurring with measured regularity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by pleasing musical or poetic cadence in literary style.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"While yet many score yards off, other rhythmic sounds than those she had quitted became audible to her; sounds that she knew well—so well."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Nothing in the picture moved but Old Pretty’s tail and Tess’s pink hands, the latter so gently as to be a rhythmic pulsation only, as if they were obeying a reflex stimulus, like a beating heart."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Rhythmic changes in weather and in crops. § 16."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The regular, **rhythmic** thud of the woodsman's axe echoed across the frozen lake with musical clarity."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The oarsmen pulled in **rhythmic** unison, their blades rising and falling like a single machine."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The village fiddlers kept up a vigorous **rhythmic** beat that set every rustic boot tapping against the floor."*

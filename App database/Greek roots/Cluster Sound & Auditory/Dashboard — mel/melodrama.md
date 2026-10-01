@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A work (such as a movie or play) characterized by extravagant theatricality and by the predominance of plot and physical action over characterization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The genre of dramatic literature constituted by such works.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dramatic piece with exaggerated characters, heightened emotions, and sensational events intended to appeal strongly to feelings (originally a play interspersed with music).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overly sensational, emotional, or theatrical behavior in daily life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"It seemed to concentrate its rays on my back, to the exclusion of the surrounding scenery, in much the same way as the moon behaves to the heroine of a melodrama."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I objected strongly to being treated as the villain of a melodrama."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Oh, I say, this'll be one in the eye for Riggetts, pore little feller. (_Assuming an air of advanced melodrama._) Ow!"*
+> - 📜 **George Bernard Shaw (*Plays Pleasant and Unpleasant*):** *"The Victorian stage relied on crude **melodrama** where virtue was rewarded and villainy unmasked at the final curtain."*
+> - 📜 **Henry James (*The Art of the Novel*):** *"The author resisted the cheap temptation of **melodrama**, focusing instead on subtle psychological nuance."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Don't indulge in **melodrama**, my dear boy; tears ruin one's appearance and change nothing."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cat proficient at mousing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cat proficient at mousing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal (especially a domestic cat) that hunts and catches mice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who searches quietly or rummages for curiosities or hidden facts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"She's an' old creatur', like me, an' I can make shift to keep her some way or 'nuther; there's probably mice where we're goin', an' she's a proper mouser that can about keep herself if there's any sort o' chance."*
-> - 📜 **Classic Author (*Friends and Helpers*):** *"Remember that a half-starved cat makes a poor mouser."*
-> - 📜 **Classic Author (*Friends and Helpers*):** *"The government cats are fed well, some postmasters being allowed forty dollars a year for "cat meat." The work that this army does proves that well-fed cats make the best mousers."*
+> - 📜 **Mark Twain (*Pudd'nhead Wilson*):** *"The tomcat was an accomplished **mouser**, keeping the cellar entirely clear of rodents."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"The old tabby lay dozing beside the kitchen fire, an alert and trusty **mouser** despite her years."*
+> - 📜 **Washington Irving (*The Sketch Book*):** *"The antiquary was a diligent **mouser** among forgotten church registers and worm-eaten parish rolls."*

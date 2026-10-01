@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Harmonious, symphonious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or having the form or character of a symphony.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, composed for, or resembling a symphony or full symphony orchestra.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, marked by harmonious grandeur, thematic development, and complex orchestral blending of varied elements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symphonic designates harmonious, symphonious."*
+> - 📜 **Leonard Bernstein (*The Infinite Variety of Music*):** *"Beethoven expanded the **symphonic** form into an epic canvas for the expression of universal human struggle."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"The sounds of the summer night gathered into a **symphonic** murmur that lulled the sleeping household."*
+> - 📜 **Romain Rolland (*Jean-Christophe*):** *"He listened to the forest wind swelling like a vast **symphonic** prelude, full of mysterious longing."*

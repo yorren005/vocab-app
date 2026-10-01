@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stack in cords.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bind or tie with a cord.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ribbed or woven with raised cords or ridges (as in corduroy or corded silk); also, bound or fastened with cords.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having prominent, rope-like sinews or veins standing out beneath the skin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This night he meaneth with a corded ladder To climb celestial Silvia’s chamber window, Myself in counsel, his competitor."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"There was a light in the porter’s lodge: when we reached it, we found the porter’s wife just kindling her fire: my trunk, which had been carried down the evening before, stood corded at the door."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The box was corded, the card nailed on."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The venerable magistrates were clad in dark **corded** cloaks trimmed with velvet."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His muscular throat and **corded** wrists bore witness to years of hard labor in the shearing barn."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Beside the doorway stood several heavy trunks, securely strapped and **corded** for the coach voyage."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Sound & Auditory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The naming of letters of an alphabetic script using a word whose initial sound corresponds to the sound represented by the letter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The historical linguistic and epigraphic process through which pictographs evolved into alphabetic characters via initial phonetic representation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acrophony designates a term designating an entity, condition, or phenomenon derived from greek phon."*
+> - 📜 **David Diringer (*The Alphabet: A Key to the History of Mankind*):** *"Through the process of **acrophony**, the image of an ox head came to represent the initial glottal stop of the Semitic word aleph."*
+> - 📜 **Isaac Taylor (*The History of the Alphabet*):** *"The principle of **acrophony** played a vital role in transforming pictorial hieroglyphs into abstract phonetic characters."*
+> - 📜 **John Chadwick (*The Decipherment of Linear B*):** *"Linear scripts rarely rely on pure **acrophony**, favoring syllabic values over single initial consonant markers."*

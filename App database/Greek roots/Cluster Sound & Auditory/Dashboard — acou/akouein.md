@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek acou.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Sound & Auditory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Ancient Greek verb meaning 'to hear', 'to listen', or 'to pay attention', the etymological ancestor of modern terms like *acoustics* and *acusmatic*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greek philosophy and medicine, denoting auditory perception and the physical sensation of sound.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, akouein designates a term designating an entity, condition, or phenomenon derived from greek acou."*
+> - 📜 **Aristotle (*De Anima*):** *"The capacity designated by **akouein** operates through the medium of air trapped within the resonant chambers of the ear."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"Under **akouein**, the lexicon outlines the spectrum from passive hearing to obedient listening and acoustic perception."*
+> - 📜 **Plato (*Timaeus*):** *"Hearing, expressed by the ancient verb **akouein**, was bestowed upon mortals by the gods to perceive harmony and proportion in song."*

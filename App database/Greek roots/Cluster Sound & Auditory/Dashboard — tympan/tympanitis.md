@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the inner ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the inner ear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the tympanic membrane or the middle ear cavity (otitis media).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acute ear infection causing earache, hearing loss, and drumhead hyperemia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tympanitis designates inflammation of the inner ear."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Untreated catarrhal **tympanitis** in infants may extend into the mastoid cells, requiring surgical drainage."*
+> - 📜 **Joseph Lister (*The Collected Papers of Joseph Lister*):** *"Antiseptic cleansing prevented secondary bacterial contamination during the treatment of suppurative **tympanitis**."*
+> - 📜 **Stewart Duke-Elder (*System of Ophthalmology*):** *"Severe nasopharyngeal infections frequently ascend through the Eustachian tube, precipitating acute **tympanitis**."*

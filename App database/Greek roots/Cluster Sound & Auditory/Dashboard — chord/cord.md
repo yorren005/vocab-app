@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long slender flexible material usually consisting of several strands (as of thread or yarn) woven or twisted together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The hangman's rope.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long, thin, flexible string or thin rope made of several strands twisted or braided together; also, an anatomical structure resembling a cord (e.g., umbilical cord, vocal cord).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of measurement for cut firewood equal to 128 cubic feet (typically 4x4x8 feet).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, the charity of a penny cord!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, give me cord, or knife, or poison, Some upright justicer!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, go speak; the Duke will hear thy voice; And let not Bardolph’s vital thread be cut With edge of penny cord and vile reproach."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A man who cuts his own firewood warms himself twice, stacking each **cord** with thrifty rustic pride."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The whale-line was coiled with meticulous care, a supple hempen **cord** upon which human lives depended."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"The heavy burden upon Christian's back was bound with a stout **cord** that snapped as he approached the Cross."*

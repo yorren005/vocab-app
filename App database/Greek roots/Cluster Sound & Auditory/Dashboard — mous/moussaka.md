@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Casserole of eggplant and ground lamb with onion and tomatoes bound with white sauce and beaten eggs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Casserole of eggplant and ground lamb with onion and tomatoes bound with white sauce and beaten eggs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional baked Greek and Middle Eastern dish consisting of layered sliced eggplant (or potatoes) and spiced minced meat, topped with a thick custard or béchamel sauce.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The national culinary specialty of Greece, codified in modern form by chef Nikolaos Tselementes in the 1920s.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, moussaka designates casserole of eggplant and ground lamb with onion and tomatoes bound with white sauce and beaten eggs."*
+> - 📜 **Elizabeth David (*A Book of Mediterranean Food*):** *"A classic Greek **moussaka** layers sautéed aubergines with fragrant spiced minced lamb beneath a golden crust of baked cream."*
+> - 📜 **Patrick Leigh Fermor (*Mani: Travels in the Southern Peloponnese*):** *"In the village taverna, the host brought forth a smoking baking pan of **moussaka**, fragrant with cinnamon and olive oil."*
+> - 📜 **Lawrence Durrell (*Prospero's Cell*):** *"We dined under the arbor upon cold retsina and savoury **moussaka**, listening to the waves lap the Corfu shore."*

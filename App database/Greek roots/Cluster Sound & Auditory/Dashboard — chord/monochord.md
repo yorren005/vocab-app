@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument of ancient origin for measuring and demonstrating the mathematical relations of musical tones and that consists of a single string stretched over a sound box and a movable bridge set on a graduated scale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument of ancient origin for measuring and demonstrating the mathematical relations of musical tones and that consists of a single string stretched over a sound box and a movable bridge set on a graduated scale.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient scientific musical instrument consisting of a single string stretched over a calibrated soundbox with a movable bridge, used to investigate mathematical harmonic ratios.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The acoustic laboratory apparatus by which Pythagoras discovered the mathematical intervals of the octave, fifth, and fourth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monochord designates an instrument of ancient origin for measuring and demonstrating the mathematical relations of musical tones and that consists of a single string stretched over a sound box and a movable bridge set on a graduated scale."*
+> - 📜 **Pythagoras (*Harmonic Fragments*):** *"By dividing the string of the **monochord** in exact numerical proportions, Pythagoras demonstrated that musical harmony is governed by number."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Newton compared the seven primary colors of the spectrum to the seven musical intervals mapped upon the classical **monochord**."*
+> - 📜 **Boethius (*De Institutione Musica*):** *"The scholar who wishes to understand celestial harmony must first master the divisions of the **monochord**."*

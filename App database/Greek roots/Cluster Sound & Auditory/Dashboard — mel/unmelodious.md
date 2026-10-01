@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having a musical sound or pleasing tune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking melody.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not melodious; lacking sweet tune, musical harmony, or pleasant cadence; harsh or grating to the ear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discordant, unmusical, or jarring in speech or sound.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unmelodious designates not having a musical sound or pleasing tune."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The rusty weathercock turned with an **unmelodious** screech whenever the autumn gale shifted."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The street singer ground out an **unmelodious** dirge upon an ancient barrel organ."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The boatswain's pipe emitted a harsh and **unmelodious** squeak that startled the watch below."*

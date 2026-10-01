@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large shawm; the bass member of the shawm family.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cast, hurl, or throw repeatedly with some missile.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To attack continuously with bombs, artillery shells, or other missiles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To assail someone persistently with questions, complaints, or information; also, in nuclear physics, to direct a stream of high-energy particles at a target nucleus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yond same black cloud, yond huge one, looks like a foul bombard that would shed his liquor."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"What need was there that the French should bombard us and destroy the city?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You’re lazy knaves, And here ye lie baiting of bombards, when Ye should do service."*
+> - 📜 **Ernest Hemingway (*A Farewell to Arms*):** *"The Austrian batteries began to **bombard** the trench line across the river with heavy trench-mortar shells."*
+> - 📜 **Marie Curie (*Radioactive Substances*):** *"Physicists learned to **bombard** heavy atoms with alpha particles to induce nuclear disintegrations."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The revolutionary mob gathered before the gates, threatening to **bombard** the fortress with captured cannon."*

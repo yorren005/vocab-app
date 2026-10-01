@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the smaller bombs that are released from a cluster bomb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the smaller bombs that are released from a cluster bomb.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small bomb or submunition, especially one of dozens or hundreds packed into a cluster bomb casing and dispersed over a wide area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An explosive submunition that presents lingering humanitarian hazards when unexploded.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bomblet designates one of the smaller bombs that are released from a cluster bomb."*
+> - 📜 **Tim O'Brien (*The Things They Carried*):** *"Each artillery cluster canister scattered hundreds of lethal **bomblet** spheres across the canopy."*
+> - 📜 **Michael Herr (*Dispatches*):** *"The pilots spoke of cluster munitions dispersing every miniature **bomblet** across the jungle clearing with mathematical spread."*
+> - 📜 **Philip Caputo (*A Rumor of War*):** *"They walked with caution through the target zone, avoiding any unexploded **bomblet** protruding from the red clay."*

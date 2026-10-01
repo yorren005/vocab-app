@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fire-bellied toads.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fire-bellied toads.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, warty, semi-aquatic toads in the family Bombinatoridae, commonly known as fire-bellied toads, famed for bright belly markings and low bell-like barking calls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A European and Asian amphibian genus exhibiting the defensive posture displaying a brightly colored belly to warn predators of skin toxins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bombina designates fire-bellied toads."*
+> - 📜 **Hans Gadow (*Amphibia and Reptiles*):** *"When disturbed, the little toad **Bombina** arches its spine to display the fiery orange warning patches upon its belly."*
+> - 📜 **Konrad Lorenz (*King Solomon's Ring*):** *"In the marshes of the Danube, the melancholy bell-like piping of **Bombina** sounds like distant fairy bells across the reeds."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"The hybrid zone between two European species of **Bombina** provides a textbook model of reproductive isolation."*

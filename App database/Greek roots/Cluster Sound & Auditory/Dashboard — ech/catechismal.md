@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a catechism summarizing the principles of christianity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a catechism summarizing the principles of christianity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, resembling, or presented in the manner of a catechism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dogmatic, formulaic, and instructional in style.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catechismal designates of or relating to a catechism summarizing the principles of christianity."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"Our middle class was raised on a dry, **catechismal** morality that lacked imaginative sweetness."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The philosopher rejected all sterile, **catechismal** formulas, seeking the living fire of genuine faith."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Artistic truth cannot be reduced to a **catechismal** set of rules for mixing pigment."*

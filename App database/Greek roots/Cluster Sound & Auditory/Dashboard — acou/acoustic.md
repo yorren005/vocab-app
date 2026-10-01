@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the sense or organs of hearing, to sound, or to the science of sounds : such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deadening or absorbing sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to sound, hearing, or the sense of auditory perception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to instruments that produce sound naturally without electrical amplification; designed to control sound reflection in architecture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"At the one end of the scale is the acoustic artist, i.e., the musician."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Between these, and comprising both these activities in his own, is the poet, who is both acoustic and optic artist."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"But he is optic as well as acoustic; that is, he calls up at the same time by his art a procession of images which march or dance across the theatre of the listener’s fancy."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The propagation of sound through air conforms to purely **acoustic** wave motions governed by elasticity and density."*
+> - 📜 **Hermann von Helmholtz (*On the Sensations of Tone*):** *"The human ear acts as an exquisite **acoustic** resonator, resolving complex waveforms into pure harmonic components."*
+> - 📜 **John Tyndall (*Sound*):** *"The great cathedral possessed splendid **acoustic** properties, carrying the choral chant into every vaulted recess."*

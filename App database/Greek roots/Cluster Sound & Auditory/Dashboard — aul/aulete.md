@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aul.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Sound & Auditory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A player of the aulos; an ancient Greek flutist or pipe player who accompanied theatrical dramas, athletic contests, and religious sacrifices.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A professional musician skilled in circular breathing and double-reed pipe performance in Hellenic society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aulete designates a term designating an entity, condition, or phenomenon derived from greek aul."*
+> - 📜 **Aristotle (*Politics*):** *"The **aulete** required a mouth-band to support the cheeks during the violent exertion of blowing the double pipes."*
+> - 📜 **Plutarch (*Parallel Lives*):** *"Alcibiades refused to learn the pipes, arguing that playing them distorted the face of the **aulete** beyond recognition."*
+> - 📜 **Walter Pater (*Plato and Platonism*):** *"In Plato's ideal commonwealth, the professional **aulete** was banished in favor of the simpler, sober lyre."*

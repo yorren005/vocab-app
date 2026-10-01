@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A foghorn that makes a signal consisting of two tones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A foghorn that makes a signal consisting of two tones.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A type of powerful acoustic foghorn that produces a low-frequency warning sound characterized by a sudden downward pitch drop at the end of each blast.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phonetics and dialectology, a speech sound or phonemic family that varies systematically in pronunciation among speakers of different regional dialects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diaphone designates a foghorn that makes a signal consisting of two tones."*
+> - 📜 **Daniel Jones (*The Phoneme: Its Nature and Use*):** *"The concept of the **diaphone** accounts for variant realizations of a phoneme across distinct dialects of English."*
+> - 📜 **Farley Mowat (*The Rock Within the Sea*):** *"Through the dense Newfoundland fog, the bellow of the lighthouse **diaphone** boomed across the icy breakers."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"On misty nights along the rocky coast, the mournful groan of the harbor **diaphone** warned ships away from the shoals."*

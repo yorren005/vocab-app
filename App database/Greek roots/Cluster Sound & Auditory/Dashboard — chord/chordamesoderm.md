@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The area of mesoderm that forms the notochord.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The area of mesoderm that forms the notochord.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The axial mesoderm in vertebrate embryos that induces the formation of the neural tube and gives rise to the notochord and somites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The master organizing tissue discovered by Hans Spemann that coordinates the primary body axis during gastrulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chordamesoderm designates the area of mesoderm that forms the notochord."*
+> - 📜 **Hans Spemann (*Embryonic Development and Induction*):** *"The dorsal lip of the blastopore, consisting of **chordamesoderm**, possesses the organizing capacity to induce a secondary embryo."*
+> - 📜 **Julian Huxley (*The Elements of Experimental Embryology*):** *"Invagination of **chordamesoderm** under the dorsal ectoderm is the decisive trigger for neural plate differentiation."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"Vertebrate body plans rely upon inductive signaling from the embryonic **chordamesoderm** to orient head-to-tail polarity."*

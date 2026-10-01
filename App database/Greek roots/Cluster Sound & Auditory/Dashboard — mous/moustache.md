@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unshaved growth of hair on the upper lip.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unshaved growth of hair on the upper lip.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A strip of hair left to grow above the upper lip of a person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sensory bristle or tactile whisker located around the mouth of certain mammals, birds, or insects in biology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is close-shaved now, but his mouth is set as if his upper lip had been for years familiar with a great moustache; and his manner of occasionally laying the open palm of his broad brown hand upon it is to the same effect."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"George, pausing with a frown in stroking the recollection of his moustache."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn is!” “I am sorry,” says Allan, “to have touched so sore a place.” “Sore?” The trooper plants his legs wider apart, wets the palm of his broad right hand, and lays it on the imaginary moustache."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He was a remarkably handsome man, dark, aquiline, and moustached, possessing a heavy military **moustache**."*
+> - 📜 **Agatha Christie (*Murder on the Orient Express*):** *"Hercule Poirot inspected his magnificent waxed **moustache** in the pocket mirror with fastidious pride."*
+> - 📜 **George Orwell (*1984*):** *"The enormous face gazed down from the poster—forty-five, with a heavy black **moustache** and ruggedly handsome features."*

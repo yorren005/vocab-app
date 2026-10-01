@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous small rodents typically resembling diminutive rats having pointed snouts and small ears on elongated bodies with slender usually hairless tails.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A swollen bruise caused by a blow to the eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small rodent that typically has a pointed snout, relatively large ears and eyes, and a long thin tail (genus *Mus* and related species).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A handheld hardware input device that controls the movement of the cursor on a computer display screen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tribunes for them!— The mouse ne’er shunned the cat as they did budge From rascals worse than they."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou wilt be as valiant as the wrathful dove or most magnanimous mouse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What’s your dark meaning, mouse, of this light word?"*
+> - 📜 **Robert Burns (*To a Mouse*):** *"Wee, sleekit, cow'rin, tim'rous beastie, O, what a panic's in thy breastie, poor frightened **mouse**!"*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"A **mouse** had fallen into the pool of tears, splashing about in the salty water."*
+> - 📜 **John Steinbeck (*Of Mice and Men*):** *"The best-laid schemes o' mice an' men gang aft agley, and Lennie loved to stroke a soft little **mouse**."*

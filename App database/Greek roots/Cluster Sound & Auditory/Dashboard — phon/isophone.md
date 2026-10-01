@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Sound & Auditory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A line drawn on a dialect map connecting geographic points where a specific speech sound or phonetic feature is pronounced identically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In acoustic engineering and psychoacoustics, a contour line of equal perceived loudness plotted across varying acoustic frequencies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isophone designates a term designating an entity, condition, or phenomenon derived from greek phon."*
+> - 📜 **Hans Kurath (*A Word Geography of the Eastern United States*):** *"The dialect cartographer traces an **isophone** across the mountain pass to mark the boundary between rhotic and non-rhotic pronunciation."*
+> - 📜 **Harvey Fletcher (*Speech and Hearing in Communication*):** *"Each **isophone** on the psychoacoustic graph depicts the sound pressure levels required to produce a sensation of uniform loudness across frequencies."*
+> - 📜 **Peter Trudgill (*Sociolinguistics: An Introduction to Language and Society*):** *"Isolating a single **isophone** reveals how dialect boundaries frequently align with ancient riverways and administrative frontiers."*

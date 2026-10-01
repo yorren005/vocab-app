@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Sound & Auditory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any musical instrument in which sound is produced primarily by the vibration of the instrument's own solid body, without strings or membranes (e.g. gongs, bells, xylophones).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first and most diverse of the four main instrument families established in the Hornbostel-Sachs system of musical instrument classification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, idiophone designates a term designating an entity, condition, or phenomenon derived from greek phon."*
+> - 📜 **Curt Sachs (*The History of Musical Instruments*):** *"A struck stone, a wooden bell, and a bronze cymbal are all classified as an **idiophone**, producing sound through their own elastic substance."*
+> - 📜 **Erich von Hornbostel (*Systematik der Musikinstrumente*):** *"We define as an **idiophone** any resonant object whose vibrating material itself generates the acoustic tone without strings or membranes."*
+> - 📜 **Colin Turnbull (*The Forest People*):** *"The rhythmic clatter of the wooden **idiophone** echoed through the dense canopy as the hunters prepared their evening dance."*

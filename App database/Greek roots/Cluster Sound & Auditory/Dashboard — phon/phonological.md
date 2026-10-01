@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to phonology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to phonology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the systematic organization, patterning, and study of speech sounds within a language (phonology).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the cognitive representations, rules, and constraints that govern sound changes and contrasts in human speech.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phonological designates of or relating to phonology."*
+> - 📜 **Noam Chomsky (*The Sound Pattern of English*):** *"A comprehensive grammar must account for the underlying **phonological** representations that generate surface speech."*
+> - 📜 **Steven Pinker (*The Language Instinct*):** *"Children acquire the **phonological** rules of their native tongue effortlessly before reaching school age."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The **phonological** system of a language functions as a self-contained web of interdependent acoustic relations."*

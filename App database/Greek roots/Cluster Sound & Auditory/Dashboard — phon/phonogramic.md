@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a phonogram.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a phonogram.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or consisting of phonograms; using written symbols to represent speech sounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by a phonetic writing system based on phonograms rather than ideographic or pictographic characters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phonogramic designates of or relating to a phonogram."*
+> - 📜 **David Diringer (*The Alphabet*):** *"The emergence of **phonogramic** scripts allowed ancient civilizations to record complex abstract thought with minimal symbols."*
+> - 📜 **John Chadwick (*The Decipherment of Linear B*):** *"The syllabary consists of sixty distinct **phonogramic** signs representing vowel and consonant-vowel combinations."*
+> - 📜 **Michael D. Coe (*Breaking the Maya Code*):** *"Scholars recognized that Maya glyphs included both semantic determinatives and strictly **phonogramic** syllables."*

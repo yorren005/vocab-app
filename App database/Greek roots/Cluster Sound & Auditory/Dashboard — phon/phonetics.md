@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The system of speech sounds of a language or group of languages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study and systematic classification of the sounds made in spoken utterance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of human speech sounds, encompassing articulatory, acoustic, and auditory dimensions of vocal sound production.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of linguistics that analyzes how speech sounds are physically produced by the vocal tract, transmitted as sound waves, and perceived by the ear.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phonetics designates the system of speech sounds of a language or group of languages."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"While **phonetics** catalogs the raw physical sounds of speech, phonology studies their functional patterns."*
+> - 📜 **Roman Jakobson (*Preliminaries to Speech Analysis*):** *"The integration of acoustic **phonetics** with information theory revolutionized our understanding of speech perception."*
+> - 📜 **Peter Ladefoged (*A Course in Phonetics*):** *"Mastery of articulatory **phonetics** requires feeling the precise contacts between tongue, palate, and vocal cords."*

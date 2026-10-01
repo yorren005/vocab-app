@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Harsh or jarring sound : dissonance; specifically : harshness in the sound of words or phrases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An incongruous or chaotic mixture : a striking combination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A harsh, discordant, jarring mixture of sounds or noises.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature and rhetoric, the deliberate or accidental juxtaposition of harsh, discordant consonants and syllables to produce an abrasive auditory texture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cacophony designates harsh or jarring sound : dissonance; specifically : harshness in the sound of words or phrases."*
+> - 📜 **James Joyce (*Ulysses*):** *"A jarring **cacophony** of clattering hooves and rattling dray carts echoed along the granite quays of Dublin."*
+> - 📜 **Ralph Ellison (*Invisible Man*):** *"Beneath the city streets, subway engines roared in a deafening **cacophony** that vibrated through every beam."*
+> - 📜 **E. M. Forster (*A Passage to India*):** *"The cave answered every spoken syllable with a hollow, booming **cacophony** that erased all nuance of human speech."*

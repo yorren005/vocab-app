@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bumblebees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bumblebees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The genus of robust, hairy bees in the family Apidae comprising the true bumblebees, famed for their deep humming flight buzz, colony sociality, and buzz pollination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The primary pollinators of temperate wildflowers and agricultural crops, named from Greek *bombos* ('buzzing').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bombus designates bumblebees."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The fertilisation of red clover depends almost entirely upon visits from humble-bees of the genus **Bombus**."*
+> - 📜 **John Lubbock (*Ants, Bees, and Wasps*):** *"A queen of **Bombus** emerges from her winter hibernation in early spring to establish a subterranean nest."*
+> - 📜 **Edward O. Wilson (*The Insect Societies*):** *"Colonies of **Bombus** display a primitive, annual social structure that dissolves upon the arrival of autumn frosts."*

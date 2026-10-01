@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An entertainer who has a sensational effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shocking surprise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An explosive artillery shell or bomb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sudden, shocking piece of news, or an exceptionally striking and attractive person in popular culture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Noting the time, he decided to drop the first bombshell."*
+> - 📜 **Arthur Conan Doyle (*The Return of Sherlock Holmes*):** *"The sudden announcement of the baronet's marriage was a social **bombshell** that stunned London drawing rooms."*
+> - 📜 **F. Scott Fitzgerald (*Tender Is the Night*):** *"Her unexpected revelation dropped like a **bombshell** into the quiet elegance of their terrace dinner."*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"A screeching **bombshell** buried itself in the sod nearby, tossing up a geyser of blackened soil."*

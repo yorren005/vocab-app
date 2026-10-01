@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a buzzing sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a buzzing sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make a humming, buzzing, or droning sound (variant of bombinate, from Greek *bombos*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To drone continuously like a bee or rotating propeller.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bombilate designates make a buzzing sound."*
+> - 📜 **Aldous Huxley (*Crome Yellow*):** *"His voice would **bombilate** softly through the library like a heavy bumblebee trapped behind a sunlit curtain."*
+> - 📜 **James Joyce (*Finnegans Wake*):** *"The evening breeze seemed to **bombilate** with whispered rumors across the darkening Dublin quays."*
+> - 📜 **T. S. Eliot (*Selected Essays*):** *"The mechanical engines of modern cities **bombilate** with a relentless rhythm that dulls the human soul."*

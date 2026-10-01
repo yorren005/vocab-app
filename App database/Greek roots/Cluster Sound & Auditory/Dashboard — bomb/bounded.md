@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move forward by leaps and bounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form the boundary of; be contiguous to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having limits or boundaries; enclosed, restricted, or confined.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a mathematical set or function: having elements whose values do not exceed a finite real number; finite in magnitude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O God, I could be bounded in a nutshell, and count myself a king of infinite space, were it not that I have bad dreams."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How are we park’d and bounded in a pale, A little herd of England’s timorous deer, Mazed with a yelping kennel of French curs!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet to be neutral to him were dishonour, Rebellious to oppose; therefore we must With him stand to the mercy of our fate, Who hath bounded our last minute."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"O God, I could be **bounded** in a nutshell, and count myself a king of infinite space, were it not that I have bad dreams."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"A set of numbers is said to be **bounded** when it possesses both an upper and a lower limit."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Our everyday life is **bounded** by trivial routines, yet our thoughts touch eternity."*

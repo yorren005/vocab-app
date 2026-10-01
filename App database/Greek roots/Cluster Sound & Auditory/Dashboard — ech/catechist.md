@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One that catechizes: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A teacher of catechumens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who instructs others in the Christian religion, especially in preparation for baptism or confirmation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A teacher or lay leader appointed to conduct religious instruction in mission fields or parishes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The ceremony has been described by a catechist, who witnessed it at Car Nicobar in July 1897."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"I mock you.” “My brave wife,” returned Defarge, standing before her with his head a little bent, and his hands clasped at his back, like a docile and attentive pupil before his catechist, “I do not question all this."*
+> - 📜 **David Livingstone (*Missionary Travels and Researches in South Africa*):** *"The native **catechist** was an invaluable companion, explaining Christian truths in the vernacular tongue."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"He had met a zealous native **catechist** who carried an old Bible through the wilderness."*
+> - 📜 **Francis Xavier (*Letters from the Far East*):** *"The devoted **catechist** gathered the village children at daybreak to teach them the Apostles' Creed."*

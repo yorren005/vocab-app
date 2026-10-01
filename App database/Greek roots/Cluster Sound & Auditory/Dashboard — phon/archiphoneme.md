@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Sound & Auditory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abstract phonological unit representing the common distinctive features shared by two or more phonemes when their contrast is neutralized in a particular position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Prague School structural phonology (formulated by Trubetzkoy), a theoretical construct symbolized by a capital letter representing the architype of neutralized sounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archiphoneme designates a term designating an entity, condition, or phenomenon derived from greek phon."*
+> - 📜 **Nikolai Trubetzkoy (*Principles of Phonology*):** *"When the opposition between voiced and voiceless stops is neutralized at word boundaries, an **archiphoneme** emerges."*
+> - 📜 **Roman Jakobson (*Selected Writings*):** *"The **archiphoneme** embodies the invariant distinctive features that remain operative when positional neutralization occurs."*
+> - 📜 **André Martinet (*Elements of General Linguistics*):** *"In French, the loss of contrast between open and closed vowels in unstressed syllables produces an **archiphoneme**."*

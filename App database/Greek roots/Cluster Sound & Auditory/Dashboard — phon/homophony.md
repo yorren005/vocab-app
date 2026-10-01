@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: chordal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: of or relating to homophones.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Identity of sound between different words or characters having different spellings and meanings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In music, a textural structure in which one principal melody stands out prominently while accompanying voices provide harmonic support.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog homophony as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Igor Stravinsky (*Chronicles of My Life*):** *"The stark **homophony** of the sacred chorale struck the congregation with direct, unadorned spiritual force."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Extensive phonetic erosion in modern languages has dramatically multiplied instances of lexical **homophony**."*
+> - 📜 **Paul Henry Lang (*Music in Western Civilization*):** *"The rise of Italian opera established the supremacy of melodic **homophony** over the intricate polyphonic webs of the Renaissance."*

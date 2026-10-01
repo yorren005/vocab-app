@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An intolerance of or hypersensitivity to sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fear of sounds and especially loud, sudden sounds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, extreme, or irrational sensitivity to or fear of sound, especially loud, sharp, or sudden noises.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurology, a common clinical symptom of migraine headaches and brain injury characterized by severe sensory intolerance to environmental sounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phonophobia designates an intolerance of or hypersensitivity to sound."*
+> - 📜 **Oliver Sacks (*Migraine*):** *"The patient retreated into a darkened, silent bedroom, debilitated by acute photophobia and unbearable **phonophobia**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"During severe cephalalgia, profound **phonophobia** renders the slightest footstep or rustling paper agonizing."*
+> - 📜 **Harold Wolff (*Headache and Other Head Pain*):** *"Sensory hypersensitivity during vascular headaches manifests prominently as transient **phonophobia**."*

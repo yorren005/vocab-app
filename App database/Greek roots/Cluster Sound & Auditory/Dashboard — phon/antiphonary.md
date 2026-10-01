@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bound collection of antiphons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or resembling an antiphon or antiphony.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A liturgical book of the Western Christian church containing the choral chants, antiphons, and responsories sung during the Liturgy of the Hours.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An illuminated medieval manuscript codex containing Gregorian plainchant notations and texts arranged according to the liturgical calendar.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiphonary designates bound collection of antiphons."*
+> - 📜 **Umberto Eco (*The Name of the Rose*):** *"Upon the heavy oak lectern rested an illuminated **antiphonary**, its vellum leaves darkened by centuries of monastic devotion."*
+> - 📜 **Will Durant (*The Age of Faith*):** *"Monasteries preserved sacred musical traditions by copying each precious **antiphonary** with exquisite calligraphic care."*
+> - 📜 **Joris-Karl Huysmans (*En Route*):** *"He turned the stiff vellum leaves of the ancient **antiphonary**, studying the square musical neumes traced upon four red lines."*

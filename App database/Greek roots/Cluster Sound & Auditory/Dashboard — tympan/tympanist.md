@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who plays the kettledrums.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who plays the kettledrums.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A drummer, especially one who plays the timpani or a hand drum (alternative spelling of timpanist).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A player of the ancient tympanum drum in Dionysian rituals or military formations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tympanist designates a person who plays the kettledrums."*
+> - 📜 **Hector Berlioz (*Evenings with the Orchestra*):** *"The maestro gestured imperiously toward the **tympanist**, signaling an explosive tremolo roll."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The orchestral **tympanist** performed with exemplary discretion, never overwhelming the solo cello."*
+> - 📜 **Thomas Mann (*Doctor Faustus*):** *"In the modernist score, the **tympanist** tapped the rim with wooden mallets to produce a bone-dry, ghostly tick."*

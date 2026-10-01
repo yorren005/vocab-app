@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to acoustics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to acoustics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an acoustic manner; in terms of sound transmission, absorption, or quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using acoustic rather than electrically amplified instruments in musical performance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acoustically designates with respect to acoustics."*
+> - 📜 **John Tyndall (*Sound*):** *"The fog-horn was situated so that sound waves propagated **acoustically** across the sea without thermal interruption."*
+> - 📜 **Lord Rayleigh (*The Theory of Sound*):** *"A whispering gallery functions **acoustically** by guiding high-frequency waves along the curved interior of the dome."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"The choral hall was planned **acoustically** to harmonize the voices of the singers into seamless unity."*

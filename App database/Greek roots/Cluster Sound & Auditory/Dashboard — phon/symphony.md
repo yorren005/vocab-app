@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consonance of sounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ritornello.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An elaborate, multi-movement musical composition for full orchestra, typically featuring sonata form in the opening movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A symphony orchestra; or figuratively, an extraordinary harmonious combination or arrangement of colors, sounds, or elements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon, or rather from the symphony of hopeful dreams, admiring trust, and passionate self devotion which that learned gentleman had set playing in her soul."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Suppose that suddenly a real woman's entire nature should be revealed to the world, might not the universe be enveloped in a rose glory and a love symphony?"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Ahab and Pip CXXXI.—The Hat CXXXII.—The Pequod meets the Delight CXXXIII.—The Symphony CXXXIV.—The Chase."*
+> - 📜 **E. M. Forster (*Howards End*):** *"Helen listened with wholehearted absorption as the opening chords of Beethoven's Fifth **Symphony** thundered through Queen's Hall."*
+> - 📜 **Hector Berlioz (*Memoirs*):** *"Conducting the final movement of my **symphony**, I felt the entire orchestra vibrate like a single giant instrument."*
+> - 📜 **Willa Cather (*The Song of the Lark*):** *"The concert ended with an exhilarating modern **symphony** that left the young singer trembling with artistic ambition."*

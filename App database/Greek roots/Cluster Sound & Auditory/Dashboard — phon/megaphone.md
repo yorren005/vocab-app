@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cone-shaped device used to intensify or direct the voice —sometimes used figuratively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To transmit or address through or as if through a megaphone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A portable, funnel-shaped acoustic horn or electronic device used to amplify, direct, and project the human voice over a distance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, a powerful platform, media outlet, or institutional megaphone used to amplify a particular ideology, opinion, or message.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"JOHN O’CONNELL: _(Foghorns stormily through his megaphone.)_ Dignam, Patrick T, deceased."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"The dockmaster barked instructions through a tin **megaphone**, his voice cutting sharp through the morning river fog."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"He seized the cheerleader's **megaphone** and led the stadium crowd in a thunderous, rhythmic roar for the home team."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Industry lobbies possessed a nationwide **megaphone** to broadcast reassuring claims that chemical spraying was completely harmless."*

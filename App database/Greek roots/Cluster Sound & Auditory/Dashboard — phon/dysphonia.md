@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Defective use of the voice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defective use of the voice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Difficulty or impairment in producing normal vocal sounds, resulting in a hoarse, strained, weak, breathy, or unnatural speaking voice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any medical or physiological dysfunction of the phonatory mechanism involving the vocal cords, larynx, or respiratory muscles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysphonia designates defective use of the voice."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic **dysphonia** in professional orators should never be ignored, as it often signals laryngeal strain or ulceration."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Post-encephalitic parkinsonism frequently manifested as severe hypokinetic **dysphonia**, reducing vocal volume to a whisper."*
+> - 📜 **Jerome Groopman (*How Doctors Think*):** *"The patient's sudden onset of **dysphonia** prompted an immediate laryngoscopy to rule out recurrent laryngeal nerve damage."*

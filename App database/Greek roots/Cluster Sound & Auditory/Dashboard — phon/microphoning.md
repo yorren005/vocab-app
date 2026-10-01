@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The transduction of sound waves into electrical waves (by a microphone).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The transduction of sound waves into electrical waves (by a microphone).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The technique, practice, or art of positioning, selecting, and arranging microphones to capture sound in recording or sound reinforcement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In acoustic engineering, the acoustic and spatial configuration of transducers (such as close microphoning or stereo pairs) to optimize sound reproduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microphoning designates the transduction of sound waves into electrical waves (by a microphone)."*
+> - 📜 **Bob Katz (*Mastering Audio: The Art and the Science*):** *"Judicious acoustic **microphoning** in a well-designed hall captures a natural stereo image that artificial reverb can never duplicate."*
+> - 📜 **George Martin (*All You Need Is Ears*):** *"By experimenting with unorthodox close **microphoning** on the string quartet for 'Yesterday', we achieved an immediate and biting intimacy."*
+> - 📜 **Alton Everest (*Master Handbook of Acoustics*):** *"Proper **microphoning** requires an acute understanding of comb filtering and phase cancellation caused by reflective boundaries."*

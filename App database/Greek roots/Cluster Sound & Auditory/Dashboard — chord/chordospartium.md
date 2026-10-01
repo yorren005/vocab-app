@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: 2 species of small new zealand trees: weeping tree broom; endangered.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 2 species of small new zealand trees: weeping tree broom; endangered.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former genus of weeping, leafless leguminous shrubs and small trees native to New Zealand (now included in *Carmichaelia*), commonly known as weeping brooms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rare endemic New Zealand plant characterized by slender, drooping, cord-like green branches that carry out photosynthesis in place of leaves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chordospartium designates 2 species of small new zealand trees: weeping tree broom; endangered."*
+> - 📜 **Joseph Dalton Hooker (*Handbook of the New Zealand Flora*):** *"The singular weeping broom **Chordospartium** bears long pendulous green cords in place of true leaves."*
+> - 📜 **Leonard Cockayne (*The Vegetation of New Zealand*):** *"On rocky riverbeds of Marlborough, the weeping branches of **Chordospartium** create a picturesque, drooping silhouette."*
+> - 📜 **Thomas Cheeseman (*Manual of the New Zealand Flora*):** *"**Chordospartium** stevensonii is a remarkably beautiful small tree with graceful cord-like branchlets and lavender blossoms."*

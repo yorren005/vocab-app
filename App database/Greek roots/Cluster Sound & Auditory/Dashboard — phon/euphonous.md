@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a pleasant sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a pleasant sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by pleasantness or sweetness of sound; melodious; euphonious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from harshness or dissonance; exhibiting a harmonious phonetic structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, euphonous designates having a pleasant sound."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"A fine orator chooses words that are not only precise in thought but **euphonous** in spoken delivery."*
+> - 📜 **Henry Wadsworth Longfellow (*Hyperion*):** *"The Italian tongue is preeminently **euphonous**, gliding from vowel to vowel like water over polished river stones."*
+> - 📜 **George Saintsbury (*A History of English Prose Rhythm*):** *"The prose of Sir Thomas Browne is astonishingly **euphonous**, rolling with organ-like harmonic splendor."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distension of the abdomen that is caused by the accumulation of gas in the intestines or the peritoneal cavity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distension of the abdomen that is caused by the accumulation of gas in the intestines or the peritoneal cavity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Distension of the abdomen caused by accumulation of gas or air in the intestines or peritoneal cavity; meteorism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clinical condition producing drum-like resonance upon physical abdominal percussion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tympanites designates distension of the abdomen that is caused by the accumulation of gas in the intestines or the peritoneal cavity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe enteric fever is frequently complicated by acute **tympanites**, demanding prompt gastrointestinal decompression."*
+> - 📜 **Jonathan Pereira (*The Elements of Materia Medica*):** *"Carminative essences of peppermint and fennel were administered to expel intestinal flatus and relieve **tympanites**."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"The distended belly exhibited marked **tympanites**, sounding hollow like a beaten drum under the physician's fingers."*

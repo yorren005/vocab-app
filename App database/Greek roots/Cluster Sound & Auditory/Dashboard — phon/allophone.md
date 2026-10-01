@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of two or more variants of the same phoneme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of two or more variants of the same phoneme.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the phonetic or acoustic variations of a single phoneme that do not alter the meaning of a word in a given language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural phonology, a positional or non-contrastive realization of an underlying speech sound determined by surrounding phonological environment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allophone designates one of two or more variants of the same phoneme."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"The non-distinctive phonetic variant of a phoneme is termed an **allophone**, differing by context yet unperceived by native speakers."*
+> - 📜 **Edward Sapir (*Sound Patterns in Language*):** *"A speaker readily groups distinct physical sounds into a single conceptual unit, unaware that one is merely an **allophone** of the other."*
+> - 📜 **Roman Jakobson (*Fundamentals of Language*):** *"The distribution of each **allophone** reveals the systematic rules governing the realization of underlying phonemes."*

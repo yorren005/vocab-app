@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in phonology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in phonology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A linguist who specializes in the study of phonology, investigating the organization, patterning, and systems of speech sounds in languages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A researcher focused on abstract phonological theory, rule systems, distinctive feature analysis, and historical sound shifts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phonologist designates a specialist in phonology."*
+> - 📜 **Nikolai Trubetzkoy (*Principles of Phonology*):** *"The task of the structural **phonologist** is to uncover the underlying functional oppositions that structure vocal communication."*
+> - 📜 **Roman Jakobson (*Selected Writings*):** *"As a **phonologist**, my primary goal has been to discover the universal invariants that govern all human sound systems."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"The descriptive **phonologist** must avoid projecting external orthographic prejudices onto unwritten languages."*

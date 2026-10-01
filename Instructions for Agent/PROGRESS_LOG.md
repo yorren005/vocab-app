@@ -32,6 +32,7 @@
   - Cluster 5: `Cluster War & Conflict` (141 words) — 100% Pristine (0 issues)
   - Cluster 6: `Cluster Turning & Transformation` (142 words) — 100% Pristine (0 issues)
   - Cluster 7: `Cluster Law & Order` (172 words) — 100% Pristine (0 issues)
+  - Cluster 8: `Cluster Sound & Auditory` (247 words) — 100% Pristine (0 issues)
 - [ ] **Milestone 5: Individualized Curation — `Latin roots` (28,608 Words across 18 Clusters)**
   - Root-by-root and cluster-by-cluster curation of Latin derivatives, eliminating duplicate Primary/Secondary definitions, single-author repeats, and synthetic placeholders.
 - [ ] **Milestone 6: Full Verification, Re-Index, Android Sync & GitHub Commit**
@@ -56,3 +57,4 @@
 | 2026-09-30 21:10 | Milestone 4 | Completed individualized curation of Greek roots `Cluster War & Conflict` (141 word notes across 9 dashboards: `hopl`, `tax`, `xiph`, `thyre`, `athl`, `machia_ machy`, `polem`, `strat`, `pros`). Verified 0 issues via `audit-roots.mjs`. | 141 | ✅ Completed |
 | 2026-09-30 23:16 | Milestone 4 | Completed individualized curation of Greek roots `Cluster Turning & Transformation` (142 word notes across 7 dashboards: `cochl`, `palin`, `cylind`, `helic`, `strept`, `stroph`, `gyr`, `trop`). Disambiguated astrophysics homographs and optical gyrotropy. Verified 0 issues via `audit-roots.mjs`. | 142 | ✅ Completed |
 | 2026-10-01 13:13 | Milestone 4 | Completed individualized curation of Greek roots `Cluster Law & Order` (172 word notes across 10 dashboards: `dexi`, `dike`, `aether`, `eth`, `can`, `them`, `nem`, `nom`, `tag`, `crit`). Disambiguated Dike justice vs embankment, Numidian nomads, and glandular cytological secretors. Verified 0 issues via `audit-roots.mjs`. | 172 | ✅ Completed |
+| 2026-10-01 13:23 | Milestone 4 | Completed individualized curation of Greek roots `Cluster Sound & Auditory` (247 word notes across 11 dashboards: `gargar`, `psithyr`, `aul`, `psoph`, `phtheg`, `acou`, `rhythm`, `mel`, `mous`, `tympan`, `chord`, `ech`, `bomb`, `phon`). Disambiguated rodents/computing/gastronomy substring matches on `mous`, sericultural/acoustic/explosive senses of `bomb`, and acoustic/notochord/geometry senses of `chord`. Verified 0 issues via `audit-roots.mjs`. | 247 | ✅ Completed |

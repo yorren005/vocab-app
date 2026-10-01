@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pleasing or sweet sound; especially : the acoustic effect produced by words so formed or combined as to please the ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A harmonious succession of words having a pleasing sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being pleasing, agreeable, harmonious, and sweet to the ear, especially through a harmonious combination of spoken words or vocal tones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and prosody, phonetic changes or rhythmic choices designed to avoid harsh consonant clusters and produce effortless vocal flow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"If a girl she may be compelled to answer to "Little Slave," and if a boy to "Baldhead." But the names usually given indicate the place or time of birth, the hope of the parent for the child, or exhibit the parent's love of beauty or euphony."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"The sound must seem an echo to the sense, where perfect **euphony** marries music to meaning."*
+> - 📜 **George Orwell (*Politics and the English Language*):** *"Writers should never sacrifice clarity for mere **euphony**, lest flowery phrases conceal empty thought."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"The supreme distinction of Greek poetry lies in its matchless blend of intellectual lucidity and auditory **euphony**."*

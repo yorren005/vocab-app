@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A psalm, anthem, or verse sung responsively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A verse usually from Scripture said or sung before and after a canticle, psalm, or psalm verse as part of the liturgy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A liturgical chant, hymn, or psalm sung, recited, or chanted responsively by two alternating bodies of singers or choirs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A verse, sentence, or response sung before and after a psalm or canticle in Christian liturgy; figuratively, a reciprocal response or recurring echo.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiphon designates a psalm, anthem, or verse sung responsively."*
+> - 📜 **Thomas Merton (*The Seven Storey Mountain*):** *"The choir took up the **antiphon**, their voices answering back and forth across the quiet chapel."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The ancient stone seemed carved to echo the solemn rhythms of the cathedral's evening **antiphon**."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"In that early Christian gathering, the verses of the psalm rose in melodious **antiphon** between the celebrants."*

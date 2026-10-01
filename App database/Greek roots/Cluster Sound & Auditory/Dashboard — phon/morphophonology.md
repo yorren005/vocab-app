@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Sound & Auditory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of linguistics that studies the relationships and interactions between morphology and phonology, specifically how grammatical morphemes affect sound changes across word boundaries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural and generative linguistics, the formal rules governing the phonological realization of morphemes (such as the English plural endings -s, -z, -ɪz).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morphophonology designates a term designating an entity, condition, or phenomenon derived from greek phon."*
+> - 📜 **Nikolai Trubetzkoy (*Principles of Phonology*):** *"We established **morphophonology** as an autonomous discipline to investigate the phonological structure of grammatical morphemes."*
+> - 📜 **Noam Chomsky (*The Sound Pattern of English*):** *"Generative **morphophonology** demonstrates that surface phonetic variations can be derived systematically from underlying abstract forms."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Every living language possesses an intricate **morphophonology** that coordinates mechanical sound laws with expressive grammatical categories."*

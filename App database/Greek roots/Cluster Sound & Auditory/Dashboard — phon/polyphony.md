@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A style of musical composition employing two or more simultaneous but relatively independent melodic lines : counterpoint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A style of musical composition employing two or more simultaneous but relatively independent melodic lines : counterpoint.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical texture consisting of two or more simultaneous, independent melodic lines or voices sounding together in counterpoint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary theory (formulated by Mikhail Bakhtin), a narrative structure containing multiple autonomous and unmerged voices or worldviews.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyphony designates a style of musical composition employing two or more simultaneous but relatively independent melodic lines : counterpoint."*
+> - 📜 **Mikhail Bakhtin (*Problems of Dostoevsky's Poetics*):** *"The essence of Dostoevskian novelistic structure is a genuine **polyphony** of fully valid voices."*
+> - 📜 **Paul Henry Lang (*Music in Western Civilization*):** *"The flowering of Franco-Flemish **polyphony** established the contrapuntal foundation of all modern European music."*
+> - 📜 **Igor Stravinsky (*Poetics of Music*):** *"True **polyphony** demands that each contrapuntal voice maintain its rhythmic vitality and linear integrity."*

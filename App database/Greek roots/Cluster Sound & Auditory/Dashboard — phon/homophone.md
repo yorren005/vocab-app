@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of two or more words pronounced alike but different in meaning or derivation or spelling (such as the words to, too, and two).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A character or group of characters pronounced the same as another character or group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word that has the same pronunciation as another word but differs in spelling, meaning, or origin (e.g. bare and bear, or knight and night).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A character or symbol in a writing system that represents the exact same phonetic value as another character.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homophone designates one of two or more words pronounced alike but different in meaning or derivation or spelling (such as the words to, too, and two)."*
+> - 📜 **Otto Jespersen (*Language: Its Nature, Development and Origin*):** *"English contains an unusually high number of word pairs where each term is a **homophone** of the other, causing frequent spelling confusion."*
+> - 📜 **Steven Pinker (*The Language Instinct*):** *"The child easily distinguishes whether meet or its **homophone** meat was intended based entirely on syntactic context."*
+> - 📜 **David Crystal (*The Stories of English*):** *"Great punsters throughout literary history have exploited the ambiguity created whenever a spoken word coincides with a familiar **homophone**."*

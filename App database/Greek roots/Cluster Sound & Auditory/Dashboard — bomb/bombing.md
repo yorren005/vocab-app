@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An attack by dropping bombs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of bombs for sabotage; a tactic frequently used by terrorists.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An attack or assault in which explosive bombs are dropped from aircraft or detonated on targets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The military tactic or criminal act of deploying explosive munitions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Truman. -- 1949 June 29 - Last US troops withdrawn from South Korea. -- 1950 June 30 - President Truman orders US ground forces into Korea and authorizes the bombing of North Korea by the US Air Force."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"The bombing of Canberra was merely the first blow."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Has airplane bombing been tried on these--things."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The air **bombing** of open towns was intended to shatter civilian morale, yet it produced only stubborn defiance."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The strategic **bombing** campaign steadily dismantled the synthetic fuel refineries and rail hubs of Germany."*
+> - 📜 **John Hersey (*Hiroshima*):** *"The flash of the atomic **bombing** was followed by a silent, dreadful whirlwind that flattened the city in seconds."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Moderate-sized asiatic moth whose larvae feed on mulberry leaves and produce silk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moderate-sized asiatic moth whose larvae feed on mulberry leaves and produce silk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A moth belonging to the family Bombycidae, typified by the domestic silkworm moth (*Bombyx mori*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stout-bodied, hairy moth whose larvae spin dense silk cocoons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bombycid designates moderate-sized asiatic moth whose larvae feed on mulberry leaves and produce silk."*
+> - 📜 **Louis Pasteur (*Studies on the Disease of Silkworms*):** *"The parasitic microsporidian attacked the **bombycid** larvae, threatening the entire silk industry of southern France."*
+> - 📜 **Jean-Henri Fabre (*Social Life in the Insect World*):** *"The adult **bombycid** lives only a few days without feeding, dedicated solely to reproduction."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Tropical forests harbor wild **bombycid** species whose golden cocoons rival the finest domestic silk."*

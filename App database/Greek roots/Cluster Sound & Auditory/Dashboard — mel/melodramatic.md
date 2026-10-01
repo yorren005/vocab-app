@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of melodrama.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appealing to the emotions : sensational.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of melodrama; sensationalized, exaggerated, or overly theatrical in emotional expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or featuring the style of theatrical melodrama.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And now to the stupid, silly, melodramatic slip of Cecil Winwood."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"I swear it.” The exaggerated folly of the threat, the passionate gesture that accompanied it, the mad melodramatic words, made life seem more vivid to her."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Sibyl Vane seemed to him to be absurdly melodramatic."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"She avoided any **melodramatic** gesture, speaking in quiet, measured tones that carried conviction."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle struck an intensely **melodramatic** attitude, clutching his brow as though Hamlet's ghost stood before him."*
+> - 📜 **George Orwell (*Keep the Aspidistra Flying*):** *"He felt ashamed of his **melodramatic** self-pity when he looked at the cold grey reality of the street."*

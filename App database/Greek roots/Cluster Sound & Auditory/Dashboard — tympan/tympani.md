@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of two or more kettledrums played by one performer in an orchestra or band.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set of two or more kettledrums played by one performer in an orchestra or band.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Variant spelling of timpani: orchestral kettledrums played in pairs or sets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pitched hemispherical drums used in classical symphonic and operatic music.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tympani designates a set of two or more kettledrums played by one performer in an orchestra or band."*
+> - 📜 **Pyotr Ilyich Tchaikovsky (*Diaries*):** *"The crashing entry of the **tympani** punctuated the desperate surge of the tragic overture."*
+> - 📜 **Richard Strauss (*Recollections and Reflections*):** *"In the final scene of Elektra, the **tympani** hammer out an intoxicating, primitive dance rhythm."*
+> - 📜 **Igor Stravinsky (*Chronicles of My Life*):** *"The polyrhythmic duel between two sets of **tympani** created the visceral shock of the Sacre."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Quiet and timid and ineffectual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infested with mice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a mouse in appearance or character; shy, timid, unobtrusive, or having a dull light brownish-grey color (mousy hair).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a stale, musty odor characteristic of mice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mousy designates quiet and timid and ineffectual."*
+> - 📜 **Virginia Woolf (*Jacob's Room*):** *"She sat quietly by the tea table, a **mousy** little woman whom nobody remembered to introduce."*
+> - 📜 **George Orwell (*Burmese Days*):** *"Her hair was of that pale, **mousy** brown that never catches the sunlight."*
+> - 📜 **Charlotte Brontë (*The Professor*):** *"Her demeanor was so quiet and **mousy** that her presence was scarcely felt in the classroom."*

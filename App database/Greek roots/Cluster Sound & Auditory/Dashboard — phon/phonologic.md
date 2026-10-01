@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to phonology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to phonology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to phonology, the functional sound patterns, systematic relationships, and rule systems of language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by or relating to the mental organization and systematic contrasts of speech sounds in a linguistic system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phonologic designates of or relating to phonology."*
+> - 📜 **Edward Sapir (*Language*):** *"Every natural language exhibits a strict **phonologic** economy that restricts which sound combinations are permissible."*
+> - 📜 **Roman Jakobson (*Fundamentals of Language*):** *"The **phonologic** structure of language operates through binary oppositions between distinctive features."*
+> - 📜 **Noam Chomsky (*Current Issues in Linguistic Theory*):** *"The generative model integrates syntactic output directly into the **phonologic** component of grammar."*

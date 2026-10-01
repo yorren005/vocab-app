@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characterized by euphony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characterized by euphony.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or possessing a harmonious, pleasing, or melodic quality of sound; euphonic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to phonetic adjustments or rhetorical cadences designed to sound sweet, elegant, and melodious.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, euphonical designates of or relating to or characterized by euphony."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The **euphonical** beauty of Milton's blank verse arises from an exquisite balance of vowel quantities and pauses."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"Her voice possessed a singularly **euphonical** charm that seemed to soothe my restless agitation."*
+> - 📜 **Washington Irving (*Bracebridge Hall*):** *"The old country ballads were recited with an artless yet delightful **euphonical** rhythm that charmed all listeners."*

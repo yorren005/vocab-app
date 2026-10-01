@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chord.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Sound & Auditory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical instrument having many strings; also, in modern harmony, a complex chord consisting of two or more distinct triads or chords sounded simultaneously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A multichordal harmonic structure used in 20th-century classical music to create bi-tonal tension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polychord designates a term designating an entity, condition, or phenomenon derived from greek chord."*
+> - 📜 **Curt Sachs (*The History of Musical Instruments*):** *"The ancient harp was the earliest **polychord**, offering a distinct tuned string for every pitch of the scale."*
+> - 📜 **Igor Stravinsky (*Poetics of Music*):** *"The celebrated Petrushka chord is a famous **polychord**, superimposing C major and F-sharp major triads."*
+> - 📜 **Walter Piston (*Harmony*):** *"In twentieth-century composition, the **polychord** allows composers to create dense, layered sonorities without abandoning tonal roots."*

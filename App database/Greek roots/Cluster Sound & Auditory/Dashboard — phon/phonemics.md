@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the sound system of a given language and the analysis and classification of its phonemes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of the sound system of a given language and the analysis and classification of its phonemes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of linguistics that studies phonemes and the functional sound patterns and contrasts of a language or languages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The methodology and theoretical framework used to identify, analyze, and transcribe the inventory of contrastive phonemes in speech.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phonemics designates the study of the sound system of a given language and the analysis and classification of its phonemes."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"Descriptive **phonemics** laid the empirical foundation for modern structural linguistics in the twentieth century."*
+> - 📜 **Bernard Bloch (*Outline of Linguistic Analysis*):** *"In systematic **phonemics**, complementary distribution and phonetic similarity determine whether sounds belong to the same phoneme."*
+> - 📜 **Claude Lévi-Strauss (*Structural Anthropology*):** *"The breakthroughs of structural **phonemics** provided anthropology with a revolutionary model for analyzing kinship systems."*

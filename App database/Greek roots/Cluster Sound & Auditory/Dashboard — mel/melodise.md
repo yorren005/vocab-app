@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Supply a melody for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supply a melody for.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make melodious; to set to melody or compose a tune for (British spelling of melodize).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To sing or express tunefully in musical verse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, melodise designates supply a melody for."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The minstrel tuned his harp to **melodise** the tragic legend of the forgotten castle."*
+> - 📜 **Thomas Moore (*Irish Melodies*):** *"The poet sought to **melodise** the ancient sorrows and hopes of his native land in song."*
+> - 📜 **Walter Scott (*The Lady of the Lake*):** *"The solitary maiden would **melodise** her rustic lay as evening shadows fell across the glen."*

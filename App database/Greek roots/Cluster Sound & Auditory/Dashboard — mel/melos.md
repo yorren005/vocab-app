@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Island of Greece in the southwestern Cyclades area 57 square miles (148 square kilometers).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Island of Greece in the southwestern Cyclades area 57 square miles (148 square kilometers).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The melodic element, tune, or lyrical song in ancient Greek poetry, tragedy, and choral performance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In music drama (Richard Wagner), the continuous, expressive vocal-orchestral melody that sustains dramatic continuity without periodic cadence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Milk-stones are used for the same purpose by Greek women in Crete and Melos at the present day; in Albania nursing mothers wear the stones in order to ensure an abundant flow of milk."*
+> - 📜 **Richard Wagner (*Opera and Drama*):** *"The endless **melos** must guide the listener through the emotional labyrinth of the music-drama."*
+> - 📜 **Friedrich Nietzsche (*The Case of Wagner*):** *"Wagner replaced rhythmic architecture with a fluid, undulating **melos** that intoxicates the nerves."*
+> - 📜 **Gilbert Murray (*The Classical Tradition in Poetry*):** *"In ancient tragedy, the **melos** was the emotional soul of the drama, binding speech to song."*

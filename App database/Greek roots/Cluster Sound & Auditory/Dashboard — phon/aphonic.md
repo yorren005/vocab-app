@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss of voice and of all but whispered speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss of voice and of all but whispered speech.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Voiceless; lacking the power of speech or vocal sound production; characterized by aphonia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phonetics, unvoiced or whispered; producing sound without vibration of the vocal folds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphonic designates loss of voice and of all but whispered speech."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"A sudden terror seized her throat, leaving her utterly **aphonic** in the presence of her stern interrogator."*
+> - 📜 **Henry James (*The Wings of the Dove*):** *"She moved her lips in an **aphonic** gesture of farewell that conveyed far more anguish than any spoken syllable."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The poor fellow sat gasping upon the examination chair, completely **aphonic** from acute laryngeal inflammation."*

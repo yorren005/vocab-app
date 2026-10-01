@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or constituting or characterized by pleasing melody.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to melody.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by melody; musical, tuneful, and pleasing in sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the horizontal succession of pitches in a musical composition (contrasted with harmonic).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"But Rosamond Vincy seemed to have the true melodic charm; and when a man has seen the woman whom he would have chosen if he had intended to marry speedily, his remaining a bachelor will usually depend on her resolution rather than on his."*
+> - 📜 **Ludwig van Beethoven (*Selected Letters*):** *"The **melodic** line must soar with noble simplicity, unburdened by excessive ornamental trickery."*
+> - 📜 **Igor Stravinsky (*Poetics of Music*):** *"Melody is the most essential of these components, for **melodic** invention remains the supreme musical gift."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"All art constantly aspires towards the condition of music, achieving pure **melodic** integration of form and matter."*

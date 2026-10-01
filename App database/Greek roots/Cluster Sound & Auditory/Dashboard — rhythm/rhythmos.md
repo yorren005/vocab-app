@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek rhythm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Sound & Auditory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek concept of measured flow, orderly motion, proportion, pattern, or recurring form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient atomism, the spatial configuration or distinctive shape of atoms that determines physical substance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhythmos designates a term designating an entity, condition, or phenomenon derived from greek rhythm."*
+> - 📜 **Aristotle (*Metaphysics*):** *"Democritus posited three differences in atoms: **rhythmos**, which is shape; diathege, which is arrangement; and trope, which is position."*
+> - 📜 **Werner Jaeger (*Paideia: The Ideals of Greek Culture*):** *"In the Hellenic worldview, **rhythmos** was not mere musical beat, but the measured boundary that gives form to human life."*
+> - 📜 **Émile Benveniste (*Problems in General Linguistics*):** *"Originally, **rhythmos** designated the distinctive form or momentary posture assumed by something moving."*

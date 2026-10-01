@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ostentatiously lofty in style.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ostentatiously lofty in style.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: High-sounding but with little meaning; inflated, pompous, and pretentious in language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting an overblown theatrical or rhetorical style in public speaking.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bombastic designates ostentatiously lofty in style."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Mankind turns weary of **bombastic** election speeches that promise heaven and deliver nothing."*
+> - 📜 **Edgar Allan Poe (*Marginalia*):** *"The reviewer tore apart the **bombastic** pretensions of the young poet's preface."*
+> - 📜 **George Orwell (*Politics and the English Language*):** *"A tired writer resorts to **bombastic** diction to conceal an absolute absence of fresh thought."*

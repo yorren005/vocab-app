@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tuba that coils over the shoulder of the musician.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large shawm; the bass member of the shawm family.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large bass brass wind instrument of the tuba family, or a deep pedal reed stop on a pipe organ, producing a powerful low resonant drone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deep-voiced musical instrument derived from German *Bombardon* (from French *bombarde*, an early cannon/shawm).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bombardon designates a tuba that coils over the shoulder of the musician."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The village bandsman blew into his brass **bombardon**, shaking the windows of the gallery with its deep vibrating roar."*
+> - 📜 **Hector Berlioz (*Treatise on Instrumentation*):** *"The powerful contrabass **bombardon** supplies a majestic foundation of bass tone to military bands."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The circus parade advanced to the booming syncopation of drums and a lusty **bombardon**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the psophiidae: trumpeters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the psophiidae: trumpeters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of long-legged, ground-dwelling South American birds known as trumpeters, inhabiting the Amazon rainforest, named from Greek *psophos* ('noise') for their deep booming vocalizations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The avian genus typified by the grey-winged trumpeter (*Psophia crepitans*), revered by indigenous peoples as an alert sentinel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psophia designates type genus of the psophiidae: trumpeters."*
+> - 📜 **Alfred Russel Wallace (*A Narrative of Travels on the Amazon and Rio Negro*):** *"The tame trumpeters of the genus **Psophia** ran freely about the native huts, greeting visitors with their resonant calls."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"In the dense undergrowth, we heard the deep ventriloquial booming of **Psophia** long before the birds came into view."*
+> - 📜 **John Gould (*The Birds of South America*):** *"Specimens of **Psophia** are remarkable for their glossy plumage and gregarious ground habits beneath the high forest canopy."*

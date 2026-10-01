@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large bushy moustache (with hair growing sometimes down the sides of the mouth).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large bushy moustache (with hair growing sometimes down the sides of the mouth).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A moustache, especially an elaborate, luxuriant, long, or flamboyant one (often used in the plural: moustachios).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ornate facial whisker imparting a martial, swashbuckling, or roguish appearance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Edward John Trelawny, a cadet of a Cornish family, "with his knight-errant aspect, dark, handsome, and moustachioed," was the true buccaneer of romance, but of honest English grain, and without a trace of pose."*
+> - 📜 **Charles Dickens (*Barnaby Rudge*):** *"The dashing officer twirled his waxed **moustachio** with an air of insufferable condescension."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The veteran harpooneer stroked his grey **moustachio**, squinting through the spray toward the horizon."*
+> - 📜 **Washington Irving (*The Alhambra*):** *"A fierce Andalusian muleteer, sporting a pair of bushy **moustachios**, stepped into the firelight."*

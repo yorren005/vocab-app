@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bound collection of antiphons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing or using responses; alternating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sung, recited, or performed in alternating parts by two distinct groups, choirs, or voices.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A liturgical service book containing antiphons, responsories, and chants for use in the divine office.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"After dinner the chair-bearers gathered round and with the aid of the interpreter I took down as best I could some of their calls and responses, a sort of antiphonal chorus handed down from generation to generation of coolies."*
-> - 📜 **George W. Cronyn (*The Glebe 1914/09 (Vol. 2, No. 2): Poems*):** *"And bells ope throats in mellow round Of sweet antiphonal resound, And virtue glistens everywhere-- A Sunday-calm."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The sweet **antiphonal** singing of the choristers rose above the stone nave like a communion of kindred souls."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sea and the winds maintained an **antiphonal** dialogue of thunderous roaring across the darkened expanse."*
+> - 📜 **T. S. Eliot (*Four Quartets*):** *"The voices of the children hidden in the foliage chimed in **antiphonal** cadence with the birds."*

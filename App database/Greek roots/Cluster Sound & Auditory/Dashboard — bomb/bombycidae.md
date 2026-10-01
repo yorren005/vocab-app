@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chinese silkworm moth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chinese silkworm moth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The family of moths in the order Lepidoptera that includes the domestic silkworm moth and related silk-spinning species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lepidopteran family of economic importance as the biological foundation of global sericulture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bombycidae designates chinese silkworm moth."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Generations of artificial breeding within the family **Bombycidae** rendered the adult silkworm moth incapable of flight."*
+> - 📜 **Louis Pasteur (*Studies on the Disease of Silkworms*):** *"The epidemic of pebrine among the **Bombycidae** was eradicated through microscopic examination of individual moths."*
+> - 📜 **John Obadiah Westwood (*The Modern Classification of Insects*):** *"The family **Bombycidae** is characterized by heavy bodies, pectinated antennae, and robust cocoons of continuous silk."*

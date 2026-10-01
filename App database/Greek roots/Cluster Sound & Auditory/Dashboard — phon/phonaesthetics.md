@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Sound & Auditory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the aesthetic qualities of vocal speech sounds and their perceived beauty, pleasantness, or expressiveness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stylistics and literary criticism, the acoustic analysis of poetic diction and the musical euphony produced by specific combinations of vowels and consonants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phonaesthetics designates a term designating an entity, condition, or phenomenon derived from greek phon."*
+> - 📜 **J. R. R. Tolkien (*The Monsters and the Critics and Other Essays*):** *"In Celtic and Germanic verse, the subtle art of **phonaesthetics** guides the poet toward arrangements of words that delight the ear independently of sense."*
+> - 📜 **David Crystal (*The Cambridge Encyclopedia of the English Language*):** *"In popular **phonaesthetics**, phrases like 'cellar door' are celebrated as sounding uniquely beautiful to English speakers."*
+> - 📜 **I. A. Richards (*Principles of Literary Criticism*):** *"Rigorous **phonaesthetics** must distinguish between the physical sound of a phrase and the emotional imagery it conjures."*

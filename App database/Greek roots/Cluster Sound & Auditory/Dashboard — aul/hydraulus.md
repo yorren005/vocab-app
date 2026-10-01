@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aul.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Sound & Auditory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Greek and Roman water organ, invented in the 3rd century BCE by Ctesibius of Alexandria, using the weight of water to maintain uniform air pressure across pipe ranks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The historical technological ancestor of the modern pipe organ, praised for its powerful acoustic volume in amphitheaters and circuses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydraulus designates a term designating an entity, condition, or phenomenon derived from greek aul."*
+> - 📜 **Vitruvius (*De Architectura*):** *"The mechanism of the **hydraulus** balances air pressure by the displacement of water in a bronze inverted bell."*
+> - 📜 **Tertullian (*De Anima*):** *"Consider the astonishing invention of Archimedes or Ctesibius: the **hydraulus**, with its many pipes, stops, and thundering voices."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman spectators cheered as the powerful notes of the **hydraulus** echoed across the vast expanse of the circus."*

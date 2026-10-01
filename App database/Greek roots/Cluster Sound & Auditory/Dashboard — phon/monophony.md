@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Monophonic music.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Monophonic music.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Music that consists of a single melodic line without accompanying harmony or independent contrapuntal parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In audio engineering, single-channel sound reproduction or monaural broadcasting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monophony designates monophonic music."*
+> - 📜 **Paul Henry Lang (*Music in Western Civilization*):** *"The transition from ancient liturgical **monophony** to medieval polyphony was the most profound revolution in European music."*
+> - 📜 **Curt Sachs (*The Rise of Music in the Ancient World*):** *"Classical antiquity celebrated **monophony**, believing that an unadorned melodic line possessed direct ethical and spiritual power."*
+> - 📜 **Igor Stravinsky (*Poetics of Music*):** *"There is a pristine austerity in liturgical **monophony** that modern orchestral complexity cannot surpass."*

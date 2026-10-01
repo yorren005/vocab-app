@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To say again or imitate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ring or echo with sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resounding or reverberating with sound, or repeatedly returning an acoustic reflection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evoking memories or bearing a close stylistic resemblance to an earlier model.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I hadn’t hardly got back here when I heard a shot go echoing and rattling right away into the inn."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If there be a little at any odd moment, it goes, like a little noise in that old echoing place, a long way and usually leads off to ghosts and mystery."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The way was paved here, like the terrace overhead, and my footsteps from being noiseless made an echoing sound upon the flags."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"The deep caverns were filled with an **echoing** thunder that shook the mountain to its roots."*
+> - 📜 **Alfred Lord Tennyson (*The Princess*):** *"Blow, bugle, blow, set the wild echoes flying, blow, bugle; answer, **echoing** hills, dying, dying, dying."*
+> - 📜 **Edgar Allan Poe (*The Raven*):** *"And the only word there spoken was the whispered word, 'Lenore?' This I whispered, and an **echoing** murmur murmured back the word, 'Lenore!'"*

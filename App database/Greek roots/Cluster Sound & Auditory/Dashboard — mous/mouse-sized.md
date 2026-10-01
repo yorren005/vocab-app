@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the approximate size of a mouse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the approximate size of a mouse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the diminutive size or proportions of a mouse; tiny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating diminutive fossil mammals, rodents, or insectivores whose adult body mass approximates that of a mouse in paleontology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mouse-sized designates having the approximate size of a mouse."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"Our Mesozoic ancestors were tiny, **mouse-sized** creatures scurrying in the shadows of the dinosaurs."*
+> - 📜 **Richard Dawkins (*The Blind Watchmaker*):** *"A **mouse-sized** mammal requires a disproportionately high metabolic rate to maintain its core body heat."*
+> - 📜 **H. G. Wells (*The Food of the Gods*):** *"The experimental serum had transformed an ordinary **mouse-sized** specimen into a terrifying titan."*

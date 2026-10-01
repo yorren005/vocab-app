@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By phonetics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By phonetics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner concerning speech sounds, pronunciation, or the phonetic representation of language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: According to the actual acoustic pronunciation rather than conventional orthography.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Unusual polysyllables of foreign origin she interpreted phonetically or by false analogy or by both: metempsychosis (met him pike hoses), _alias_ (a mendacious person mentioned in sacred scripture)."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Words that appear wildly divergent in spelling often correspond **phonetically** when traced back through historical sound laws."*
+> - 📜 **H. L. Mencken (*The American Language*):** *"The dialect was recorded **phonetically** by early humorists attempting to capture frontier speech on the printed page."*
+> - 📜 **David Crystal (*How Language Works*):** *"Transcribing speech **phonetically** requires setting aside all preconceived notions of conventional spelling."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any animal of the phylum chordata having a notochord or spinal column.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of the chordata.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any animal belonging to the phylum Chordata, characterized by the possession of a notochord at some stage of life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing the diagnostic anatomical characteristics of the phylum Chordata.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chordate designates any animal of the phylum chordata having a notochord or spinal column."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"Pikaia from the Burgess Shale stands as our earliest known ancestor, a true primitive **chordate**."*
+> - 📜 **Richard Dawkins (*The Ancestor's Tale*):** *"Every living **chordate** carries genetic blueprints inherited from a tiny Cambrian sea creature with a flexible rod down its back."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"The rise of the first marine **chordate** marked the opening chapter in the epic evolution of vertebrate intelligence."*

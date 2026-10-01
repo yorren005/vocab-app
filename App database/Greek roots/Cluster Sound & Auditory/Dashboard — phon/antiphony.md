@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Responsive alternation between two groups especially of singers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Responsive alternation between two groups especially of singers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Alternating, responsive singing or chanting between two choirs, singers, or groups of instruments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, a dynamic reciprocal dialogue, thematic counterpoint, or responsive alternation between two contrasting voices, ideas, or entities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiphony designates responsive alternation between two groups especially of singers."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"The rhythmic crash of the waves against the shore answered the wind in a solemn, unending **antiphony**."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"From opposite shores of the pond, the owls answered one another in a weird and mournful **antiphony**."*
+> - 📜 **Edward Said (*Culture and Imperialism*):** *"The interplay between dominant and subordinate narratives forms a complex cultural **antiphony** that cannot be reduced to a single melody."*

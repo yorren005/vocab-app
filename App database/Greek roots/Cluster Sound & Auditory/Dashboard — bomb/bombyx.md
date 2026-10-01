@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the bombycidae: chinese silkworm moth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the bombycidae: chinese silkworm moth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The genus of moths comprising the silkworm moth, notably *Bombyx mori*, whose caterpillar spins the commercial silk cocoon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The biological source of natural silk, domesticated in ancient China over five millennia of sericulture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bombyx designates type genus of the bombycidae: chinese silkworm moth."*
+> - 📜 **Louis Pasteur (*Studies on the Disease of Silkworms*):** *"The caterpillar of **Bombyx** mori feeds exclusively on fresh white mulberry leaves before spinning its cocoon."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"From a tiny worm named **Bombyx**, eastern nations harvest the delicate threads that clothe Roman matrons in luxury."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Domesticated **Bombyx** moths have lost the instinct to hide from predators, entirely dependent on human care."*

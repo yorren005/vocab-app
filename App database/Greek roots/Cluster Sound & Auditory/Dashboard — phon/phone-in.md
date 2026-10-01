@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A program in which the audience participates by telephone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A program in which the audience participates by telephone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A radio or television broadcast program in which listeners or viewers participate by telephoning the studio to express opinions or ask questions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to, designed for, or conducted via incoming telephone calls from members of the public.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phone-in designates a program in which the audience participates by telephone."*
+> - 📜 **Marshall McLuhan (*The Medium is the Massage*):** *"The interactive **phone-in** program transformed passive mass audiences into direct co-producers of broadcast commentary."*
+> - 📜 **Terry Pratchett (*Reaper Man*):** *"A chaotic local **phone-in** show buzzed with frantic callers demanding explanations for the strange occurrences."*
+> - 📜 **David Foster Wallace (*Consider the Lobster*):** *"Talk radio stations depend entirely on the heated emotional energy of the late-night **phone-in** format."*

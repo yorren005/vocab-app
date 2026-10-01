@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or representing a writing system where a letter or symbol denotes the initial sound of the name of the depicted object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating ancient numerical systems (such as Attic Greek) where the initial letter of the numeral's word represents the number itself.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acrophonic designates adjective*) pertaining to, derived from, or characteristic of sound."*
+> - 📜 **Sir Alan Gardiner (*Egyptian Grammar*):** *"The **acrophonic** principle assumes that each phonetic sign was originally a pictograph of an object whose initial sound became the value of the letter."*
+> - 📜 **Ignace Gelb (*A Study of Writing*):** *"Scholars have long debated whether the Proto-Sinaitic inscriptions were deciphered correctly by applying the **acrophonic** hypothesis."*
+> - 📜 **Peter T. Daniels (*The World's Writing Systems*):** *"In an **acrophonic** system, a pictorial character stands for the initial segmental sound of the word representing the depicted object."*

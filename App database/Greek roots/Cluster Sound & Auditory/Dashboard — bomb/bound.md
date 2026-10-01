@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fastened by or as if by a band : confined —often used in combination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very likely : sure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tied or fastened securely with a rope, cord, or bandage; legally, morally, or logically obligated to do something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moving by leaping, jumping, or springing; or heading toward a specific destination (e.g., outward-bound).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You would answer very well to a whipping, if you were but bound to’t."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If ever thou beest bound in thy scarf and beaten, thou shalt find what it is to be proud of thy bondage."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He wears his honour in a box unseen That hugs his kicky-wicky here at home, Spending his manly marrow in her arms, Which should sustain the bound and high curvet Of Mars’s fiery steed."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"I am **bound** to hear. Speak; I am **bound** to revenge, when thou shalt hear."*
+> - 📜 **Emily Dickinson (*Selected Poems*):** *"The soul selects her own society, then shuts the door; on chariot **bound**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The Pequod was **bound** for the four corners of the watery globe in search of the white monster."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Oral instruction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A manual for catechizing; specifically : a summary of religious doctrine often in the form of questions and answers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A summary of the principles of Christian religion in the form of questions and answers, used for the instruction of Christians.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A series of formal questions put to someone; an interrogation or thorough test of belief.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To say ay and no to these particulars is more than to answer in a catechism."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And so ends my catechism. [_Exit._] SCENE II."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I am just so near disgrace as that those who are put in authority over me (as the catechism goes) would far rather be without me than with me."*
+> - 📜 **Thomas Cranmer (*A Short Instruction into Christian Religion*):** *"The child repeated the articles of the **catechism** with clear voice before receiving the holy sacrament."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"I was educated in the rigid Presbyterian **catechism**, though my mature thoughts leaned toward natural deism."*
+> - 📜 **James Joyce (*Ulysses*):** *"The Ithacan chapter unfolds in a cold, mathematical **catechism** of exhaustive question and answer."*

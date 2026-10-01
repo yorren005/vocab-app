@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss of voice and of all but whispered speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss of voice and of all but whispered speech.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The total loss or absence of the voice and ability to produce vocal sounds, typically caused by disease, vocal cord paralysis, or psychological trauma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A functional or psychiatric voice disorder (such as conversion aphonia) in which the vocal folds fail to adduct during attempts at speech despite normal whispering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphonia designates loss of voice and of all but whispered speech."*
+> - 📜 **Sigmund Freud (*Dora: An Analysis of a Case of Hysteria*):** *"The patient suffered from recurrent attacks of nervous **aphonia**, rendering her unable to speak above a faint whisper."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Laryngeal nerve palsy had reduced his once-commanding speaking voice to a silent, distressing **aphonia**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Complete **aphonia** following severe catarrhal laryngitis requires absolute vocal rest and close examination of the glottis."*

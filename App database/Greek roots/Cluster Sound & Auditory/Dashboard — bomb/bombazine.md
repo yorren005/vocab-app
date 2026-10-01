@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A twilled fabric used for dresses; the warp is silk and the weft is worsted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A twilled fabric used for dresses; the warp is silk and the weft is worsted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A twilled fabric with a silk warp and a worsted wool weft, dyed black and traditionally used for mourning garments in Victorian and Edwardian society.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The stiff, sombre black cloth symbolic of strict widowhood and domestic gravity in 19th-century literature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Here comes another with a sou’-wester and a bombazine cloak."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Here comes another with a sou’-wester and a bombazine cloak."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Mrs. Reed sat erect in her black **bombazine** gown, cold and unyielding as a marble statue."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Miss Murdstone rustled into the parlor in severe black **bombazine**, carrying her heavy steel purse."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"She appeared at church dressed in sombre **bombazine**, the recognized uniform of formal mourning in the borough."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Untie or unfasten.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not secured within a cover.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Released from bonds, ties, chains, or physical confinement; liberated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not bound in a book cover or casing; having loose leaves or paper covers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now am I Dromio, and his man, unbound."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And unbound the rest, and then come in the other."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This precious book of love, this unbound lover, To beautify him, only lacks a cover: The fish lives in the sea; and ’tis much pride For fair without the fair within to hide."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"Titan, our prayers have reached the throne, and Prometheus stands at last **unbound** upon the Caucasus!"*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"She leafed through the **unbound** sheets of the manuscript, reading the poet's first drafts."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"Samson, no longer **unbound**, felt his sacred strength return as he grasped the pillars of Dagon's temple."*

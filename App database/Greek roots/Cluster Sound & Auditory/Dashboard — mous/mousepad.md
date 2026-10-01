@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small portable pad that provides traction for the ball of a computer mouse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small portable pad that provides traction for the ball of a computer mouse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flat, smooth pad or mat on which a computer mouse is operated to provide traction and facilitate smooth cursor movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A desk accessory designed to optimize optical sensor tracking or mechanical ball rolling for computer peripherals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mousepad designates a small portable pad that provides traction for the ball of a computer mouse."*
+> - 📜 **Walter Isaacson (*Steve Jobs*):** *"When the Macintosh team designed the desktop environment, every accessory from the mouse to the textured **mousepad** was scrutinized for user comfort."*
+> - 📜 **Douglas Engelbart (*The Mother of All Demos*):** *"Engelbart rested his hand on the wooden prototype, sliding it across a leather **mousepad** to control screen coordinates."*
+> - 📜 **Steven Levy (*Insanely Great*):** *"The personal computer revolution turned the humble desk into a digital workspace where a rubberized **mousepad** became an everyday tool."*

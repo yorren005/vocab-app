@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to allophones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to allophones.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, constituting, or conditioned by an allophone (a non-contrastive phonetic variant).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by sub-phonemic phonetic variation that varies systematically across phonetic environments or regional dialects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allophonic designates pertaining to allophones."*
+> - 📜 **Noam Chomsky (*The Sound Pattern of English*):** *"Surface phonetic representations are generated from underlying segments through a series of **allophonic** rules."*
+> - 📜 **Peter Ladefoged (*A Course in Phonetics*):** *"A narrow transcription records minute **allophonic** details that a broad phonemic transcription deliberately ignores."*
+> - 📜 **Bernard Bloch (*Studies in Colloquial Japanese*):** *"The complementary distribution of these segments indicates that the differences are purely **allophonic** rather than phonemic."*

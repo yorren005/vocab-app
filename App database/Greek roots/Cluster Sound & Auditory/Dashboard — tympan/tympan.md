@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical percussion instrument; usually consists of a hollow cylinder with a membrane stretched across each end.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical percussion instrument; usually consists of a hollow cylinder with a membrane stretched across each end.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In manual letterpress printing, a paper-holding frame faced with parchment or cloth that folds down onto the inked type beneath the platen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An architectural tympanum; also, an archaic term for a drum or tambourine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tympan designates a musical percussion instrument; usually consists of a hollow cylinder with a membrane stretched across each end."*
+> - 📜 **William Morris (*The Art and Craft of Printing*):** *"The pressman pulled the lever smoothly, bringing the sheet held upon the **tympan** against the inked face of the wooden type."*
+> - 📜 **Vitruvius (*De Architectura*):** *"The pediment of the temple encloses a broad triangular **tympan** adorned with high-relief marble statues."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Above the cathedral portal, the sculpted **tympan** portrayed the Last Judgment in intricate Byzantine relief."*

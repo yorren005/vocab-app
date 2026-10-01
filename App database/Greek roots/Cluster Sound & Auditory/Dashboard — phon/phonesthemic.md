@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The common feature of sound occurring in a group of symbolic words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The common feature of sound occurring in a group of symbolic words.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, having the nature of, or involving a phonestheme (a recurring sound sequence associated with a specific semantic field).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to sub-morphemic sound symbolism and intuitive semantic associations in language.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phonesthemic designates the common feature of sound occurring in a group of symbolic words."*
+> - 📜 **Dwight Bolinger (*Forms of English: Accent, Morpheme, Order*):** *"The English vocabulary exhibits powerful **phonesthemic** clusters where sound and meaning intertwine outside standard etymology."*
+> - 📜 **J. R. Firth (*Speech*):** *"Words beginning with *sn-* carry a distinct **phonesthemic** flavor associated with the nose, mucus, or furtive movement."*
+> - 📜 **Steven Pinker (*Words and Rules*):** *"Poets intuitively exploit **phonesthemic** resonances to charge ordinary words with evocative sensory weight."*

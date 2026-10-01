@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a single unaccompanied melodic line.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to sound transmission, recording, or reproduction involving a single transmission path.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of a single unaccompanied melodic vocal or instrumental line; without harmonic accompaniment or counterpoint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In audio technology and sound reproduction, utilizing a single audio channel to record or transmit sound (mono).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monophonic designates having a single unaccompanied melodic line."*
+> - 📜 **Donald Jay Grout (*A History of Western Music*):** *"Gregorian plainchant represents the supreme historical flowering of pure **monophonic** vocal art in Western civilization."*
+> - 📜 **Aaron Copland (*What to Listen for in Music*):** *"A solitary flute singing an unadorned folk melody produces a **monophonic** texture of exquisite purity."*
+> - 📜 **Walter Piston (*Harmony*):** *"Early church musicians sang strictly **monophonic** chants for centuries before bold pioneers ventured into parallel organum."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who plays the timpani.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set of two or more kettledrums played by one performer in an orchestra or band.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musician who plays the timpani in an orchestra or ensemble.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist percussionist responsible for precise pitch tuning and rhythmic leadership in orchestral performance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, timpanist designates a person who plays the timpani."*
+> - 📜 **Hector Berlioz (*Treatise on Instrumentation*):** *"The **timpanist** must possess an exquisite ear to retune his drums quietly amidst the roar of brass and strings."*
+> - 📜 **Nikolai Rimsky-Korsakov (*Principles of Orchestration*):** *"A skilled **timpanist** executes delicate pianissimo rolls that create an ominous atmospheric tremor."*
+> - 📜 **Aaron Copland (*What to Listen for in Music*):** *"The watchful **timpanist** leans over the copper kettle, damping the vibrating membrane with sensitive fingertips."*

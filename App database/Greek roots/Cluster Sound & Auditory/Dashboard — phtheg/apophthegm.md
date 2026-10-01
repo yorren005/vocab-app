@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phtheg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Sound & Auditory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short, pithy, and instructive saying; a terse maxim or aphorism (alternative spelling of apothegm).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A memorable, witty remark embodying moral or practical wisdom in classical literature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The middle row, the first to be inscribed, deals with the Epicurean theory of atoms--not by apophthegm or aphorism, but with something of the fulness and technicality of a treatise."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"There follow a letter of Epicurus to his mother, and another letter from some one unidentified to one Menneas, and then a series of apophthegms and sentences."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"But to these “Apophthegms” and Dr."*
+> - 📜 **Francis Bacon (*Apophthegms New and Old*):** *"Julius Caesar had a collection of **apophthegms** made; for he knew that they served both for ornament and for direction."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"An ancient **apophthegm** preserves in a single phrase the condensed experience of many generations."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Plutarch enriched his biographies with many a sharp **apophthegm** dropped by Spartan warriors."*

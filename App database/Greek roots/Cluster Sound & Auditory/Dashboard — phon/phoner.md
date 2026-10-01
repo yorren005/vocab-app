@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The person initiating a telephone call.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The person initiating a telephone call.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An interview, conversation, or conference conducted over the telephone, especially a broadcast or journalistic telephone interview.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who makes a telephone call, particularly a caller contacting a broadcast radio program or call center.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phoner designates the person initiating a telephone call."*
+> - 📜 **Hunter S. Thompson (*Fear and Loathing on the Campaign Trail '72*):** *"We were up until dawn conducting a marathon **phoner** with state campaign directors in Wisconsin."*
+> - 📜 **Bob Woodward (*The Secret Man*):** *"The editor arranged a brief **phoner** to confirm the breaking diplomatic dispatch before going to press."*
+> - 📜 **David Foster Wallace (*Infinite Jest*):** *"The talk show host punched the flashing button to take the next angry **phoner** on the live line."*

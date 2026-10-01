@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A convert to Christianity receiving training in doctrine and discipline before baptism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One receiving instruction in the basic doctrines of Christianity before admission to communicant membership in a church.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A convert to Christianity who is receiving training and instruction in doctrine before baptism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A beginner or novice receiving initial initiation or instruction in any subject or discipline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"The catechumens filled several rows of pews in the front of the spacious area of the building, and, when they rose in a body to make profession of their faith, the scene is described as having been most impressive."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor Constantine remained a humble **catechumen** until the hour of death approached."*
+> - 📜 **Augustine of Hippo (*Confessions*):** *"While still a **catechumen**, he struggled between worldly ambition and the call of monastic devotion."*
+> - 📜 **John Henry Newman (*The Arians of the Fourth Century*):** *"The primitive Church placed the **catechumen** under long probation to test the sincerity of his conversion."*

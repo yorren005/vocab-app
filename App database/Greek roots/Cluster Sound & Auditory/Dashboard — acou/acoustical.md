@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the science of acoustics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the science of acoustics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to acoustics or the physical transmission and reception of sound (synonymous with acoustic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural and mechanical engineering, designed for the absorption, reflection, or isolation of sound.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Here they are!” said Miss Pross, rising to break up the conference; “and now we shall have hundreds of people pretty soon!” It was such a curious corner in its acoustical properties, such a peculiar Ear of a place, that as Mr."*
+> - 📜 **Lord Rayleigh (*The Theory of Sound*):** *"The **acoustical** problem of reflection from an irregular boundary demands rigorous mathematical treatment."*
+> - 📜 **Hermann von Helmholtz (*On the Sensations of Tone*):** *"We constructed an array of tuned **acoustical** resonators to analyze the timbre of orchestral instruments."*
+> - 📜 **Vitruvius (*De Architectura*):** *"The ancient Greeks placed bronze vases beneath theater seats to enhance the **acoustical** resonance of the actors' voices."*

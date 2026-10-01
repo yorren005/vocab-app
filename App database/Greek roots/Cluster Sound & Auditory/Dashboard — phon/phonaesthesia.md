@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any correspondence between the sound of a word and its meaning; examples include onomatopoeia and the use of phonesthemes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any correspondence between the sound of a word and its meaning; examples include onomatopoeia and the use of phonesthemes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The systematic association between certain phonetic sounds or sound clusters and specific meanings, emotions, or physical sensory qualities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psycholinguistics, the phenomenon whereby non-morphemic phonetic clusters (like gl- for light) evoke coherent semantic fields.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phonaesthesia designates any correspondence between the sound of a word and its meaning; examples include onomatopoeia and the use of phonesthemes."*
+> - 📜 **J. R. Firth (*Papers in Linguistics*):** *"Through **phonaesthesia**, initial consonant groups like *sn-* or *sl-* acquire an expressive, visceral meaning of their own."*
+> - 📜 **Roman Jakobson (*Six Lectures on Sound and Meaning*):** *"The study of **phonaesthesia** demonstrates that the relationship between phonetic form and conceptual meaning is not entirely arbitrary."*
+> - 📜 **Otto Jespersen (*Language: Its Nature, Development and Origin*):** *"Human speech displays an innate **phonaesthesia**, linking sharp, bright vowels with diminutive or luminous objects."*

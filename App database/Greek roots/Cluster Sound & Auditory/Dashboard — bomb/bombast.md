@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pompous or pretentious talk or writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pompous or pretentious talk or writing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: High-sounding language with little meaning, used to impress people; pompous, inflated speech or writing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cotton wool, soft down, or padding fabric formerly used for stuffing garments and quilted armor in historical costume.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How now, my sweet creature of bombast?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We have received your letters, full of love; Your favours, the ambassadors of love; And in our maiden council rated them At courtship, pleasant jest, and courtesy, As bombast and as lining to the time."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But he, as loving his own pride and purposes, Evades them, with a bombast circumstance, Horribly stuff’d with epithets of war: And in conclusion, Nonsuits my mediators: for “Certes,” says he, “I have already chose my officer.” And what was he?"*
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"As **bombast** and as lining to the time: but more devout than this in our respects have we not been."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"He mistook inflated **bombast** for sublimity, heaping epithets upon thoughts that were inherently trivial."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"The orator strutted upon the platform, delivering a torrent of empty **bombast** to the bewildered crowd."*

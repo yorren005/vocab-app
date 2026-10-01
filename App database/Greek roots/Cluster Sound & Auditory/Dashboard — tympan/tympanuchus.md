@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prairie chickens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prairie chickens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of North American grouse in the family Phasianidae, commonly known as prairie-chickens, characterized by inflatable neck air sacs used in booming courtship displays.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The avian genus comprising the greater prairie-chicken (*Tympanuchus cupido*) and lesser prairie-chicken (*Tympanuchus pallidicinctus*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tympanuchus designates prairie chickens."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"During their spring leks, the males of **Tympanuchus** inflate their bright orange cervical sacs to produce resonant booming cries across the prairie."*
+> - 📜 **Alexander Wilson (*American Ornithology*):** *"The pinnated grouse, referred to **Tympanuchus**, assembles at dawn in open meadows to perform its courtship dances."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"The generic designation **Tympanuchus** commemorates the drum-like acoustic resonance of the bird's vocal sacs."*

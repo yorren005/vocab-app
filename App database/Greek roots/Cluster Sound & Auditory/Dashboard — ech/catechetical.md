@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or involving catechesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or involving catechesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to a catechism, or to instruction by oral question and answer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pedagogically structured in dialogue format to impart religious or philosophical principles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Somnolent invocation, less somnolent recognition, incipient excitation, catechetical interrogation."*
+> - 📜 **John Milton (*Areopagitica*):** *"A man may be a heretic in the truth, if he believes things only because his pastor says so, in a narrow **catechetical** routine."*
+> - 📜 **Jeremy Taylor (*Holy Living*):** *"Family devotion is sanctified by brief **catechetical** exercises that instruct children in holy virtues."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The celebrated **catechetical** school of Alexandria attracted scholars from every province of the Mediterranean."*

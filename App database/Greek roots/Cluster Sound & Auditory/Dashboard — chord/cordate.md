@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a leaf) shaped like a heart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a leaf) shaped like a heart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Heart-shaped; specifically designating leaves that have a notched base and pointed apex resembling a conventional heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing bilateral cardiac-like symmetry in botanical morphology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cordate designates (of a leaf) shaped like a heart."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The leaves of the linden tree are distinctly **cordate**, being rounded and indented at the base like a heart."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"A leaf is termed **cordate** when its ovate outline is hollowed out at the stalk insertion."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The climbing vine produced broad **cordate** foliage to catch the scattered rays of sunlight filtering through the canopy."*

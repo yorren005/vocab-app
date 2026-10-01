@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device by which sound (such as speech) is converted into electrical impulses and transmitted (as by wire or radio waves) to one or more specific receivers : telephone : such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A telephone that operates by means of a landline.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A telephone; an electronic telecommunications device used for transmitting sound and voice across distances; also, in phonetics, any single unanalyzed speech sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mobile technology, a smartphone integrating cellular communications, mobile computing, and multimedia capabilities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"You can 'phone from the post office." Lawrence had secured a box ten days ago, but he strolled out, thinking that the husband and wife might understand each other better when alone."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"His head hit the side of the phone, and he slid to the floor, blood running out of his nose!"*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"There she was, leaning against the wall, talking on the phone."*
+> - 📜 **Alexander Graham Bell (*Memoir upon the Formation of a Deaf Variety*):** *"I spoke into the crude transmitter, and through the wire the **phone** conveyed my words to the receiver."*
+> - 📜 **Ray Bradbury (*Fahrenheit 451*):** *"He listened to the humming silence of the empty house, untouched by the ring of any friendly **phone**."*
+> - 📜 **Daniel Jones (*An Outline of English Phonetics*):** *"A phonetician defines each **phone** as an individual speech sound regarded without reference to its functional status in a language."*

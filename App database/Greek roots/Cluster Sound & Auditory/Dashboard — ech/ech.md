@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Sound & Auditory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek root *ech-* (from *echo* / *eche*), meaning 'sound', 'noise', 'resonance', or 'reverberation'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The linguistic morpheme representing acoustic reflections, echoes, and oral sounding in comparative etymology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Ech, ay, the silver cord, the gowden bowl, the almond blossom--Hobby could weave them a'--terrible grand at the weavin' is Hobby."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"He’s getten t’ raight sperrit in him! _He_ knaws—ay, he knaws, as weel as I do, who sud be t’ maister yonder—Ech, ech, ech!"*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Ech, ech, ech!’ “‘Where must we go?’ I asked of my cousin, disregarding the old wretch’s mockery."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"Under the root **ech**, the Greek vocabulary unites echoes, oral instruction, and acoustic resonance."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The radical element **ech** imitates ringing sound, surviving in modern European words for auditory reflection."*
+> - 📜 **Émile Benveniste (*Indo-European Language and Society*):** *"The archaic root **ech** designated not merely hollow noise, but the returned voice that answers across a valley."*

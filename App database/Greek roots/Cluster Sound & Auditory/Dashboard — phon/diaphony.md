@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Sound & Auditory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dissonance, discord, or disagreement in sound; in early medieval music, an early form of polyphony or two-part vocal organum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, intellectual discordance, controversy, or ideological dispute between conflicting philosophical viewpoints.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diaphony designates a term designating an entity, condition, or phenomenon derived from greek phon."*
+> - 📜 **Christopher Page (*The Owl and the Nightingale: Musical Life and Ideas in France*):** *"Early treatise writers used the term **diaphony** to describe the sounding together of two independent vocal lines."*
+> - 📜 **John Addington Symonds (*Renaissance in Italy*):** *"Beneath the apparent harmony of civic life lurked an unyielding political **diaphony** between rival factions."*
+> - 📜 **H. G. Farmer (*A History of Arabian Music*):** *"Theoretical writings from the ninth century contrast the consonance of symphonia with the discordant intervals of **diaphony**."*

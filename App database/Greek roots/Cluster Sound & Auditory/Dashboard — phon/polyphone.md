@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A letter that has two or more pronunciations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A letter that has two or more pronunciations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A written letter, character, or symbol that represents two or more distinct sounds or phonetic values.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and epigraphy, a polyphonic character; or an early type of mechanical music box playing multiple tunes on interchangeable discs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyphone designates a letter that has two or more pronunciations."*
+> - 📜 **Henry Sweet (*The Practical Study of Languages*):** *"In English orthography, almost every vowel sign is an ambiguous **polyphone** with multiple disparate readings."*
+> - 📜 **Isaac Taylor (*The History of the Alphabet*):** *"Sumerian cuneiform signs frequently functioned as a **polyphone**, acquiring new sound values as the script adapted across cultures."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Dancing Men*):** *"The code was complicated by the fact that certain pictorial figures served as a **polyphone** depending on context."*

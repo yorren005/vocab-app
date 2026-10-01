@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pleasing to the ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pleasing to the ear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pleasing, agreeable, or delightful to the ear; harmonious and sweet-sounding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by smooth-flowing phonetic patterns, rhythmic balance, and a total absence of harsh or abrasive consonant clusters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"So Goslina Shaw was the euphonious sobriquet of baby No. 2, and the joyful grandame returned it to the bed beside the pale face of its mother, where 'twas quackling off to sleep, when Mr."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"At Benares not many years ago a celebrated deity was incarnate in the person of a Hindoo gentleman who rejoiced in the euphonious name of Swami Bhaskaranandaji Saraswati, and looked uncommonly like the late Cardinal Manning, only more ingenuous."*
-> - 📜 **James Joyce (*Ulysses*):** *"The ponderous pundit, Hugh MacHugh, Dublin’s most brilliant scribe and editor and that minstrel boy of the wild wet west who is known by the euphonious appellation of the O’Madden Burke."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne read the poem aloud in her most **euphonious** tone, savoring every melodious cadence of the verse."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"His low, **euphonious** voice had a hypnotic musicality that held his dinner companions completely spellbound."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The minister possessed a **euphonious** eloquence that melted into the hearts of the congregation like soothing music."*

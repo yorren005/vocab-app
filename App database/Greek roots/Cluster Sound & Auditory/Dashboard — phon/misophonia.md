@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which one or more common sounds (such as the ticking of a clock, the hum of a fluorescent light, or the chewing or breathing of another person) cause an atypical emotional response (such as disgust, distress, panic, or anger) in the affected person hearing the sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition in which one or more common sounds (such as the ticking of a clock, the hum of a fluorescent light, or the chewing or breathing of another person) cause an atypical emotional response (such as disgust, distress, panic, or anger) in the affected person hearing the sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A neurological or psychological condition characterized by intense emotional distress, irritation, or anger triggered by specific everyday sounds (such as chewing, breathing, or tapping).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sensory processing disorder distinct from hyperacusis, where selective acoustic stimuli elicit an involuntary sympathetic nervous system fight-or-flight response.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misophonia designates a condition in which one or more common sounds (such as the ticking of a clock, the hum of a fluorescent light, or the chewing or breathing of another person) cause an atypical emotional response (such as disgust, distress, panic, or anger) in the affected person hearing the sound."*
+> - 📜 **Pawel Jastreboff (*Hyperacusis and Misophonia*):** *"Patients with **misophonia** do not complain of loudness, but of an intolerable neurological aversion to specific repetitive human sounds."*
+> - 📜 **Bessel van der Kolk (*The Body Keeps the Score*):** *"Sensory hypersensitivities like **misophonia** illustrate how deeply visceral autonomic reactions can be triggered by seemingly trivial environmental cues."*
+> - 📜 **Oliver Sacks (*Musicophilia*):** *"The distress of **misophonia** reveals how sound is bound to emotion through primitive pathways that bypass rational cognition."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a turgid manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a grandiose manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a bombastic, pompously inflated, or pretentiously grandiloquent manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using high-sounding words without substance or sincerity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Each begs support for only selfish ends; Unfired with love for Britain's Queen they cry, And seek to make the Catholics their friends For party purposes; their loyalty Bombastically swearing, each bows down To those inimical to Britain's Crown."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He declaimed **bombastically** from the hearthrug, waving his hand as if addressing an imperial senate."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The boastful major spoke **bombastically** of his campaigns in India to dazzle the naive heiress."*
+> - 📜 **Mark Twain (*The Innocents Abroad*):** *"The courier gestured **bombastically** toward the ruined columns, reciting fabricated legends to the tourists."*

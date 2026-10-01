@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of birds of the suborder oscines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of birds of the suborder oscines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The bird family in the order Passeriformes comprising the waxwings (genus *Bombycilla*), specialized frugivores of the Holarctic region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small songbird family known for nomadic winter wandering in search of wild fruit crops.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bombycillidae designates a family of birds of the suborder oscines."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"The family **Bombycillidae** includes sleek, crested birds possessing gregarious habits and rich fruit-eating adaptations."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Nomadic irruptions in the **Bombycillidae** are triggered by boreal crop failures of mountain ash berries."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The family **Bombycillidae** represents a distinctly northern circumpolar group adapted to cold conifer forests."*

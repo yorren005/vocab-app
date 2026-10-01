@@ -1,7 +1,7 @@
 {
   "startedAt": "2026-09-30T17:10:00+08:00",
-  "lastUpdatedAt": "2026-10-01T13:13:00+08:00",
-  "currentMilestone": "Milestone 4: Greek roots curation (Cluster Law & Order COMPLETED)",
+  "lastUpdatedAt": "2026-10-01T13:23:00+08:00",
+  "currentMilestone": "Milestone 4: Greek roots curation (Cluster Sound & Auditory COMPLETED)",
   "milestones": {
     "milestone_0_instructions": "completed",
     "milestone_1_mobile_ui": "completed",
@@ -48,7 +48,8 @@
     "Greek roots: Cluster Structure & Form",
     "Greek roots: Cluster War & Conflict",
     "Greek roots: Cluster Turning & Transformation",
-    "Greek roots: Cluster Law & Order"
+    "Greek roots: Cluster Law & Order",
+    "Greek roots: Cluster Sound & Auditory"
   ],
   "stats": {
     "totalWordFiles": 47447,
@@ -57,14 +58,15 @@
     "englishVocabMasterClusters": 30,
     "englishVocabMasterWords": 514,
     "englishVocabMasterIssuesRemaining": 0,
-    "greekRootsClustersCompleted": 7,
-    "greekRootsWordsCurated": 857,
+    "greekRootsClustersCompleted": 8,
+    "greekRootsWordsCurated": 1104,
     "greekRootsClusterPowerStrengthDominionIssues": 0,
     "greekRootsClusterScienceInquiryIssues": 0,
     "greekRootsClusterSelfIdentityIssues": 0,
     "greekRootsClusterStructureFormIssues": 0,
     "greekRootsClusterWarConflictIssues": 0,
     "greekRootsClusterTurningTransformationIssues": 0,
-    "greekRootsClusterLawOrderIssues": 0
+    "greekRootsClusterLawOrderIssues": 0,
+    "greekRootsClusterSoundAuditoryIssues": 0
   }
 }

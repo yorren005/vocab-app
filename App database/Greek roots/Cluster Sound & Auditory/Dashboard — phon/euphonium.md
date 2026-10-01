@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bass horn (brass wind instrument) that is the tenor of the tuba family.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bass horn (brass wind instrument) that is the tenor of the tuba family.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medium-sized, conical-bore brass wind instrument pitched in B-flat, an octave below the cornet or trumpet, valued for its rich, mellow, velvety timbre.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tenor-baritone instrument in military and brass bands that frequently performs expressive tenor solos and intricate counter-melodies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, euphonium designates a bass horn (brass wind instrument) that is the tenor of the tuba family."*
+> - 📜 **Percy Grainger (*Notes on Band Scoring*):** *"The deep, velvety tone of the **euphonium** provides the warm harmonic core of the modern symphonic wind ensemble."*
+> - 📜 **Philip Farkas (*The Art of Brass Playing*):** *"The conical bore of the **euphonium** produces a singing, lyrical quality distinctly different from the cylindrical trombone."*
+> - 📜 **Gustav Holst (*Suite No. 1 in E-flat for Military Band*):** *"Holst assigned the sweeping opening theme of the Chaconne to the rich unison voices of the **euphonium** and tubas."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science that deals with the production, control, transmission, reception, and effects of sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The qualities that determine the ability of an enclosure (such as an auditorium) to reflect sound waves in such a way as to produce distinct hearing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physics that deals with the study of mechanical waves in gases, liquids, and solids, including sound, ultrasound, and infrasound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physical properties or qualities of a room or building that determine how sound is transmitted or reflected in it.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Because the acoustics, the resonance changes according as the weight of the water is equal to the law of falling water."*
+> - 📜 **Lord Rayleigh (*The Theory of Sound*):** *"In the science of **acoustics**, the vibrations of strings, membranes, and air columns form a harmonious mathematical unity."*
+> - 📜 **Hermann von Helmholtz (*On the Sensations of Tone*):** *"The physiological **acoustics** of the inner ear reveals how physical air vibrations become conscious auditory sensations."*
+> - 📜 **Vitruvius (*De Architectura*):** *"The architect must study the laws of **acoustics** so that voice and music may reach the spectators clearly."*

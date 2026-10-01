@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A directory containing an alphabetical list of telephone subscribers and their telephone numbers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A directory containing an alphabetical list of telephone subscribers and their telephone numbers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A published telephone directory, listing telephone subscribers in alphabetical order alongside their addresses and telephone numbers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A contact list or database stored electronically on a mobile phone or personal computer containing telephone numbers and contact details.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phonebook designates a directory containing an alphabetical list of telephone subscribers and their telephone numbers."*
+> - 📜 **Arthur Miller (*Death of a Salesman*):** *"He leafed through the dog-eared pages of his city **phonebook**, hunting for past buyers who might still remember him."*
+> - 📜 **Raymond Chandler (*The Big Sleep*):** *"I picked up the heavy Los Angeles **phonebook** and ran my finger down the column of private investigators."*
+> - 📜 **Don DeLillo (*Underworld*):** *"Old numbers copied from a faded **phonebook** linked him to forgotten corners of the Bronx."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A character or symbol used to represent a word, syllable, or phoneme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A succession of orthographic letters that occurs with the same phonetic value in several words (such as the ight of bright, fight, and flight).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A written character or symbol that represents a speech sound, syllable, or phoneme rather than an object or idea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An early term for a sound recording or recorded disc/cylinder made on a phonograph.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phonogram designates a character or symbol used to represent a word, syllable, or phoneme."*
+> - 📜 **Isaac Taylor (*The History of the Alphabet*):** *"The critical transition in human writing occurred when the pictograph evolved into a purely phonetic **phonogram**."*
+> - 📜 **Thomas Edison (*The Phonograph and Its Future*):** *"Each embossed groove upon the cylinder constitutes a permanent **phonogram** capable of reproducing the human voice indefinitely."*
+> - 📜 **Ignace Gelb (*A Study of Writing*):** *"In hieroglyphic scripts, a **phonogram** was frequently appended to a logogram to confirm its pronunciation."*

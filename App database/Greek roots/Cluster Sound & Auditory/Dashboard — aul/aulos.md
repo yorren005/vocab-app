@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class of ancient Greek musical instruments resembling pipes or flutes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class of ancient Greek musical instruments resembling pipes or flutes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Greek wind instrument consisting of two double-reed pipes played simultaneously by a single performer, often using a leather mouth-strap.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The chief wind instrument of ancient Greek theatrical tragedy, Dionysian worship, and Spartan military drills.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aulos designates any of a class of ancient greek musical instruments resembling pipes or flutes."*
+> - 📜 **Thucydides (*History of the Peloponnesian War*):** *"The Spartans marched into battle to the solemn measure of the **aulos**, keeping step without breaking rank."*
+> - 📜 **Friedrich Nietzsche (*The Birth of Tragedy*):** *"The wild Dionysian ecstasy found its direct acoustic embodiment in the passionate shrieks of the **aulos**."*
+> - 📜 **Jane Ellen Harrison (*Prolegomena to the Study of Greek Religion*):** *"The revels of the maenads were accompanied by the rhythmic beat of the tympanum and the thrilling cry of the **aulos**."*

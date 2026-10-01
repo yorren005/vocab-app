@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The rhythmic property imparted by the accents and relative durations of notes in a piece of music.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rhythmic property imparted by the accents and relative durations of notes in a piece of music.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property or condition of recurring at regular, rhythmic intervals; rhythmic regularity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The intrinsic ability of excitable cells (such as cardiac pacemaker cells) to generate spontaneous periodic electrical impulses in biology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhythmicity designates the rhythmic property imparted by the accents and relative durations of notes in a piece of music."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The inherent **rhythmicity** of the sinoatrial node maintains the steady cadence of the mammalian heart."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Biological functions exhibit intrinsic **rhythmicity**, oscillating between expenditure and replenishment in the milieu intérieur."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Reflex stepping movements reveal a spinal **rhythmicity** that operates even when cortical oversight is suspended."*

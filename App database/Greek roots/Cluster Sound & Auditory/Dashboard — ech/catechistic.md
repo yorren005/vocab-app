@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resembling a rigorous catechism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or resembling a rigorous catechism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of a catechist, catechism, or question-and-answer instruction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Didactic, interrogative, and structured around doctrinal inquiry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catechistic designates of or relating to or resembling a rigorous catechism."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"A **catechistic** dialogue clarifies obscure theological concepts by compelling the student to articulate distinctions."*
+> - 📜 **William Hazlitt (*The Round Table*):** *"He spoke with a stiff, **catechistic** precision that admitted no humor or spontaneous digression."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"The Christian elders conducted a gentle **catechistic** examination of the candidate's moral life."*

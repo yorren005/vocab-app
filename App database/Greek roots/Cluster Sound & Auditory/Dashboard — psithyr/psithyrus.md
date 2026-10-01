@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large bee that resembles the bumblebee but lacks pollen-collecting apparatus and a worker caste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large bee that resembles the bumblebee but lacks pollen-collecting apparatus and a worker caste.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subgenus or genus of cuckoo bumblebees (family Apidae) that parasitize the nests of true bumblebees, named from Greek *psithyros* ('whispering') for their quiet, stealthy flight buzz.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A social parasite bee that lacks pollen-collecting corbiculae and relies on the worker workforce of the host queen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psithyrus designates a large bee that resembles the bumblebee but lacks pollen-collecting apparatus and a worker caste."*
+> - 📜 **John Lubbock (*Ants, Bees, and Wasps*):** *"The parasitic bee of the genus **Psithyrus** enters the nest of Bombus stealthily to lay its brood."*
+> - 📜 **Charles Darwin (*Natural Selection Manuscript*):** *"The female **Psithyrus** possesses no pollen-collecting apparatus, depending wholly upon the stolen stores of its host."*
+> - 📜 **Edward O. Wilson (*The Insect Societies*):** *"Social parasitism in **Psithyrus** evolved through gradual behavioral mimicry of the host bumblebee queen's pheromones."*

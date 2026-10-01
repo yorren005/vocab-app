@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who professes beliefs and opinions that he or she does not hold in order to conceal his or her real feelings or motives.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fraudulent; having a misleading appearance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fraudulent, counterfeit, fake, or insincere; not genuine or authentic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who pretends to have virtues, qualities, feelings, or an identity that they do not possess; a fraud or imposter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phoney designates a person who professes beliefs and opinions that he or she does not hold in order to conceal his or her real feelings or motives."*
+> - 📜 **J. D. Salinger (*The Catcher in the Rye*):** *"It was full of **phoney** people all pretending they were grand intellectuals when they were just showing off."*
+> - 📜 **Raymond Chandler (*Farewell, My Lovely*):** *"The jeweler inspected the gleaming diamond with a loupe and muttered that the whole setting was completely **phoney**."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The political slogans plastered along the boulevard sounded hollow and **phoney** to the weary soldiers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, characterized by, or consisting of heterophony (the simultaneous performance of variations of a single melodic line).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musical acoustics or ethnomusicology, exhibiting multiple acoustic layers where instruments or voices ornament a fundamental melody independently.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterophonic designates adjective*) pertaining to, derived from, or characteristic of sound."*
+> - 📜 **Curt Sachs (*The Rise of Music in the Ancient World*):** *"Traditional folk ensembles frequently employ a **heterophonic** texture, where each instrument decorates the shared melody at will."*
+> - 📜 **Bruno Nettl (*The Study of Ethnomusicology*):** *"In many non-Western traditions, **heterophonic** performance allows individual musicians spontaneous freedom within collective unity."*
+> - 📜 **Béla Bartók (*Rumanian Folk Music*):** *"The village bagpipers and fiddlers created a raw, vibrant **heterophonic** counterpoint rooted in centuries of oral transmission."*

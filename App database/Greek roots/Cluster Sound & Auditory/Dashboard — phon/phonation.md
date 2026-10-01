@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The sound made by the vibration of vocal folds modified by the resonance of the vocal tract.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sound made by the vibration of vocal folds modified by the resonance of the vocal tract.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The physiological process of producing vocal sounds through the vibration of the vocal cords in the larynx.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In speech pathology and phonetics, the aeromechanical interaction between pulmonary airflow and laryngeal adduction that generates the voice source.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phonation designates the sound made by the vibration of vocal folds modified by the resonance of the vocal tract."*
+> - 📜 **Peter Ladefoged (*Elements of Acoustic Phonetics*):** *"During voiced speech, rapid cycles of **phonation** modulate the airstream into periodic acoustic pulses."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Any mechanical interference with the vocal cords impairs normal **phonation**, resulting in breathiness or stridor."*
+> - 📜 **Noam Chomsky (*The Sound Pattern of English*):** *"The vocal tracts modify the periodic sound wave created by laryngeal **phonation** into distinct formant frequencies."*

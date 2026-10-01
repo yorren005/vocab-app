@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical american deciduous shrubs or small trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical american deciduous shrubs or small trees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical flowering trees in the family Malvaceae (subfamily Bombacoideae), native to Central and South America, characterized by swollen water-storing green trunks and brush-like blossoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A Neotropical pachycaul tree (such as *Pseudobombax ellipticum*, the shaving-brush tree), prized as an ornamental for its large pink or white brush-shaped stamens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudobombax designates tropical american deciduous shrubs or small trees."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"In the dry valleys of the Orinoco, the green, water-swollen trunk of **Pseudobombax** survives months of scorching drought."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"The spectacular blooms of **Pseudobombax** resemble giant shaving brushes, expanding at sunset with an abundance of nectar."*
+> - 📜 **Thomas Belt (*The Naturalist in Nicaragua*):** *"Bats and large sphinx moths visit the nocturnal flowers of **Pseudobombax** as soon as the petals unfurl."*

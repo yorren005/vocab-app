@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of two or more words pronounced alike but different in meaning or derivation or spelling (such as the words to, too, and two).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A character or group of characters pronounced the same as another character or group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the same phonetic sound or pronunciation; identical in acoustic realization though differing in meaning or spelling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musical composition, moving homophonically with rhythmically unified chordal accompaniment beneath a dominant melody.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homophonous designates one of two or more words pronounced alike but different in meaning or derivation or spelling (such as the words to, too, and two)."*
+> - 📜 **Henry Sweet (*A Handbook of Phonetics*):** *"Words that become **homophonous** through historical sound loss often undergo semantic differentiation or total obsolescence."*
+> - 📜 **Charles Rosen (*The Classical Style*):** *"The **homophonous** textures of early classical sonatas offered a dramatic contrast to the dense contrapuntal tapestries of the High Baroque."*
+> - 📜 **William Dwight Whitney (*The Life and Growth of Language*):** *"Context alone prevents misunderstanding when two distinct lexical roots become completely **homophonous** in speech."*

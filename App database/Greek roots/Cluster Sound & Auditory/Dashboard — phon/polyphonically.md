@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a polyphonic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a polyphonic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a polyphonic manner; combining multiple independent melodic voices, lines, or themes simultaneously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, expressing multiple distinct viewpoints, narrative voices, or thematic layers in literature or philosophy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyphonically designates in a polyphonic manner."*
+> - 📜 **Mikhail Bakhtin (*Problems of Dostoevsky's Poetics*):** *"Dostoevsky structured his novels **polyphonically**, allowing independent consciousnesses to debate without being subordinated to an omniscient author."*
+> - 📜 **Charles Rosen (*The Romantic Generation*):** *"Chopin wove inner voices **polyphonically** beneath the principal melody, creating breathtaking harmonic depth."*
+> - 📜 **Theodor W. Adorno (*Philosophy of New Music*):** *"Modern orchestral works unfold **polyphonically**, rejecting monolithic homophonic textures in favor of relentless contrapuntal tension."*

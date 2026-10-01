@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Harmonious in sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Harmonious in sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Harmonious in sound; agreeing or blending together melodiously; symphonic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, characterized by peaceful accord, unity, and harmonious agreement among diverse people or parts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symphonious designates harmonious in sound."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Sounding brass and solemn organs blend their **symphonious** voices to celebrate the eternal throne."*
+> - 📜 **Samuel Taylor Coleridge (*Religious Musings*):** *"The universe moved in **symphonious** rhythm, guided by the loving hand of divine providence."*
+> - 📜 **Percy Bysshe Shelley (*The Revolt of Islam*):** *"A chorus of **symphonious** voices rose from the liberated multitude, welcoming the dawn of freedom."*

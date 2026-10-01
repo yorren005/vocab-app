@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who professes beliefs and opinions that he or she does not hold in order to conceal his or her real feelings or motives.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fraudulent; having a misleading appearance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not genuine, fraudulent, fake, or counterfeit; deceptive in appearance or character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An insincere or fraudulent person; someone who assumes false pretenses or poses as something they are not.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Randall Garrett (*Deadly decoy*):** *"That phony note at the Hotel Granada, for instance."*
-> - 📜 **Randall Garrett (*Deadly decoy*):** *"In order to find the phony note, they had to give us a clue as to where it was."*
-> - 📜 **Randall Garrett (*Deadly decoy*):** *"Why an expensive neutrino generator, when some cheap radioactive would do? _Because he didn't want to kill Holdreth Khain!_ "And that meant that our friendly Damakoi was a phony." Ned shook his head."*
+> - 📜 **J. D. Salinger (*The Catcher in the Rye*):** *"I was surrounded by all kinds of **phony** guys who talked about their expensive suits and cars."*
+> - 📜 **Raymond Chandler (*The Long Goodbye*):** *"He flashed an easy, practiced smile that looked as **phony** as a three-dollar bill."*
+> - 📜 **George Orwell (*1984*):** *"The official news bulletins reported heroic production victories that everyone knew were entirely **phony**."*

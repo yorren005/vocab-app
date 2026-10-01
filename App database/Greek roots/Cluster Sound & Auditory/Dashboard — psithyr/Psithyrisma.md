@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek psithyr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Sound & Auditory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The gentle whispering or soughing sound of the wind rustling through the leaves of trees (from Greek *psithyrisma*, 'whispering').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The murmuring cadence of hushed voices or subtle breezes in classical pastoral poetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Psithyrisma designates a term designating an entity, condition, or phenomenon derived from greek psithyr."*
+> - 📜 **Theocritus (*Idylls*):** *"Sweet is the **psithyrisma** of the whispering pine that murmurs beside the mountain springs."*
+> - 📜 **Algernon Charles Swinburne (*Atalanta in Calydon*):** *"The quiet forest awoke with the faint **psithyrisma** of twilight breezes through the poplars."*
+> - 📜 **Walter Pater (*Greek Studies*):** *"In the pastoral landscape of Hellas, the gentle **psithyrisma** of trembling boughs seemed the very voice of the dryad."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in phonetics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in phonetics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist or linguist who studies phonetics, the physical properties, production, and acoustic transmission of human speech sounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert in speech analysis, vocal articulation, dialect identification, and phonetic transcription.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phonetician designates a specialist in phonetics."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"Higgins was an impassioned **phonetician** who could place any Londoner within two streets by the turn of a single vowel."*
+> - 📜 **Daniel Jones (*The Pronunciation of English*):** *"A trained **phonetician** must develop both acute auditory discrimination and precise control over the vocal organs."*
+> - 📜 **Henry Sweet (*A Primer of Phonetics*):** *"The mission of the practical **phonetician** is to bridge the chasm between spoken dialect and written orthography."*

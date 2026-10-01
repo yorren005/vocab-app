@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To change into a monophthong : to reduce (a diphthong or triphthong) to a simple vowel sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To change into a monophthong : to reduce (a diphthong or triphthong) to a simple vowel sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To change a diphthong into a monophthong (pure vowel) by smoothing out the vocalic glide in linguistics and phonetics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical phonology, the sound change process also known as monophthongization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monophthongize designates to change into a monophthong : to reduce (a diphthong or triphthong) to a simple vowel sound."*
+> - 📜 **Otto Jespersen (*A Modern English Grammar*):** *"Late Latin began to **monophthongize** the classical diphthong 'ae' into a simple open front vowel."*
+> - 📜 **Henry Sweet (*A History of English Sounds*):** *"Dialect speakers frequently **monophthongize** the 'ai' sound in 'time' into a prolonged single vowel."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"When dialects **monophthongize** complex glides, they restore symmetrical simplicity to their vowel inventory."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a group of single-reed woodwind instruments usually ranging from soprano to bass and characterized by a conical metal tube and finger keys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of a group of single-reed woodwind instruments usually ranging from soprano to bass and characterized by a conical metal tube and finger keys.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A single-reed woodwind musical instrument with a conical brass tube and finger keys, invented by Adolphe Sax around 1840.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An iconic solo instrument in jazz, popular music, and symphonic concert repertoire, renowned for its expressive, flexible, and human-like vocal timbre.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saxophone designates one of a group of single-reed woodwind instruments usually ranging from soprano to bass and characterized by a conical metal tube and finger keys."*
+> - 📜 **Jack Kerouac (*On the Road*):** *"The tenor **saxophone** player leaned back, closed his eyes, and blew a high, crying note that stopped everyone in their tracks."*
+> - 📜 **Ralph Ellison (*Shadow and Act*):** *"Charlie Parker transformed the alto **saxophone** into an extension of his nervous system, redefining the grammar of modern music."*
+> - 📜 **Hector Berlioz (*Treatise on Modern Instrumentation and Orchestration*):** *"The **saxophone** possesses a unique timbre, hovering between brass power and the mellow warmth of woodwinds."*

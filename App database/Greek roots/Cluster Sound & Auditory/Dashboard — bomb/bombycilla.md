@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Waxwings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Waxwings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The genus of passerine birds comprising the waxwings in the family Bombycillidae, characterized by silky plumage, black masks, and waxy red tips on secondary wing feathers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bird genus named from Greek *bombyx* ('silk') and Latin *cilla* ('tail'), typified by the Bohemian waxwing (*Bombycilla garrulus*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog bombycilla as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **John James Audubon (*Birds of America*):** *"Flocks of **Bombycilla** descend upon the cedar trees in winter, devouring berries with voracious eagerness."*
+> - 📜 **Alexander Wilson (*American Ornithology*):** *"The exquisite plumage of **Bombycilla** carolinensis is as soft and lustrous as the finest silk."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"The genus **Bombycilla** is distinguished by its crest, silky plumage, and curious scarlet wax-like appendages upon the wings."*

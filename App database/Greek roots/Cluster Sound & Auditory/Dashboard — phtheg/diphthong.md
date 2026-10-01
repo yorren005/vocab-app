@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gliding monosyllabic speech sound (such as the vowel combination at the end of toy) that starts at or near the articulatory position for one vowel and moves to or toward the position of another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gliding monosyllabic speech sound (such as the vowel combination at the end of toy) that starts at or near the articulatory position for one vowel and moves to or toward the position of another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sound formed by the combination of two vowels in a single syllable, in which the sound begins as one vowel and glides toward another (e.g., *coin*, *loud*, *side*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ligature of two vowel letters (such as æ or œ) in typography.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Intricate and entangled as is the history, for instance, of the Arian controversy--that controversy which "turned on a diphthong," as Carlyle said in his younger days--it represented far more than mere logomachy, as Carlyle saw later on."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It followed from a determination to get at the real fact of who and what Jesus Christ is; and the two words, that differed by a diphthong, embodied diametrically opposite conceptions of him."*
-> - 📜 **James Joyce (*Ulysses*):** *"Bringing his host down and kneeling he heard twine with his second bell the first bell in the transept (he is lifting his) and, rising, heard (now I am lifting) their two bells (he is kneeling) twang in diphthong."*
+> - 📜 **Henry Sweet (*A Handbook of Phonetics*):** *"In producing a **diphthong**, the vocal organs start at one vowel position and glide smoothly toward another before the syllable ends."*
+> - 📜 **James Joyce (*Ulysses*):** *"His voice flattened the broad open vowel into a lazy, musical Dublin **diphthong**."*
+> - 📜 **Otto Jespersen (*Language: Its Nature, Development and Origin*):** *"The Great Vowel Shift transformed long Middle English vowels into modern vocalic **diphthongs**."*

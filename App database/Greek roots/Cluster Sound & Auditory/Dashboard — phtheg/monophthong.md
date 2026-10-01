@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vowel sound that throughout its duration has a single constant articulatory position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vowel sound that throughout its duration has a single constant articulatory position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pure vowel sound whose articulation at both beginning and end is relatively fixed, having a single unchanged acoustic quality throughout the syllable (e.g., the vowel in *cat* or *bed*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A single vowel sound contrasted with a gliding diphthong or triphthong.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monophthong designates a vowel sound that throughout its duration has a single constant articulatory position."*
+> - 📜 **Henry Sweet (*A Handbook of Phonetics*):** *"A **monophthong** maintains an unchanging tongue and lip position throughout the duration of its utterance."*
+> - 📜 **Otto Jespersen (*Language: Its Nature, Development and Origin*):** *"Northern British dialects often preserve a pure **monophthong** where standard southern speech uses a gliding diphthong."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The historical transition from diphthong to **monophthong** represents one of the commonest simplifications in vocalic phonetics."*

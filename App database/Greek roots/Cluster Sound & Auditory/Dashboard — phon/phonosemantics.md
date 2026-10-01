@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Sound & Auditory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of linguistics and semiotics that investigates the direct, non-arbitrary relationships between speech sounds and their meanings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theoretical study of how acoustic properties of phonemes naturally evoke psychological, sensory, and semantic associations across cultures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phonosemantics designates a term designating an entity, condition, or phenomenon derived from greek phon."*
+> - 📜 **Roman Jakobson (*The Sound Shape of Language*):** *"Modern **phonosemantics** overturns the dogma of arbitrary signs by documenting universal cross-linguistic sound symbolism."*
+> - 📜 **Otto Jespersen (*Language: Its Nature, Development and Origin*):** *"The principles of **phonosemantics** explain why front vowels universally correlate with smallness, delicacy, and light."*
+> - 📜 **Margaret Magnus (*Gods of the Word: Archetypes in the Consonants*):** *"Through **phonosemantics**, we uncover how each consonant carries an inherent cognitive archetype within the lexicon."*

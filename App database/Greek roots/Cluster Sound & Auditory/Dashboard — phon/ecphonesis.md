@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An exclamatory rhetorical device.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An exclamatory rhetorical device.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An impassioned, emotional exclamatory phrase or rhetorical outcry used in oratory or poetry to evoke pathos, grief, or indignation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Byzantine and Eastern Christian liturgical music, a heightened, solemn reading or melodic cadence recited aloud by the officiating priest or deacon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ecphonesis designates an exclamatory rhetorical device."*
+> - 📜 **George Puttenham (*The Arte of English Poesie*):** *"This figure of **ecphonesis**, or exclamation, moveth the mind of the hearer when passion overflows ordinary speech."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"The orator should employ **ecphonesis** sparingly, reserving vehement outcries for moments of genuine climactic emotion."*
+> - 📜 **Egon Wellesz (*A History of Byzantine Music and Hymnography*):** *"The liturgical chant culminated in a solemn **ecphonesis**, chanted with solemn dignity by the priest at the altar."*

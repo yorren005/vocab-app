@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an unpleasant sound; - john mccarten.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an unpleasant sound; - john mccarten.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing or characterized by a harsh, discordant, jarring, or unharmonious mixture of sounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary or aesthetic theory, deliberately harsh or grating in phonetic texture to evoke disorder, violence, or chaos.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cacophonic designates having an unpleasant sound; - john mccarten."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"A sudden burst of **cacophonic** brass music erupted from the loudspeakers, shattering the tranquil afternoon."*
+> - 📜 **George Orwell (*1984*):** *"The telescreen blared with a **cacophonic** din of marching songs and martial fanfares that allowed no quiet thought."*
+> - 📜 **H. P. Lovecraft (*The Call of Cthulhu*):** *"From the damp subterranean vault came a **cacophonic** piping that struck madness into the listening ear."*

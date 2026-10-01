@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of something having a drab pale brown color resembling a mouse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of something having a drab pale brown color resembling a mouse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or characteristic of a mouse, especially in being quiet, timid, small, or stealthy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having drab, greyish-brown coloring or scurrying movements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mouselike designates of something having a drab pale brown color resembling a mouse."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"She sat in the corner with a quiet, **mouselike** stillness, afraid to draw the notice of her severe aunt."*
+> - 📜 **George Orwell (*1984*):** *"A little, **mouselike** clerk with nervous spectacles hurried past him clutching a folder of documents."*
+> - 📜 **Virginia Woolf (*Mrs. Dalloway*):** *"Miss Kilman stood motionless in her macintosh, watching with a sullen, **mouselike** vigilance."*

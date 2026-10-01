@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of gargle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of gargle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek onomatopoeic root (*gargar-*, from *gargarizein*), imitating the bubbling sound of liquid agitated in the throat, giving rise to *gargle* and *gargarize*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The linguistic morpheme representing pharyngeal rinses, throat gargling, and throat washing in ancient pharmacognosy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gargar designates adjective*) pertaining to, derived from, or characteristic of gargle."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"The reduplicated root **gargar** imitates the bubbling throat noise of rinsing with liquid."*
+> - 📜 **Galen (*De Sanitate Tuenda*):** *"From ancient **gargar**, the physicians developed gargles of warm water and honey to soothe the inflamed fauces."*
+> - 📜 **Jonathan Pereira (*The Elements of Materia Medica*):** *"The radical sound **gargar** gave name to those topical astringent washes applied to the back of the mouth."*

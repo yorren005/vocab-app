@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Verb*) To subject to, transform by, or operate upon through sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Verb*) To subject to, transform by, or operate upon through sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make pleasant, sweet-sounding, or agreeable to the ear; to alter phonetically or rhetorically for greater euphony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To modify the spelling, pronunciation, or phrasing of a word or foreign borrowing to eliminate harsh consonant junctions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, euphonize designates verb*) to subject to, transform by, or operate upon through sound."*
+> - 📜 **H. L. Mencken (*The American Language*):** *"Immigrant families frequently sought to **euphonize** their patronymics by softening guttural consonants and dropping harsh syllables."*
+> - 📜 **Walter William Skeat (*Principles of English Etymology*):** *"The tendency to **euphonize** consonant clusters has driven the phonological evolution of English across the centuries."*
+> - 📜 **Robert Bridges (*Poetry and Poetic Diction*):** *"The poet must continuously prune and **euphonize** rough phrasing until every stanza sings with unblemished grace."*

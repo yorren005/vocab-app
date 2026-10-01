@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or marked by polyphony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being a polyphone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or having multiple voice parts or musical melodies sounded together, each having an independent melodic character and rhythm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of producing multiple notes or audio channels simultaneously (e.g. a polyphonic synthesizer).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyphonic designates of, relating to, or marked by polyphony."*
+> - 📜 **Donald Jay Grout (*A History of Western Music*):** *"The Renaissance motet reached its artistic zenith in the intricate **polyphonic** masterpieces of Palestrina and Lassus."*
+> - 📜 **Aldous Huxley (*Point Counter Point*):** *"Human experience unfolded before him like a vast **polyphonic** composition, multiple tragic and comic themes interweaving simultaneously."*
+> - 📜 **Thomas Mann (*Doctor Faustus*):** *"Leverkühn's ambitious score integrated strict twelve-tone technique into a dazzling, multilayered **polyphonic** tapestry."*

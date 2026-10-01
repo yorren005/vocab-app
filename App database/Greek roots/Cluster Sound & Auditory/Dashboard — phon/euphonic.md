@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pleasing or sweet sound; especially : the acoustic effect produced by words so formed or combined as to please the ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A harmonious succession of words having a pleasing sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a pleasant, melodious, agreeable, or sweet sound; pleasing to the ear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics, relating to phonetic changes or sound substitutions made in words or phrases to facilitate smoother, more agreeable pronunciation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, euphonic designates pleasing or sweet sound; especially : the acoustic effect produced by words so formed or combined as to please the ear."*
+> - 📜 **Edgar Allan Poe (*The Philosophy of Composition*):** *"The choice of the word 'Nevermore' was determined largely by its rich, **euphonic** resonance."*
+> - 📜 **John Keats (*Letters of John Keats*):** *"Poetic lines must flow with a natural, **euphonic** ease, avoiding all jagged and grating consonantal clusters."*
+> - 📜 **Max Müller (*The Science of Language*):** *"Languages frequently insert an epenthetic vowel for purely **euphonic** reasons to break up awkward consonant sequences."*

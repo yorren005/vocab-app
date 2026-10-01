@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Sound & Auditory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The change of an internal vowel sound within a root or word stem to indicate a difference in grammatical function or tense (also known as ablaut or vowel gradation).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Indo-European comparative linguistics, the systemic morphological alternation between qualitative or quantitative vowel grades.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apophony designates a term designating an entity, condition, or phenomenon derived from greek phon."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The grammatical distinction between sing, sang, and sung is governed by ancient Indo-European **apophony**."*
+> - 📜 **Benjamin W. Fortson IV (*Indo-European Language and Culture*):** *"Root **apophony** provided early speakers with a rich morphological mechanism to encode aspect and voice."*
+> - 📜 **Antoine Meillet (*Introduction to the Comparative Study of Indo-European Languages*):** *"Through vowel **apophony**, Proto-Indo-European verb stems shifted dynamically across various morphological categories."*

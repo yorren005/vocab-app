@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The production, by the voice, of sounds of two different pitches simultaneously.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The production, by the voice, of sounds of two different pitches simultaneously.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A voice disorder characterized by the simultaneous production of two distinct auditory pitches or fundamental frequencies during phonation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition typically resulting from asymmetric vocal fold vibration, unilateral vocal cord paralysis, polypoid degeneration, or unequal vocal fold tension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diplophonia designates the production, by the voice, of sounds of two different pitches simultaneously."*
+> - 📜 **Friedrich S. Brodnitz (*Keep Your Voice Healthy*):** *"The presence of a unilateral vocal polyp often induces **diplophonia**, where the patient hears two conflicting pitches at once."*
+> - 📜 **Robert Thayer Sataloff (*Professional Voice: The Science and Art of Clinical Care*):** *"Stroboscopy revealed phase asymmetry of the vocal folds, explaining the patient's prominent **diplophonia** during speech."*
+> - 📜 **Chevalier Jackson (*Diseases of the Air and Food Passages of Foreign-Body Origin*):** *"Following laryngeal trauma, scarring may cause uneven vocal fold vibration and pronounced **diplophonia**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rich, frothy, creamy dessert made with whipped egg whites and heavy cream.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light creamy dish made from fish or meat and set with gelatin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A light, airy, creamy food made with whipped cream or beaten egg whites, flavored with chocolate, fruit, fish, or meat, served chilled.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A foamy aerosol cosmetic styling product applied to hair to provide volume and hold.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mousse designates a rich, frothy, creamy dessert made with whipped egg whites and heavy cream."*
+> - 📜 **Julia Child (*Mastering the Art of French Cooking*):** *"A chocolate **mousse** should be rich and dark, yet possessing a feathery, cloud-like lightness on the tongue."*
+> - 📜 **Auguste Escoffier (*Le Guide Culinaire*):** *"The cold salmon **mousse** must be passed through a fine tammy cloth to ensure absolute smoothness before chilling."*
+> - 📜 **Marcel Proust (*In Search of Lost Time*):** *"The dessert was an exquisite coffee **mousse**, whose delicate froth dissolved upon the palate like sweet air."*

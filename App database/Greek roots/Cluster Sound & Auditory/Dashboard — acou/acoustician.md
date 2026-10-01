@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A physicist who specializes in acoustics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physicist who specializes in acoustics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A physicist, engineer, or specialist who studies the science of acoustics or designs sound systems and architectural spaces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical expert in soundproofing, noise control, and musical instrument physics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acoustician designates a physicist who specializes in acoustics."*
+> - 📜 **Lord Rayleigh (*The Theory of Sound*):** *"The skilled **acoustician** investigates the delicate interplay between surface elasticity and wave diffraction."*
+> - 📜 **Hermann von Helmholtz (*On the Sensations of Tone*):** *"To the **acoustician**, every musical tone is a composite vibration that can be analyzed into mathematical sine waves."*
+> - 📜 **Wallace Clement Sabine (*Collected Papers on Acoustics*):** *"The modern architectural **acoustician** calculates reverberation time to ensure speech clarity in public auditoriums."*

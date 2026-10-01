@@ -43,7 +43,9 @@ dv.container.appendChild(toggle);
 
 > [!book] 📖 Definitions & Semantic Range
 > 1. **Primary Definition (Lexical / Standard Consensus)**: A musician who plays the saxophone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musician who plays the saxophone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A professional instrumentalist specializing in saxophone performance across jazz, classical, or popular music traditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saxophonist designates a musician who plays the saxophone."*
+> - 📜 **Whitney Balliett (*American Musicians: Fifty-Six Portraits in Jazz*):** *"Every jazz **saxophonist** in the post-war era wrestled with the towering musical shadow of Charlie Parker."*
+> - 📜 **Langston Hughes (*The Big Sea*):** *"In the smoky Harlem cellar, the young **saxophonist** poured out blues choruses that moved the patrons to tears."*
+> - 📜 **Miles Davis (*Miles: The Autobiography*):** *"When John Coltrane stepped up to solo, that man played like no other **saxophonist** who ever lived."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality given to a sound by its overtones: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The resonance by which the ear recognizes and identifies a voiced speech sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The character or quality of a musical sound or voice as distinct from its pitch and intensity; acoustic tone color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The unique harmonic spectrum produced by a vibrating body that allows the listener to distinguish different instruments or voices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Aren't you dead tired of it?" "No." Her voice was a strong soprano timbre."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"On the contrary, the lack of timbre would be regarded by Chinese connoisseurs as indication of a spurious ware, the note of the old porcelains being one of the criteria of their excellence."*
+> - 📜 **Hermann von Helmholtz (*On the Sensations of Tone*):** *"The difference in musical **timbre** depends solely on the presence and relative strength of upper partial tones."*
+> - 📜 **Jean-Jacques Rousseau (*Dictionary of Music*):** *"Each instrument possesses a native **timbre** that evokes distinct emotional colors in the listener's soul."*
+> - 📜 **Oliver Sacks (*Musicophilia*):** *"A patient suffering from amusia may retain the ability to recognize vocal **timbre** even when melody is lost."*

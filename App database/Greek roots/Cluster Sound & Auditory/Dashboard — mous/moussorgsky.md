@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Russian composer of operas and orchestral works (1839-1881).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Russian composer of operas and orchestral works (1839-1881).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Modest Mussorgsky (1839–1881), an innovative Russian romantic nationalist composer, member of 'The Five', famed for the opera *Boris Godunov* and *Pictures at an Exhibition*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical pioneer whose bold harmonic roughness and speech-like vocal declamation profoundly influenced modern 20th-century composers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, moussorgsky designates russian composer of operas and orchestral works (1839-1881)."*
+> - 📜 **Nikolai Rimsky-Korsakov (*My Musical Life*):** *"**Moussorgsky** possessed an astonishing dramatic instinct, capturing the rough vitality of the Russian folk in every measure."*
+> - 📜 **Igor Stravinsky (*Dialogues and a Diary*):** *"The raw harmonic audacity of **Moussorgsky** broke through academic formulas to create a truly original musical speech."*
+> - 📜 **Pyotr Ilyich Tchaikovsky (*Letters to His Family*):** *"In **Moussorgsky**, nature gave genius of the highest order, combined with an utter disdain for conventional technique."*

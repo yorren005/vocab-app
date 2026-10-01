@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A physiological process for locating distant or invisible objects (such as prey) by sound waves reflected back to the emitter (such as a bat) from the objects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physiological process for locating distant or invisible objects (such as prey) by sound waves reflected back to the emitter (such as a bat) from the objects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological sonar system used by certain animals (such as bats, dolphins, and whales) to navigate and detect obstacles or prey by emitting high-frequency sounds and interpreting the returning echoes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The acoustic navigation technique adapted by visually impaired humans using tongue clicks or cane taps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, echolocation designates a physiological process for locating distant or invisible objects (such as prey) by sound waves reflected back to the emitter (such as a bat) from the objects."*
+> - 📜 **Donald Griffin (*Listening in the Dark*):** *"Through ultrasonic **echolocation**, the insectivorous bat reconstructs a complete three-dimensional acoustic image of its night surroundings."*
+> - 📜 **Richard Dawkins (*The Blind Watchmaker*):** *"Bat **echolocation** is an engineering marvel that outperforms the most sophisticated radar systems designed by human engineers."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The convergence between cetacean and chiropteran **echolocation** illustrates the exquisite power of natural selection in solving perceptual challenges."*

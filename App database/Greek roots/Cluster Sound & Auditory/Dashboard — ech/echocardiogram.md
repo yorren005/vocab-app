@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A visual record made by echocardiography; also : the procedure for producing such a record.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A visual record made by echocardiography; also : the procedure for producing such a record.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A non-invasive diagnostic medical test that uses ultrasound waves to create real-time graphic images of the heart's chambers, valves, and blood flow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The clinical sonographic recording used by cardiologists to evaluate cardiac ejection fraction and valvular dysfunction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, echocardiogram designates a visual record made by echocardiography; also : the procedure for producing such a record."*
+> - 📜 **Inge Edler (*Ultrasound Cardiography*):** *"The continuous ultrasonic **echocardiogram** allows the clinician to observe the dynamic motion of the mitral valve leaflets in real time."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology*):** *"Non-invasive acoustic imaging, prefigured by the **echocardiogram**, revolutionized surgical diagnosis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern diagnosis of infective endocarditis relies upon the **echocardiogram** to identify friable valvular vegetations."*

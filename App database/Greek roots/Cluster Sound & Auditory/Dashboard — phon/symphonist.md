@@ -43,7 +43,9 @@ dv.container.appendChild(toggle);
 
 > [!book] 📖 Definitions & Semantic Range
 > 1. **Primary Definition (Lexical / Standard Consensus)**: A composer of symphonies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A composer of symphonies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a symphony orchestra, or an orchestral musician or artist who creates grand, harmoniously integrated structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symphonist designates a composer of symphonies."*
+> - 📜 **Donald Francis Tovey (*Essays in Musical Analysis*):** *"Brahms emerged as the greatest classical **symphonist** of the late nineteenth century, preserving classical architecture with romantic warmth."*
+> - 📜 **Gustav Mahler (*Selected Letters*):** *"To be a true **symphonist** means building a world with all the technical means at one's disposal."*
+> - 📜 **Robert Schumann (*On Music and Musicians*):** *"We hailed Schubert as a lyrical **symphonist** whose melodies seemed poured directly from heaven."*

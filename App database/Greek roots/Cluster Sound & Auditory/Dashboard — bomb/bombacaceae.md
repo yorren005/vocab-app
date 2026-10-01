@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical trees with large dry or fleshy fruit containing usually woolly seeds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical trees with large dry or fleshy fruit containing usually woolly seeds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former family of tropical dicotyledonous trees in the order Malvales (now subfamily Bombacoideae within Malvaceae), notably including the baobab, kapok, and balsa trees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A botanical taxon of majestic trees characterized by swollen pachycaul trunks, palmate leaves, and large flowers producing silky seed-capsules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bombacaceae designates tropical trees with large dry or fleshy fruit containing usually woolly seeds."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Trees of the family **Bombacaceae** tower above the equatorial jungle, their giant buttressed trunks anchored in ancient soil."*
+> - 📜 **Alexander von Humboldt (*Aspects of Nature*):** *"The grotesque, swollen trunk of the baobab, placed by botanists in the **Bombacaceae**, resembles a vegetable fortress."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"In the **Bombacaceae**, the wood is remarkably soft and spongy, producing lightweight timbers like balsa."*

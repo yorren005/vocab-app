@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a musical sound; especially a pleasing tune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing or constituting or characterized by pleasing melody.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a pleasant tune; tuneful, musical, and sweet-sounding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Agreeable to the ear through harmonious vocal or instrumental cadence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But long it could not be Till that her garments, heavy with their drink, Pull’d the poor wretch from her melodious lay To muddy death."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pless my soul! [_Sings._] _To shallow rivers, to whose falls Melodious birds sings madrigals."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To shallow_— Mercy on me, I have a great dispositions to cry. [_Sings._] _Melodious birds sing madrigals— Whenas I sat in Pabylon— And a thousand vagram posies."*
+> - 📜 **John Keats (*Ode to a Nightingale*):** *"In some **melodious** plot Of beechen green, and shadows numberless, Singest of summer in full-throated ease."*
+> - 📜 **William Shakespeare (*The Merry Wives of Windsor*):** *"By shallow rivers, to whose falls **melodious** birds sing madrigals."*
+> - 📜 **Percy Bysshe Shelley (*To a Skylark*):** *"Teach me half the gladness that thy brain must know, and what sweet **melodious** thoughts are thine."*

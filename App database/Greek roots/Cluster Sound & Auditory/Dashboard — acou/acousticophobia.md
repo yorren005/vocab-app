@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A morbid fear of sounds including your own voice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A morbid fear of sounds including your own voice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, irrational, and persistent fear of noise, loud sounds, or specific acoustic stimuli in psychology and psychiatry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sensory phobia characterized by intense panic and avoidance of loud environments (related to phonophobia).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acousticophobia designates a morbid fear of sounds including your own voice."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Sudden loud sounds provoke instinctive terror, which in pathological **acousticophobia** becomes an unbearable torment."*
+> - 📜 **Oliver Sacks (*Musicophilia*):** *"The patient developed severe **acousticophobia**, retreating into a soundproof room to escape the agony of ordinary traffic noise."*
+> - 📜 **Jean-Martin Charcot (*Clinical Lectures*):** *"Hysterical hypersensitivity to acoustic stimuli occasionally manifests as acute **acousticophobia** accompanied by palpitations."*

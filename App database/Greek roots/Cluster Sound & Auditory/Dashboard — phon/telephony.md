@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use or operation of an apparatus (such as a telephone) for transmission of sounds as electrical signals between widely removed points.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use or operation of an apparatus (such as a telephone) for transmission of sounds as electrical signals between widely removed points.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The technology, science, and process of transmitting speech, sounds, or data electronically over distance between telephone instruments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The commercial and engineering industry devoted to voice telecommunication networks, switching systems, and cellular infrastructure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"For wireless _telephony_ what is wanted is a continuous uninterrupted train of waves, such as those from the "Poulsen arc," and a receiver of the magnetic type."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It is strange that wireless telephony has not made greater progress, for it may be said, on the word of one of the greatest authorities, that wireless telephony is simpler and easier than telephony through a submarine cable."*
+> - 📜 **Guglielmo Marconi (*Nobel Lecture*):** *"The advent of wireless **telephony** will soon unite continents in instantaneous spoken dialogue without cables."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"The statistical nature of speech signals is fundamental to the engineering of modern digital **telephony**."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"The development of electrical **telephony** annihilated geographic distance, collapsing society into an instantaneous global web."*

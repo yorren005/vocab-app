@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a melodious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a melodious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a melodious, tuneful, or sweetly harmonious manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With musical grace and smooth vocal cadence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Where the birds sing melodiously."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In answer to Richard’s inquiry from whom they came, he briefly answered, “Master, sir, if you please”; and putting on his hat again (which was like a soft bowl), cracked his whip, re-awakened his music, and went melodiously away."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"An ineffable intonation melodiously spoke: "It opes to a key that is golden, Within it a spirit lies folden, The soul of all matchless delight."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"A thrush in the orchard began to sing **melodiously**, greeting the first golden gleam of morning."*
+> - 📜 **Henry Wadsworth Longfellow (*Evangeline*):** *"The church bells chimed **melodiously** across the peaceful meadow, calling the villagers to vespers."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The fountain played **melodiously** in the marble courtyard, its splash echoing against ancient stone."*

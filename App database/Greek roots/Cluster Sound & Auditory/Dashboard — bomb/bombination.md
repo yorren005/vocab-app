@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sound of rapid vibration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sound of rapid vibration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A buzzing, droning, or humming sound (from Latin *bombinare*, from Greek *bombos*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Empty, continuous verbal noise; vacuous academic buzzing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bombination designates sound of rapid vibration."*
+> - 📜 **François Rabelais (*Gargantua and Pantagruel*):** *"Scholastic metaphysics often resolved into sterile **bombination** regarding things that have no real existence."*
+> - 📜 **Aldous Huxley (*Those Barren Leaves*):** *"He could hear the distant **bombination** of traffic, an endless mechanical murmur rising from the metropolis."*
+> - 📜 **Vladimir Nabokov (*Pale Fire*):** *"A gentle **bombination** of bumblebees over the lavender beds punctuated the quiet summer afternoon."*

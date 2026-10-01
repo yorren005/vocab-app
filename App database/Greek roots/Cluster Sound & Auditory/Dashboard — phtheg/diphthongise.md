@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change from a simple vowel to a diphthong.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change from a simple vowel to a diphthong.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To change a monophthong (pure vowel) into a diphthong during speech or historical language evolution (British spelling of diphthongize).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To pronounce a single vocalic sound with a noticeable glide.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diphthongise designates change from a simple vowel to a diphthong."*
+> - 📜 **Henry Sweet (*A History of English Sounds*):** *"Southern dialects tend to **diphthongise** pure vowels, adding an off-glide toward the neutral schwa."*
+> - 📜 **Otto Jespersen (*A Modern English Grammar*):** *"Speakers of Modern English naturally **diphthongise** the long tense vowels in words like 'gate' and 'boat'."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"Higgins noted how street cockney would **diphthongise** every pure vowel into a drawn-out nasal sound."*

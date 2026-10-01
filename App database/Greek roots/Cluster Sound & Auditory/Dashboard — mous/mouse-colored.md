@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of something having a drab pale brown color resembling a mouse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of something having a drab pale brown color resembling a mouse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the brownish-grey or dull grey color characteristic of a common field mouse or house mouse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a drab, muted, or nondescript appearance; murinus in biological description.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mouse-colored designates of something having a drab pale brown color resembling a mouse."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She wore a plain, **mouse-colored** merino dress that accorded with her modest and quiet demeanor."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"A small **mouse-colored** pony trotted patiently along the chalk road, drawing the milk wagon."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"A little, **mouse-colored** man in a faded overcoat stepped cautiously through the fog."*

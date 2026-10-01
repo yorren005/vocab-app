@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a drum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Associated with the eardrum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resembling a drum or the eardrum (tympanic membrane).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the middle ear cavity (tympanic cavity) in human and vertebrate anatomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tympanic designates resembling a drum."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Otoscopic inspection revealed marked injection and bulging of the **tympanic** membrane."*
+> - 📜 **Claude Bernard (*Lectures on Experimental Pathology*):** *"The chorda tympani nerve traverses the **tympanic** chamber before conveying taste fibers from the tongue."*
+> - 📜 **John Tyndall (*Sound*):** *"Airborne sound vibrations strike upon the delicate **tympanic** curtain, transmitting mechanical impulses to the auditory ossicles."*

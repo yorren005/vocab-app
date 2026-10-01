@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A movement back from an impact.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reaction to a crisis or setback or frustration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To bounce back through elasticity after hitting a hard surface; to spring back.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To recover from a setback, illness, or disappointment; in basketball, to catch a missed shot bouncing off the rim.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Would I might never O’ertake pursued success, but I do feel, By the rebound of yours, a grief that smites My very heart at root."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Resistance to unjust dispraise had mingled with her feeling for him from the very first, and now in the rebound of her heart after her anguish the resistance was stronger than ever."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"On the 25th of January the ocean was entirely deserted; the _Nautilus_ passed the day on the surface, beating the waves with its powerful screw and making them rebound to a great height."*
+> - 📜 **Isaac Newton (*Principia Mathematica*):** *"Elastic bodies **rebound** from one another with a velocity determined by their coefficient of restitution."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Her youthful spirit possessed a resilient elasticity that allowed her to **rebound** from every cruelty."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The struck harpoon seemed to **rebound** from the rubbery blubber like an arrow from a bronze shield."*

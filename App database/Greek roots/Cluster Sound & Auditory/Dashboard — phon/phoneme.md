@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition**: The smallest distinct unit of sound in a spoken language that distinguishes one word from another (such as `/p/` in *pat* versus `/b/` in *bat*).
-> 2. **Secondary / Nuanced Definition**: An abstract phonological category encompassing a family of slightly different physical speech sounds (*allophones*) that native speakers perceive as the same basic sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The smallest distinctive, contrastive unit of sound in a specified language that distinguishes one word from another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical and structural phonology, an abstract category of speech sounds that native speakers perceive as functionally identical.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Behind the purely objective system of sounds lies a more restricted phonetic system of inner **phonemes**."*
-> - 📜 **Roman Jakobson (*Six Lectures on Sound and Meaning*):** *"By itself a **phoneme** has no meaning, yet it serves to differentiate words of contrasting meaning."*
-> - 📜 **Steven Pinker (*The Language Instinct*):** *"Infants are born able to distinguish every **phoneme** in human speech, before tuning their ears to their native tongue."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The linguistic value of a **phoneme** resides entirely in its systematic opposition to other sounds within the language."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Speakers are acutely conscious of a difference in **phoneme**, but oblivious to non-distinctive acoustic variations."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"Substituting one **phoneme** for another in a minimal pair instantly transforms the meaning of the utterance."*

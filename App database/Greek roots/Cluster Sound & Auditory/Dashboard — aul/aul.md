@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aul.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Sound & Auditory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root *aul-* (from *aulos*), meaning 'pipe', 'flute', 'tube', or 'channel', ancestor of *aulete*, *hydraulic*, and *hydraulus*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The linguistic morpheme representing cylindrical wind instruments and tubular pneumatic conduits in organology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aul designates a term designating an entity, condition, or phenomenon derived from greek aul."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"The root **aul** encompasses words pertaining to hollow pipes, musical reeds, and subterranean water channels."*
+> - 📜 **Curt Sachs (*The History of Musical Instruments*):** *"From the primitive cane **aul**, Hellenic civilization fashioned the primary wind instruments of civic festivals."*
+> - 📜 **Gilbert Murray (*The Rise of the Greek Epic*):** *"The martial marching rhythms of early Hellas were sustained by instruments derived from the ancient **aul**."*

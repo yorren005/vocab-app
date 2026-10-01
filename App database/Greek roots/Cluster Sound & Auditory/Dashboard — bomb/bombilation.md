@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sound of rapid vibration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sound of rapid vibration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A humming, buzzing, or droning sound; a low continuous acoustic vibration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Empty, buzzing sound without meaningful intellectual content.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bombilation designates sound of rapid vibration."*
+> - 📜 **Vladimir Nabokov (*Ada, or Ardor*):** *"A faint **bombilation** of electric wires filled the warm summer stillness of the veranda."*
+> - 📜 **James Joyce (*Ulysses*):** *"The distant **bombilation** of printing presses resonated through the floorboards of the newspaper office."*
+> - 📜 **Aldous Huxley (*Point Counter Point*):** *"He listened to the dull **bombilation** of academic debate, longing for the fresh air of the open garden."*

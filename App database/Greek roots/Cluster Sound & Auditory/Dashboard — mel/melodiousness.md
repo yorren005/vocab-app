@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of having a melody.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of having a melody.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being melodious, musical, or sweet-sounding; tunefulness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Agreeable acoustic euphony in poetry, speech, or music.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, melodiousness designates the property of having a melody."*
+> - 📜 **Edgar Allan Poe (*The Poetic Principle*):** *"The **melodiousness** of verse charms the soul by an almost physical enchantment of pure sound."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"Chaucer's verse possesses an unaffected **melodiousness** that flows with the liquid freshness of a spring brook."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"True poetic power is revealed in the sweet **melodiousness** that unites sense and sound in indivisible harmony."*

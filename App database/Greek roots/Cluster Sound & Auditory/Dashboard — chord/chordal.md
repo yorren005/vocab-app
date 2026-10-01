@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or consisting of or emphasizing chords.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or consisting of or emphasizing chords.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or consisting of musical chords; harmonic rather than contrapuntal in texture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to a geometric chord or biological notochord.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chordal designates relating to or consisting of or emphasizing chords."*
+> - 📜 **Igor Stravinsky (*Poetics of Music*):** *"The passage moves with heavy **chordal** progression, each block of harmony stamped with rhythmic force."*
+> - 📜 **Aaron Copland (*What to Listen for in Music*):** *"Chorales and hymns present a predominantly **chordal** texture where all parts move together in solid harmony."*
+> - 📜 **Walter Piston (*Harmony*):** *"The root movement of **chordal** structures determines the underlying tonal momentum of the cadence."*

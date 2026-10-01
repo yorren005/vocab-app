@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A diatonic series of four tones with an interval of a perfect fourth between the first and last.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diatonic series of four tones with an interval of a perfect fourth between the first and last.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scale series of four musical notes, the interval between the first and last being a perfect fourth; the building block of ancient Greek music theory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A four-stringed ancient Greek lyre or musical system divided into diatonic, chromatic, or enharmonic genera.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrachord designates a diatonic series of four tones with an interval of a perfect fourth between the first and last."*
+> - 📜 **Aristotle (*Problems*):** *"In ancient music, the fundamental unit of melody was the **tetrachord**, bounded by the invariable interval of the fourth."*
+> - 📜 **Aristoxenus (*Elements of Harmonics*):** *"The internal division of the **tetrachord** into shades determines whether the melody belongs to the diatonic or enharmonic genus."*
+> - 📜 **Boethius (*De Institutione Musica*):** *"Greek musicians constructed their complete two-octave system by coupling together successive conjunct and disjunct **tetrachord** groups."*

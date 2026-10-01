@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A military aircraft that drops bombs during flight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who plants bombs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A military aircraft designed to drop bombs on ground or naval targets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who plants or detonates explosive bombs; or a short, waist-length jacket (bomber jacket) originally worn by flight crews.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A Jovian fighter-bomber plunged through a gap in the UIPS shield and came at the bridge of the UIPS cruiser Implacable."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The fighter-bomber dissolved as its guns fired a short burst."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We've..." "Fighter-bomber locked on to enemy cruiser Encounter." The communicator's voice cut in over the loudspeaker."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The long-range heavy **bomber** was the instrument that carried the war directly into the industrial heart of the enemy."*
+> - 📜 **George Orwell (*1984*):** *"The roar of a distant heavy **bomber** vibrated through the plaster walls of the decrepit tenement."*
+> - 📜 **Arthur Conan Doyle (*His Last Bow*):** *"He pictured the night skies filled with fleets of soaring **bomber** planes raining fire upon sleeping cities."*

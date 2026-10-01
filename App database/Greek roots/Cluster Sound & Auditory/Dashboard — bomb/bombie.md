@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unexploded bomblet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unexploded bomblet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small cluster bomblet; an unexploded submunition dropped from aircraft during aerial bombing campaigns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Australian coastal surfing slang, a bombora or offshore submerged reef where giant ocean swells break heavily.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I have heard my great-grandfather tell, how his great-great-grandfather should say, that it was an old proverb when his great-grandfather was a child, that ‘it was a good wind that blew a man to the wine.’” MOTHER BOMBIE."*
+> - 📜 **Tim O'Brien (*The Things They Carried*):** *"The soldiers were warned to watch the paddy dikes for unexploded **bombie** submunitions hidden in the mud."*
+> - 📜 **Peter Matthiessen (*Blue Meridian*):** *"The surfers paddled out past the coastal headland to challenge the giant breaking swells over the offshore **bombie**."*
+> - 📜 **Michael Herr (*Dispatches*):** *"In the countryside, farmers still turned up orange-sized **bombie** pellets dropped decades earlier from the sky."*

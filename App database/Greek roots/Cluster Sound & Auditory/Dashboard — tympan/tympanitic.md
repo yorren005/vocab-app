@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to tympanites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to tympanites.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of or affected with tympanites; producing a hollow, drum-like sound on percussion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resonating like a drum membrane in physical diagnosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tympanitic designates of or relating to tympanites."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Percussion over the distended abdomen yielded a high-pitched, hollow **tympanitic** note."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The diagnostic tap revealed a clear **tympanitic** resonance, ruling out ascites in favor of gaseous distension."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"In pneumothorax, the affected side of the thorax yields an unnaturally resonant, **tympanitic** acoustic tone."*

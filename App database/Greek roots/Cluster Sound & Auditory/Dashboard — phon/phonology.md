@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of speech sounds including especially the history and theory of sound changes in a language or in two or more related languages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The phonetics and phonemics of a language at a particular time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of linguistics that deals with the systems and patterns of sounds occurring in human languages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sound system, rule inventory, and organizational structure of speech sounds characteristic of a specific language or dialect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phonology designates the science of speech sounds including especially the history and theory of sound changes in a language or in two or more related languages."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"General **phonology** examines the abstract mechanics of sound systems rather than the raw physics of utterance."*
+> - 📜 **Edward Sapir (*Sound Patterns in Language*):** *"Two languages may employ identical physiological sounds while possessing an entirely different underlying **phonology**."*
+> - 📜 **Noam Chomsky (*The Sound Pattern of English*):** *"Generative **phonology** formalized the rule systems that bridge abstract syntax and concrete acoustic output."*

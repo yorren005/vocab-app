@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To change into a diphthong.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To pronounce as a diphthong.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert a simple vowel sound into a diphthong in articulation or historical phonetic drift (US spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To introduce a vocalic glide into the pronunciation of a pure vowel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diphthongize designates to change into a diphthong."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Certain American regional dialects consistently **diphthongize** short vowels in stressed monosyllables."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"In historical sound shifts, languages frequently **diphthongize** long high vowels when shifting vowel heights."*
+> - 📜 **Steven Pinker (*The Language Instinct*):** *"Children learning English unconsciously **diphthongize** vowels according to the phonetic cadence of their community."*

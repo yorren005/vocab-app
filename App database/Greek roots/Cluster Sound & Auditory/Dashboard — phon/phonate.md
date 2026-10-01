@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Utter speech sounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utter speech sounds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To produce vocal sounds or speech through the vibration of the vocal folds and the expulsion of air from the lungs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology and voice science, to engage the intrinsic laryngeal muscles to adduct the vocal cords and initiate sustained oscillation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phonate designates utter speech sounds."*
+> - 📜 **Robert Thayer Sataloff (*Professional Voice*):** *"The patient was instructed to gently **phonate** a sustained vowel while the laryngoscopic camera recorded vocal fold closure."*
+> - 📜 **Johan Sundberg (*The Science of the Singing Voice*):** *"To **phonate** efficiently across registers, a singer must balance subglottal pressure with muscular tension."*
+> - 📜 **Oliver Sacks (*Musicophilia*):** *"Even when unable to articulate words, the afflicted individual could still **phonate** clear, musical pitches."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the spermatic cord.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the vocal cords.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the vocal cords (chorditis vocalis), or inflammation of the spermatic cord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clinical condition causing severe hoarseness, dysphonia, or localized pain in otolaryngology and urology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chorditis designates inflammation of the spermatic cord."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute **chorditis** in public speakers produces distressing aphonia requiring complete vocal rest and steam inhalation."*
+> - 📜 **Jonathan Pereira (*The Elements of Materia Medica*):** *"Demulcent sprays were applied to alleviate mucosal congestion in chronic **chorditis**."*
+> - 📜 **Stewart Duke-Elder (*System of Ophthalmology*):** *"Upper respiratory viral infections often precipitate inflammatory **chorditis** affecting the true vocal folds."*

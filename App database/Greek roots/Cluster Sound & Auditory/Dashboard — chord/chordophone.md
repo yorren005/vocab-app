@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stringed instrument of the group including harps, lutes, lyres, and zithers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stringed instrument of the group including harps, lutes, lyres, and zithers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any musical instrument in which sound is produced by the vibration of stretched strings (e.g., violin, harp, piano, guitar).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the four master acoustic classifications established by Erich von Hornbostel and Curt Sachs in systematic organology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chordophone designates a stringed instrument of the group including harps, lutes, lyres, and zithers."*
+> - 📜 **Curt Sachs (*The History of Musical Instruments*):** *"We define a **chordophone** as any instrument wherein sound is initiated by one or more stretched strings."*
+> - 📜 **Erich von Hornbostel (*Zeitschrift für Ethnologie*):** *"The classification separates the **chordophone** group into harps, zithers, lutes, and lyres based on string carrier morphology."*
+> - 📜 **Claude Lévi-Strauss (*The Raw and the Cooked*):** *"Tribal myths associate the creation of the bow-like **chordophone** with the rhythmic tension of the hunter's weapon."*

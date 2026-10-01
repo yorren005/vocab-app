@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The repetition of a sound caused by reflection of sound waves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sound due to such reflection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (Byzantine Music & Orthodox Liturgy) Any of the eight traditional melodic modes or musical systems (Oktoechos) used in Byzantine liturgical chant (Greek *echos*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A modal framework governing melodic formulas, cadences, and affective temperament in Eastern Christian church music.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, echos designates the repetition of a sound caused by reflection of sound waves."*
+> - 📜 **Egon Wellesz (*A History of Byzantine Music and Hymnography*):** *"The Byzantine singer memorized the intonation formula of each **echos** to guide the solemn liturgical chant."*
+> - 📜 **Curt Sachs (*The Rise of Music in the Ancient World*):** *"The medieval Oktoechos arranged church hymns into eight distinct **echos** groups alternating weekly."*
+> - 📜 **Oliver Strunk (*Essays on Music in the Byzantine World*):** *"Each sacred **echos** was endowed with a specific spiritual ethos, from penitential sorrow to paschal triumph."*

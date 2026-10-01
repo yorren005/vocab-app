@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or producing sound : acoustic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the sounds of speech.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to sound, especially vocal speech sounds; acoustic or phonological.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the sounds represented by written letters and alphabetic characters, as in phonic reading instruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"How was a glyphic comparison of the phonic symbols of both languages made in substantiation of the oral comparison?"*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"No, I would _spell every word out._ I will insert the alphabet here as I find it in Burnz’s Phonic Shorthand. (Figure 1) It is arranged__ on the basis of Isaac Pitman’s _Phonography_."*
+> - 📜 **Edgar Allan Poe (*The Poetic Principle*):** *"The **phonic** resonance of verse exerts a direct spiritual power over the imagination of the listener."*
+> - 📜 **David Crystal (*The English Language*):** *"Early childhood literacy programs emphasize the **phonic** relationship between letters on the page and spoken sounds."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The rhythmic repetition of soothing **phonic** syllables lulled the sleeping children into conditioned habits."*

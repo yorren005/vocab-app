@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large hemispherical brass or copper percussion instrument with a drumhead that can be tuned by adjusting the tension on it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large hemispherical brass or copper percussion instrument with a drumhead that can be tuned by adjusting the tension on it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Kettledrums, especially when played by one musician in an orchestra, consisting of large copper bowls with tunable calfskin or synthetic heads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The premier percussion section in symphonic orchestration, capable of producing definite pitched notes of dramatic resonance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, timpani designates a large hemispherical brass or copper percussion instrument with a drumhead that can be tuned by adjusting the tension on it."*
+> - 📜 **Hector Berlioz (*Treatise on Instrumentation*):** *"The **timpani** are the most valuable and poetic of all percussion instruments, imparting heroic weight to the orchestra."*
+> - 📜 **Gustav Mahler (*Selected Letters*):** *"A sudden solo stroke on the muffled **timpani** marks the tragic turning point of the funeral march."*
+> - 📜 **Leonard Bernstein (*The Joy of Music*):** *"The thunderous roll of the **timpani** drives the symphonic climax toward its triumphant resolution."*

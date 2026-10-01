@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The repetition of a sound caused by reflection of sound waves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sound due to such reflection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sound or series of sounds caused by the reflection of sound waves from a surface back to the listener.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A close parallel, repetition, or reminiscent trace of something; in Greek mythology, the mountain nymph Echo who could only repeat the words of others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rumour doth double, like the voice and echo, The numbers of the feared."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do but start And echo with the clamour of thy drum, And even at hand a drum is ready brac’d That shall reverberate all as loud as thine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dispatch I say, and find the forester. [_Exit an Attendant._] We will, fair queen, up to the mountain’s top, And mark the musical confusion Of hounds and echo in conjunction."*
+> - 📜 **Ovid (*Metamorphoses*):** *"The sorrowing nymph **Echo** dissolved into thin air until only her mournful voice was heard among the crags."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"Never did I hear such gallant chiding; for, besides the groves, the skies, the fountains, every region near seem'd all one mutual cry: I never heard so musical a discord, such sweet thunder."*
+> - 📜 **John Milton (*Comus*):** *"Sweet **Echo**, sweetest nymph, that liv'st unseen Within thy airy shell By slow Meander's margent green."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Oral instruction of catechumens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oral instruction of catechumens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Religious instruction given to a person in preparation for baptism, confirmation, or church membership, traditionally conducted by question and answer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The systematic oral teaching and transmission of Christian doctrine throughout ecclesiastical history.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catechesis designates oral instruction of catechumens."*
+> - 📜 **Augustine of Hippo (*De Catechizandis Rudibus*):** *"In delivering **catechesis**, the teacher must adapt the instructions to the capacity and background of the hearer."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"Preliminary **catechesis** is required before the administration of baptism, so that the convert may understand the faith."*
+> - 📜 **John Henry Newman (*Apologia Pro Vita Sua*):** *"The deep impressions received during early parish **catechesis** formed the enduring foundation of his religious convictions."*

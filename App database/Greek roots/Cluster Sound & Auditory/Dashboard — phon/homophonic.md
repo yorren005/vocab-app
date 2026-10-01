@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the same sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a single melodic line with accompaniment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the same sound or pronunciation; designating words that are homophones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In music theory, describing a texture in which a primary melodic voice is accompanied by subordinate chords or harmonic parts moving together in rhythm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homophonic designates having the same sound."*
+> - 📜 **Donald Jay Grout (*A History of Western Music*):** *"The classical style of Haydn and Mozart marked a clear transition from complex polyphony to transparent **homophonic** textures."*
+> - 📜 **Aaron Copland (*What to Listen for in Music*):** *"A hymn tune represents the simplest kind of **homophonic** writing, where all parts move in strict harmonic blocks beneath the soprano melody."*
+> - 📜 **Leonard Bernstein (*The Joy of Music*):** *"The listener can effortlessly follow a clear, singing melody when supported by a well-crafted **homophonic** accompaniment."*

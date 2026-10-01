@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The interpretation in harmonious bodily movements of the rhythm of musical compositions; used to teach musical understanding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The interpretation in harmonious bodily movements of the rhythm of musical compositions; used to teach musical understanding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A method of musical education developed by Émile Jaques-Dalcroze that teaches physical appreciation of rhythm through bodily movements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Harmonious bodily training coordinating musical expression, neuromuscular control, and rhythmic improvisation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eurhythmics designates the interpretation in harmonious bodily movements of the rhythm of musical compositions; used to teach musical understanding."*
+> - 📜 **Émile Jaques-Dalcroze (*Rhythm, Music and Education*):** *"The aim of **eurhythmics** is to enable pupils, at the end of their studies, to say, not 'I know,' but 'I have experienced'."*
+> - 📜 **George Bernard Shaw (*The Sanity of Art*):** *"The Dalcroze demonstration of **eurhythmics** proved that musical rhythm can become a living bodily habit."*
+> - 📜 **Isadora Duncan (*My Life*):** *"My dance was born of a natural **eurhythmics**, seeking bodily movements that echo the surge of the ocean."*

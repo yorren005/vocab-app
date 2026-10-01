@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of caprimulgidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of caprimulgidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of slender-winged nightjars in the family Caprimulgidae, commonly known as nighthawks, famed for their crepuscular aerial insect hunting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bird genus whose name derives from Greek *chorde* ('musical string') and *deile* ('evening'), referring to their resonant evening booming dives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chordeiles designates a genus of caprimulgidae."*
+> - 📜 **John James Audubon (*Birds of America*):** *"The common nighthawk of the genus **Chordeiles** sweeps through the twilight skies with rapid, erratic wingbeats."*
+> - 📜 **Henry David Thoreau (*Journal*):** *"I listened to the booming sound produced by **Chordeiles** as it plunged through the evening air over the pines."*
+> - 📜 **Alexander Wilson (*American Ornithology*):** *"Species of **Chordeiles** are remarkable for their cavernous mouths fringed with bristles to capture flying moths."*

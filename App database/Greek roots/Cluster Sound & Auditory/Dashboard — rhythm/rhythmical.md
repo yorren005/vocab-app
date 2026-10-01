@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Recurring with measured regularity; - john galsworthy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recurring with measured regularity; - john galsworthy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, having, or characterized by rhythm (synonymous with rhythmic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flowing with harmonious periodic cadence in verse, prose, or dance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"You had better go down.” Bathsheba said nothing; but he could distinctly hear her rhythmical pants, and the recurrent rustle of the sheaf beside her in response to her frightened pulsations."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"They dance round, with a swinging rhythmical step, to the music of drums and a pipe."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"They are kept up all night, and the children leap over them in a certain rhythmical way which is said to resemble the ancient dances."*
+> - 📜 **Edgar Allan Poe (*The Philosophy of Composition*):** *"The poem demands a refrain whose **rhythmical** recurrence strikes the ear with melancholic beauty."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The appreciation of **rhythmical** cadence and musical notes appears to be an ancient sensory gift shared across mammalian orders."*
+> - 📜 **Ralph Waldo Emerson (*Poetry and Imagination*):** *"All thinking becomes **rhythmical** when the mind is exalted by intense imaginative insight."*

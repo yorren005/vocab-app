@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of acou.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of acou.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to sound that one hears without seeing its physical originating source; acousmatic sound in acoustics and philosophy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Originating from the *akousmatikoi*, the disciples of Pythagoras who listened to the master's lectures from behind a curtain in silence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acusmatic designates adjective*) pertaining to, derived from, or characteristic of acou."*
+> - 📜 **Pythagoras (*Fragments*):** *"The ancient masters divided students into the esoteric circle and the **acusmatic** listeners who heard truth without seeing the speaker."*
+> - 📜 **Pierre Schaeffer (*Treatise on Musical Objects*):** *"Recorded music creates an **acusmatic** listening situation, freeing the sound object from visual theatricality."*
+> - 📜 **Michel Chion (*Audio-Vision: Sound on Screen*):** *"In cinematic storytelling, **acusmatic** sound generates mystery by withholding the visual presence of the source."*

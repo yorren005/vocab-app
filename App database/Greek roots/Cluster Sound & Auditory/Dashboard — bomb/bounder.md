@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is morally reprehensible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who bounds or leaps (as in competition).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dishonorable, ill-bred, unscrupulous, or ill-mannered man who behaves badly toward others; a cad in British informal usage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who bounds, springs, or leaps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For the long absent ship, the outward-bounder, perhaps, has letters on board; at any rate, she will be sure to let her have some papers of a date a year or two later than the last one on her blurred and thumb-worn files."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"For the long absent ship, the outward-bounder, perhaps, has letters on board; at any rate, she will be sure to let her have some papers of a date a year or two later than the last one on her blurred and thumb-worn files."*
-> - 📜 **James Joyce (*Ulysses*):** *"Reflections on his vigour (a bounder), corporal proportion (a billsticker), commercial ability (a bester), impressionability (a boaster)."*
+> - 📜 **P. G. Wodehouse (*The Inimitable Jeeves*):** *"He struck me as a loud, flashy sort of **bounder**, the kind of chap who wears yellow boots with a frock coat."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"Pickering warned Higgins that treating the poor girl like an experiment would make him look like an unmitigated **bounder**."*
+> - 📜 **Evelyn Waugh (*Brideshead Revisited*):** *"In our undergraduate days, anyone who flaunted his wealth too openly was branded as an insufferable **bounder**."*

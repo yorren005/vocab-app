@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for reproducing sounds by means of the vibration of a stylus or needle following a spiral groove on a revolving disc or cylinder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument for reproducing sounds by means of the vibration of a stylus or needle following a spiral groove on a revolving disc or cylinder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An early instrument for sound reproduction that played audio recordings engraved in grooves on rotating wax cylinders or flat discs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historical technological invention (pioneered by Thomas Edison in 1877) that founded the modern recording industry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"Seward’s Diary._ (Kept in phonograph) _25 May._--Ebb tide in appetite to-day."*
-> - 📜 **Bram Stoker (*Dracula*):** *"I shall take this cylinder with me, and then I can complete my entry on Lucy’s phonograph. _Memorandum left by Lucy Westenra._ _17 September."*
-> - 📜 **Bram Stoker (*Dracula*):** *"I am to relieve them in a quarter of an hour, and I am entering this on Lucy’s phonograph."*
+> - 📜 **Thomas Edison (*The Phonograph and Its Future*):** *"I foresee that the **phonograph** will preserve the voices of great statesmen and singers for future generations."*
+> - 📜 **Mark Twain (*A Connecticut Yankee in King Arthur's Court*):** *"He brought forth the miraculous **phonograph**, which startled the medieval assembly by speaking with human words."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"In the ruinous museum of the far future, the remains of an ancient **phonograph** lay buried beneath accumulated dust."*

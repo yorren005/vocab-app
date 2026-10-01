@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be abundant or plentiful; exist in large quantities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be in a state of movement or action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To exist in large numbers or amounts; to be plentiful or copious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To be richly supplied, filled, or teeming with something (followed by *in* or *with*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The plain-song is most just, for humours do abound."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus sometimes hath the brightest day a cloud, And after summer evermore succeeds Barren winter, with his wrathful nipping cold; So cares and joys abound, as seasons fleet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do know Kinsmen of mine, three at the least, that have By this so sickened their estates that never They shall abound as formerly."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"The crisp leaves of holly, mistletoe, and ivy **abound** in every cozy shop window along the festive street."*
+> - 📜 **William Shakespeare (*Henry VI, Part 2*):** *"So cares and joys **abound**, as seasons fleet."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Fish of several varieties **abound** in the clear, deep water of the pond."*

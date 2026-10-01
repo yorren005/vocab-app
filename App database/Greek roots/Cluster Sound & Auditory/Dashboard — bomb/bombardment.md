@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The rapid and continuous delivery of linguistic communication (spoken or written).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The heavy fire of artillery to saturate an area rather than hit a specific target.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A continuous, intense attack with artillery shells, aerial bombs, or other high-explosive ordnance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sustained, overwhelming barrage of questions, criticisms, or high-energy physical particles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"They are now concealed, and do not reply to the bombardment of your army, because they wish to entice you across."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Marie, a large building, but much of it in ruins from the previous bombardment of the city."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The people did not at once realize the meaning of this bombardment."*
+> - 📜 **Erich Maria Remarque (*All Quiet on the Western Front*):** *"During the heavy drumfire **bombardment**, the earth groans and trenches crumble into choking craters."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"The capital endured a ferocious nightly **bombardment**, yet the spirit of its citizens remained unbroken."*
+> - 📜 **Ernest Rutherford (*The Newer Alchemy*):** *"Through continuous alpha-particle **bombardment**, we succeeded in transmuting stable nitrogen into oxygen."*

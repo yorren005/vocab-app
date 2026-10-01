@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bee flies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bee flies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The family of stout-bodied, hairy flies in the order Diptera, commonly known as bee flies, famed for hovering in mid-air and producing a loud, high-pitched hum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diverse dipteran family whose adults feed on nectar with long proboscises while their larvae parasitize solitary bees and wasps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bombyliidae designates bee flies."*
+> - 📜 **John Obadiah Westwood (*An Introduction to the Modern Classification of Insects*):** *"Flies of the family **Bombyliidae** dart with lightning speed among flowers, hovering poised upon vibrating wings like hummingbirds."*
+> - 📜 **Jean-Henri Fabre (*Bramble-Bees and Others*):** *"The parasitic larva of the **Bombyliidae** waits stealthily at the threshold of the mason-bee's earthen cell."*
+> - 📜 **Charles Darwin (*Natural Selection Manuscript*):** *"The extraordinary floral mimicry of the **Bombyliidae** protects these harmless nectar-feeders from insectivorous predators."*

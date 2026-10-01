@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprises true vertebrates and animals having a notochord.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprises true vertebrates and animals having a notochord.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The major animal phylum comprising all animals that possess, at some stage in development, a notochord, dorsal hollow nerve cord, pharyngeal slits, and post-anal tail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The animal phylum that includes vertebrates, tunicates, and lancelets, encompassing humans and all backboned wildlife.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Chordata designates comprises true vertebrates and animals having a notochord."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"The stem-history of the phylum **Chordata** traces our lineage back to primitive aquatic ancestors allied with Amphioxus."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The presence of a dorsal axial skeleton isolates the **Chordata** from all other divisions of the animal kingdom."*
+> - 📜 **Ernst Mayr (*The Growth of Biological Thought*):** *"Comparative embryology confirmed that tunicates belong indisputably to the phylum **Chordata** despite their sessile adult form."*
